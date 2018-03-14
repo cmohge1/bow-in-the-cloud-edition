@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Toussaint Louverture</title>
+            <author>By Dinah Ball</author>
+            <editor>Edited by Christopher Ohge</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>This poem was submitted to Mary Anne Rawson's anti-slavery anthology <hi rend="italic">The Bow in the Cloud</hi>, but it was not included.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>MS-414, Box 1. Rawson/Wilson Anti-Slavery Collection, John Rylands Library, Manchester.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem"><head type="title">Toussaint Louverture.</head>
+            <lg type="stanza" n="1" rhyme="abab">
+               <l n="1">Cast a reflective glance athwart the flood</l>
+               <l n="2">To that bold Isle where prowess and renown</l>
+               <l n="3">Have urged their course through deluges of blood,</l>
+               <l n="4">And snapped the Tyrant's yoke, and scorned his frown.</l>
+            </lg>
+            <lg type="stanza" n="2" rhyme="cdcd">
+               <l n="5">When Europe's unrelenting hand had swayed,</l>
+               <l n="6">With scorpion rod, Domingo's land of slaves,</l>
+               <l n="7">And Negro-vengeance had her deeds repaid</l>
+               <l n="8">By massacres that died the circling waves,</l>
+            </lg>
+            <lg type="stanza" n="3" rhyme="efef">
+               <l>Benignant Heaven, in mercy to the oppressed,</l>
+               <l>Nurtured a Hero of the [jitty?] race,</l>
+               <l>This mighty soul with ample views possessed,</l>
+               <l>And stamped with moral dignity his face.</l>
+            </lg>
+            <lg type="stanza" n="4" rhyme="ghgh">
+               <l>'Midst anarchy and war, with calm survey,</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
