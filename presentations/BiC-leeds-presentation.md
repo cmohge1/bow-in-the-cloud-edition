@@ -17,11 +17,11 @@ Many of the poems submitted to Rawson were unchanged. Yet some of the submission
 
 Another textual transaction came with Thomas Hill's submission of "Grave of Wilberforce," a poem that went through several apologies as well as versions. He submitted three versions to Rawson. The final one includes a corrected stanza for “Grave of Wilberforce”, (“Conspicuous…”), with an explanatory footnote, as well as some additional suggestions for changes that were not adopted. The first fair copy submission is rather interesting, because it includes both minor revisions, as well as a note penciled in at the end of the poem:
 
-![hill-poem](thomas-hill-2nd-submission.JPG)
+![hill-poem](../images/thomas-hill-2nd-submission.JPG)
 
 Here is the note zoomed in:
 
-![hill-poem-note](thomas-hill-note-end-2nd-submission.JPG)
+![hill-poem-note](../images/thomas-hill-note-end-2nd-submission.JPG)
 
 _My Dear Mrs Rawson_
 
@@ -33,17 +33,17 @@ Yet he submitted another fair copy, which included a revision to the stanza begi
 
 Another clue left in the manuscripts comes from J. W. H. Pritchard's 26 December 1833 letter to Rawson. Pritchard was a contributor to the volume, but in that letter he also played the editor, suggesting changes to Miss Williams's poem (to which himself provided the title "Voice from the Land of Bondage").
 
-![pritchard-letter](pritchard-letter-w-revision-suggestions.JPG)   
+![pritchard-letter](../images/pritchard-letter-w-revision-suggestions.JPG)   
 
 Pritchard's next letter from 11 April 1834 is really crucial (see leaf 64 MS414-Box 2). It proves not only that he helped her edit the book, but also that he offered suggestions to Rawson's preface, which were adopted.
 
-![suggestion](pritchard-preface-suggestion.JPG)
+![suggestion](../images/pritchard-preface-suggestion.JPG)
 
 *The sentence might admit of a change of this kind "It would indeed have been delightful if* every *hand which has taken a prominent part [or been actively employed] in pulling down the prison house, &amp; in striking off the fetters of the bondsmen, could have put &c"*
 
 Here it was published:
 
-![bic-preface-shot](preface-pritchard-emendation.png)
+![bic-preface-shot](../images/preface-pritchard-emendation.png)
 
 ### Publication History
 While in many ways *BIC* was a publication of Northern writers and activists, it was published by Jackson and Walford (St. Paul's Churchyard).
@@ -54,3 +54,19 @@ The volume is indeed handsome: the foolscap octavo pages were gilt, tightly boun
 
 ### Reception
 The publisher, Jackson and Walford (18 St Paul's Church-yard) was also responsible for the *Eclectic Review*, The *Congregational Year Books*, and other ecclesiastical books. One of the contributors to *The Bow in the Cloud*, Josiah Conder, had since 1813 been the owner and editor of the *Eclectic Review*, which also featured a substantial and laudatory review of *BIC* in its July 1834 issue. This was a significant, since *Eclectic Review* was one of the most prestigious literary periodicals of its time, one that not only published prominent romantics but also American authors such as Washington Irving. The periodical also had a wide American readership (it was reprinted Foster, Bisbee, and Co. in New York).
+
+### New Discoveries
+
+Now that it has been established that Rawson exerted significant control of editing the book, it stands to inquire what she decided upon.
+
+Obviously she did not include most of the letter material. The virtue of the accompanying digital edition is that those letters have now been edited and presented as appendices to each submission.
+
+Yet there is more: Rawson chose not to publish every piece she received.
+
+Perhaps the most important of the rejected pieces comes from Dinah Ball, whose poem glorifying Toussaint L'Ouverture must have been too controversial for a volume largely framed around Christian piety, not the violent revolution that is clearly celebrated in the opening stanzas.
+
+![ball-poem](../images/d-ball-poem.jpg)
+
+*a*
+
+The poem encompasses seven manuscript pages, and it is truly a great pity that the poem was left out. For the first time, this edition is publishing this entire poem    
