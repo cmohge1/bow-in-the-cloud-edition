@@ -2,4 +2,4 @@
 
 This is the research repo for *Bow in the Cloud* digital edition in progress at the Institute of English Studies (School of Advanced Study, University of London), in conjunction with support from a digital humanities start-up grant at the John Rylands Research Institute, University of Manchester (awarded March–June 2018).
 
-![IES-logo](IES-logo.jpg){:height="50%" width="50%"} ![JRRI-logo](JRRI-logo.jpg)
+![IES-logo](IES-logo.jpg) ![JRRI-logo](JRRI-logo.jpg)
