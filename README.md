@@ -1,6 +1,6 @@
 ![IES-logo](IES-logo.jpg)
 
-![JRRI-logo](JRRI-logo.png)
+![JRRI-logo](JRRI-logo.jpg)
 
 # *The Bow in the Cloud* and the Networks of Anti-Slavery Literature in Great Britain 
 
