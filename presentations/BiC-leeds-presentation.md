@@ -3,6 +3,8 @@
 Christopher Ohge  
 (*Institute of English Studies, School of Advanced Study, University of London*)
 
+---
+
 ### A Definitive Object, a Solidity of Purpose
 
 _"The plan appears to me very promising, and I hope, and that its success will further the amiable design of its formation––as a publication ... which though so attractive to the Eye, and in some of their contributions, so touching to the heart, have always seemed to me as wanting a definitive object, a solidity of purpose..."_
@@ -10,6 +12,8 @@ _"The plan appears to me very promising, and I hope, and that its success will f
 _(Mary Sterndale to Mary Anne Rawson, 28 February 1833?)_
 
 It turns out that most of Sterndale's literary submissions and suggestions in her letters were not published. Only one poem, "The Slave Ship," was included. Yet Sterndale's characterization of the aims of the Bow in the Cloud might be the most relevant, as well as the most indicative, of the textual history of this astonishing collection of materials.
+
+---
 
 ### Textual transactions
 
@@ -67,6 +71,23 @@ Perhaps the most important of the rejected pieces comes from Dinah Ball, whose p
 
 ![ball-poem](../images/d-ball-poem.jpg)
 
-*a*
+     <em>Toussaint Louverture.</em>
 
-The poem encompasses seven manuscript pages, and it is truly a great pity that the poem was left out. For the first time, this edition is publishing this entire poem    
+     <br/>Cast a reflective glance athwart the flood
+     <br/>To that bold Isle where prowess and renown
+     <br/>Have urged their course through deluges of blood,
+     <br/>And snapped the Tyrant's yoke, and scorned his frown.
+
+     <br/>When Europe's unrelenting hand had swayed,
+     <br/>With scorpion rod, Domingo's land of slaves,
+     <br/>And Negro-vengeance had her deeds repaid
+     <br/>By massacres that died the circling waves,
+
+     <br/>Benignant Heaven, in mercy to the oppressed,
+     <br/>Nurtured a Hero of the [jitty?] race,
+     <br/>This mighty soul with ample views possessed,
+     <br/>And stamped with moral dignity his face.*
+
+The poem encompasses seven manuscript pages, and it is truly a great pity that the poem was left out. For the first time, this edition is publishing this entire poem
+
+---   
