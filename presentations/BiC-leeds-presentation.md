@@ -3,11 +3,18 @@
 Christopher Ohge  
 (*Institute of English Studies, School of Advanced Study, University of London*)
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+---
+- [A Definitive Object, a Solidity of Purpose](#a-definitive-object-a-solidity-of-purpose)
+- [Textual transactions](#textual-transactions)
+- [Publication History](#publication-history)
+- [Reception](#reception)
+- [New Discoveries](#new-discoveries)
 ---
 
 ### A Definitive Object, a Solidity of Purpose
 
-_"The plan appears to me very promising, and I hope, and that its success will further the amiable design of its formation––as a publication ... which though so attractive to the Eye, and in some of their contributions, so touching to the heart, have always seemed to me as wanting a definitive object, a solidity of purpose..."_
+>_"The plan appears to me very promising, and I hope, and that its success will further the amiable design of its formation––as a publication ... which though so attractive to the Eye, and in some of their contributions, so touching to the heart, have always seemed to me as wanting a definitive object, a solidity of purpose..."_
 
 _(Mary Sterndale to Mary Anne Rawson, 28 February 1833?)_
 
@@ -27,11 +34,9 @@ Here is the note zoomed in:
 
 ![hill-poem-note](../images/thomas-hill-note-end-2nd-submission.JPG)
 
-_My Dear Mrs Rawson_
-
-_I am ashamed of the lateness of my_
-
-_offering, & am perfectly conscious of its ..._
+>_My Dear Mrs Rawson
+I am ashamed of the lateness of my
+offering, & am perfectly conscious of its ..._
 
 Yet he submitted another fair copy, which included a revision to the stanza beginning "For lo!"
 
@@ -43,7 +48,7 @@ Pritchard's next letter from 11 April 1834 is really crucial (see leaf 64 MS414-
 
 ![suggestion](../images/pritchard-preface-suggestion.JPG)
 
-*The sentence might admit of a change of this kind "It would indeed have been delightful if* every *hand which has taken a prominent part [or been actively employed] in pulling down the prison house, &amp; in striking off the fetters of the bondsmen, could have put &c"*
+>*The sentence might admit of a change of this kind "It would indeed have been delightful if* every *hand which has taken a prominent part [or been actively employed] in pulling down the prison house, &amp; in striking off the fetters of the bondsmen, could have put &c"*
 
 Here it was published:
 
@@ -71,22 +76,19 @@ Perhaps the most important of the rejected pieces comes from Dinah Ball, whose p
 
 ![ball-poem](../images/d-ball-poem.jpg)
 
-     <em>Toussaint Louverture.</em>
-
-     <br/>Cast a reflective glance athwart the flood
-     <br/>To that bold Isle where prowess and renown
-     <br/>Have urged their course through deluges of blood,
-     <br/>And snapped the Tyrant's yoke, and scorned his frown.
-
-     <br/>When Europe's unrelenting hand had swayed,
-     <br/>With scorpion rod, Domingo's land of slaves,
-     <br/>And Negro-vengeance had her deeds repaid
-     <br/>By massacres that died the circling waves,
-
-     <br/>Benignant Heaven, in mercy to the oppressed,
-     <br/>Nurtured a Hero of the [jitty?] race,
-     <br/>This mighty soul with ample views possessed,
-     <br/>And stamped with moral dignity his face.*
+>_Toussaint Louverture._
+<br/>_Cast a reflective glance athwart the flood
+To that bold Isle where prowess and renown
+Have urged their course through deluges of blood,
+And snapped the Tyrant's yoke, and scorned his frown._
+<br/>_When Europe's unrelenting hand had swayed,
+With scorpion rod, Domingo's land of slaves,
+And Negro-vengeance had her deeds repaid
+By massacres that died the circling waves,_
+<br/>_Benignant Heaven, in mercy to the oppressed,
+Nurtured a Hero of the [jitty?] race,
+This mighty soul with ample views possessed,
+And stamped with moral dignity his face._
 
 The poem encompasses seven manuscript pages, and it is truly a great pity that the poem was left out. For the first time, this edition is publishing this entire poem
 
