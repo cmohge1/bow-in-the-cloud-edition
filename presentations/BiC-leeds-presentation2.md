@@ -1,12 +1,12 @@
 % Mary Anne Rawson's *The Bow in the Cloud* and the Networks of Anti-Slavery Literature
-% Christopher Ohge  
+% Christopher Ohge
 % (*Institute of English Studies, School of Advanced Study, University of London*)
 
----------------
+------------------
 
 ### A Definitive Object, a Solidity of Purpose
 
-- _"The plan appears to me very promising, and I hope, and that its success will further the amiable design of its formation––as a publication ... which though so attractive to the Eye, and in some of their contributions, so touching to the heart, have always seemed to me as wanting a definitive object, a solidity of purpose..."_
+> "The plan appears to me very promising, and I hope, and that its success will further the amiable design of its formation––as a publication ... which though so attractive to the Eye, and in some of their contributions, so touching to the heart, have always seemed to me as wanting a definitive object, a solidity of purpose..."
 
 _(Mary Sterndale to Mary Anne Rawson, 28 February 1833?)_
 
@@ -36,8 +36,6 @@ _(Mary Sterndale to Mary Anne Rawson, 28 February 1833?)_
 I am ashamed of the lateness of my
 offering, & am perfectly conscious of its ..._
 
-- Yet he submitted another fair copy, which included a revision to the stanza beginning "For lo!"
-
 ------------------
 
 - Another clue left in the manuscripts comes from J. W. H. Pritchard's 26 December 1833 letter to Rawson, suggesting changes to Miss Williams's poem (to which himself provided the title "Voice from the Land of Bondage").
@@ -48,9 +46,10 @@ offering, & am perfectly conscious of its ..._
 
 - Pritchard's next letter from 11 April 1834 is crucial.
 
-![suggestion](../images/pritchard-preface-suggestion.JPG)
+> _The sentence might admit of a change of this kind "It would indeed have been delightful if_ every _hand which has taken a prominent part [or been actively employed] in pulling down the prison house, &amp; in striking off the fetters of the bondsmen, could have put &c"_
 
-- *The sentence might admit of a change of this kind "It would indeed have been delightful if* every *hand which has taken a prominent part [or been actively employed] in pulling down the prison house, &amp; in striking off the fetters of the bondsmen, could have put &c"*
+
+![suggestion](../images/pritchard-preface-suggestion.JPG)
 
 ------------------
 
@@ -93,15 +92,18 @@ Here it is as published:
 ------------------
 
 >_Toussaint Louverture._
-<br/>_Cast a reflective glance athwart the flood
+
+> _Cast a reflective glance athwart the flood
 To that bold Isle where prowess and renown
 Have urged their course through deluges of blood,
 And snapped the Tyrant's yoke, and scorned his frown._
-<br/>_When Europe's unrelenting hand had swayed,
+
+> _When Europe's unrelenting hand had swayed,
 With scorpion rod, Domingo's land of slaves,
 And Negro-vengeance had her deeds repaid
 By massacres that died the circling waves,_
-<br/>_Benignant Heaven, in mercy to the oppressed,
+
+> _Benignant Heaven, in mercy to the oppressed,
 Nurtured a Hero of the [jitty?] race,
 This mighty soul with ample views possessed,
 And stamped with moral dignity his face._
