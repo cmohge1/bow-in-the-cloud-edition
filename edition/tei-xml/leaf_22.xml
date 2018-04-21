@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <milestone n="22" unit="leaf" />
+         <pb facs='#img_22'/>
+         <ab>
+            <metamark place="inline" function="composition-information" rend="no-caret _ink1" change="St1833a" facs="#img_22-0001" >
+               <opener>
+                  <dateline>Chesterfield  June 15<hi rend="superscript">th</hi> 1833</dateline>
+                  <lb/>
+                  <salute>My dear Madam</salute>
+                  <lb/></opener>
+               <lb/>     Had your letter arrived one day
+               <lb/>sooner than it did, it could have reached me
+               <lb/>before my departure into xxx, when I might have
+               <lb/>employed some leisure inn endeavouring to comply with
+               <lb/>your request. But it is only on my return today that
+               <lb/>that I have received your Communication, &amp; I greatly fear
+               <lb/>that I can [produce?] anything fit for the public eye
+               <lb/>within the time that you mention. If I can send anything
+               <lb/>it shall be in the course of the next three or four days.
+               <lb/>With our kindest regards to all your circle
+               <closer><salute><lb/>Believe me
+                  <lb/>Dear Mrs. Rawson
+                  <lb/>Very faithfully Yours</salute>
+                  <lb/><signed>T. Hill.</signed></closer>
+            </metamark>
+         </ab>
+      </body>
+  </text>
+</TEI>
