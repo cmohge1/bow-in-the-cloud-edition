@@ -1,9 +1,12 @@
 {
   "name": "BIC",
   "description": "Project configuration for the Bow in the Cloud texts.",
-  "version": "3",
+  "version": "5",
 
   "vocabs": {
+    "divType": [
+      { "value": "letter", "text": "Letter" }
+    ],
     "place": [
       { "value": "inline", "text": "Inline" },
       { "value": "above", "text": "Superlinear (above)" },
@@ -72,6 +75,7 @@
 
     "ab": {
       "tag": "ab",
+      "omitFromDiplo": true,
       "empty": false
     },
 
@@ -183,6 +187,20 @@
     "delSpan": {
       "tag": "delSpan",
       "empty": false
+    },
+
+    "div": {
+      "tag": "div",
+      "empty": false,
+      "omitFromDiplo": true,
+      "attributes": {
+        "type": {
+          "displayName": "Type",
+          "fieldType": "dropdown",
+          "vocab": "divType",
+          "instructions": "Type of division."
+        }
+      }
     },
 
     "ex": {
@@ -297,7 +315,7 @@
     },
 
     "signed": {
-      "tag": "salute",
+      "tag": "signed",
       "omitFromDiplo": true,
       "empty": false
     },
@@ -307,7 +325,7 @@
       "omitFromDiplo": true,
       "empty": false
     },
-    
+
     "date": {
       "tag": "date",
       "omitFromDiplo": true,
