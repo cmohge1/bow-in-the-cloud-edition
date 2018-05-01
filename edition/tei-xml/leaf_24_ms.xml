@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <milestone n="24" unit="leaf" /><pb facs='#img_24'/>
+         <ab>
+            
+            <lg type="poem" >
+               <head>The Grave of Wilberforce</head>
+               <lg type="stanza" >
+                  <l n="1" >Tho' least in fame, and last in time,</l>
+                  <l n="2" >of all, whose tributory rhyme</l>
+                  <l n="3" >In freedom's cause you crave;</l>
+                  <l n="4" >Yet, for my subject's sake, excuse</l>
+                  <l n="5" >The long delay, and lowly muse:</l>
+                  <l n="6" >'Tis Wilberforce's grave.</l>
+               </lg>
+            </lg>
+         </ab>
+      </body>
+  </text>
+</TEI>
