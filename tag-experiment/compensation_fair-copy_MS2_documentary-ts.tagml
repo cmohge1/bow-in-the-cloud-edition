@@ -2,6 +2,8 @@
 [! metadata? !]
 [TAGML>
 [page|MS2>
+[metamark|MS2 type="folio" resp="#JRL">277<metamark][! this is a mistaken folio mark, which is why there is a second one. 276 (MS3) is actually a later version !]
+[metamark|MS2 type="folio" resp="#JRL">116a copy<metamark]
 [head>[del|MS2>Compensation for the Slave<head]
 [head>"For yet imperfect is the work of love"<del]<head]
 [add|MS2>(Extract from a Letter to the Editor)<add]

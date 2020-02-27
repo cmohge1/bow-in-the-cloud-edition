@@ -3,8 +3,9 @@ MS3 written in pencil, and seemingly pasted over a leaf near the image 146a in E
 [! metadata? !]
 [TAGML>
 [page|MS3>
-[head>Compensation for the Slave<head]
-[head>"For yet imperfect is the work of love"<head]
+[metamark|MS3 type="folio" resp="#JRL">276<metamark]
+[head|MS3 type="title">Compensation for the Slave<head]
+[head|MS3 type="epigraph">"For yet imperfect is the work of love"<head]
 [p>"A mighty work is accomplished so far as this country is concerned: a mighty effect remains to be produced on the other side of the Atlantic. How many in England wait &amp; watch the result with intense anxiety &amp; interest! [del>I only hope they will not forget how much they may contribute to its perfect success.<del] [add>For myself, I feel<add] [del>I have now seen<del] that the main business of my life [add>is now<add] brought to an end,--an end which, great as are its imperfections, excites in me the deepest thankfulness. May a blessing indeed be now with it! and may a blessing also richly descend on the nation which has made so noble a sacrifice for the cause of justice! All that remains for us to do is to endeavour cordially to render both the people of England and the negroes contented with it, &amp; to do our utmost for the religious education and instruction of the latter. To this last object I hope all our energies will be directed, [del>and I trust we shall never<del] [add>Let us not<add] forget how much we may contribute to the [hi rend="italic">perfect<hi] success of this [add>great<add] measure.<p]
 <page]
 <TAGML]
