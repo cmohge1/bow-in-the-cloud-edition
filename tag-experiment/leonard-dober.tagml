@@ -1,0 +1,14 @@
+[text|+MS,+BK> [! MS is manuscript, BK is book publication !]
+
+[page|MS,BK>
+
+[metamark|MS type="folio">85<metamark]
+
+[head|MS,BK type="title">Leonard Dober.<head]
+
+[head|MS,BK type="subtitle">An Account of the [add|MS place="superlinear" rend="caret">first<add] Introduction of the Gospel [lb] among Negro-Slaves in the West-Indies, by Voluntary Christian [lb] Missionaries.<head][lb]
+--
+[p>[app>[rdg|MS>In<rdg][wit|BK>IN<wit]<app] the early part of the last century, a negro slave, on the Danish island of St. Thomas, frequently sat, after the labours of the day, on the sea-shore, and earnestly sighed for a knowledge of the gospel, concerning which he had caught some imperfect notions from the professions of Europeans, though no man cared for his soul, or for the souls of thousands of his fellow-sufferers perishing for lack of knowledge. It was not long after he had fallen into this train of feeling, that his master took him away from the island, and brought him to Copenhagen. There he heard the good tidings of great joy, which are unto all people; he believed them, and was baptized into <page][page|BK> the death of Jesus, by the name of Anthony. Then, immediately, his soul yearned with affection and sympathy towards his sister whom he had left, a slave in the plantations; and he longed to make her a partaker of the same blessedness which he knew.<p]
+
+About this time, meeting with some pious companions of Count Zinzendorff, who had arrived at the court of Denmark to attend the coronation of Christian VI., Anthony broke his mind to them, saying, "Oh! that some one would go and preach the gospel to my sister in St. Thomas!"<page][page|MS>
+<text]
