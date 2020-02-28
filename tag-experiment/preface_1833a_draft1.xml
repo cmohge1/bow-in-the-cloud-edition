@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <milestone n="792" unit="leaf" />
+         <pb facs='#img_792'/>
+         <metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="St1834a" facs="#img_792-0001" >199</metamark>
+         <ab>
+            <lb/>Preface.
+            <lb/> ––––
+            <lb/>"The sorrowful sighing of the prisoner" has
+            <lb/>long come up 
+            <lb/>
+            <metamark place="inline" function="caret" rend="caret _ink1" change="St1834a" facs="#img_792-0003" >^</metamark><add place="above" rend="caret _ink1" hand="#MAR" change="St1834a" facs="#img_792-0004" >into the ear of Him</add> <del rend="single-stroke _ink1" hand="#MAR" change="St1834a" facs="#img_792-0002" >before the Lord</del>, who <metamark place="inline" function="caret" rend="caret _ink1" change="St1833d" facs="#img_792-0025" >^</metamark><add place="above" rend="caret _ink1" hand="#MAR" change="St1833d" facs="#img_792-0005" >ever</add> "regards the
+            prayer of the destitute":–– <subst facs="#img_792-0006" ><del rend="single-stroke _ink1" hand="#MAR" change="St1834a" facs="#img_792-0006" >He</del><add place="inline" rend="no-caret _ink1" hand="#MAR" change="St1834a" facs="#img_792-0006" >The</add></subst> <metamark place="inline" function="caret" rend="caret _ink1" change="St1833d" facs="#img_792-0026" >^</metamark><add place="above" rend="caret _ink1" hand="#MAR" change="St1833d" facs="#img_792-0007" >Lord</add> has heard their
+            <lb/>voice, and looked on their affliction &amp; their labour
+            <lb/>&amp; their oppression," &amp; "according to the greatness 
+            <lb/>of his power", he hath 
+            
+            <metamark place="above" function="insertion-device" rend="insertion-device _ink1" change="St1833d" facs="#img_792-0008" >X</metamark> <add place="above" rend="insertion-device _ink1" hand="#MAR" change="St1833d" facs="#img_792-0011" >delivered them from their iron</add> <del rend="single-stroke _ink1" hand="#MAR" change="St1833d" facs="#img_792-0009" >said unto the captives</del>
+            <lb/><del rend="single-stroke _ink1" hand="#MAR" change="St1833d" facs="#img_792-0010" >"Go forth".</del> <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833d" facs="#img_792-0012" >bondage.</add> "Not unto us O Lord, <metamark place="inline" function="caret" rend="caret _ink1" change="St1833d" facs="#img_792-0014" >^</metamark><add place="above" rend="caret _ink1" hand="#MAR" change="St1833d" facs="#img_792-0015" >not unto us</add> but unto
+            <lb/>thy name be <del rend="multi-stroke _ink1" hand="#MAR" change="St1833d" facs="#img_792-0013" >the</del> glory for thy mercy and thy
+            <lb/>truth's sake."
+            <lb/>
+            <lb/>The storms which long have obscured the
+            <lb/>face of the heavens are passing away––
+            <lb/>brightening scenes &amp; fair prospects are opening
+            <lb/>before us––the bow of promise is set in
+            <lb/>the cloud––it is the memorial of mercy––
+            <lb/>the pledge of peace.
+            <lb/>
+            <lb/>At such a period, the appearance of a
+            <lb/>volume partly illustrative of the evils of
+            <lb/>slavery <metamark place="inline" function="caret" rend="caret _ink1" change="St1833d" facs="#img_792-0016" >^</metamark><add place="above" rend="caret _ink1" hand="#MAR" change="St1833d" facs="#img_792-0017" >may</add> seem<del rend="hashmark _ink1" hand="#MAR" change="St1833d" facs="#img_792-0018" >s</del> seem to demand an explanation.
+            <lb/>
+            <lb/>The <del rend="single-stroke _ink1" hand="#MAR" change="St1833d" facs="#img_792-0019" >fact</del> <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833d" facs="#img_792-0020" >truth</add> is, this little work was projected
+            <lb/>more than seven years ago, when the state
+            <lb/>of affairs, rendered it in the highest degree
+            <lb/>desirable to engage by every legitimate effort
+            <lb/>the thoughts &amp; feelings of the British nation on
+            <lb/>this momentous question.
+            <lb/>
+            <lb/><del rend="single-stroke _ink1" hand="#MAR" change="St1833d" facs="#img_792-0021" >The cause of the delay is</del> Circumstances
+            <lb/>prevented the execution of the design––<del rend="single-stroke _ink1" hand="#MAR" change="St1833d" facs="#img_792-0022" >The causes</del>
+            <lb/><del rend="single-stroke _ink1" hand="#MAR" change="St1833d" facs="#img_792-0023" >of the delay are kn</del> To the Editors friend
+            <lb/>––––––––––––––––
+            <lb/><metamark place="inline" function="composition-information" rend="insertion-device _ink1" change="St1833d" facs="#img_792-0024" >X ordained that the oppressed should go free.</metamark>
+         </ab>
+         <milestone n="793" unit="leaf" />
+         <pb facs='#img_793'/>
+         <ab>the causes of the delay are known––to 
+            <lb/>
+            strangers the detail would be impertinent
+            <lb/>&amp; uninteresting.
+         </ab>
+         <ab>To those who at first sight may think 
+            <lb/>that the papers written, before the abolition 
+            <lb/>of the system by the decree of the legislature,
+            <lb/>are now out of date &amp; should have been
+            <lb/>suppressed, the Compiler ventures to suggest
+            <lb/>that even if the appointed apprenticeship of
+            <lb/>five or seven years were already expired,
+            <lb/>yet the past sorrows of the negro, &amp; our
+            <lb/>long-continued apathy in disregarding his
+            <lb/>bitter griefs, should not be speedily be for-
+            <lb/>gotten, but often remembered with deep 
+            <lb/>humility before God––"We have been verily
+            <lb/>guilty concerning our Brother, in that we
+            <lb/>saw the anguish of his soul, when he
+            <lb/>besought us &amp; we would not hear."</ab>
+         <lb/><ab>After the perusal of these pieces, <del rend="single-stroke _ink1" hand="#MAR" change="St1833c" facs="#img_793-0004" >The</del>
+            <lb/><del rend="single-stroke _ink1" hand="#MAR" change="St1833c" facs="#img_793-0005" >Editor is convinced that</del> no one can think 
+            <lb/>an apology necessary for their publication–– 
+            <lb/>their intrinsic value &amp; beauty must com
+            <lb/>_mend them to every one.</ab>
+         <lb/>
+         <ab>Besides though Slavery is abolished in our
+            <lb/>colonies, let us not forget that this fell
+            <lb/>monster still exerts its cruel influence
+            <lb/>over many parts of the globe. Upwards
+            <lb/>of two millions of wretched <del rend="multi-stroke _ink1" hand="#MAR" change="St1833c" facs="#img_793-0006" ><unclear/></del> <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833c" facs="#img_793-0007" >slaves</add> groan</ab>
+         <!-- pb -->
+         <ab>
+            3.
+            <lb/>beneath the last of the oppressor in the
+            <lb/>United States of <hi rend="underline" >free</hi> America, and
+            <lb/>the noble Poles are dying under the
+            <lb/>weight of another <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833c" facs="#img_793-0008" >(yoke)</add> species of thraldom
+            <lb/>if possible, still more galling. Let 
+            <lb/>not these be forgotten in our prayers
+            <lb/>or our efforts.
+         </ab>
+         <ab>And even as regards our own colonies
+            <lb/>the work of mercy is <del rend="multi-stroke _ink1" hand="#MAR" change="St1833c" facs="#img_793-0009" >still</del> <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833c" facs="#img_793-0010" >yet</add> imperfect–– 
+            <lb/>The personal emancipation of the Negro cannot
+            <lb/>be regarded as fully answering his powerful
+            <lb/>&amp; peculiar claims. We owe him still a debt
+            <lb/>which can only be discharged by combined &amp; 
+            <lb/><del rend="multi-stroke _ink1" hand="#MAR" change="St1833c" facs="#img_793-0011" >comb</del> persevering effort, prompted by benevolence,
+            <lb/>&amp; regulated by wisdom. Having in times past
+            <lb/>done what we could to render him vile, we
+            <lb/>should now do all in our power to elevate
+            <lb/>him in the scale of being, &amp;
+            <lb/>Is there not some <unclear/><!-- fear? --> lest now the excitement,
+            <lb/>Let us? the not cease rememberance of his wrongs
+            <lb/>incite? to exertion.
+            <lb/>To those highly talented and esteemed indi-
+            <lb/>-viduals, to whose friendly aid this little
+            <lb/>volume is indebted for its existence, the most
+            <lb/>sincere thanks are due offered, though with a 
+            <lb/>conciousness that such expressions of gratitude
+            <lb/>can be of little value. They wrote doubtless
+            <lb/>from the deep interest with which the sub-
+            <lb/>ject inspired them:––still, the very obliging
+            <lb/>manner in which their contributions have
+         </ab>
+         <milestone n="794" unit="leaf" /><pb facs='#img_794'/>
+         <ab>
+            <metamark place="inline" function="composition-information" rend="no-caret _ink1" change="St1833d" facs="#img_794-0001" >  <lb/>Ms. Henry Walker 6 copies. Refer to her note
+               <lb/>Mr. Edward Smith 2 ––
+               <lb/>Mrs. Waterhouse ––1 ––
+               <lb/>Miss Parker 3 or 4. Refer to her note.
+               <lb/>Mrs. Thomas–– 1.
+               <lb/>Mr. Vale–– 1.
+               <lb/>–––––––––––––––––––</metamark>
+            <lb/><metamark place="margin(bottom)" function="composition-information" rend="no-caret _ink1" change="St1833d" facs="#img_794-0002" >No advertisements at the end of the book<del rend="multi-stroke _ink1" hand="#MAR" change="St1833d" facs="#img_794-0003" >s</del>.</metamark>
+         </ab>
+         <milestone n="795" unit="leaf" />
+         <pb facs='#img_795'/>
+         <metamark>4. 199+</metamark>
+         <ab>
+            <lb/>have been conveyed to the Compiler is felt
+            <lb/>as having conferred a personal obligation.
+         </ab>
+         <ab>
+            <lb/>Acknowledgements are also due to many
+            <lb/>other friends
+         </ab>
+         
+      </body>
+  </text>
+</TEI>
