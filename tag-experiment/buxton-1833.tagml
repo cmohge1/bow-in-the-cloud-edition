@@ -2,19 +2,29 @@
 [layerdef|+D,+T>
 [page|D>
 [opening|D,T>
-[l|D>[place|D,T>Northrepps Hall Cromer<place]<l] 
+[l|D>[place|D,T urlref="dfgreyer82376">Northrepps Hall Cromer<place]<l] 
 [l|D>[salute|T>Dear [persMAR>Madam<pers]<salute]<l]<opening]
 [body|T>
-[l|D>[s|T>Your letter followed me in an<l][l|D>absence from home which has delayed<l] [l|D>my answering it until now.<s][s|T>I hope therefore you have proceeded without<l][l|D>waiting for me & that I shall soon<l][l|D>have the pleasure of seeing you little<l][l|D>work in Print.<s][s|T>[add|D,T>[metamark|D>X<metamark]<add]As to me, the fact<l][l|D>is I have talked written & thought<l]
+[l|D>[s|T>Your letter followed me in an<l][l|D>absence from home which has delayed<l] [l|D>my answering it until now.<s][s|T>I hope therefore you have proceeded without<l][l|D>waiting for me & that I shall soon<l][l|D>have the pleasure of seeing you little<l][l|D>work in Print.<s][cit>[s|T>[add|D,T>[metamark|D>X<metamark]<add]As to me, the fact<l][l|D>is I have talked written & thought<l]
 <page]
-[page|D>[l|D>on the subject of slavery till I can<l][l|D>talk & write no longer.<s][s|T>A mighty<l] [l|D>work is accomplished as far as [rend|D,T type="underline">this<rend]<l][l|D>Country is concerned.<s] [s|T><|[sic|D>a<sic]|[corr|T>A<corr]|> mightly<l][l|D>[unclear|D>xxx<unclear] remains to be produced on<l] [l|D>the other side of the Atlantic - <|[del|D,T>We [?del|D,T>feel<?del]<del]|[add|D,T>How many in England<add]|> <l][l|D>wait & watch the Result with<l][l|D>intense anxiety & interest!<s][s|T>I only<l][l|D>hope they will not forget how much<l] [l|D>they may contribute to its perfect<l] [l|D>M[unclear|D>xxx<unclear] -<s] [s|T>The more I heard & read<l] [l|D>the more I am convinved that the<l][l|D>Negro Race are blessed with rather<l] [l|D>a peculiar aptitude for the<l] [l|D>reception of moral & religious Instruc<l][l|D>tion, and it does seem to me that<l][l|D>there never was a stronger call on<l][l|D>any NAtion than there is now on<l][l|D>[?add|D,T>[unclear|D>xxxx<unclear]<?add]us to meet this Inclination in<l] [l|D>them, to supply them amplify<l] [l|D>with the mean of Instruction<l] [l|D>to <|[del|D,T>send out<del]|[add|D,T>dispatch<add]|> Missionaries; to institute<l] [l|D>Schools.<s][?add|D,T>[s|T>& to send out Bibles – <s]<?add]<l] [l|D>[s|T>It is the only Compensation in our<l]
+[page|D>[l|D>on the subject of slavery till I can<l][l|D>talk & write no longer.<s][s|T>A mighty<l] [l|D>work is accomplished as far as [rend|D,T type="underline">this<rend]<l][l|D>Country is concerned.<s] 
+
+[s|T><|[sic|D>a<sic]|[corr|T>A<corr]|> mightly<l]
+
+[l|D>[unclear|D>xxx<unclear] remains to be produced on<l] [l|D>the other side of the Atlantic - 
+
+<|[del|D,T cert=False>We [?add|D,T>feel<?add]<del]|[add|D,T cert=True>How many in England<add]|> 
+
+<l][l|D>wait & watch the Result with<l][l|D>intense anxiety & interest!<s][s|T>I only<l][l|D>hope they will not forget how much<l] [l|D>they may contribute to its perfect<l] [l|D>M[unclear|D>xxx<unclear] -<s] [s|T>The more I heard & read<l] [l|D>the more I am convinved that the<l][l|D>Negro Race are blessed with rather<l] [l|D>a peculiar aptitude for the<l] [l|D>reception of moral & religious Instruc<l][l|D>tion, and it does seem to me that<l][l|D>there never was a stronger call on<l][l|D>any Nation than there is now on<l][l|D>[?add|D,T>[unclear|D>xxxx<unclear]<?add]us to meet this Inclination in<l] [l|D>them, to supply them amplify<l] [l|D>with the mean of Instruction<l] [l|D>to <|[del|D>send out<del]|[add|T>dispatch<add]|> Missionaries; to institute<l] [l|D>Schools <|[?add|D,T>, & to send out Bibles – <?add] | [cl|D,T>. & to send out Bibles –<cl] |> <s]<l] 
+[l|D>[s|T>It is the only Compensation in our<l]
 <page]
+
 [page|D>[l|D>Power<s].[s|T>& it is an abundant one!<s] [s|T>[del|T,D>I<del]<s]<l][l|D>[s|T>We may in this manner recompense<l] [l|D>all the sorrows & sufferings we have<l] [l|D>inflicted & be the means of making<l] [l|D>in the End, their barbarous Removal<l][l|D>from their own [?del>[unclear>xxx<unclear]<?del] Land.<s][s|T>The<l][l|D>greatest of blessings to them.<s][s|T>[?del|D>My<?del]<s]<l][s|T>[l|D>I am cheered indeed by hearing<l][l|D>the note of Preparation on many<l][l|D>sides.<s][s|T>Various Denominators of<l][l|D>Dissenters are preparing their<l][l|D>Emissaries.<s][s|T>The Church I trust<l]<page]
-[page|D>[l|D>will not be behind & the [?del>[unclear|D>xxx<unclear]<?del]<l][l|D>Wilberforce Subscriptions which after the Erection of a Monument, is to<l][l|D>be applied to [?del|D,T>some<?del] the foundation<l] [l|D>of some Institution in the West Indies<l] [l|D>which shall be a more appropriate<l] [l|D>Monument [?add|D,T>to them<?add], than Marble, will<l] [l|D>I trust be widely patronized [metamark|D>X<metamark].<s]<l] [p>If dear madam you can condescend to put into your Work as an extract from a Letter the Paragraph I have placed between crosses, you are of course at liberty. It is little worth while, but I am too much occupied to write a more formal contribution.<p]
+[page|D>[l|D>will not be behind & the [?del>[unclear|D>xxx<unclear]<?del]<l][l|D>Wilberforce Subscriptions which after the Erection of a Monument, is to<l][l|D>be applied to [?del|D,T>some<?del] the foundation<l] [l|D>of some Institution in the West Indies<l] [l|D>which shall be a more appropriate<l] [l|D>Monument [?add|D,T>to them<?add], than Marble, will<l] [l|D>I trust be widely patronized [metamark|D>X<metamark].<s]<l]<cit] [p>If dear madam you can condescend to put into your Work as an extract from a Letter the Paragraph I have placed between crosses, you are of course at liberty. It is little worth while, but I am too much occupied to write a more formal contribution.<p]
 [closing>
-[salute>I am Yrs faithfully xxx,<salute]
-[signed>T. F. Buxton<signed]
-[postscript>
+[salute|T>I am Yrs faithfully xxx,<salute]
+[signed|T>T. F. Buxton<signed]
+[postscript|T>
 I am far from wishing or advising you to insert it––<postscript]
 <closing]
 <page]
