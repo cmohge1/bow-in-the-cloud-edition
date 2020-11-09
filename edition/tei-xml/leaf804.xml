@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <milestone n="804" unit="leaf" />
+         <pb facs='#img_804'/>
+         <metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="St1833d" facs="#img_804-0001" >199a(4)5</metamark> <!-- fix metamark attributes later -->
+         <ab>
+            <lb/>could have put a stone into the mo-
+            <lb/>moment here erected upon its ruins, to
+            <lb/>tell posterity where it stood, the curses it
+            <lb/>contained, &amp; how it fell. To many who 
+            <lb/>have laboured long &amp; nobly &amp; successfully
+            <lb/>in this Cause, the Editor had no means
+            <lb/>of access; to others, acknowledgements
+            <lb/>are due for the kind interest they have
+            <lb/>expressed in the plan and success of
+            <lb/>a work which various circumstances
+            <lb/>have prevented them from aiding. It is
+            <lb/>a subject for thankfulness that so many
+            <lb/>have assisted in raising this memorial,
+            <lb/>which, though small in its dimensions
+            <lb/>&amp; humble in its design, the Compiler
+            <lb/>believes will be found a structure <del rend="multi-stroke _ink1" hand="#MAR" change="St1833d" facs="#img_804-0002" >in</del>
+            <lb/>of of moral &amp; literary architecture in
+            <lb/>some degree worthy of the great occa-
+            <lb/>sion 
+            <lb/>
+            <lb/>There may possibly on some points be
+            <lb/>slight differences of opinion between the
+            <lb/>various writers in this little volume: it
+            <lb/>is therefore desirable to remark that each
+            <lb/>contribution is perfectly distinct &amp; inde-
+            <lb/>pendent of every other, &amp; each author
+            <lb/>responsible only for the piece to which
+         </ab>
+      </body>
+  </text>
+</TEI>

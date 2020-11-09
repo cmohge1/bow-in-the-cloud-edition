@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <milestone n="799" unit="leaf" />
+         <pb facs='#img_799'/>
+         <ab>
+            Wincobank Hall.
+            <lb/>March - 1833. <!-- input <date> into schema -->
+            <lb/>
+            <lb/>Five years have elapsed since the pre-
+            <lb/>ceding sentence was written. The cause 
+            <lb/>of the delay is known to the Editor's friends
+            <lb/>and to strangers the details would be im-
+            <lb/>pertinent &amp; uninteresting.
+            <lb/>
+            <lb/><metamark place="inline" function="section-divider" rend="no-caret _ink1" change="St1833a" facs="#img_799-0003" >( ---- )</metamark>
+            <lb/>Brighten prospects &amp; fair scenes? are
+            <lb/>opening <del rend="single-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_799-0004" >upon</del> <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833a" facs="#img_799-0005" >before</add> us.
+            <lb/>
+            <lb/>The state of feeling is very different to
+            <lb/>what it was even at that period.
+         </ab>
+      </body>
+  </text>
+</TEI>

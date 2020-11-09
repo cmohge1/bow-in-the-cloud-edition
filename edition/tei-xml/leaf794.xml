@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <milestone n="794" unit="leaf" /><pb facs='#img_794'/>
+         <ab>
+            <metamark place="inline" function="composition-information" rend="no-caret _ink1" change="St1833d" facs="#img_794-0001" >  <lb/>Ms. Henry Walker 6 copies. Refer to her note
+               <lb/>Mr. Edward Smith 2 ––
+               <lb/>Mrs. Waterhouse ––1 ––
+               <lb/>Miss Parker 3 or 4. Refer to her note.
+               <lb/>Mrs. Thomas–– 1.
+               <lb/>Mr. Vale–– 1.
+               <lb/>–––––––––––––––––––</metamark>
+            <lb/><metamark place="margin(bottom)" function="composition-information" rend="no-caret _ink1" change="St1833d" facs="#img_794-0002" >No advertisements at the end of the book<del rend="multi-stroke _ink1" hand="#MAR" change="St1833d" facs="#img_794-0003" >s</del>.</metamark>
+         </ab>
+      </body>
+  </text>
+</TEI>

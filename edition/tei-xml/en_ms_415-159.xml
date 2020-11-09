@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title/>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<pubPlace/>
+				<date/>
+				<authority/>
+				<availability>
+					<p/>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<opener>Blah blah</opener>
+			<salute>Dear Sir</salute>
+			<p>I find myself tagging</p>
+			<p/>
+			<div type="letter"/>
+		</body>
+	</text>
+</TEI>

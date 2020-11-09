@@ -2,6 +2,8 @@
 
 Christopher Ohge
 
+[contact Gida Armstrong, head of DH, Chloe Jefferies]
+
 (*Institute of English Studies, School of Advanced Study, University of London*)
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->

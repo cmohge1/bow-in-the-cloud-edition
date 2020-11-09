@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <milestone n="800" unit="leaf" />
+         <pb facs='#img_800'/>
+         <metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="St1833a" facs="#img_800-0001" ><add place="inline" rend="no-caret _HMp" hand="#JRL" change="St1833a" facs="#img_800-0001" >199a(2)</add></metamark>
+         <ab>
+            
+            <lb/>The sorrowful sighing of the prisoner has
+            <lb/><add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833a" facs="#img_800-0002" >long</add> come up before <subst facs="#img_800-0003" ><del rend="erasure _ink1" hand="#MAR" change="St1833a" facs="#img_800-0003" >that</del><add place="inline" rend="no-caret _ink1" hand="#MAR" change="St1833a" facs="#img_800-0003" >the</add></subst> Lord <metamark place="inline" function="caret" rend="caret _ink1" change="St1833a" facs="#img_800-0004" >^</metamark><add place="above" rend="caret _ink1" hand="#MAR" change="St1833a" facs="#img_800-0005" >who ever regards the prayers of the destitute</add>;&#x2014; He has heard their
+            <lb/>voice, &amp; looked on their affliction, &amp; their labour
+            <lb/>&amp; their oppression, &amp; according to the greatness 
+            <lb/>of this power he has preserved <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833a" facs="#img_800-0006" >reserved or delivered from</add> those who
+            <lb/>were appointed to death <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833a" facs="#img_800-0007" >their [own?] bondage or furnace</add>. Not unto us O Lord
+            <lb/>not unto us, but unto thy name be glory
+            <lb/>for thy mercy &amp; thy truth's sake.
+            <lb/>
+            <lb/>The storm is subsiding&#x2014;the dense clouds
+            <lb/>which have so long obscured the face of the
+            <lb/>heavens are <del rend="single-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_800-0008" >pres</del> passing away <metamark place="inline" function="caret" rend="caret _ink1" change="St1833a" facs="#img_800-0010" >^</metamark><add place="above" rend="caret _ink1" hand="#MAR" change="St1833a" facs="#img_800-0009" >brightning scenes &amp; fair prospects <lb/> are opening before us</add>&#x2014;the "bow"
+            <lb/>of promise" is "set in in the "cloud"&#x2014;
+            <lb/><add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833a" facs="#img_800-0011" >it is</add> the memorial of mercy&#x2014;the sign of hope. <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833a" facs="#img_800-0012" >the pledge of peace.</add>
+            <lb/>At such a period, the appearance of a
+            <lb/>little volume, the greater part of which
+            <lb/>is illustrative of the evils of Slavery <del rend="single-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_800-0013" >may</del>
+            <lb/><del rend="multi-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_800-0015" >appear <del rend="single-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_800-0014" >aft</del> a little out of date,</del> and seems
+            <lb/>to demand an explanation<add place="inline" rend="no-caret _ink1" hand="#MAR" change="St1833a" facs="#img_800-0017" >.</add> <del rend="single-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_800-0016" >&amp; apology.</del>
+            <lb/>
+            <lb/>The fact truth is, this little work was pro-
+            <lb/>jected more than seven years ago, when
+            <lb/>the state of affairs <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833a" facs="#img_800-0019" >apathy which prevailed</add> rendered it in the highest
+            <lb/>degree desirable to engage by every legitimate 
+            <lb/>method, the thought &amp; feelings of the British
+         </ab>
+      </body>
+  </text>
+</TEI>

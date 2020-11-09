@@ -18,16 +18,15 @@
   </teiHeader>
   <text>
       <body>
-         <milestone n="22" unit="leaf" />
+         <div  type="letter"><milestone n="22" unit="leaf" />
          <pb facs='#img_22'/>
-         <ab>
-            <metamark place="inline" function="composition-information" rend="no-caret _ink1" change="St1833a" facs="#img_22-0001" >
+            <metamark place="inline" function="composition-information" rend="no-caret _ink1" change="St1833a" facs="#img_22-0001" />
                <opener>
                   <dateline>Chesterfield  June 15<hi rend="superscript">th</hi> 1833</dateline>
                   <lb/>
                   <salute>My dear Madam</salute>
-                  <lb/></opener>
-               <lb/>     Had your letter arrived one day
+                 </opener>
+               <p>Had your letter arrived one day
                <lb/>sooner than it did, it could have reached me
                <lb/>before my departure into xxx, when I might have
                <lb/>employed some leisure inn endeavouring to comply with
@@ -36,13 +35,12 @@
                <lb/>that I can [produce?] anything fit for the public eye
                <lb/>within the time that you mention. If I can send anything
                <lb/>it shall be in the course of the next three or four days.
-               <lb/>With our kindest regards to all your circle
+               <lb/>With our kindest regards to all your circle</p>
                <closer><salute><lb/>Believe me
                   <lb/>Dear Mrs. Rawson
                   <lb/>Very faithfully Yours</salute>
                   <lb/><signed>T. Hill.</signed></closer>
-            </metamark>
-         </ab>
+            </div>
       </body>
   </text>
 </TEI>

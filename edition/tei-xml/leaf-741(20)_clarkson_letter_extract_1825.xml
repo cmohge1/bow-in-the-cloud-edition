@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Extract of a Letter from Thomas Clarkson to Lucy Townsend</title>
+            <author>Thomas Clarkson</author>
+            <editor>Mary Anne Read</editor>
+            <editor>Christopher M. Ohge</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>This is a born-digital diplomatic transcription of an unpublished letter.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Written on two sides of a folded sheet of lined paper. JRL labeled this "741(20)".</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <head>Extract from a letter of T. Clarkson's in favour of the demise of West India
+               sugar. Written to <persName>L. Townsend</persName>, <placeName>West
+                  Bromwich</placeName>, <date when="1825-08">August, 1825</date>.</head>
+            <p>Though I have long been of opinion that abstinence from the use of West India sugar
+               &amp;c must be our last and best resort yet I thought we should hardly be justified
+               in coming to such a measure till next year. But now that all the answers have come in
+               from the different West India Legislatures to the humane propositions of his
+               Majesty's ministers by which it appears that the former will do nothing effectual,
+               that there is a determination to <hi rend="italic">evade</hi> or <hi rend="italic"
+                  >resist</hi> all amelioration, and much <!-- pb --> more every step that has emancipation for its avowed object, there seems to be no hope for Humanity but in the use of force by Government (which would not be desirable) or in the virtue of the English people, which would shew their abhorrence of the Planter's system by leaving off the use of theur produce&#2014; </p>
+            <note>Mr. Clarkson's letter to Mrs. Townsend</note>
+         </div>
+      </body>
+   </text>
+</TEI>

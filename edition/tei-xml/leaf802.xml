@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <milestone n="802" unit="leaf" />
+         <pb facs='#img_802'/>
+         <metamark place="margin(top)" function="folio" rend="no-caret _HMp" change="St1833a" facs="#img_802-0001" ><add place="inline" rend="no-caret _HMp" hand="#JRL" change="St1833a" facs="#img_802-0001" >199a(3)</add></metamark>
+         <ab>
+            <lb/>Some of the allusions to the <metamark place="inline" function="caret" rend="caret _ink1" change="St1833a" facs="#img_802-0002" >^</metamark><add place="above" rend="caret _ink1" hand="#MAR" change="St1833a" facs="#img_802-0003" >West Indian</add> planters
+            <lb/>may be thought unnecessarily severe&#x2014;Let
+            <lb/>it not for a moment be supposed that
+            <lb/>they have reference to the amiable and
+            <lb/>respected individuals in this country who
+            <lb/>have had the misfortune to inherit
+            <lb/>West Indian property. <del rend="single-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_802-0004" >If any language</del>
+            <lb/><del rend="single-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_802-0005" >can be thought too severe for</del> the
+            <lb/>If it is to the planters, the actual resi-
+            <lb/>dents&#x2014;the attorneys <del rend="single-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_802-0006" >that reference is</del>
+            <lb/><del rend="single-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_802-0010" >[?]</del> who are intended&#x2014;consult the
+            <lb/>Records of the Colonial Church Union
+            <lb/>and some of the speeches in the House
+            <lb/>of Assembly &amp; then say if any language
+            <lb/>can be too severe.
+            <lb/>
+            <lb/>There may possibly, on many points,
+            <lb/>be some <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833a" facs="#img_802-0007" >slight</add> differences of opinion between
+            <lb/>the <del rend="single-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_802-0008" >contributions</del> <del rend="single-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_802-0009" >to</del> writers in this
+            <lb/>little volume. It is therefore desirable
+            <lb/>to remark that each piece is perfectly
+            <lb/>distinct from every other, &amp; each
+            <lb/>author responsible only for the piece
+            <lb/>to which his name is appended.
+         </ab>
+      </body>
+  </text>
+</TEI>

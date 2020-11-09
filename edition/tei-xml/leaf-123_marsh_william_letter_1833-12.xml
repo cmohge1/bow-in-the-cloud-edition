@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from William Marsh to Mary Anne Rawson</title>
+            <author>William Marsh</author>
+            <editor>Christopher M. Ohge</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>This is a born-digital diplomatic transcription of an unpublished letter.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Written on two sides of a sheet of wove paper. JRL labeled this "123".</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <del><address>
+                     <addrLine>[Hagley Terrace?]</addrLine>
+                  </address><date>Feb 22</date></del>
+               <address>
+                  <addrLine><placeName>Birmingham</placeName></addrLine>
+               </address>
+               <date when="1833-05-10">May 10. 1833</date>
+               <salute>My Dear Madam,</salute></opener>
+            <p><del>I have been <unclear/> by the [Ladies?] <unclear/></del> Will this letter be of
+               any service in your projected work? I rejoice that zeal is manifested in this, &amp;
+               every way, for this great object.</p>
+            <p>I send you a proof that these Blacks have minds as well as Whites. And, of a truth,
+               they feel the indignities put upon them, &amp; the pain of having their blood whipped
+               through their skins, quite as much as we should do.</p>
+            <p>All that we ask is, that British subjects should have the <del>privileges</del>
+               <add>protections</add> of British Laws. As to Arbitrary Power, <l>no Creature in
+                  existence is capable</l>
+               <l>of employing it aright. I would</l> not willingly live under the Government of an
+               Angel, if I thought he could forget that he himself was amenable to his Creator
+                  <metamark rend="caret">^</metamark><add>But I rejoice to live under the Government
+                  of my Saviour, because He cannot do? <unclear/>. And when all submit to His
+                  Government, all will be happy. But</add> Alas, how many Masters in the West Indies
+               neither regard God nor Man. The Measure of ingenuity is nearly full. It will be a
+               wonderful proof of the Divine Patience &amp; Mercy, if Slavery end by the means now
+               proposed. If the West Indies continue in their infatuation, <!-- <pb/> --> they will
+               lose all without remedy. How thankful should Britain be. I know few things that
+               disgust me more than to hear an Englishman say, "The Blacks are as well off in the W.
+                  Ind<hi rend="superscript">s</hi>, as our Labourers here." It is <del>something
+                  worse than a lie</del>
+               <add>a falsehood of the worst description</add>. The English Peasant lives in his own
+               Country, is actually free, &amp; knows that his children will be the same &amp; that
+               he can speak his mind without the fear of the lashes that he cannot ever be struck
+               with impunity, &amp; that he partakes, equally with his superiors, of the protection
+               of the Law&#x2014;Not one of these advantages does the African Slave possess.</p>
+            <p>The following are the lines of Phillis, a negro &amp; the Slave of M<hi
+                  rend="superscript">r</hi> Wheately of Boston, in a hymn on the Evening. <quote><lg
+                     type="poem">
+                     <l>"Fill'd with the praise of Him who gives the light,</l>
+                     <l>And draws the Sable Curtains of the Night,</l>
+                     <l>Let placed Slumbers sooth each weary mind,</l>
+                     <l>At Morn to wake more heav'nly &amp; refined;</l>
+                     <l>So shall the labours of the day begin</l>
+                     <l>More pure &amp; guarded from the snares of sin."</l>
+                  </lg></quote> She writes as follows, on Imagination <quote><lg type="poem">
+                     <l>"Imagination! who can sing thy force</l>
+                     <l>Or who describe the swiftness of thy course?</l>
+                     <l>Soaring through air to find the bright abode,</l>
+                     <l>Th' Empyreal palace of the thund'ring God.</l>
+                     <l>We on thy pinions can surpass the wind</l>
+                     <l>And leave the rolling universe behind;</l>
+                     <l>From star to star, the mental optics rove,</l>
+                     <l>Measure the skies, &amp; range the realms above;</l>
+                     <l>There in one view we grasp the mighty whole,</l>
+                     <l>Or with New Worlds, amaze th' unbound Soul."</l>
+                  </lg>
+               </quote> Are Blacks only connecting links between Whites &amp; Brutes? </p>
+            <p>If you would like 2 or 3 Anecdotes of Blacks, or any further remarks on any part of
+               <unclear/> , I will forward <unclear/> to you. God grant a blessing on your
+               undertaking. Let us all praise God to influence the hearts of parties concerned, that
+               the Slaves may be free, the Owner be protected, &amp; our Country delivered from such
+               a load of guilt.</p>
+            <closer>
+               <salute>I am <lb/> Dear Madam<lb/> yrs very truly,</salute>
+               <signed>
+                  <name>W. Marsh</name>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <milestone n="801" unit="leaf" />
+         <pb facs='#img_801'/>
+         <ab>
+            nation on this momentous question.
+            <lb/>In reply to those who <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833a" facs="#img_801-0001" >at first sight</add> may think that
+            <lb/>the former part of the contributions are out
+            <lb/>of date &amp; should have been suppressed the
+            <lb/>compiler ventures to suggest that even if <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833a" facs="#img_801-0002" >the appointed ap-<lb/>prentice-<lb/>ship</add>
+            <lb/>the five or 7 years were already expired, yet
+            <lb/>the past sorrows of the Negro should not [speedily?]
+            <lb/>be forgotten but often remembered with deep
+            <lb/>humility before God. "We have been verily
+            <lb/>guilty concerning our Brother", in that we
+            <lb/>saw the anguish of his soul, when he
+            <lb/>saught us, &amp; we would not hear".
+            <lb/>
+            <lb/><del rend="multi-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_801-0003" >Let</del> <add place="above" rend="no-caret _ink1" hand="#MAR" change="St1833a" facs="#img_801-0004" >May</add> the remembrance if his bitter griefs
+            <lb/>&amp; our long delay in rescuing him incite
+            <lb/>us to increased activity in promoting
+            <lb/>his <del rend="multi-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_801-0005" >[benef?]</del> <metamark place="inline" function="caret" rend="caret _ink1" change="St1833a" facs="#img_801-0006" >^</metamark><add place="above" rend="caret _ink1" hand="#MAR" change="St1833a" facs="#img_801-0007" >spiritual &amp; temporal</add> welfare&#2014;  The work of
+            <lb/>mercy <metamark place="above" function="insertion-device" rend="insertion-device _ink1" change="St1833a" facs="#img_801-0007" >X</metamark> <add place="above" rend="insertion-device _ink1" hand="#MAR" change="St1833a" facs="#img_801-0008" >even as it regards our colonies</add> is still imperfect. The emancipation
+            <lb/><metamark place="inline" function="caret" rend="caret _ink1" change="St1833a" facs="#img_801-0010" >^</metamark><add place="above" rend="caret _ink1" hand="#MAR" change="St1833a" facs="#img_801-0011" >of the Negro</add> from personal slavery cannot be regarded as 
+            <lb/>fully answering his powerful &amp; peculiar
+            <lb/>claims. We <del rend="single-stroke _ink1" hand="#MAR" change="St1833a" facs="#img_801-0012" >still</del> owe them a debt
+            <lb/>which can only be discharged by combined
+            <lb/>&amp; persevering effort, prompted by benevolence
+            <lb/>&amp; regulated by wisdom. Having in times
+            <lb/>past done whatever could to render him
+            <lb/>vile, one should now do all in our power
+            <lb/>to elevate him in the scale of being, &amp;&#x2014;
+            <lb/>Let us not cease
+            
+         </ab>
+      </body>
+  </text>
+</TEI>

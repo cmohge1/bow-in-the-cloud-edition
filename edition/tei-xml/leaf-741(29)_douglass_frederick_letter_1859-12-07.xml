@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Frederick Douglass to Helen Doncaster</title>
+            <author>Frederick Douglass</author>
+            <editor>Christopher M. Ohge</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>This is a born-digital diplomatic transcription of an unpublished letter.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Written on four sides of a folded sheet of wove paper. It is a copy of the original.
+               JRL labeled this "741(29)".</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <address>
+                  <note>(Copy)</note>
+                  <addrLine>North Parade, Halifax [GB]</addrLine>
+               </address>
+               <date when="1859-12-07">Dec. 7, 1859</date>
+               <salute>My dear Friend,</salute></opener>
+            <p>Having, for the moment, very much upon my hands, I cannot go fully into the question
+               of the right of an enslaved people to gain their freedom by a resort to force. Now
+               indeed is it necessary that I should&#2014;I can, however, at once, give you the
+               assurance that my advocacy of the cause of the Slave in England has no reference
+               whatever to any plan or purpose involving a resort to arms,<!-- pb --> for the
+               liberation of my Brothers &amp; Sisters in <del>bondage</del> Slavery&#2014;my
+               mission is wholly peaceful. On that point you may feel wholly at rest. On the subject
+               of Harper's Ferry, I can be equally explicit&#2014;I neither took part in that
+               transaction no<corr>r</corr> counselled the taking it&#2014;but opposed the measure as fraught only
+               with disaster and ruin, to the main object of the enterprize, which was to run off
+               Slaves into the Mountains, and into Canada where they could protect <!-- pb --> and
+               defend themselves. I do hope that a difference of opinion on any one point will not
+               defeat our co-operating against Slavery at other points where we agree; but of that
+               you must judge. The liberties of England are bulwarked about by ten thousand cannons.
+               The Slave is <del>the</del> a victim of a constant <hi rend="italic"
+                  >insurrection</hi>, by which his blood is drawn out drop by drop! It may not be
+               altogether impartial to lay down the rules of submission to <!-- pb --> him, too
+               sternly&#2014;especially since he has submitted already two hundred years&#2014;First
+               pure, then peaceable.</p>
+            <closer>
+               <salute>Your friend,</salute>
+               <signed>
+                  <name>Frederick Douglass</name>
+               </signed>
+               <address><name>Helen Doncaster.</name>
+               <lb/><addName>Secy. Sheffield <choice><abbr>A. S. S.</abbr><expan>Anti-Slavery Society</expan></choice></addName></address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
