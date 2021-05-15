@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sonnet. The African Mother. A Fact</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies . London: Jackson &amp; Walford, 1834, pp. 194</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>English MS 414/7, John Rylands Library, Manchester.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <pb facs="https://www.digitalcollections.manchester.ac.uk/view/MS-ENGLISH-00414-00007/1"/>
+         <head>Sonnet <lb/>    
+            The African Mother.<lb/>
+            A fact.</head>
+            
+            <lg type="sonnet">
+               <lg type="quatrain" rhyme="abba">
+                  <l n="1" met="-+-+-+-+-+">The Mother sat and wept.-<caesura/> Her child was <rhyme label="a">gone</rhyme>,</l>  
+            <l>But still her tears fell on another's <rhyme label="b">cheek</rhyme>;</l> 
+            <l>Her heart was crushed, but yet it did not <rhyme label="b">break</rhyme>,­ </l>
+            <l>Another's smile was left her to <rhyme label="a">atone</rhyme>,</l>
+               </lg>             
+            <lg type="quatrain" rhyme="acca">
+               <l enjamb="y">For that most cruel loss; that one alone  </l>
+            <l enjamb="y">Was all she had to love - and she would sit </l>
+            <l>For hours, and in her arms encradle it,</l> 
+            <l>Pouring on its unconscious ear her moan.</l></lg> 
+            <lg type="quatrain" rhyme="deed"><l>Again the Spoiler came.- In vain she knelt,</l>   
+            <l>And raised her agonizing scream in vain -</l>  
+            <l>They took her last and dearest - thro' her brain</l> 
+            <l>In thoughts of fire her childlessness she felt:</l> </lg>
+            <lg type="couplet" rhyme="ff"><l>The light of madness flashes from her eye! </l>
+            <l>And loud to Heaven ascends her wild appealing cry!</l></lg>
+            </lg>
+         <signed>
+            <abbr>J. E. R.</abbr>
+            <expan>Jane E. Roscoe</expan>
+         </signed>
+      </body>
+  </text>
+</TEI>
