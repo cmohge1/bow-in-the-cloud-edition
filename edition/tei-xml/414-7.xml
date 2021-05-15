@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sonnet. The African Mother. A Fact</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies . London: Jackson &amp; Walford, 1834, pp. 194</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>English MS 414/7, John Rylands Library, Manchester.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+        <head>Sonnet <lb/>
+            The African Mother.<lb/>
+            A fact.</head>
+
+            <lg type="sonnet">
+            <lg type="quatrain" rhyme="abba">
+               <l n="1" met="-+-+-+-+-+">The Mother sat and wept.-<caesura/> Her child was <rhyme label="a">gone</rhyme>,</l>
+               <l>But still her tears fell on another's <rhyme label="b">cheek</rhyme>;</l>
+               <l>Her heart was crushed,<caesura/> but yet it did not <rhyme label="b">break</rhyme>,­</l>
+               <l>Another's smile was left her to <rhyme label="a">atone</rhyme>,</l>
+            </lg>
+            <lg type="quatrain" rhyme="acca">
+               <l enjamb="y">For that most cruel loss;<caesura/> that one <rhyme label="a">alone</rhyme></l>
+               <l enjamb="y">Was all she had to love -<caesura/> and she would <rhyme label="c">sit</rhyme></l>
+               <l>For hours, and in her arms encradle <rhyme label="c">it</rhyme>,</l>
+               <l>Pouring on its unconscious ear her <rhyme label="a">moan</rhyme>.</l>
+            </lg>
+            <lg type="quatrain" rhyme="deed">
+               <l>Again the Spoiler came.-<caesura/> In vain she <rhyme label="d">knelt</rhyme>,</l>
+            <l>And raised her agonizing scream in <rhyme label="e">vain</rhyme> -</l>
+            <l enjamb="y">They took her last and dearest - thro' her <rhyme label="e">brain</rhyme></l>
+            <l>In thoughts of fire <caesura/> her childlessness she <rhyme label="d">felt</rhyme>:</l> </lg>
+            <lg type="couplet" rhyme="ff">
+               <l>The light of madness flashes from her <rhyme label="f">eye</rhyme>!</l>
+            <l>And loud to Heaven ascends her wild appealing <rhyme label="f">cry</rhyme>!</l>
+            </lg>
+            </lg>
+         <signed>
+            <abbr>J. E. R.</abbr>
+            <expan>Jane E. Roscoe</expan>
+         </signed>
+      </body>
+   </text>
+</TEI>
