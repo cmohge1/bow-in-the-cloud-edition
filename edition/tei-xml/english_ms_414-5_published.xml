@@ -27,67 +27,67 @@
 			<div type="ballad">
 				<head type="title">The Starting-Post; Or Clarkson at Woods-Mill</head>
 				<epigraph><ab>"Coming in sight of Wades-Mill, in Hertfordshire, I sat down disconsolate on the turf by the road-side, and held my horse. Here a thought came into my mind, that if the contents of the Essay were true, it was time some person should see these calamities to their end. Agitated in this manner, I reached home. This was in the summer of 1785." Clarkson's History of Abolition, Vol. I. p. 210.<note type="editorial">Thomas Clarkson's <hi rend="italic">The History of the Abolition of the African Slave-Trade</hi> is a two-volume history of the first wave of efforts to abolish the slave trade in Great Britain. Full texts can be accessed at the <ref target="https://oll.libertyfund.org/title/clarkson-the-history-of-the-abolition-of-the-african-slave-trade-vol-1?html=true">Liberty Fund text archive</ref>.</note></ab></epigraph>
-				<lg type="quatrain" rhyme="abab">
+				<lg n="1" type="quatrain" rhyme="abab">
 					<l>A wanderer by the road-way side,</l>
 					<l>Where leafy tall trees grow,</l>
 					<l>Casting their branching shadows wide,</l>
 					<l>Sits on the turf below.</l>
 				</lg>
-				<lg type="quatrain" rhyme="cdcd">
+				<lg n="2" type="quatrain" rhyme="cdcd">
 					<l>Though rich the landscape, hill, and plain,</l>
 					<l>Before him there out-spread;</l>
 					<l>One hand holds fast his bridle-rein,</l>
 					<l>One props his thoughtful head.</l>
 				</lg>
-				<lg type="quatrain" rhyme="efef">
+				<lg n="3" type="quatrain" rhyme="efef">
 					<l>The flush of youth is on his brow,</l>
 					<l>Its fire is in his eye;</l>
 					<l>And yet the first is pensive now, </l>
 					<l>The latter nought can spy.</l>
 				</lg>
-				<lg type="quatrain" rhyme="ghgh">
+				<lg n="4" type="quatrain" rhyme="ghgh">
 					<l>Does proud Ambition's fitful gleam</l>
 					<l>Light up his soul within? </l>
 					<l>Or fond Affection's gentler dream </l>
 					<l>Prompt him Love's bliss to win?</l>
 				</lg>
-				<lg type="quatrain" rhyme="ijij">
+				<lg n="5" type="quatrain" rhyme="ijij">
 					<l>These are forgotten, or unknown:</l>
 					<l>­For, o'er the Atlantic main,</l>
 					<l>His ear has caught the captive's groan,</l>
 					<l>Has heard his clanking chain.</l>
 				</lg>
-				<lg type="quatrain" rhyme="klkl">
+				<lg n="6" type="quatrain" rhyme="klkl">
 					<l>Nor less from Afric's land afar,</l>
 					<l>Borne by the billowy waves,</l>
 					<l>The hideous din of sordid War,</l>
 					<l>The shrieks of kidnapped slaves.</l>
 				</lg>
-				<lg type="quatrain" rhyme="mnmn">
+				<lg n="7" type="quatrain" rhyme="mnmn">
 					<l>The iron of that galling yoke</l>
 					<l>Has entered in his soul!</l>
 					<l>How shall Power's tyrant spell be broke?­</l>
 					<l>The sick at heart made whole?</l>
 				</lg>
-				<lg type="quatrain" rhyme="opop">
+				<lg n="8" type="quatrain" rhyme="opop">
 					<l>Who, e'en on Albion's far-famed Isle,</l>
 					<l>Where Freedom gives her laws,</l>
 					<l>Nobly forgetting self the while,</l>
 					<l>Shall live but for her cause?</l>
 				</lg>
-				<lg type="quatrain" rhyme="qrqr">
+				<lg n="9" type="quatrain" rhyme="qrqr">
 					<l>Who, the Apostle of her Creed,</l>
 					<l>Shall journey to and fro,</l>
 					<l>Her universal rights to plead,</l>
 					<l>And Slavery overthrow?</l>
 				</lg>
-				<lg type="quatrain" rhyme="stst">
+				<lg n="10" type="quatrain" rhyme="stst">
 					<l>"Thou art the man!" the Prophet cried;</l>
 					<l>The awe-struck Monarch heard;</l>
 					<l>And, while his heart with anguish sighed,</l>
 					<l>Compunction's depths were stirred.</l>
 				</lg>
-				<lg type="quatrain" rhyme="uvuv">
+				<lg n="11" type="quatrain" rhyme="uvuv">
 					<l>As clear, as vivid the appeal</l>
 					<l>To Freedom's Champion given:</l>
 					<l>And God himself hath set his seal,­</l>
