@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -50,12 +47,12 @@
             <lg type="stanza" n="4">
                <l>'Midst anarchy and war, with calm survey,</l>
                <l>He traced a path to greatness and repose;</l>
-               <l>Laid[?] his deep counsels for a future day,</l>
+               <l><unclear cert="medium">Laid</unclear> his deep counsels for a future day,</l>
                <l>And watched the crisis of this Brethren's woes:</l>
             </lg>
             <lg type="quatrain" n="5">
                <l>Then, as when a fierce Tornado's core of death</l>
-               <l>Has threatened every hope[?], in darkness driven,</l>
+               <l>Has threatened every <unclear cert="low">hope</unclear>, in darkness driven,</l>
                <l>And beaming beauty comes on morning breath,</l>
                <l>The mild, assuaging Messenger of Heaven,</l>
             </lg>
@@ -76,7 +73,7 @@
             <lg type="quatrain" n="8">
                <l>In virtue's eye beamed this prophetic ray!</l>
                <l>It was too pure a soul that triumphed there,</l>
-               <l>For answering[?] beams across the flood to stray;</l>
+               <l>For <unclear cert="low">answering</unclear> beams across the flood to stray;</l>
                <l>No Gallic policy such views could share.</l>
             </lg>
             <lg type="quatrain" n="9">
@@ -108,7 +105,7 @@
             <lg type="quatrain" n="13">
                <l>Near Cape Francois the mooring transports lay</l>
                <l>Troop lands on Troop, while Gallic thunders roar;</l>
-               <l>The strand is ? in a dread effray[?]</l>
+               <l>The strand is <unclear>[?]</unclear> in a dread <unclear cert="low">effray</unclear></l>
                <l>And rising flames within defend the shore.</l>
             </lg>
             <lg type="quatrain" n="14">
@@ -122,18 +119,18 @@
             <lg type="quatrain" n="15">
                <l>They join:-- Let feeling's language paint the bliss,</l>
                <l>(If bliss so pure can earthly phrase approve,)</l>
-               <l>The joy-- [?] tear[?], the soul pressed[?] kiss,</l>
+               <l>The joy-- <unclear>[?]</unclear> <unclear cert="medium">tear</unclear>, the soul <unclear cert="medium">pressed</unclear> kiss,</l>
                <l>The speechless sympathies of meeting love.</l>
             </lg>
             <lg type="quatrain" n="16">
                <l>Soon to their guide the grateful Chief draws near:--</l>
                <l>"Preceptor of my sons, revered, beloved"--</l>
-               <l>With arms outstretched to embrace, &amp; starting tear[?]</l>
+               <l>With arms outstretched to embrace, &amp; starting <unclear>tear</unclear></l>
                <l>Toussaint exclaims:-- Coisnon draws back unmoved:--</l>
             </lg>
             <lg type="quatrain" n="17">
-               <l>And rises[?] abruptly, and with haughty air,</l>
-               <l>He speaks:-- "Armed with the Consul's[?] power,"</l>
+               <l>And rises abruptly, and with haughty air,</l>
+               <l>He speaks:-- "Armed with the Consul's power,"</l>
                <l>"At Cape Francois, demands the august Le Clerc
                   <note type="authorial">The french General--related to Buonaparte.</note>
                </l>
@@ -152,7 +149,7 @@
                <l>And ruin that shall leave no eye to weep.</l>
             </lg>
             <lg type="quatrain" n="20">
-               <l>Those darling objects you so closely fold[?]</l>
+               <l>Those darling objects you so closely <unclear cert="low">fold</unclear></l>
                <l>Must be resigned:-- I lead those to Le Clerc:--</l>
                <l>A passport all conditional I hold;</l>
                <l>That passport's faith betrayed you will not spare[?]."</l>
@@ -176,13 +173,13 @@
                <l>I dare to suffer, but I scorn to sin."</l>
             </lg>
             <lg type="quatrain" n="24">
-               <l>The ? is awful. Grief's load[?] burst[?] succeeds:--</l>
+               <l>The ? is awful. Grief's <unclear>load</unclear> <unclear>burst</unclear> succeeds:--</l>
                <l>The mother clasps her sons in wild despair:--</l>
                <l>Through weeping crowds Coisnon his victims lead:--</l>
                <l>With hands upraised, the Father kneels in prayer.</l>
             </lg>
             <lg type="quatrain" n="25">
-               <l>And walk they forth defenseless[?] to their foes--</l>
+               <l>And walk they forth <unclear cert="medium">defenseless</unclear> to their foes--</l>
                <l>Lambs torn from shelter for the sacrifice?</l>
                <l>Or round their guiltless heads do pinions chase</l>
                <l>That, spreading soon, shall hear them to the skies?</l>
@@ -208,7 +205,7 @@
             <lg type="quatrain" n="29">
                <l>A consecrated spot;-- for there he knelt</l>
                <l>Each morn and eve, with his whose kindred mind</l>
-               <l>Had learned with his to trust, or ? melt</l>
+               <l>Had learned with his to trust, or <unclear>[?]</unclear> melt</l>
                <l>In grateful praise, as each want inclined.</l>
             </lg>
             <lg type="quatrain" n="30">
