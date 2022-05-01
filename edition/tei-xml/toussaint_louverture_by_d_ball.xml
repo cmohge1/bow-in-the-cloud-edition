@@ -4,11 +4,13 @@
       <fileDesc>
          <titleStmt>
             <title>Toussaint Louverture</title>
-            <author>By Dinah Ball</author>
-            <editor>Edited by Christopher Ohge</editor>
+            <author>Dinah Ball</author>
+            <respStmt>
+               <resp>Digital text edited by</resp><persName>Christopher Ohge</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
-            <p>This poem was submitted to Mary Anne Rawson's anti-slavery anthology <hi rend="italic">The Bow in the Cloud</hi>, but it was not included.</p>
+            <p>This poem was submitted to Mary Anne Rawson's anti-slavery anthology <hi rend="italic">The Bow in the Cloud</hi>, but it was not published.</p>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
