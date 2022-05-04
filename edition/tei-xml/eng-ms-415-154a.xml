@@ -3,13 +3,31 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Title</title>
+				<title>Oppression</title>
+				<author>Ann Gilbert</author>
+				<respStmt>
+					<resp>Digital text edited by</resp>
+					<persName>Christopher Ohge</persName>
+				</respStmt>
 			</titleStmt>
+			<editionStmt>
+				<edition>The Bow in the Cloud; or the Negro's Memorial</edition>
+				<editor>Mary Anne Rawson</editor>
+			</editionStmt>
 			<publicationStmt>
-				<p>Publication Information</p>
+				<publisher>Jackson &amp; Walford</publisher>
+				<pubPlace>St Paul's Churchyard, London</pubPlace>
+				<date when="1834">1834</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Information about the source</p>
+				<msDesc>
+					<msIdentifier>
+						<institution>University of Manchester</institution>
+						<repository>John Rylands Library</repository>
+						<collection>Rawson/Wilson Anti-slavery Collection</collection>
+						<idno>English MS 414-154a</idno>
+					</msIdentifier>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
