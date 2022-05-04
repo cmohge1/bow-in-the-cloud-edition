@@ -7,13 +7,15 @@
       <fileDesc>
          <titleStmt>
             <title>Sonnet. The African Mother. A Fact</title>
+            <editor>Mary Anne Rawson</editor>
+            <editor>Christopher Ohge</editor>
          </titleStmt>
          <publicationStmt>
             <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies . London: Jackson &amp; Walford, 1834, pp. 194</p>
          </publicationStmt>
-				 <editor>Christopher Ohge</editor>
+				 
          <sourceDesc>
-            <p>English MS 414/7, John Rylands Library, Manchester.</p>
+            <p>English MS 414-7, John Rylands Library, Manchester.</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
