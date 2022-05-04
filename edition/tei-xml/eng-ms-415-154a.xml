@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Title</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>Publication Information</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Information about the source</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="poem">
+				<lg type="sextet">
+					<l>I saw a sceptred spirit rise, </l>
+					<l>Gigantic, foul, and drear:</l>
+					<l>A stifled yell of human cries,</l>
+					<l>Out-pressed from mortal agonies,</l>
+					<l>And curses shot from burning eyes,</l>
+					<l>Did herald his career!</l>
+				</lg>
+				<lg type="sextet">
+					<l>Around him, stretched a blasted plain,</l>
+					<l>The heart's wide desart bare;</l>
+					<l>Behind was seen the biting chain,</l>
+					<l>The silent ecstasy of pain,</l>
+					<l>The cool self-murderer's wasting vein,</l>
+					<l>The courage of despair!</l>
+				</lg>
+				<lg type="sextet">
+					<l>Sick at the oar I saw his prey,</l>
+					<l>Sick in the grated cell;</l>
+					<l>Sick in the ocean-road that lay</l>
+					<l>From Afric's forests,--sick were they,</l>
+					<l>And sick beneath the torrid day</l>
+					<l>In many an island-dell!</l>
+				</lg>
+				<lg type="sextet">
+					<l><hi rend="italic">Oppression</hi>, demon spirit, smiled,</l>
+					<l>And made the grief his song;­</l>
+					<l>Wrenched from the mother's arm her child,</l>
+					<l>The father, from his home exiled,</l>
+					<l>Chased the lone orphan through the wild,</l>
+					<l>And mocked the widow's wrong!</l>
+				</lg>
+				<lg type="sextet">
+					<l>Judge of the earth!--with pitying eye</l>
+					<l>Thy sword of vengeance seize!"</l>
+					<l>A voice of thunder met my cry,­</l>
+					<l>
+						<hi rend="italic">Behold! beneath my goodliest sky,</hi>
+					</l>
+					<l>
+						<hi rend="italic">Greater abominations lie,</hi>
+					</l>
+					<l>
+						<hi rend="italic">More horrible than these!"</hi>
+					</l>
+				</lg>
+				<lg type="sextet">
+					<l>I gazed! and O 'twas freedom's land!</l>
+					<l>Columbia's sunny shore!--</l>
+					<l>With glorious struggle, hand in hand,</l>
+					<l>Her noble sons, a patriot band,</l>
+					<l>For homes and altars took their stand,</l>
+					<l>Resolved to stoop no more!</l>
+				</lg>
+				<lg type="sextet">
+					<l>Bright did the conquering banners wave</l>
+					<l>On every mountain crest!­</l>
+					<l>But while the civic armies gave</l>
+					<l>Their thrilling shout, <hi rend="italic">"Be free, ye brave!"</hi></l>
+					<l>Again I marked the withering slave,</l>
+					<l>At Mammon's foot, opprest!</l>
+				</lg>
+				<lg type="sextet">
+					<l>O darkly, darkly, from my ken,</l>
+					<l>Sunk all that proud array!</l>
+					<l>My soul with loathing viewed the men,</l>
+					<l>Her priests, her patriots; glorious then,</l>
+					<l>As the free tiger in his den,</l>
+					<l>Unfettered o'er his prey!</l>
+				</lg>
+				<lg type="sextet">
+					<l>Doff, doff that crest of pride, ye clans,</l>
+					<l>In dust your honours hide!</l>
+					<l>The captive's tear has tracked your sands, </l>
+					<l>The print of blood is on your hands,</l>
+					<l>The curse of guilt is o'er your lands,--</l>
+					<l>Doff, doff that crest of pride!</l>
+				</lg>
+				<lg>
+					<l>Nay, wherefore at yon altar kneel? </l>
+					<l>Go, brother, for thy brother feel,</l>
+					<l>Go, and the broken-hearted heal,</l>
+					<l>Go, leave thy gift, and blushing, steal,</l>
+					<l>To heed the captive's wrong! </l>
+				</lg>
+				<lg>
+					<l>Didst thou not breathe the glorious name</l>
+					<l>That christian hearts adore?</l>
+					<l>O wash thee from thy mortal shame,</l>
+					<l>Yield to thy brother <hi rend="italic">saint</hi>, his claim,</l>
+					<l>
+						<hi rend="italic">Confess that from one blood ye came,</hi>
+					</l>
+					<l>Then go,--and sin no more!</l>
+				</lg>
+				<signed>
+					<l><persName>Ann Gilbert</persName>.</l>
+					<l>Nottingham.</l>
+				</signed>
+			</div>
+		</body>
+	</text>
+</TEI>
