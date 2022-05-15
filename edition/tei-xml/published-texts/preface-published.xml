@@ -6,20 +6,38 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Preface</title>
+            <author>Mary Anne Rawson</author>
+            <respStmt>
+               <resp>Digital text edited by</resp>
+               <persName>Christopher Ohge</persName>
+            </respStmt>
          </titleStmt>
+         <editionStmt>
+            <edition>The Bow in the Cloud; or the Negro's Memorial</edition>
+            <editor>Mary Anne Rawson</editor>
+         </editionStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <publisher>Jackson &amp; Walford</publisher>
+            <pubPlace>St Paul's Churchyard, London</pubPlace>
+            <date when="1834">1834</date>
          </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
+         <sourceDesc> <!-- source below is the copy text manuscript -->
+            <msDesc>
+               <msIdentifier>
+                  <institution>University of Manchester</institution>
+                  <repository>John Rylands Library</repository>
+                  <collection>Rawson/Wilson Anti-slavery Papers</collection>
+                  <idno>English MS 415/199</idno>
+               </msIdentifier>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
          <div type="prose">
-            <p>&quot;T<span style="small-caps">he</span> sorrowful sighing of the
+            <p>&quot;T<hi rend="small-caps">he</hi> sorrowful sighing of the
             prisoner&quot; has long come up into the ear of Him who &quot;regards the prayer of the
             destitute.&quot; He hath &quot;heard their voice, and looked on their affliction, and
             their labour, and their oppression;&quot; and, &quot;according to the greatness of his
@@ -120,8 +138,8 @@
                authors of the following pieces, and the individual who has now the pleasure of
                presenting them to the public, will indeed have reason to rejoice together, and every
                benevolent reader may share in that joy. </p>
-            <p><hi rend="small-caps">Wincobank Hall,</hi></p>
-            <p><hi rend="italic">May 8, 1834</hi>.</p> </div>
+            <p><hi rend="small-caps"><placeName>Wincobank Hall</placeName>,</hi></p>
+            <p><hi rend="italic"><date when="1834-05-08">May 8, 1834</date></hi>.</p> </div>
       </body>
    </text>
 </TEI>
