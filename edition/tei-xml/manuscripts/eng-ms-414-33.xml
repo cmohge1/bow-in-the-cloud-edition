@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Jeremiah Holmes Wiffen to Mary Anne Rawson</title>
+            <author>Jeremiah Holmes Wiffen</author>
+            <editor>Christopher M. Ohge</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>This is a born-digital diplomatic transcription of an unpublished letter.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Written on one side of a sheet of wove paper.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+                  <address><addrLine><placeName>Froxfield, near Woburn, </placeName></addrLine></address>
+               <date when="1833-12-09">12th month 9th, 1833</date>
+               <salute>Dear Mrs Rawson</salute>
+            </opener>
+            <p>I now transmit the contribution which I last week 
+               <lb/>gave thee reason to expect, and <del>which</del> if it meets thy approval, I shall be happy.
+               <lb/>I designd it for the close of the volume, perhaps for the concluding piece;
+               <lb/>but of this thou will be the best judge. If there are any that refer to
+               <lb/>the future prospects of the Negro, now that the emancipation-bill is past,
+               <lb/>with a more ardent feeling exultation, they might perhaps start up the
+               <lb/>book better - but I could not but express somewhat [?] our disappointment
+               <lb/>on providing[?] such low ground taken by those who carried the bill through Parliament
+               <lb/>in the arguying of the great question; and the base tone of policy, and interest that
+               <lb/>was perpetually used and pleaded there.--</p>
+               
+            <p>I shall deem it an honour to have a proof sent for my revision by the pinter when set
+               <lb/>up in type; which I will take care not to detain more than one post. I
+               <lb/>shall be very glad to see the little Volume make its appearance, and I
+               <lb/>do not doubt that thy benevolent intention of thereby prolonging the
+               <lb/>sympathy that has so justly been excited for the Slave, will be realised
+               <lb/>I have busied my thoughts a little upon a Title, but I do not know that I
+               <lb/>have succeeded in suggesting a suitable one. It should be sensible &amp; yet [?]ing,
+               <lb/>if it is to refer to be Past as well as Future, it must almost necessarily
+               <lb/>be a little fanciful--but I would not have it too recondite. I subjoin what
+               <lb/>here occurred to me: and in the hope that they may strike us something or
+               <lb/>other that may be judged appropriate, I remain with much esteem,
+               <lb/>in which my wife unites.
+            </p>
+               <closer><salute>them very failhfully
+               </salute>
+               <signed>T.H. Wiffen</signed></closer>
+               <postscript>
+                  <p>My Brother, I am sorry to say finds it impossible
+               to write anything.</p>
+                  <p>Rights and Wrongs; 
+                     <lb/>or, 
+                     <lb/>The Negro's Album. 
+                     <lb/>A collection of original contributions 
+                     <lb/>in Prose and Verse, &amp;. 
+                     <lb/>Edited by M. A. Rawson.
+                  </p>
+                  
+                  <p>
+                     The Rainbow in the Cloud; 
+                     <lb/>a collection of original pieces 
+                     <lb/>upon 
+                     <lb/>Negro Slavery.
+                  <lb/>-
+                  <lb/>-
+                  </p>
+               
+               <p>the Star after <del>the</del> a Storm;
+                  <lb/>a collection of original pieces
+                  <lb/>in Prose and Verse
+                  <lb/>on
+                  <lb/>Negro Slavery and Emancipation.
+                  <lb/>-
+                  <lb/>-
+               </p>
+               <p>
+               <lb/>Was man ordained the slave of men to toil,
+               <lb/>Yoked with the brutes, and fettered to the soil,
+               <lb/>Weighed with a tyrant's balance with his gold?--
+               <lb/>No! Nature stamped us in a heavenly mold!
+               <lb/>She bade no wretch his thankless labour urge,
+               <lb/>Nor, trembling, take the pittance and the scourge!
+               <lb/>Campbell.<note type="editorial">"On Slavery" (lines 7-12), by Thomas Campbell.</note>
+                 
+               <lb/>London
+               <lb/>Printed for -------
+               <lb/>1834
+               &amp; It should be dated the new year
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
