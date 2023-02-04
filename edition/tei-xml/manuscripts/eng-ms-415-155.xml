@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Thomas Clarkson to Mary Anne Rawson</title>
+            <author>Thomas Clarkson</author>
+            <editor>Christopher M. Ohge</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>This is a born-digital diplomatic transcription of an unpublished letter.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Written on one side of a sheet of wove paper.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <address><addrLine><placeName>Playford Hall</placeName></addrLine></address>
+               <date when="1833-04-15">April 15 1833</date>
+               <salute>Madam</salute>
+            </opener>
+            <p>
+               Your letter appears to have been written a month ago,            
+                <lb/>but for some cause or other it did not reach me till <del>beg[?]</del> a                      
+                <lb/>long time after its date, &amp; at the time I received it &amp; indeed                            
+                <lb/>up to the present moment my thoughts have been deeply engaged
+                <lb/>upon what I may call our common subject. This is one reason
+                <lb/>why I did not notice your letter sooner; and another is that
+                <lb/>having unhappily Cataracts on both my eyes I have not been
+                <lb/>able to see either to read or to write for some time, and this
+                <lb/>circumstance makes me aoord correspondence as mach as possible
+                <lb/>With respect to the publication of your volume of Poems, no person
+                <lb/>wishes it more success than I do, because no person can feel
+                <lb/>himself more interested in the cause, which it is intended to
+                <lb/>promote; indeed, I think that a work of this description may
+                <lb/>secure the attention of some, whom prose-compositions would not
+                <lb/>so much lay hold of &amp; thus a greater number of persons may
+                <lb/>become acquainted with the case of the unhappy people whose
+                <lb/>rights we advocate. I am sorry that I am so situated as
+                <lb/>not to be able to contribute some little morceau towards
+                <lb/>your Book. But these little things are so foreign to my
+                <lb/>habits of composition, that I know I should not be able to
+                <lb/>satisfy myself &amp; therefore must by you to excuse me.
+            </p>
+            <p>I am obliged to you for your wish that I may live[?]
+                <lb/>to record the total abolition of Slavery. This would be most
+                <lb/>delighlfull, but I have no expectation of it. I may, however
+                <lb/>probably live to see the monster Slavery receive its death
+                <lb/>wound from the British Parliament. This will satisfy me
+                <lb/>and I shall be most truly &amp; reverently thankful for it--
+               </p>
+            <closer><salute>I am Madam yours very truly
+               
+               </salute>
+               <signed>Thomas Clarkson</signed></closer>
+               <postscript><p></p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
