@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from James Everett to Mary Anne Rawson</title>
+            <author>James Everett</author>
+            <editor>Christopher M. Ohge</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>This is a born-digital diplomatic transcription of an unpublished letter.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Written on one side of a sheet of wove paper (English MS 415/186).</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               
+               <salute>To Miss Mary Anne Read <lb/>Respected Friend</salute>
+            </opener>
+            <p>Your letter of Apl 4th, the date of which
+               
+               <lb/>makes me ashamed, should have received a much earlier reply
+               
+               <lb/>had it not been for the difficulty I found in fixing my mind
+               
+               <lb/>upon a subject, which has already received almost every species
+               
+               <lb/>of poetic embellishment, and has been presented to the public in such
+               
+               <lb/>a variety of forms. After adopting and discarding various topics, as
+               
+               <lb/>connected with the general question, the simple form of expression
+               
+               <lb/>which heads the following stanzas, occurred to me, and was the
+               
+               <lb/>germ from which every other thought proceeded. I could view
+               
+               <lb/>Slavery in no other light than that of one continued system
+               
+               <lb/>of oppression and terror, and therefore, have considered it in its
+               
+               <lb/>effects, as operating both on matter and mind - on man, in his
+               
+               <lb/>health and spirits - on man, as amenable to the civil law, and
+               
+               <lb/>as a professing christian - operating on every relation of life, whether
+               
+               <lb/>civil, domestic, or religious -- and its, tremendous results, in reference
+               
+               <lb/>to the just judgments of a sin-avenging God. In order to produce effect,
+               
+               <lb/>I have aimed more at strength than ease; and if I shall
+               
+               <lb/>have produced anything capable of imparting either satisfaction
+               
+               <lb/>to yourself or aid to the cause, it will be sufficient for me
+               
+               <lb/>to know, with the female in the gospel, that though I have
+               
+               <lb/>not done what I would, I have done what I could and
+               
+               <lb/>that little has been accepted. With christian regards to the
+               
+               <lb/>family,               
+               </p>
+            <closer><salute>I am
+               <lb/>With the utmost Respect
+               <lb/>Your Obedt Servant
+               </salute>
+               <signed>James Everett
+                  <lb/>Manchester.
+                  <lb/>June 14th 1826?</signed></closer>
+         </div>
+               <div type="poem">
+                  <head>Reign of Terror</head>
+                  <lg>
+                     <l>Away, away, for terror here</l>
+<l>resurps an universal reign.</l>
+                  <l>Away, like righteous Lot, in fear</l>
+<l>Nor tarry those in all the plain.</l>
+<l>Away, for through the Western Isles</l>
+<l>Which sprang from occan's bed in smiles</l>
+<l>damon stalks, and claims the whole</l>
+<l>Like him who once to Edon stoll</l>
+<l>And spread the blight of death.</l>
+<l>His music is the victim's cry,</l>
+<l>The shrivelling glance is in his eye,</l>
+<l>Infection in his breath.</l>
+                  </lg>
+                  
+                  <lg>
+                     <l>Talk not of joy, where slavery reigns.</l>
+                  <l>Of brightning hopes midst "hope deferr'd,</l>
+                  <l>The negro's joys are huny in chains</l>
+                  <l>The negro's hopes are all interrd:</l>
+                     <l>He sees the writing on the wall</l>
+                     <l>In laws, enacted to enthral</l>
+                    <l>And seems, in every drivers hand</l>
+                    <l>To see, upon the desert sand</l>
+                     <l>The lion's fatal pan</l>
+                     <l>And in the voice of men of blood</l>
+                     <l>To hear the voice that shakes the wood,</l>                     
+                     <l>And holds the soul in awe</l>
+                  </lg>
+                  <lg>   
+                  <l>Foul Misery, like a blast from hell,</l>
+                     <l>Hath forced throughout the soul its way</l>
+                     <l>As mighty tempests when they swell</l>
+                     <l>And toss on high the ocean spray</l>
+                     <l>And every flood in maniac form</l>
+                     <l>Becomes the plaything of the storm</l>
+                     <l>Still driving onward, still the tide</l>
+                     <l>Hath burst the vessels rampart side</l>
+                     <l>Through which the torrents pour --</l>
+                     <l>And pour like cataracts from the rocks</l>
+                     <l>Tremendous as the earthquake's shocks,</l>
+                     <l>While all her dungeons roar</l>
+                  </lg>
+                     <lg>
+                     <l>The face which once was full and round</l>
+                     <l>Where health sat smiling through the jet,</l>
+                     <l>And eyes, still more expressive found</l>
+                     <l>Are sunk, like suns, untimely set.</l>
+                     <l>But deeper shadows than the skin</l>
+                     <l>Like musts, from troubled thoughts within</l>
+                     <l>Arise, to dim the joyous sight,</l>
+                     <l>And fret away the frame of might,</l>
+                     <l>without the power to flee</l>
+                     <l>Those shadows -- sudden as a squall --</l>
+                     <l>Flit o'er the face, and darken all</l>
+                     <l>Like winds across the sea.</l>
+                     </lg>
+                     <lg>
+                     <l>Lo, in the precincts of the court</l>
+                     <l>where Justice only should preside</l>
+                     <l>To blacks, for proof, will none resort</l>
+                     <l>The white man's oath is ne'er denied</l>
+                     <l>Though undefiled the negro's hands</l>
+                     <l>In lifeless silence still he stands</l>
+                     <l>His inward spirit shrieks unheard,</l>
+                     <l>And needed like the wailing bird,</l>
+                     <l>Upon some lonely tower</l>
+                     <l>While Terror, from his lurid seat,</l>
+                     <l>And withering as the lightnings heat,</l>
+                     <l>Descends supreme in power</l>
+                     </lg>
+                     <lg>
+                     <l>To slaves -- except the christian few</l>
+                     <l>The Sabbath's holy calm is lost</l>
+                     <l>And these, their weekly toil pursue</l>
+                     <l>With minds, by human tempests tost.</l>
+                     <l>Their boding thoughts, from various ills,</l>
+                     <l>Like floods amidst the wildest hills</l>
+                     <l>Which rage throughout the lengthen'd night.</l>
+                     <l>Rush headlong from their fearful height,</l>
+                     <l>and seek the stream that flows;</l>
+                     <l>For, stooping from its dreary place,</l>
+                     <l>The mind sweeps trough the means of grace,</l>
+                     <l>Till fury finds repose</l>
+                     </lg>
+                        <lg>
+                     <l>But oft, ere that repose is found</l>
+                     <l>The men of Belial crowd the road</l>
+                     <l>And dare to visit holy ground,</l>
+                     <l>And stand among the sons of God:</l>
+                     <l>Where damon art the balance holds</l>
+                     <l>To weigh the truth the priest unfolds,</l>
+                     <l>or basely -- and by civil test</l>
+                     <l>Confound the freedom of the blest,</l>
+                     <l>With freedom to the slave</l>
+                     <l>And boldly charge that priest to flee,</l>
+                     <l>Or try, with cruel mockery,</l>
+                     <l>And doom him to the grave</l>
+                  </lg>
+                  <lg>
+                     <l>The negro, branded at the mart</l>
+                     <l>Pours forth in vain the rending sigh</l>
+                     <l>A single bid will quail his heart,</l>
+                     <l>And sever each domestic tie:</l>
+                     <l>And where soe'er his feet ^shall roam,</l>
+                     <l>His manhood ne'er will know a home!</l>
+                     <l>No wife to sooth or raise his head.</l>
+                     <l>No infant babes to cheer his shed</l>
+                     <l>Or fan affections flame</l>
+                     <l>His grave is distant and alone</l>
+                     <l>The spot to wife and babes unknown,</l>
+                     <l>-- No tablet for his name!</l>
+               </lg>
+                     <lg>
+                     <l>Not one of all the infant throng</l>
+                     <l>That lies upon a mother's knee,</l>
+                     <l>But gives to agony -- a tongue,</l>
+                     <l>Unknown to children of the free,</l>
+                     <l>Unknown to those, whose tears but flow</l>
+                     <l>From transient fits of tiny woe,</l>
+                     <l>And who, like troubled sea birds, cry</l>
+                     <l>While passing through the stormy sky,</l>
+                     <l>And then -- upon the wave --</l>
+                     <l>As softly fall as gleams of light,</l>
+                     <l>And float in beauty to the sight,</l>
+                     <l>All fearless of a grave.</l>
+                     </lg>
+                     <lg>
+                     <l>Ah, no! to babes in slavery born,</l>
+                     <l>Few are the seas and skies serene,</l>
+                     <l>All ruthless, from a mother torn,</l>
+                     <l>Her weeping image still is seen;</l>
+                     <l>Nor less her voice they seem to hear</l>
+                     <l>In lingering tones on Memory's ear</l>
+                     <l>Now echoing sweet -- now wildly roll</l>
+                     <l>Through all the regions of the soul,</l>
+                    <l>-- Then, soft -- and far away --</l>
+                     <l>Like music on the midnight lake</l>
+                    <l>Till, starting from the dream, they wake</l>
+                     <l>To misery, a prey</l>
+                     </lg>
+                     <lg>
+                     <l>Nor say, the mother cannot feel</l>
+                        <l>At whom the poisoned dart is flung;--</l>
+                     <l>The body owns the quivering steel</l>
+                     <l>The tortured wild-cat loves her young:</l>
+                     <l>And can she from her babes depart,</l>
+                     <l>Whose life-strings twine around her heart, --</l>
+                     <l>Those babes, whom nature e'er must own</l>
+                     <l>As flesh of flesh and bone of bone,</l>
+                     <l>And part without a pang?</l>
+                     <l>O, no; -- employ the scourge, the knife,</l>
+                     <l>And tear the limbs and threaten life,</l>
+                     <l>On these she still must hang.</l>
+                     </lg>
+                  <lg>
+                     <l>Away, away, for terror here</l>
+                     <l>Usurps an universal reign,</l>
+                     <l>Where parents, children, live in fear</l>
+                     <l>And walk upon their kindred slain.</l>
+                     <l>Away, -- for now those beauteous Isles,</l>
+                     <l>With breath of balm and face of smiles,</l>
+                     <l>-- which yet had man's Elysium been,</l>
+                     <l>Had man himself not changed the scene,</l>
+                     <l>Are threatened from above;</l>
+                     <l>And judgment, though it linger long,</l>
+                     <l>Will burst in wrath for Afric's wrong,</l>
+                     <l>And now begins to move.</l>
+                  </lg><lg>
+                     <l>Away, -- for men of blood have piled</l>
+                     <l>The fabric of their guilt so high</l>
+                     <l>That dark, o'er Isles, which e'er had smiled,</l>
+                     <l>It spreads its shadow to the eye.</l>
+                     <l>Away, -- for Vengeance springs to birth,</l>
+                     <l>And with the whirlwind sweeps the earth,</l>
+                     <l>And bears, like autumn leaves away</l>
+                     <l>The men of guilt, whose iron sway</l>
+                    <l>Held innocence in chains.</l>
+                     <l>Away, -- for down the fabric falls</l>
+                     <l>The voice of blood for justice calls,</l>
+                     <l>And God in Vengeance reigns.</l>
+                  </lg>
+                     
+                     <signed>James Everett.
+                     
+                     <lb/><placeName>Manchester</placeName>
+                     
+                     <lb/>June 14th 1826</signed>
+                     <postscript>
+                        <p>P.S. A line, noticing the reception
+                           
+                           <lb/>of the stanzas, will oblige.</p>
+                     </postscript>
+                  
+               </div>
+        
+      </body>
+   </text>
+</TEI>
