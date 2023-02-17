@@ -16,6 +16,7 @@
                <msIdentifier>
                   <repository>John Rylands Library
                   </repository>
+                  <collection>Rawson-Wilson Antislavery Collection</collection>
                   <idno>Eng MS 415-161</idno>
                </msIdentifier>
             </msDesc>
@@ -26,7 +27,7 @@
       <body>
          <div type="letter">
             <opener>
-               <address><addrLine>10 Symonds St<placeName></placeName></addrLine></address>
+               <address><addrLine>10 Symonds St</addrLine></address>
                <date when="1826-05-08">8th May 1826</date>
                <salute>Madam</salute>
             </opener>
@@ -34,7 +35,7 @@
                I have to express my regret to you for not having
                <lb/>answer'd your first letter &amp; in answer to your second I
                <lb/>am sorry that I can only candidly say that my time is
-               <lb/>compleatly ingross'd with literary business -- wen beyond what
+               <lb/>compleatly ingross'd with literary business -- one beyond what
                <lb/>my health can well stand, &amp; that is quite out of my
                <lb/>power to lend my cooperation to any other publication.
             </p>
