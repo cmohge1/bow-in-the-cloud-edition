@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Thomas Campbell to Mary Anne Rawson</title>
+            <author>Thomas Campbell</author>
+            <editor>Christopher M. Ohge</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>This is a born-digital diplomatic transcription of an unpublished letter.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>John Rylands Library
+                  </repository>
+                  <idno>Eng MS 415-161</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <address><addrLine>10 Symonds St<placeName></placeName></addrLine></address>
+               <date when="1826-05-08">8th May 1826</date>
+               <salute>Madam</salute>
+            </opener>
+            <p>
+               I have to express my regret to you for not having
+               <lb/>answer'd your first letter &amp; in answer to your second I
+               <lb/>am sorry that I can only candidly say that my time is
+               <lb/>compleatly ingross'd with literary business -- wen beyond what
+               <lb/>my health can well stand, &amp; that is quite out of my
+               <lb/>power to lend my cooperation to any other publication.
+            </p>
+            <closer><salute>I remain
+               <lb/>with respect--
+               <lb/>Your obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi>
+               
+            </salute>
+               <signed>T. Campbell --</signed></closer>
+            <postscript><p></p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
