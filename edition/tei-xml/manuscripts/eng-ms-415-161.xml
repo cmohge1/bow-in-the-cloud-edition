@@ -4,8 +4,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letter from Thomas Campbell to Mary Anne Rawson</title>
-            <author>Thomas Campbell</author>
+            <title>Letter from Thomas Moore to Mary Anne Rawson</title>
+            <author>Thomas Moore</author>
             <editor>Christopher M. Ohge</editor>
          </titleStmt>
          <publicationStmt>
@@ -27,24 +27,47 @@
       <body>
          <div type="letter">
             <opener>
-               <address><addrLine>10 Seymour St</addrLine></address>
-               <date when="1826-05-08">8th May 1826</date>
+               <address><addrLine>Sloperton Cottage</addrLine></address>
+               <date when="1826-03-24">March 24 1826</date>.
                <salute>Madam</salute>
             </opener>
-            <p>
-               I have to express my regret to you for not having
-               <lb/>answer'd your first letter &amp; in answer to your second I
-               <lb/>am sorry that I can only candidly say that my time is
-               <lb/>compleatly ingross'd with literary business -- one beyond what
-               <lb/>my health can well stand, &amp; that is quite out of my
-               <lb/>power to lend my cooperation to any other publication.
+            <p>You do me but justice in supposing that I
+               
+               <lb/>feel deeply interested in the cause for which you are so laudably
+               
+               <lb/>exerting yourself; &amp; it gives he great pain to be obliged, from the
+               
+               <lb/>peculiar circumstances in which I am placed, to withhold the <add place="above">^sort</add> of asis=
+               
+               <lb/>tance which you do me the honour to think should afford you. Being
+               
+               <lb/>exposed to a variety of applications of this kind (though for far less
+               
+               <lb/>interesting purposes) I have been obliged to adopt a general resolution
+               
+               <lb/>not &amp; contribute to any work of the nature of yours, whatever. In pursu=
+               
+               <lb/>ance of this determination I was compelled, some time ago, to refuse the
+               
+               <lb/>request of Dr. Montgomery that I would write something for his work in
+               
+               <lb/>aid of the Chimney Sweepers -- a work, which both from my admiration
+               
+               <lb/>of the Editor's genius, and my interest in the benevolent object he had in
+               
+               <lb/>view, I should have been most happy to assist to the utmost of my power.
+               
+               <lb/>This will, I trust, be a sufficient apology for the necessity which
+               
+               <lb/>I find myself under of adopting the same conduct with respect to you.
             </p>
-            <closer><salute>I remain
-               <lb/>with respect--
-               <lb/>Your obed<hi rend="superscript">t</hi> Serv<hi rend="superscript">t</hi>
+            <closer><salute>I have the honour to be your much
+               
+              
+               <lb/> obliged Servant
                
             </salute>
-               <signed>T. Campbell --</signed></closer>
+               <signed>Thomas Moore</signed></closer>
             <postscript><p></p>
             </postscript>
          </div>
