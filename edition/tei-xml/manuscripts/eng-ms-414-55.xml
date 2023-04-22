@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks on the Christian duty of putting an
+               and to slavery</title>
+            <author>Joseph John Gurney</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Remarks on the Christian duty of putting an
+            and to slavery by Joseph John Gurney
+            Sanganton that for
+            That it is our bounden duty as Christians to
+            labour in the cause of the abolition of slavery, is a proposition
+            so reasonable &amp; obvious, that one might have supposed, no one
+            could have doubted its it. Yet such is the perversion of heart
+            &amp; intellect to which were all be mankind are liable, that
+            sane persons have contrived to persuade thamselves, that
+            their Christion duty, in reference to this subject, lies
+            absolute inaction.
+            In the first place, they urge as a plea
+            for their non-interference, the curse promounced by Noah
+            on Canaan "Cursed be Canaan", said the offended Patriarch?
+            a servant of servants shall he be to his brethren? Gen. IX. 20
+            Since the person by whom Noah had been offended
+            was not Canaan, but his father Ham, its it is taken for
+            granted by these objectors that "Canaan", is here put for "Ham".
+            And since Ham, through his eldest son Mizraim, was the
+            Progenitor of the Africans, it is concluded they conclude by them, first
+            That the prophecy is accomplished in the slavery of the Negroes,
+            &amp; secondly, that therefore in laboring for the emancipation of
+            the Negroes, we labor against the declared decree of the
+            Lord of all the earth.
+            Now supposing this interpretation application of the
+            prophecy to be correct the African race to be the true one,
+            what can be more absurd than such a practical inference?
+            The duration of Canaan’s servitude, is a subject on which
+            does it contain
+            the prophecy says nothing; much less is there the slightest
+            intimation, that their cruel bondage was to have no end.
+            Who then shall say, that the time is not come for its the
+            of African slavery
+            extermination. O who can deem it unreasonable to suppose
+            that in effecting this object, God may be pleased to
+            make use of human instrumentality.
+            But I can by no means assent to such an
+            interpretation of the prophetic record; &amp; which I believe
+            received its accomplished accomplishment when the Canaanites
+            who were left in the land of Palestine, became hewers of wood</p>
+      </body>
+  </text>
+</TEI>
