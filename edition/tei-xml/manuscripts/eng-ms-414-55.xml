@@ -11,10 +11,16 @@
             <author>Joseph John Gurney</author>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Born-digital edition of The Bow in the Cloud</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <msDesc>
+               <msIdentifier>
+                  <repository>John Rylands Library</repository>
+                  <idno>English MS 414-55</idno>
+                  <!-- Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies . London: Jackson & Walford, 1834, pp. 89-95 -->
+               </msIdentifier>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
