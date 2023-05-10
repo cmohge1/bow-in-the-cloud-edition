@@ -14,7 +14,7 @@
             <p>Mary Anne Rawson's The Bow in the Cloud: A Digital Edition and Network Analysis</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Published in the Bow in the Cloud, pp. 54–55.</p>
+            <p>Published in the Bow in the Cloud (1834), pp. 54–55.</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
@@ -23,38 +23,38 @@
          
         <p>Written after first hearing of the formation of Ladies' Anti-Slavery Associations.</p>
          
-         <lg>
+         <lg n="1" type="quatrain" rhyme="abab">
          <l>Slavery! silent hopeless anguish­--</l>
          <l>British souls have felt thy care:</l>
          <l>Yet their firmest efforts languish</l>
          <l>Into all the slave's despair.</l></lg>
          
-         <lg><l>Is there hope?--The thought were glory,</l>
+         <lg n="2" type="quatrain" rhyme="cdcd"><l>Is there hope?--The thought were glory,</l>
          <l>Piercing through a darksome cave:</l>
          <l>Statesmen, poets, tell thy story,</l> 
          <l>Yet is found no hand to save.</l></lg>
          
-         <lg><l>Is there hope? Yes, if exerted,</l>
+         <lg n="3" type="quatrain" rhyme="efef"><l>Is there hope? Yes, if exerted,</l>
          <l>One untried, resistless power,</l>
          <l>Modest, quiet, unasserted,</l>
          <l>Patient through the darkest hour.</l></lg>
          
-         <lg><l>Sisters:--ye whose tears have glistened</l>
+         <lg n="4" type="quatrain" rhyme="ghgh"><l>Sisters:--ye whose tears have glistened</l>
          <l>At the tale of Afric's woe;</l>
          <l>Let the sympathy that listened</l>
          <l>All its energy bestow.</l></lg>
          
-         <lg><l>Gentle hands by thousands aiding,</l> 
+         <lg n="5" type="quatrain" rhyme="ijij"><l>Gentle hands by thousands aiding,</l> 
          <l>Eloquence, though soft as lutes,</l>
          <l>By ten thousand lips persuading,</l> 
          <l>Can secure your high pursuits.</l></lg>
          
-         <lg><l>Shall a gust of blessings reach us,</l>
+         <lg n="6" type="quatrain" rhyme="klkl"><l>Shall a gust of blessings reach us,</l>
          <l>Poured from grateful negro-tongues,</l>
          <l>While their generous virtues teach us</l> 
          <l>Negroes can forget their wrongs?</l></lg>
          
-         <lg><l>Yes, the western breeze shall bear it­-</l>
+         <lg n="7" type="quatrain" rhyme="mnmn"><l>Yes, the western breeze shall bear it­-</l>
          <l>Yes, the triumph shall be true!</l>
          <l>Sister-Britons, ye shall share it,­-</l>
          <l>Heaven reserves the bliss for you!</l></lg>
