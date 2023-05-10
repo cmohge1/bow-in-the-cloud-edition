@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Hope</title>
-            <author>Dinah Ball</author>
+            <author ref="#../prosopography.xml/ball_d">Dinah Ball</author>
             <editor>Christopher Ohge</editor>
          </titleStmt>
          <publicationStmt>
@@ -60,7 +60,7 @@
          <l>Sister-Britons, ye shall share it,­-</l>
          <l>Heaven reserves the bliss for you!</l></lg>
          
-         <signed>D. Ball</signed></div>
+           <signed><persName ref="#../prosopography.xml/ball_d">D. Ball</persName></signed></div>
          
       </body>
   </text>
