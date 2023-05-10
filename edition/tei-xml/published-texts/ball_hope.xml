@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hope</title>
+            <author>Dinah Ball</author>
+            <editor>Christopher Ohge</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud: A Digital Edition and Network Analysis</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud, pp. 54–55.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         
+        <p>Written after first hearing of the formation of Ladies' Anti-Slavery Associations.</p>
+         
+         <lg>
+         <l>Slavery! silent hopeless anguish­--</l>
+         <l>British souls have felt thy care:</l>
+         <l>Yet their firmest efforts languish</l>
+         <l>Into all the slave's despair.</l></lg>
+         
+         <lg><l>Is there hope?--The thought were glory,</l>
+         <l>Piercing through a darksome cave:</l>
+         <l>Statesmen, poets, tell thy story,</l> 
+         <l>Yet is found no hand to save.</l></lg>
+         
+         <lg><l>Is there hope? Yes, if exerted,</l>
+         <l>One untried, resistless power,</l>
+         <l>Modest, quiet, unasserted,</l>
+         <l>Patient through the darkest hour.</l></lg>
+         
+         <lg><l>Sisters:--ye whose tears have glistened</l>
+         <l>At the tale of Afric's woe;</l>
+         <l>Let the sympathy that listened</l>
+         <l>All its energy bestow.</l></lg>
+         
+         <lg><l>Gentle hands by thousands aiding,</l> 
+         <l>Eloquence, though soft as lutes,</l>
+         <l>By ten thousand lips persuading,</l> 
+         <l>Can secure your high pursuits.</l></lg>
+         
+         <lg><l>Shall a gust of blessings reach us,</l>
+         <l>Poured from grateful negro-tongues,</l>
+         <l>While their generous virtues teach us</l> 
+         <l>Negroes can forget their wrongs?</l></lg>
+         
+         <lg><l>Yes, the western breeze shall bear it­-</l>
+         <l>Yes, the triumph shall be true!</l>
+         <l>Sister-Britons, ye shall share it,­-</l>
+         <l>Heaven reserves the bliss for you!</l></lg>
+         
+         <signed>D. Ball</signed>
+         
+      </body>
+  </text>
+</TEI>
