@@ -21,45 +21,46 @@
   <text>
       <body>
          
-        <p>Written after first hearing of the formation of <hi rend="italic">Ladies</hi>' Anti-Slavery Associations.</p>
+        <div type="poem" rhyme="abab">
+           <p>Written after first hearing of the formation of <hi rend="italic">Ladies</hi>' Anti-Slavery Associations.</p>
          
-         <lg n="1" type="quatrain" rhyme="abab">
+         <lg n="1" type="quatrain">
          <l>Slavery! silent hopeless anguish­-</l>
          <l>British souls have felt thy care:</l>
          <l>Yet their firmest efforts languish</l>
          <l>Into all the slave's despair.</l></lg>
          
-         <lg n="2" type="quatrain" rhyme="cdcd"><l>Is there hope?--The thought were glory,</l>
+         <lg n="2" type="quatrain"><l>Is there hope?--The thought were glory,</l>
          <l>Piercing through a darksome cave:</l>
          <l>Statesmen, poets, tell thy story,</l> 
          <l>Yet is found no hand to save.</l></lg>
          
-         <lg n="3" type="quatrain" rhyme="efef"><l>Is there hope? Yes, if exerted,</l>
+         <lg n="3" type="quatrain"><l>Is there hope? Yes, if exerted,</l>
          <l>One untried, resistless power,</l>
          <l>Modest, quiet, unasserted,</l>
          <l>Patient through the darkest hour.</l></lg>
          
-         <lg n="4" type="quatrain" rhyme="ghgh"><l>Sisters:--ye whose tears have glistened</l>
+         <lg n="4" type="quatrain"><l>Sisters:--ye whose tears have glistened</l>
          <l>At the tale of Afric's woe;</l>
          <l>Let the sympathy that listened</l>
          <l>All its energy bestow.</l></lg>
          
-         <lg n="5" type="quatrain" rhyme="ijij"><l>Gentle hands by thousands aiding,</l> 
+         <lg n="5" type="quatrain"><l>Gentle hands by thousands aiding,</l> 
          <l>Eloquence, though soft as lutes,</l>
          <l>By ten thousand lips persuading,</l> 
          <l>Can secure your high pursuits.</l></lg>
          
-         <lg n="6" type="quatrain" rhyme="klkl"><l>Shall a gust of blessings reach us,</l>
+         <lg n="6" type="quatrain"><l>Shall a gust of blessings reach us,</l>
          <l>Poured from grateful negro-tongues,</l>
          <l>While their generous virtues teach us</l> 
          <l>Negroes can forget their wrongs?</l></lg>
          
-         <lg n="7" type="quatrain" rhyme="mnmn"><l>Yes, the western breeze shall bear it­-</l>
+         <lg n="7" type="quatrain"><l>Yes, the western breeze shall bear it­-</l>
          <l>Yes, the triumph shall be true!</l>
          <l>Sister-Britons, ye shall share it,­-</l>
          <l>Heaven reserves the bliss for you!</l></lg>
          
-         <signed>D. Ball</signed>
+         <signed>D. Ball</signed></div>
          
       </body>
   </text>
