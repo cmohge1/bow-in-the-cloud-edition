@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Negro</title>
+            <author>John Bowring</author>
+            <editor>Mary Anne Rawson</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published in the Bow in the Cloud (1834), pp. 68–71.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+            <!-- ms at https://www.digitalcollections.manchester.ac.uk/view/MS-ENGLISH-00414-00046/1 -->
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="poem">
+            <label type="stanza-num">I.</label>
+         <lg n="1"><l>Close to the deep and rapid Zaire</l>
+         <l>I sat beneath a mangrove tree,</l>
+         <l>And my young children sported there</l>
+         <l>In the bright sunshine, gay and free:</l>
+         <l>I saw their mother's grave, and said,</l>
+         <l>"How blest a laughing child to be!</l>
+         <l>How soon their little griefs are fled,</l>
+         <l>Their joys, their raptures never flee."</l></lg>
+         
+            <label type="stanza-num">II.</label>
+         <lg n="2"><l>She died, she died in peace:--but thought</l>
+         <l>In all those happy children met</l>
+         <l>The traces that affection sought;</l>
+         <l>Their mother's image blessed me yet:</l>
+         <l>And then I checked my tears awhile,</l>
+         <l>(Grief e'en a negro's cheek can wet!)</l>
+         <l>They smiled so like their mother's smile,</l>
+         <l>O how could I that smile forget!</l></lg>
+         
+            <label type="stanza-num">III.</label>
+         <lg><l>I looked upon my girls and boys,</l>
+         <l>Now of a mother's love bereft;</l>
+         <l>Though heaven had shaded many joys,</l> 
+         <l>Some yet unclouded joys were left:</l>
+         <l>And I could hope that He who pours</l>
+         <l>Fresh waters from the rock that's cleft,</l>
+         <l>He who destroys and who restores,</l>
+         <l>Would retribute death's cruel theft!</l></lg>
+         
+            <label type="stanza-num">IV.</label>
+         <lg><l>And thus I mused--and thus I taught</l>
+         <l>Life's energies to wake again:</l>
+         <l>Alas! death's cruelties are nought,--</l>
+         <l>Nought to the cruelties of men:--</l>
+         <l>A fiercer tyrant far than death--</l>
+         <l>The white man came!--I cried in vain,</l>
+         <l>No sighs--nor tears--nor smothered breath,</l>
+         <l>Could soothe or snap the negro's chain.</l></lg>
+         
+            <label type="stanza-num">V.</label>
+         <lg><l>He tore me from my children's home;</l>
+         <l>He wrenched me from their mother's grave!</l>
+         <l>And will no day of vengeance come?</l>
+         <l>Shall man his God for ever brave?</l>
+         <l>Shall earth be made a desert still?</l>
+         <l>Shall heaven be outraged--heaven that gave</l>
+         <l>A form erect, an upward will,</l>
+         <l>A heavenly hope, to free and slave?</l></lg>
+         
+            <label type="stanza-num">VI.</label>
+         <lg><l>What! have we not a soul to feel,</l>
+         <l>And eyes to weep, and hearts to bleed?</l>
+         <l>Though white man's heart is stone or steel;--</l>
+         <l>Ours--ours is human flesh indeed.</l>
+         <l>If hate--revenge--if hope--despair--</l>
+         <l>Love--memory--all that mind can breed--</l>
+         <l>Or good and evil angels share,</l>
+         <l>Be man--<hi rend="italic">of</hi> man--enslaved, or freed!</l></lg>
+         
+            <label type="stanza-num">VII.</label>
+         <lg><l>The pangs unuttered thoughts create--</l>
+         <l>The sweat-drops burning on my brow;</l>
+         <l>The words of anguish and of hate</l>
+         <l>That tremble on my lips e'en now,</l>
+         <l>Are they not human? Are they not</l>
+         <l>Of passions such as those which bow</l>
+         <l>The white man's spirit--those which blot</l>
+         <l>The white man's page of vice and woe?</l></lg>
+         
+            <label type="stanza-num">VIII.</label>
+         <lg><l>Yes! He who moulded mortal clay,</l>
+         <l>And breathed his Spirit there,--who planned</l>
+         <l>Creation's infinite display,</l>
+         <l>Hath coloured with a master's hand:</l>
+         <l>Various and beautiful the race</l>
+         <l>Of scattered man--He stamped no brand</l>
+         <l>Of slavery on the negro's face--</l>
+         <l>Life--Liberty--were His <hi rend="italic">command</hi>.</l></lg>
+         
+         <signed>John Bowring</signed>
+         
+         <dateline><placeName><hi rend="italic">Hackney</hi></placeName>, <date when="1826-02-04"><hi rend="italic">4th Feb</hi>. 1826</date>.</dateline>
+         </div>
+      </body>
+  </text>
+</TEI>
