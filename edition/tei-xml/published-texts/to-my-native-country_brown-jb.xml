@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To My Native Country</title>
+            <author>James Baldwin Brown</author>
+            <editor>Mary Anne Rawson</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         
+         <div type="poem">
+         <label type="stanza-num">I.</label>
+         <lg n="1">
+         <l>Fair land of my fathers! I hail with delight</l>
+         <l>The white streak of thy cliffs o'er the dark-rolling sea;</l>
+         <l>Though distant the prospect, though faint be its light,</l>
+         <l>That line on the surge is the land-mark to me;</l>
+         <l>Beyond whose tall ramparts for ages have stood,</l>
+         <l>'Mid the roar of the waves,--where for ages shall be,</l>
+         <l>The birth-place, the home, of the great and the good,</l>
+         <l>In the land of my fathers--the land of the free.</l>
+         </lg>
+         
+            <label type="stanza-num">II.</label>
+         <lg n="2"><l>Fair land of my fathers! thy rich and thy poor,</l>
+         <l>The peasant and peer, in one equal degree,</l>
+         <l>Claim freedom their birthright; the thatched-cottage door</l>
+         <l>Is strong as the castle or palace can be;</l>
+         <l>So that noble nor king may oppress or annoy</l> 
+         <l>Its tenant in tatters. Thus long may we see,</l>
+         <l>What the world cannot rival, nor hope to destroy</l>
+         <l>The fair land of my fathers,--the land of the free.</l></lg>
+         
+            <label type="stanza-num">III.</label>
+         <lg n="3"><l>Fair land of my fathers! by chance should the foot</l>
+         <l>Of the manacled negro but touch on thy shore,</l> 
+         <l>Where justice, religion, humanity, meet,</l>
+         <l>His chains burst asunder, and slavery no more</l>
+         <l>May fetter his frame or his spirit; but brute,</l>
+         <l>And worm of the earth that he has been, e'en he,</l>
+         <l>Starts at once into life,<note type="authorial">[Author's note: It is almost superfluous to refer the reader to Curran's Speeches for the original of this idea.]</note> in that freedom whose root</l> 
+         <l>Strikes deep through each grain of the land of the free.</l></lg>
+         
+            <label type="stanza-num">IV.</label>
+         <lg n="4"><l>Fair land of my fathers! yet is there one blot</l>
+         <l>On the sun of thy glory; and dark though it be,</l> 
+         <l>And figured in blood, oh! who prayeth not,</l>
+         <l>That its shadow may now be departing from thee?</l>
+         <l>It is this:--that whilst thou art the light of the world--</l>
+         <l>The rock, and the land-mark of freedom--there be</l>
+         <l>Wide, far-distant realms, where thy banner's unfurled,</l>
+         <l>O'er millions of slaves to the land of the free.</l></lg>
+         
+            <label type="stanza-num">V.</label>
+         <lg><l>Fair land of my fathers! no longer be this</l>
+         <l>Thy reproach amongst men, and thy curse before God;</l>
+         <l>But bow in repentance, and sorrowing, kiss,</l>
+         <l>Ere it strike in his anger, his chastening rod:</l>
+         <l>Give the negro, the Indian, throughout thy domains,</l>
+         <l>The birthright thy children inherit from thee;</l>
+         <l>And when thou, at length, shalt have broken their chains,</l>
+         <l>Throughout all her borders thy land shall be free.</l></lg>
+         
+            <signed><persName ref="../personography.xml#brown_jb">James Baldwin Brown</persName></signed>
+         
+         <dateline><date when="1827-04-13">April 13th, 1827</date>.</dateline>
+         </div>
+      </body>
+  </text>
+</TEI>
