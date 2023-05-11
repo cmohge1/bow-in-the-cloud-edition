@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Slave-Ship</title>
+            <author>S.</author>
+            <editor>Mary Anne Rawson</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Edition and Network Analysis</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud (1834), pp. 66–67.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="poem">
+            <lg>
+            <l>All are on board,--and for the favouring gale,</l>
+            <l>To weigh the anchor, and to spread the sail,</l>
+            <l>Alone they wait,--up springs a gentle breeze,</l>
+            <l>And white waves ripple o'er the clear blue seas;</l>
+            <l>High on the deck, the impatient captain stands,</l>
+            <l>And gives the word to weigh for distant lands;</l>
+            <l>In deepening tones the seamen shout "Unmoor,"</l>
+            <l>The cheerful cry re-echoes to the shore;</l>
+            <l>The gathering winds now gently fill the sails,</l>
+            <l>The streamers flutter in the welcome gales.</l>
+            <l>What Briton's voice but eager now inquires,</l>
+            <l>(While glows his heart with all a patriot's fires,)</l>
+            <l>"Is it to meet the foe upon the wave,</l>
+            <l>To whelm him there, and Albion to save,</l>
+            <l>Yon vessel seeks the main? Are you the crew</l>
+            <l>Whose hands are mighty, and whose hearts are true?</l>
+            <l>Is yon the bark that bears upon the breeze,</l>
+            <l>Britannia's thunder, o'er Britannia's seas?</l>
+            <l>A patriot's blessing rest upon her sails,</l>
+            <l>And prosperous wishes strengthen all her gales;</l>
+            <l>May glorious conquest crown her virtuous toil!"--</l>
+            <l>--Oh! cease thy wishes, 'tis for human spoil</l>
+            <l>Yon demons seek the flood, and be those sails</l>
+            <l>Adversely wafted,--shivered by those gales!</l>
+            <l>Upon yon deck no virtuous chieftain stands,</l>
+            <l>Nor does he hold command o'er gallant bands;</l>
+            <l>Not for his country drawn his righteous sword,</l> 
+            <l>Not for his country are the deeps explored,</l>
+            <l>No patriot's wishes waft him from the shores,</l>
+            <l>For him the fort no parting volley pours;</l>
+            <l>Scorned and detested by his fellow-men,</l>
+            <l>The worst of monsters and yon bark his den.</l>
+         </lg>
+            
+            <signed>S.<lb/>
+               <placeName>Sheffield.</placeName>
+            </signed>
+         </div>
+      </body>
+  </text>
+</TEI>
