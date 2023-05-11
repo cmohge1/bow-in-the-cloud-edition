@@ -11,10 +11,12 @@
             <editor>Mary Anne Rawson</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Edition and Network Analysis</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>Published in the Bow in the Cloud (1834), pp. 63–65.</p>
+            <!-- MS witness at https://www.digitalcollections.manchester.ac.uk/view/MS-ENGLISH-00414-00041-A/1 
+               and covering letter at https://www.digitalcollections.manchester.ac.uk/view/MS-ENGLISH-00414-00040/1-->
          </sourceDesc>
       </fileDesc>
   </teiHeader>
