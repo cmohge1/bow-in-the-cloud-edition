@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Death of the Slave</title>
+            <author>James Edmeston</author>
+            <editor>Mary Anne Rawson</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Edition and Network Analysis</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud (1834), pp. 71–73.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         
+         <div type="poem">
+         <head type="headnote">The Funeral of the African in his native land is accompanied by wailing, and by all the deep-marked emotions of savage grief; but, in a state of Slavery, death is welcomed as a most Joyous event, and the funeral is accompanied by the most extreme exultation; for they believe that they shall then return to their home and their friends, the scenes of their infancy, and to all they love.</head>
+         
+         <lg type="quatrain" n="1"><l>Rejoice for the dead, with the shout and the song!</l>
+         <l>He has borne all his pain, he has suffered his wrong,</l>
+         <l>He has burst from his chain, and his labour is o'er,</l>
+         <l>He will start at the lash of the driver no more!</l></lg>
+         
+            <lg type="quatrain" n="2"><l>Full many a heavy slow year has passed by,</l>
+         <l>Since they tore him away from his palm-hut to die;</l>
+         <l>But now he has gone where his suffering ends,</l>
+         <l>And merry to-night will he be with his friends!</l></lg>
+         
+            <lg type="quatrain" n="3"><l>How his wife will rejoice, in whose bosom he lay!</l> 
+         <l>And his children, who ran round him every day!</l>
+         <l>The baby Quenana, who sat on his knee,</l>
+         <l>What a tall and a sweet, blooming girl she will be!</l></lg>
+         
+         <lg type="quatrain"><l>You remember the night when the moon was sofair,</l>
+         <l>And we gathered around for our summer sport there;</l>
+         <l>When the war-cry was raised, we were filled with dismay,</l>
+         <l>And the robbers of men bore us off for their prey.</l></lg>
+         
+            <lg type="quatrain"><l>O Guinea! the thought of thy forests how dear!</l>
+         <l>Thy toucan and tinamon often we hear;</l>
+         <l>Well!--a little more labour, and we too shall be</l>
+         <l>In the dance with our friends round the wide-spreading tree!</l></lg>
+         
+         <signed>James Edmeston.</signed>
+         
+         <dateline><placeName>Homerton</placeName>, <date when="1826">1826</date>.</dateline></div>
+      </body>
+  </text>
+</TEI>
