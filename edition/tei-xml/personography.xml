@@ -48,6 +48,16 @@
                <forename type="middle">Moon</forename></name> 
             </person>
             <!-- ... -->
+            <person xml:id="sterndale_mh">
+            <name>
+               <surname>Sterndale</surname>
+               <forename type="first">Mary</forename>
+               <forename type="nee">Handley</forename>
+            </name>
+               <birth>1766</birth>
+               <death>1840</death>
+               <note>Mary Handley Sterndale was a poet, novelist, and travel writer. Born in Derbyshire. She became friends with the poet Anna Seward (1742-1809; ODNB). See more at https://btw.wlv.ac.uk/authors/1138.</note>
+            </person>
             <person xml:id="wiffen_jh">
                <name>
                   <surname>Wiffen</surname>
@@ -57,9 +67,7 @@
                <birth>1792</birth>
                <death>1836</death>
                <note>Wiffen was a prolific poet and translator. He hailed from an ironmongers family in Woburn, Bedfordshire. With James Baldwin Brown and the Rev. Thomas Raffles, he published a book entitled 'Poems by Three Friends' in 1812. In 1821, John Russell, the (progressive) 6th Duke of Bedford, appointed him the Chief Librarian at Woburn Abbey. He set about writing a history of the Hosue of Russell, translating the Italian poet Tasso, and writing well-regarded poems such as 'On Planting a Slip from Milton’s Mulberry Tree, in the Grounds of Woburn Abbey, Presented by Dr. Thackeray, of Cambridge'. <!-- CHECK? Wiffen had began work on a history of the Russell family.  The research on this, which took him to Normandy for four months, took eight years in total, and the resultant book was the most detailed family history he could compile.  It was published in 1833, as “The Historical Memoirs of the House of Russell”. The Senate House Library, at the University of London, holds 25 pages of manuscript notes of the book, but it breaks off at about 1230AD. A number of engravings are inserted, including seven taken from the large paper edition of the book. -->
-                  
-                  
-          </note>
+             </note>
             </person>
          </listPerson>
       </body>

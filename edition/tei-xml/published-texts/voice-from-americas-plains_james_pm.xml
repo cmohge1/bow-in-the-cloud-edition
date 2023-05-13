@@ -24,7 +24,7 @@
          <div type="poem">
          <div type="section" n="1"><head>Part I.</head>
          
-         <lg n="1" type="octet"><l>A voice from America's plains!</l>
+            <lg n="1" type="octet"><l><hi rend="smallcaps">A voice</hi> from America's plains!</l>
          <l>A shout o'er the waves of the sea!</l>
          <l>"Colombia hath broken her chains,</l>
          <l>The bondsmen have fought and are free!</l>
@@ -66,7 +66,7 @@
          
          <head>Part II.</head>
          
-         <lg n="5" type="quatrain"><l>A cry from the isles of the west!</l>
+         <lg n="5" type="quatrain"><l><hi rend="smallcaps">A cry</hi> from the isles of the west!</l>
          <l>A groan o'er the desolate wave!</l>
          <l>'Tis the cry of the soul of the weary for rest,</l>
          <l>The groan of despair from the slave.</l></lg>
@@ -106,15 +106,15 @@
          <l>The African lion hath burst through his toils,</l>
          <l>And who shall disturb his dread lair!</l></lg>
          
-            <lg n="13" type="quatrain"><l>"But *our* thoughts do not dwell with the sword,</l> 
+            <lg n="13" type="quatrain"><l>"But <hi rend="italic">our</hi> thoughts do not dwell with the sword,</l> 
          <l>To the brave in our weakness we kneel;</l>
          <l>Sweet Mercy hath breathed for our sorrows her word,</l>
          <l>And her pleadings are stronger than steel!"</l></lg>
          </div>
          
-            <signed><persName ref="../personography.xml#james_pm">Paul Moon James</persName>.</signed>
+            <signed><persName ref="../personography.xml#james_pm"><hi rend="smallcaps">Paul Moon James</hi></persName>.</signed>
          
-         <dateline><placeName>Birmingham</placeName>, <date when="1826">1826</date>.</dateline>
+         <dateline><placeName><hi rend="italic">Birmingham</hi></placeName>, <date when="1826">1826</date>.</dateline>
          </div>
       </body>
   </text>
