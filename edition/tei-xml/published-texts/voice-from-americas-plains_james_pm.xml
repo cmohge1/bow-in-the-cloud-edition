@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>"A Voice from America's Plains"</title>
+            <author>Paul Moon James</author>
+            <editor>Mary Anne Rawson</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Edition and Network Analysis</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud (1834), pp. 74–77.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         
+         <div type="poem">
+         <div type="section" n="1"><head>Part I.</head>
+         
+         <lg n="1" type="octet"><l>A voice from America's plains!</l>
+         <l>A shout o'er the waves of the sea!</l>
+         <l>"Colombia hath broken her chains,</l>
+         <l>The bondsmen have fought and are free!</l>
+         <l>Hail, Britain! hail, Liberty's land!</l>
+            <l>Where beauty and manliness blend;</l>
+         <l>In the boldness of freemen we stand,</l>
+         <l>And hail thee our brother, our friend!</l></lg>
+         
+         <lg n="2" type="octet"><l>"Long ages were destined to roll,</l>
+         <l>And our spirits were shadowed with gloom,</l> 
+         <l>But who shall imprison the soul</l>
+         <l>When she dares her just rights to assume?</l>
+         <l>The nature of manhood is changed,</l>
+         <l>When the scorn of oppression swells high;</l>
+         <l>And the warriors in battle are ranged,</l>
+         <l>Who have sworn to live free or to die.</l></lg>
+         
+         <lg n="3" type="octet"><l>"Now the wave round the storm-vext Magellan</l>
+         <l>The downfall of tyranny sings;</l>
+         <l>And Mexico's mountains are telling</l> 
+         <l>The joy that from liberty springs.</l>
+         <l>Cotopaxi hath caught the proud strain,</l>
+         <l>Chimborazo's wild echo replies;</l>
+         <l>And the sailor that ploughs the free main</l>
+         <l>Repeats the glad shout to the skies.</l></lg>
+         
+            <lg n="4" type="octet"><l>"Truth and light to our shores are advancing,</l>
+         <l>Bright knowledge illumines our race,</l>
+         <l>And bigotry's meteor, wild glancing,</l>
+         <l>To religion's blest day-star gives place.</l> 
+         <l>Hail, Britain! hail, liberty's land!</l>
+         <l>Where beauty and manliness blend;</l>
+         <l>In the boldness of freemen we stand,</l>
+         <l>And bail thee our brother, our friend!"</l></lg>
+         </div>
+         
+         <div type="section" n="2">
+         <head>"A Cry from the Isles of the West."</head>
+         
+         <head>Part II.</head>
+         
+         <lg n="5" type="quatrain"><l>A cry from the isles of the west!</l>
+         <l>A groan o'er the desolate wave!</l>
+         <l>'Tis the cry of the soul of the weary for rest,</l>
+         <l>The groan of despair from the slave.</l></lg>
+         
+         <lg n="6" type="quatrain"><l>"Shall the winds as they sweep round the earth</l>
+         <l>The downfall of tyranny sing,</l>
+         <l>And the tidings triumphant of Liberty's birth</l>
+         <l>To all but the African bring?</l></lg>
+         
+            <lg n="7" type="quatrain"><l>"O Britain! while realms in despair</l>
+         <l>Invoke thee to soothe their distress,</l>
+         <l>Shall all but the bondsmen of Africa share</l>
+         <l>Thy power, thy exertions to bless?</l></lg>
+         
+            <lg n="8" type="quatrain"><l>"The slave of a Briton! woe, woe</l>
+         <l>To the thought that engenders such shame!</l>
+         <l>Tell it not in the echoing streets of thy foe,</l>
+         <l>Breathe it not in the halls of thy fame!</l></lg>
+         
+            <lg n="9" type="quatrain"><l>"Why lingers the ship on the wave,</l>
+         <l>With her tidings of joy to the soul,</l>
+         <l>That freedom shall dwell with the race of the slave,</l> 
+         <l>And justice our tyrants control:</l></lg>
+         
+            <lg n="10" type="quatrain"><l>"That knowledge shall teach us to trust</l>
+         <l>In our God, and his mercies to scan;</l>
+         <l>And shall raise up the wretch that now grovels in dust,</l>
+         <l>To the pride and the stature of man.</l></lg>
+         
+            <lg n="11" type="quatrain"><l>"O speed! lest Domingo should tell</l>
+         <l>Where the paths of deliverance lie--</l>
+         <l>She hath fought, and the shouts of her victory swell</l>
+         <l>From her ransomed hosts to the sky.</l></lg>
+         
+            <lg n="12" type="quatrain"><l>"They have fought, and their foes were their spoils,</l> 
+         <l>No white man their struggles would share--</l>
+         <l>The African lion hath burst through his toils,</l>
+         <l>And who shall disturb his dread lair!</l></lg>
+         
+            <lg n="13" type="quatrain"><l>"But *our* thoughts do not dwell with the sword,</l> 
+         <l>To the brave in our weakness we kneel;</l>
+         <l>Sweet Mercy hath breathed for our sorrows her word,</l>
+         <l>And her pleadings are stronger than steel!"</l></lg>
+         </div>
+         
+            <signed><persName ref="../personography.xml#james_pm">Paul Moon James</persName>.</signed>
+         
+         <dateline><placeName>Birmingham</placeName>, <date when="1826">1826</date>.</dateline>
+         </div>
+      </body>
+  </text>
+</TEI>

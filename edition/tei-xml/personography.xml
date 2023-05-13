@@ -42,6 +42,11 @@
                   <lb/>'Poems' in conjunction with the Rev. Thomas Raffles and Jeremiah Holmes-Wiffen, 1815, 8vo.
                   <lb/>'Memoirs of the Public and Private Life of John Howard, the Philanthropist,' London, 1818, 4to, 2nd edit. 1823, 8vo; dedicated to William Wilberforce, M.P.</p></note>
             </person>
+            <person xml:id="james_pm">
+               <name><surname>James</surname>
+               <forename type="first">Paul</forename>
+               <forename type="middle">Moon</forename></name> 
+            </person>
             <!-- ... -->
             <person xml:id="wiffen_jh">
                <name>
