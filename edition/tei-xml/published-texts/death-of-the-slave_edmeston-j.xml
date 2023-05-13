@@ -24,7 +24,7 @@
          <div type="poem">
          <head type="headnote">The Funeral of the African in his native land is accompanied by wailing, and by all the deep-marked emotions of savage grief; but, in a state of Slavery, death is welcomed as a most Joyous event, and the funeral is accompanied by the most extreme exultation; for they believe that they shall then return to their home and their friends, the scenes of their infancy, and to all they love.</head>
          
-         <lg type="quatrain" n="1"><l>Rejoice for the dead, with the shout and the song!</l>
+            <lg type="quatrain" n="1"><l><hi rend="smallcaps">Rejoice</hi> for the dead, with the shout and the song!</l>
          <l>He has borne all his pain, he has suffered his wrong,</l>
          <l>He has burst from his chain, and his labour is o'er,</l>
          <l>He will start at the lash of the driver no more!</l></lg>
@@ -49,9 +49,9 @@
          <l>Well!--a little more labour, and we too shall be</l>
          <l>In the dance with our friends round the wide-spreading tree!</l></lg>
          
-         <signed>James Edmeston.</signed>
+         <signed><hi rend="smallcaps">James Edmeston</hi>.</signed>
          
-         <dateline><placeName>Homerton</placeName>, <date when="1826">1826</date>.</dateline></div>
+         <dateline><placeName><hi rend="italic">Homerton</hi></placeName>, <date when="1826">1826</date>.</dateline></div>
       </body>
   </text>
 </TEI>
