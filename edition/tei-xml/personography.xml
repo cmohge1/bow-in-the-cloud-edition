@@ -42,6 +42,17 @@
                   <lb/>'Poems' in conjunction with the Rev. Thomas Raffles and Jeremiah Holmes-Wiffen, 1815, 8vo.
                   <lb/>'Memoirs of the Public and Private Life of John Howard, the Philanthropist,' London, 1818, 4to, 2nd edit. 1823, 8vo; dedicated to William Wilberforce, M.P.</p></note>
             </person>
+            <person xml:id="bulmer_a">
+               <name>
+                  <surname>Bulmer</surname>
+                  <surname type="maiden">Collinson</surname>
+                  <forename>Agnes</forename>
+               </name>
+               <birth><date>1775</date>
+               <placeName>London</placeName></birth>
+               <death><date>1836</date></death>
+               <note>Born in London, Bulmer was a poet who belonged to the Wesleyan community, having been admitted by <ref target="https://www.wikidata.org/wiki/Q349070">Charles Wesley</ref> himself. Her only publications were: 'Memoirs of Mrs. Mortimer,' one or two hymns, and a 12-book epic poem entitled <hi rend="italic">Messiah's Kingdom</hi> (1833). This poem, of nearly fourteen thousand verses, is one of the longest works of poetry composed by a woman. See also the <ref target="https://www.wikidata.org/wiki/Q16147344">Wikidata item</ref>.</note>
+            </person>
             <person xml:id="james_pm">
                <name><surname>James</surname>
                <forename type="first">Paul</forename>

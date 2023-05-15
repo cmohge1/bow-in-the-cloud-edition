@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Liberty</title>
-            <author>Agnes Bulmer</author>
+            <author ref="../personography.xml#bulmer_a">Agnes Bulmer</author>
             <editor>Mary Anne Rawson</editor>
          </titleStmt>
          <publicationStmt>
@@ -242,7 +242,7 @@
          <l>Till, where the tortured victim writhing lay,</l>
          <l>Justice and Peace benign plant Freedom's standard fair.</l></lg>
          
-         <signed><hi rend="smallcap">Agnes Bulmer</hi>.</signed>
+         <signed><persName ref="../personography.xml#bulmer_a"><hi rend="smallcap">Agnes Bulmer</hi></persName>.</signed>
       </div>
       </body>
   </text>
