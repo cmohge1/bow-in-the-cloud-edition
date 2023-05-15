@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http:</l>www.tei-c.org<l>release<l>xml<l>tei<l>custom<l>schema<l>relaxng<l>tei_all.rng" type="application<l>xml" schematypens="http:</l>relaxng.org<l>ns<l>structure<l>1.0"?>
+<?xml-model href="http:</l>www.tei-c.org<l>release<l>xml<l>tei<l>custom<l>schema<l>relaxng<l>tei_all.rng" type="application<l>xml"
+	schematypens="http:</l>purl.oclc.org<l>dsdl<l>schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liberty</title>
+            <author>Agnes Bulmer</author>
+            <editor>Mary Anne Rawson</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Edition and Network Analysis</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud (1834), pp. 78–88.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body><div type="poem">        
+         <label type="stanza-num">I.</label>
+         <lg><l>Fair Liberty! I love thy cheerful mien,</l>
+         <l>When lightly bounding o'er rude mountains grey,</l>
+         <l>In sportive fawn or antlered roebuck seen,</l>
+         <l>Or squirrel darting in fantastic play</l>
+         <l>Amid the leafy shade</l>
+         <l>By sylvan forests made;</l>
+         <l>Or timid cony fleet,</l> 
+         <l>Dancing on downy feet,</l>
+         <l>To crop the springing blade with early flowerets gay.</l>
+         </lg>
+         
+         <label type="stanza-num">II.</label>
+         <lg><l>I love thee in the wild-rose clustered fair,</l>
+         <l>With blossoms tinted soft as beauty's cheek,--</l>
+         <l>In woodbines, breathing perfume on the air,</l>
+         <l>In hedge-row, violet, or daisy meek;</l>
+         <l>In fragrant eglantine,</l>
+         <l>In tendril'd plants, that twine,</l> 
+         <l>Simple, and wild, and free,</l>
+         <l>O'er bower, and branch, and tree,</l>
+         <l>And nature's softest charms in graceful silence speak.</l></lg>
+         
+         <label type="stanza-num">III.</label>
+         <lg><l>I hail thee on the sprightly skylark's wing,</l>
+         <l>Trilling glad welcome to the lord of day;</l>
+         <l>In woodland notes, that greet the ear of Spring,</l>
+         <l>Descending mild; in roseate garland's gay,</l>
+         <l>Fanned by Favonian gales,</l>
+         <l>As bright, through breezy vales,</l> 
+         <l>Or o'er rejoicing meads</l>
+         <l>Her jocund train she leads,</l>
+         <l>While Echo blithe awakes, responsive to their lay.</l>
+         </lg>
+         
+         <label type="stanza-num">IV.</label>
+         <lg><l>Majestic Nature consort seeks with thee,</l>
+         <l>When proud she piles her mountain-heights sublime,</l>
+         <l>Rides the rude billows of the rolling sea,</l>
+         <l>Or, charioted in clouds, from clime to clime</l>
+         <l>Her bolted thunder bears,</l>
+         <l>Her fiery shaft prepares,</l> 
+         <l>Unfurls the whirlwind's wing,</l> 
+         <l>Bids clashing tempests ring,</l>
+         <l>And with embattling spheres confounds the sons of time.</l></lg>
+         
+         <label type="stanza-num">V.</label>
+         <lg><l>By Nature loved and cherished, thou to man,</l>
+         <l>Sweet Liberty, as Heaven's best boon, art dear:</l>
+         <l>Man formed erect, with godlike port, to scan</l>
+         <l>The Deity!--His glorious image here:</l>
+         <l>He triumphs in thy smile,</l>
+         <l>And holds thee proud the while,</l> 
+         <l>Blest birthright of his soul,</l> 
+         <l>Which owns but one control,</l>
+         <l>And yields to God alone, its worship, praise, and fear.</l></lg>
+         
+         <label type="stanza-num">VI.</label>
+         <lg><l>He spurns the chain: the prison'd eagle, less</l> 
+         <l>Ruffles his plumes, immured in captive-thrall;</l>
+         <l>Though manacles his withering limbs oppress,</l> 
+         <l>Though sad beneath fell torture's scourge he fall,</l>
+         <l>Yet claims his spirit high</l>
+         <l>Its conscious dignity,</l>
+         <l>And stern with swelling breast,</l> 
+         <l>Thoughts, but to Heaven expressed,</l>
+         <l>His angered manhood chafes, when ruthless fetters gall.</l></lg>
+         
+         <label type="stanza-num">VII.</label>
+         <lg><l>Man is Heaven's offspring; Heaven in grace benign,</l>
+         <l>With sacred sympathies inspired his soul,</l> 
+         <l>Bade holy Love her silken cords entwine,</l>
+         <l>To hold sweet Liberty in soft control;</l> 
+         <l>Love leads with gentlest rein,</l>
+         <l>That huntress of the plain;</l>
+         <l>With golden link she binds</l> 
+         <l>The bravest loftiest minds,</l>
+         <l>And stills, with charmed voice, rude passion's restless roll.</l></lg>
+         
+         <label type="stanza-num">VIII.</label>
+         <lg><l>Love, sweet ally of Freedom, gently binds</l>
+         <l>The social compact with affection's cord,</l>
+         <l>Yet spurns the wild misrule of lawless minds,</l>
+         <l>The frantic reign of Anarchy abhorred:</l>
+         <l>The wise, the good, from thee,</l>
+         <l>O sacred Liberty!</l>
+         <l>Alone the wreath receive,</l>
+         <l>Which Truth and Justice weave,</l>
+         <l>And Virtue only wears, by Honour's just award.</l></lg>
+         
+         <label type="stanza-num">IX.</label>
+         <lg><l>Not thine the roar of democratic strife,</l>
+         <l>Tumultuous as the ever-surging wave,</l>
+         <l>To battle-field transforming peaceful life,</l>
+         <l>Where proud ambition tempts his venturous slave</l>
+         <l>With meteor-halos bright,</l>
+         <l>That shine with dubious light,</l> 
+         <l>Till envious Darkness shrouds</l>
+         <l>The wildering beam with clouds,</l>
+         <l>And o'er his unhoused head impetuous tempests rave.</l></lg>
+         
+         <label type="stanza-num">X.</label>
+         <lg><l>Nor art thou she, loud boast of classic song,</l>
+         <l>With brows bright wreathed by Victory and Fame,</l>
+         <l>Whom Genius honoured, whom the brave, the strong,</l>
+         <l>Invested with thy glory and thy name:</l>
+         <l>That plumed goddess proud,</l>
+         <l>To whom the boisterous crowd</l> 
+         <l>Their servile worship paid,</l> 
+         <l>Who states and senates swayed,</l>
+         <l>While warrior voices stern upheld her dauntless claim.</l></lg>
+         
+         <label type="stanza-num">XI.</label>
+         <lg><l>Yet was she fierce, and turbulent, and wild,</l>
+         <l>The pageant idol of ungoverned will,</l>
+         <l>Unused to social gentleness, the child</l>
+         <l>Of truant Nature, restless, roving still;</l> 
+         <l>But thou, of gentler mood,</l> 
+         <l>Delightest not in rude</l>
+         <l>And ever-changing strife,</l>
+         <l>No hurricane thy life,</l>
+         <l>But pure and healthful gales thy floating canvas fill.</l></lg>
+         
+         <label type="stanza-num">XII.</label>
+         <lg><l>Yes! Liberty is order, virtue, peace,</l>
+         <l>'Tis valour, when the right her sword demands;</l>
+         <l>She bids the jarring voice of Discord cease,</l> 
+         <l>Her heart is warm with charity, her hands</l>
+         <l>Beneficence employs;</l>
+         <l>To calm Contentment's joys</l>
+         <l>Her holy aid she lends,</l>
+         <l>On Truth's bright path attends,</l>
+         <l>And cheers with blitheful song rude Labour's swarthy bands.</l></lg>
+         
+         <label type="stanza-num">XIII.</label>
+         <lg><l>Britannia! dost thou boast thyself the child,</l>
+         <l>The friend of Freedom, since on mountains rude,</l>
+         <l>Through desert glens, and woodland forests wild,</l>
+         <l>Thy roving step the hunter's toil pursued?</l>
+         <l>Dost thou rejoice to own</l>
+         <l>A proud and stately throne,</l>
+         <l>'Midst circling waters placed,</l>
+         <l>By Truth and Justice based,</l>
+         <l>And long by distant lands with wondering envy viewed?</l></lg>
+         
+         <label type="stanza-num">XIV.</label>
+         <lg><l>Say, dost thou glory in the sevenfold might</l>
+         <l>Of sacred Law's impenetrable shield?</l>
+         <l>Revere impartial Justice? for the right,</l>
+         <l>Prepared the balance or the sword to wield?</l>
+         <l>Hast thou not learned to prize</l>
+         <l>Life's sweetest, tenderest ties,</l>
+         <l>Secure from ruffian hands</l>
+         <l>Of cruel spoiler bands,</l>
+         <l>More fell than evening wolves that scour the pasture field?</l></lg>
+         
+         <label type="stanza-num">XV.</label>
+         <lg><l>Cradled on ocean billows, thou hast borne</l>
+         <l>Thy trident-sceptre with a steadfast hand,</l>
+         <l>Thy noble brow the victor's wreath hath worn,</l>
+         <l>Of laurels culled in many a far-famed land;</l>
+         <l>Can then thy generous mind,</l>
+         <l>With servile fetters bind</l>
+         <l>A brother's neck, as free,</l>
+         <l>A heart, to Liberty</l>
+         <l>Bound firmly as thine own, by Nature's kindly band?</l></lg>
+         
+         <label type="stanza-num">XVI.</label>
+         <lg><l>Hark! comes there not a wailing on the blast?</l>
+         <l>A voice, as if the Genius of the deep,</l>
+         <l>From yon wide weltering water-floods, had cast,</l>
+         <l>On some lorn strand, a lonely wretch, to weep</l>
+         <l>The wreck of cherished bliss?</l>
+         <l>Hope's brightest promises,</l>
+         <l>His drear and rueful fate,</l>
+         <l>Lost, lonely, desolate,</l>
+         <l>Where only wild winds rave and surging billows sweep?</l></lg>
+         
+         <label type="stanza-num">XVII.</label>
+         <lg><l>Britannia! comes not such a voice to thee,</l>
+         <l>That blends upbraidings with its woe-worn wail?</l>
+         <l>Is not Hope wrecked in dire captivity?</l>
+         <l>And hoarser, harsher, than wild tempest-gale,</l>
+         <l>Or boisterous billow's roar,</l>
+         <l>On rude, bleak, barren shore,</l>
+         <l>Comes not to Slavery's ear,</l>
+         <l>Oppression's voice of fear?</l>
+         <l>And tells not Afric wronged as sad and dark a tale?</l></lg>
+         
+         <label type="stanza-num">XVIII.</label>
+         <lg><l>Oh! thou hast sinned, even Nature's parent voice</l>
+         <l>Attaints the baseness of thy treacherous crime;</l>
+         <l>Beneath bright skies, her blooming isles rejoice,</l>
+         <l>Her flowers breathe fragrance, and her woods sublime</l>
+         <l>Wave in the laughing wind;</l>
+         <l>But earth-born Avarice, blind,</l>
+         <l>With foul pestiferous breath,</l>
+         <l>Hath scattered seeds of death,</l>
+         <l>To rise in rifest plagues through long succeeding time.</l></lg>
+         
+         <label type="stanza-num">XIX.</label>
+         <lg><l>But, no! a deprecating prayer ascends,</l>
+         <l>And suppliant hands are lifted to the skies;</l>
+         <l>Closed long,--too long--yet now proud Albion bends</l>
+         <l>Her listening ear to Afric's mournful cries;</l>
+         <l>She burns to break the chain,</l>
+         <l>To cleanse the dark, dark stain</l>
+         <l>From those fair isles away;</l>
+         <l>To pour the gladdening ray</l>
+         <l>Of Liberty and light on Slavery's tear-dimmed eyes.</l></lg>
+         
+         <label type="stanza-num">XX.</label>
+         <lg><l>Arouse thee, Albion! thou whose lofty neck</l>
+         <l>Could never stoop the captive's yoke to bear;</l>
+         <l>No more thy brows with clustering roses deck,</l>
+         <l>With Victory's chaplet, wreathe thy sun-bright hair,</l>
+         <l>Till thy stern lion bold,</l>
+         <l>Loose from his murderous hold</l> 
+         <l>His lacerated prey;</l>
+         <l>Till, where the tortured victim writhing lay,</l>
+         <l>Justice and Peace benign plant Freedom's standard fair.</l></lg>
+         
+         <signed><hi rend="smallcap">Agnes Bulmer</hi>.</signed>
+      </div>
+      </body>
+  </text>
+</TEI>
