@@ -21,7 +21,7 @@
   <text>
       <body>
          <div type="prose"> <!-- note: add to bibl entries for biblical quotations -->
-            <p><hi rend="smallcap">That</hi> it is our bounden duty as <hi rend="italic">Christians</hi> to labour in the cause of the abolition of slavery, is a proposition so reasonable and obvious, that one might have supposed no one could have doubted it. Yet such is the perversion of heart and intellect to which mankind are liable, that some persons have contrived to persuade themselves that their Christian duty, in reference to this subject, lies in <hi rend="italic">absolute inaction</hi>.</p>
+            <p><hi rend="small-caps">That</hi> it is our bounden duty as <hi rend="italic">Christians</hi> to labour in the cause of the abolition of slavery, is a proposition so reasonable and obvious, that one might have supposed no one could have doubted it. Yet such is the perversion of heart and intellect to which mankind are liable, that some persons have contrived to persuade themselves that their Christian duty, in reference to this subject, lies in <hi rend="italic">absolute inaction</hi>.</p>
             
             <p>In the first place, they urge as a plea for their non-interference, the curse pronounced by Noah on Canaan. <quote type="biblical">"Cursed be Canaan," said the offended patriarch, "<hi rend="italic">a servant of servants shall he be to his brethren</hi>." <bibl>(Gen. ix. 25.)</bibl></quote></p>
             
@@ -49,7 +49,7 @@
             
             <p>Acknowledge the golden rule, "<hi rend="italic">Do unto others as ye would that others should do unto you</hi>," and the bonds of iniquity must be broken. Just in proportion to the degree in which the precept is obeyed, will true liberty, charity, and peace prevail among mankind; and should it arise into its native and full dominion, <hi rend="italic">Slavery</hi> will finally and for ever disappear from the face of the globe.</p>
             
-            <signed><persName ref="#gurney_jj"><hi rend="smallcap">Joseph John Gurney</hi></persName>.</signed></div>
+            <signed><persName ref="../personography.xml#gurney_jj"><hi rend="small-caps">Joseph John Gurney</hi></persName>.</signed></div>
       </body>
   </text>
 </TEI>
