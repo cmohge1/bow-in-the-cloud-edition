@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks on the Putting and End to Slavery</title>
+            <author>Joseph John Gurney</author>
+            <editor>Mary Anne Rawson</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Edition and Network Analysis</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>This is an encoded text of the piece published in the Bow in the Cloud (1834), pp. 89–95.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="prose"> <!-- note: add to bibl entries for biblical quotations -->
+            <p><hi rend="smallcap">That</hi> it is our bounden duty as <hi rend="italic">Christians</hi> to labour in the cause of the abolition of slavery, is a proposition so reasonable and obvious, that one might have supposed no one could have doubted it. Yet such is the perversion of heart and intellect to which mankind are liable, that some persons have contrived to persuade themselves that their Christian duty, in reference to this subject, lies in <hi rend="italic">absolute inaction</hi>.</p>
+            
+            <p>In the first place, they urge as a plea for their non-interference, the curse pronounced by Noah on Canaan. <quote type="biblical">"Cursed be Canaan," said the offended patriarch, "<hi rend="italic">a servant of servants shall he be to his brethren</hi>." <bibl>(Gen. ix. 25.)</bibl></quote></p>
+            
+            <p>Since the person by whom Noah had been offended was not Canaan, but his father Ham, it is taken for granted by these objectors that "Canaan" is here put for "Ham." And since Ham, <hi rend="italic">through his son Mizraim</hi>, was the progenitor of the Africans, they conclude, first, that the prophecy is accomplished in the slavery of the negroes; and, secondly, that <hi rend="italic">therefore</hi> in labouring for the emancipation of the negroes, we labour against the declared decree of the Lord of all the earth.</p>
+            
+            <p>Now supposing the application of the prophecy to the African race to be the true one, what can be more absurd than such a practical inference? The duration of Canaan's servitude is a subject on which the prophecy says nothing, much less does it contain the slightest intimation that their cruel bondage was to have no end. Who, then, shall say that the time is not come for the extermination of African Slavery? or who can deem it unreasonable to suppose, that, in effecting this object, God may be pleased to make use of human instrumentality?</p>
+            
+            <p>But I can by no means assent to such an interpretation of the prophetic record, which I believe received its accomplishment when the Canaanites, who were left in the land of Palestine, became "hewers of wood and drawers of water"--the degraded performers of laborious offices--to their Israelitish conquerors, who were themselves descended from Shem. It is highly probable, also, that many of these Canaanites were exported from Tyre and Sidon, and became slaves to the European nations, the descendants of Japheth. <quote type="biblical">"And he said, Blessed be the Lord God of <hi rend="italic">Shem</hi>, and Canaan shall be his servant: God shall enlarge <hi rend="italic">Japheth</hi> . . . . . . . and Canaan shall be his servant." <bibl>(Gen. Ix. 26, 27.)</bibl></quote></p>
+            
+            <p>Thus utterly vain is the first plea of our objectors; but here we come in contact with a second plea:--<quote type="biblical">"The Israelites held their fellow men in slavery, a practice in which they acted under the authority of their inspired legislator."-- "Both thy bondmen and bondmaids which thou shalt have, shall be of the heathen that are round about you, which they begot in your land, and they shall be your possession. And ye shall take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen for ever." <bibl>(Levit. xxv. 44–46.)</bibl></quote></p>
+            
+            <p>It is the natural right of every man to possess his own person; and, provided he abstains from injuring other men, to dispose of it as he pleases: and it is completely at variance with this right, that any man should assume a property in the person of his neighbour. But in the case of the Israelites, this natural right was suspended by the decree of Nature's Author. The Canaanites who dwelt in the land, and the heathen captives, became the inheritance of the Israelites, by the especial gift of God,--a gift which settles all questions of right. But where is the divine decree,--where is the deed of gift,--which bestows the African race, as bondsmen and bondswomen, on the European nations? Every one knows that our Colonists possess no such authority for slave-holding, and that the title by which their supposed property in slaves originated, was nothing better than the most atrocious avarice, fraud, and cruelty.</p>
+            
+            <p>But although slavery was allowed among the Israelites, it was in a lenient and gentle form, wholly apart from the horrors of British colonial bondage. Israel had known "the heart of a stranger in the land of Egypt;" and therefore the "stranger within his gates," though a hewer of wood and a drawer of water, was to be treated with kindness and consideration. <quote type="biblical">"Thou shalt neither vex a stranger nor oppress him, for ye were strangers in the land of Egypt." <bibl>(Exod. xxii. 21.)</bibl></quote> <quote type="biblical">"And if a stranger sojourn with thee in your land, ye shall not vex him, but the stranger which dwelleth with you shall be as one born among you, and thou shalt love him as thyself."</quote> <bibl><bibl>(Lev. xix. 33, 34.)</bibl></bibl></p>
+            
+            <p>Still more mitigated was the form of slavery among the Israelites, when their fellow-countrymen became their bondsmen. The bondsman in that case was, in fact, not so much a slave as an apprentice; the money paid for him was the hire for his service during a certain period; and, on the recurrence of the sabbatical year, he was, by the divine law, left at liberty. He might then leave his master or continue with him, according to his own pleasure. <bibl>(Exod. xxi. 2.)</bibl></p>
+            
+            <p>The Israelites were not permitted to steal men and sell them, as many professing Christians do in the present day. <quote type="biblical">"He that stealeth a man and selleth him, or if he be found in his hand, be shall surely be put to death." <bibl>(Exod. xx. 20.)</bibl></quote> Neither were they permitted to maltreat or mutilate their slaves, as some of our Colonists do. <quote type="biblical">"If a man smite the eye of his servant, or the eye of his maid, that it perish, he shall let him go free for his eye's sake. And if he smite out his man-servant's tooth, or his maid-servant's tooth, he shall let him go free for his tooth's sake." <bibl>(Exod. xxi. 16.)</bibl></quote> They were all to unite in keeping holy festivals before the Lord. <quote type="biblical">"Thou shalt rejoice before the Lord, thou, thy son, and thy daughter, and <hi rend="italic">thy man-servant, and thy maid-servant</hi>, and the Levite that is within thy gates, and <hi rend="italic">the stranger</hi>, and the fatherless, and the widow that are among you, in the place which the Lord thy God hath chosen to place his name there." <bibl>(Deut. xvi. 11.)</bibl></quote> With these heart-cheering precepts,--with this charitable and edifying practice,--we shall do well to compare the martyrdom of the Missionary Smith, the lawless destruction of meeting-houses, the savage cry of political church-unions, and the flogging of slaves almost to death, for the crime of attending a place of worship and of praying to God!</p>
+            
+            <p>"But, finally," say the objectors, "slavery is nowhere forbidden by our Saviour or his apostles, and may therefore be surely permitted under the gospel dispensation," as if the gospel dispensation annulled, instead of confirming, the rights and liberties of mankind!</p>
+            
+            <p>True indeed it is, that neither our Saviour nor his apostles interfered with the then existing constitution of civil society. The kingdom which Christ came to establish was the kingdom of heaven; and the freedom which he graciously condescended to proclaim was freedom from condemnation and sin. Nevertheless, the law which he enforeed on mankind was, in every just respect, <hi rend="italic">a law of liberty</hi>; and the great principles of his holy religion are radically opposed to all abuses, both of a moral and a civil nature.</p>
+            
+            <p>With regard to slavery, and especially such slavery as degrades our West Indian colonies, it is utterly at variance both with the <hi rend="italic">doctrines</hi> and with the <hi rend="italic">precepts</hi> of Christianity. Admit that the injured descendants of Africa are destined for immortality, and are redeemed by the precious blood of the incarnate Immanuel, and you will no longer tolerate the notion that they are mere goods and chattels; you will no longer endure a system, under which they are worked to death, whipped and branded, at the pleasure of their owners!</p>
+            
+            <p>Acknowledge the golden rule, "<hi rend="italic">Do unto others as ye would that others should do unto you</hi>," and the bonds of iniquity must be broken. Just in proportion to the degree in which the precept is obeyed, will true liberty, charity, and peace prevail among mankind; and should it arise into its native and full dominion, <hi rend="italic">Slavery</hi> will finally and for ever disappear from the face of the globe.</p>
+            
+            <signed><persName ref="#gurney_jj"><hi rend="smallcap">Joseph John Gurney</hi></persName>.</signed></div>
+      </body>
+  </text>
+</TEI>
