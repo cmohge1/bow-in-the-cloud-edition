@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Mary Howitt to Mary Anne Rawson, with the poem 'The West Indian Salesman' attached (English MS 414/27)</title>
+            <author ref="personography.xml#howitt_m">Mary Howitt</author>
+            <editor>Christopher Ohge</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>University of Manchester</institution>
+               <repository>John Rylands Library</repository>
+                  <collection>Rawson-Wilson Anti-slavery Collection</collection>
+                  <idno>English MS 414-27</idno>
+                  <!-- https://www.digitalcollections.manchester.ac.uk/view/MS-ENGLISH-00414-00027/3 -->
+            </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="letter">
+            <opener><dateline><placeName>Nottingham</placeName> <date when="1833-06-16">June 16. 1833</date></dateline>
+            <salute>My dear Mrs Rawson</salute></opener>
+            <p>Your letter did not reach me
+            till some time after its date &amp; I was then in
+            London considerably occupied by many things which
+            hardly left one time to reply to it properly, &amp; beside
+            this, as neither my husband nor myself had any
+            available manuscripts with us, I could not
+            make an answer to you from that plan as
+            useful to you as I hoped to do when I returned
+            You were quite eight about my having requested
+            the two little poems from your hands -- I hoped at
+            that time ? to improve them or to substitute
+            something much better. &amp; on looking ? ?
+            our they seem of so indifferent a stamp that my
+            authorly feeling of self-regard outweighs my goal to
+            publicly come forward even in so good &amp; noble a
+            work as the one you advocate with nothing
+            better than the two poor poems I esteem? you, not?
+            in truth for their value but because 
+            they are your property &amp; not mine.
+            </p>
+            <p>You are <del>also</del> perhaps aware that the incident
+               of the one entitled "The Negro Mother" has
+               since mine was written, been made use of by
+               "Charlotte Elizabeth" so that the originality of its
+               character is gone -- &amp; indeed if I might advise you
+               I would recommend <unclear>?</unclear> of those I send being used
+               for I doubt extremely their ability to do mon mun
+               fill a certain number of pages.</p>
+            <p>Had my husband had any idea of you
+               continuing your intention of publishing your
+               little volume he would not have printed
+               the poem you speak of. He would be most
+               happy to aid you in your good undertaking
+               &amp; so should I most sincerely had we any thing
+               by us which we could offer -- or <del>had we</del> <add>were there now</add> time
+               before they were wanted -- but our absence from
+               home &amp; several things which made an im-
+               perative demand both on time &amp; attention
+               him out return have rendered it impossible.
+               I however copy two stanzas on the other side
+               rather? to show his good will than in any hope that
+               they will be thought suitable seeing the work
+               is edited by a lady.</p>
+               <p>I hope it is needless to say how sincere
+               a sympathy both my husband &amp; myself felt
+               in the <del>head</del> <add>sorrow</add> which removed you from Nottingham
+               but time &amp; religion dear friend "being such
+               wondrous easing" that this is among the many
+               <unclear>mercies [?]</unclear> every tired Christian has to be thank-
+               ful for. I have often enquired after your little
+               daughter &amp; have been glad to hear that she is
+               such a one as to make a mother's heart rejoice.</p>
+               <closer><salute>I am dear Mrs Rawson<lb/>
+               with great respect<lb/> yours truly</salute>
+                  <signed><persName ref="personography.xml#howitt_m">M. Hawett</persName></signed></closer></div>
+            <div type="poem">
+               <head>The West Indian Salesman</head>
+               <lg type="stanza" n="1" rhyme="abababcc">
+                  <l>An English gentleman in Kingstone craves</l>
+               <l>The price of a young tawny of fifteen,</l>
+               <l>Who stands for sale among a crowd of slaves,</l>
+               <l>A sight, thank God! their eyes have never seen.</l>
+               <l>The sum is named, but the shrewd longer waves</l>
+               <l>Awhile the bargain, &amp; with careless mein,</l>
+               <l>says "had the lad but been but a right jet black, he</l>
+               <l>Would suit my taste much better as a lacky!"</l>
+               </lg>
+               <lg type="stanza" n="2" rhyme="abababcc">
+                  <l>"A black!<supplied>"</supplied> retorts the seller "if you knew</l>
+                     <l>What blacks are, you would take a wiser tone</l>
+                    <l>Why sir, for sense &amp; spirit, may for hue</l>
+                     <l>He's a cut diamond to a Negro drone</l>
+                     <l>and hark-a-look at me sir -- &amp; then view</l>
+                    <l>What he will make -- for the young dog's my own!"</l>
+                     <l>"Your own! -- your son! &amp; sell him? God on high</l>
+                     <l>That I should go a Devil's <unclear>brat</unclear> to buy!"</l>
+               </lg>
+            </div>
+      </body>
+  </text>
+</TEI>

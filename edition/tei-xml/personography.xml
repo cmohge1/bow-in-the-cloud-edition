@@ -62,6 +62,17 @@
                </name>
                <!-- complete -->
             </person>
+            <person xml:id="howitt_m">
+               <name>
+                  <surname type="married">Howitt</surname>
+                  <surname type="née">Botham</surname>
+                  <forename>Mary</forename>
+               </name>
+               <birth>1799</birth>
+               <death>1888</death>
+               <note>Best known for her children's poem 'The Spider and the Fly' (1829), Howitt also painted and translated Hans Christian Anderson...</note>
+               <!-- complete -->
+            </person>
             <person xml:id="james_pm">
                <name><surname>James</surname>
                <forename type="first">Paul</forename>
