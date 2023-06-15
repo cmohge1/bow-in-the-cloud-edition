@@ -6,7 +6,7 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letter from Mary Howitt to Mary Anne Rawson, with the poem 'The West Indian Salesman' attached (English MS 414/27)</title>
+            <title>Letter from Mary Howitt to Mary Anne Rawson, with the poem 'The West Indian Salesman' (English MS 414/27)</title>
             <author ref="personography.xml#howitt_m">Mary Howitt</author>
             <editor>Christopher Ohge</editor>
          </titleStmt>
@@ -85,7 +85,7 @@
                such a one as to make a mother's heart rejoice.</p>
                <closer><salute>I am dear Mrs Rawson<lb/>
                with great respect<lb/> yours truly</salute>
-                  <signed><persName ref="personography.xml#howitt_m">M. Hawett</persName></signed></closer></div>
+                  <signed><persName ref="personography.xml#howitt_m">M. Howitt</persName></signed></closer></div>
             <div type="poem">
                <head>The West Indian Salesman</head>
                <lg type="stanza" n="1" rhyme="abababcc">
