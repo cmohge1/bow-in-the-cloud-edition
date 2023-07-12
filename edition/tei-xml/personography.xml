@@ -48,11 +48,21 @@
                   <surname type="maiden">Collinson</surname>
                   <forename>Agnes</forename>
                </name>
-               <birth><date>1775</date>
+               <birth><date when="1775">1775</date>
                <placeName>London</placeName></birth>
-               <death><date>1836</date></death>
+               <death><date when="1836">1836</date></death>
                <note>Born in London, Bulmer was a poet who belonged to the Wesleyan community, having been admitted by <ref target="https://www.wikidata.org/wiki/Q349070">Charles Wesley</ref> himself. Her major publications include <hi rend="italic">Memoirs of Mrs. Mortimer</hi> and a 12-book epic poem entitled <hi rend="italic">Messiah's Kingdom</hi> (1833). This poem, consisting of nearly fourteen thousand verses, is one of the longest works of poetry composed by a woman. See also the <ref target="https://www.wikidata.org/wiki/Q16147344">Wikidata item</ref> and Andrew O. Winckles' 'The Book of Nature and the Methodist Epic: Agnes Bulmer's Analogic Poetics and the End(s) of Romanticism' <hi rend="italic">Womens Writing</hi> 22:2 (2015), pp. 209–28,
                    (<ref target="https://doi.org/10.1080/09699082.2015.1011841">https://doi.org/10.1080/09699082.2015.1011841</ref>).</note>
+            </person>
+            <person xml:id="buxton_tf">
+               <name>
+                  <surname>Buxton</surname>
+                  <forename type="first">Thomas</forename>
+                  <forename type="middle">Fowell</forename>
+               </name>
+               <birth when="1786">1786</birth>
+               <death when="1845">1845</death>
+               <note>British philanthropist and politician who, in 1822, succeeded William Wilberforce as leader of the campaign in the House of Commons for the abolition of slavery in the British colonies and thus was partly responsible for the Abolition Act of August 28, 1833 (Brittanica).</note>
             </person>
             <person xml:id="gurney_jj">
                <name>
