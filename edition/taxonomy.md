@@ -1,5 +1,14 @@
 # Taxonomy for Bow in the Cloud Project
 
+## Document details
+
+- Textual detail
+  - Place of composition
+  - Sender 
+  - Recipient
+  - Places mentioned
+  - date of composition
+
 ## Genre
 
 - Prose
@@ -31,6 +40,7 @@
 
 ## Arguments
 
+- Black voices
 - Religious
  - Divine vengeance / torment
  - Forgiveness
@@ -39,6 +49,7 @@
 - Domestic
  - Family coherence
  - Children
+ - Peasantry
 - Political
  - Anti-slavery
   - Rebellion and revolt
@@ -53,3 +64,8 @@
   - Sympathy for the Planter
   - Racism
   - Economic liberalism
+
+
+  ## Thematic tags [?]
+
+  - 
