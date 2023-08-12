@@ -27,6 +27,7 @@
   - Baptist
   - Congregationalist
   - Methodist
+   - Wesleyan
   - Moravian
   - Presbyterian
   - Quaker
@@ -49,6 +50,7 @@
 - Domestic
  - Family coherence
  - Children
+ - Motherhood
  - Peasantry
 - Political
  - Anti-slavery
