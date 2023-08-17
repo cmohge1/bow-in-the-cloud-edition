@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Who is My Neighbor?</title>
+            <author>James Riddall Wood</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Unknown</publisher>
+            <pubPlace>Unknown</pubPlace>
+            <date>Unknown</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <epigraph>
+               <p>"The first and great commandment." "Thou shalt love the Lord with all thy heart." "And the second is like unto it, Thou shalt love thy neighbour as thyself."</p>
+            </epigraph>
+            <lg>
+               <l>"Let there be Light!" creative Wisdom said,</l>
+               <l>Light waved her wings; -- eternal chaos fled; --</l>
+               <l>"Let there be Light!" the sun arose at length</l>
+               <l>And scaled the heavens, rejoicing in his strength; --</l>
+               <l>"Let there be Light!" and midnight's gloomy noon</l>
+               <l>Was cheered and mellowed by the crescent moon;--</l>
+               <l>"Let there be Light!" and, lo! the evening sky</l>
+               <l>Was radiant with its myriad stars on high.</l>
+               <l>And still the sun is on his sapphire throne,</l>
+               <l>The moon adorns as yet her ebon zone,</l>
+               <l>Untarnished by the gathering dust of years,</l>
+               <l>The stars still glitter from their happy spheres.</l>
+               <l>When shall the Spirit's all-creating word</l>
+               <l>Throughout the moral universe be heard,</l>
+               <l>Commanding, as at first, with power divine,</l>
+               <l>The glorious energy of truth to shine,</l>
+               <l>Cheering the gloomy hemisphere of mind,</l>
+               <l>Where passion fires, or lust enslaves mankind;</l>
+               <l>Breathing on all by sin's foul stain defiled,</l>
+               <l>Till Truth's fair form adorns the moral wild;</l>
+               <l>Paint Vice in all the hideous hues she wears,</l>
+               <l>To wither in the infamy of years;</l>
+               <l>Bids haughty Pride a humble suppliant kneel,</l>
+               <l>And makes the soul of cruelty to feel?</l>
+               <l>Virtue and wisdom from on high impart,</l>
+               <l>Till love once more possess the human heart;</l>
+               <l>Not the base love of pleasure, power, or pelf,</l>
+               <l>But love which loves his neighbour as himself.</l>
+            </lg>
+            <lg>
+               <l>Who is my neighbour? sainted Howard tell! --</l>
+               <l>Behold the wretch that groans in yonder cell,</l>
+               <l>Dark, damp, and cold, -- a stranger to the breeze, --</l>
+               <l>Where noxious vapours generate disease,</l>
+               <l>Whose crimes consigned him to that gloomy den,</l>
+               <l>Poor outcast from the sympathies of men.</l>
+               <l>Thy neighbour dwells on many a distant shore,</l>
+               <l>The Dane, the Swede, the Pole, the Russian boor,</l>
+               <l>The hordes of Asia, and the selfish Turk,</l>
+               <l>In whose dark breast still darker passions lurk.</l>
+               <l>Where'er the sun goes forth his glorious round,</l>
+               <l>Where'er the "human form divine" is found,</l>
+               <l>The Christian will pursue his Master's plan,</l>
+               <l>And recognize a neighbour in the man.</l>
+            </lg>
+            <lg>
+               <l>Who is my neighbour? Wilberforce declare!</l>
+               <l>Yon sable son of wretchedness and care,</l>
+               <l>Torn from his home on Afric's happy soil,</l>
+               <l>And doomed by avarice to perpetual toil; --</l>
+               <l>Those tens of thousands, whom the western wave</l>
+               <l>Released from bondage by a watery grave;</l>
+               <l>That anguished mother, desolate and wild,</l>
+               <l>Shrieking -- but vainly shrieking -- for her child; --</l>
+               <l>That care-worn husband, who, from day to day,</l>
+               <l>Beholds his wife by suffering worn away,</l>
+               <l>Till the foiled tyrants in their malice see,</l>
+               <l>Death interpose, and set the captive free.</l>
+            </lg>
+            <lg>
+               <l>Lo! from the glowing islands of the West,</l>
+               <l>A plaintive murmur, as of one distressed,</l>
+               <l>To Britain cried across the Atlantic main,</l>
+               <l>Imploring aid, too long implored in vain.</l>
+               <l>Louder and louder rose that fearful wail,</l>
+               <l>And swelled to anguish on the rising gale;</l>
+               <l>Whilst Britain heard, but with a heart of stone</l>
+               <l>Beheld oppression choke the sufferer's groan.</l>
+               <l>Hell caught the sound, and joined in fierce demand</l>
+               <l>For wrath upon a guilty christian land:</l>
+               <l>Those groans ascended where the Elders stood,</l>
+               <l>And called for vengeance loud as Abel's blood;</l>
+            </lg>
+            <lg>
+               <l>Those stifled groans, -- that sin avenging cry, --</l>
+               <l>Were heard, and felt, and registered on high,</l>
+               <l>"Where is thy brother?" thundered in the air,</l>
+               <l>Earth heard her Maker's voice, and echoed -- "Where?"</l>
+               <l>The cruel tyrant, hardened in his pride,</l>
+               <l>"Am I my brother's keeper?" stem replied.</l>
+               <l>Then judgment fell, than Egypt's judgments worse,</l>
+               <l>Though Infidelity asks, "Where's the curse?"</l>
+               <l>Where? -- In the burning fever of the West;</l>
+               <l>In commerce paralysed, and man distressed;</l>
+               <l>In wild tornadoes wasting from afar;</l>
+               <l>In civil discord, blasphemy, and war;</l>
+               <l>In guilty passions spurning all control;</l>
+               <l>In lust, in pride, in barrenness of soul: --</l>
+               <l>These stamp the dark, inhuman traffic now,</l>
+               <l>True as the mark on Cain the murderer's brow.</l>
+               <l>Oh! shame to Britain; island of the free,</l>
+               <l>Well may the nations scornful turn to thee.</l>
+               <l>What is thy wealth, thy fame, thy pride of birth?</l>
+               <l>'Tis moral character that stamps their worth;</l>
+               <l>The want of this makes pampered greatness bow,</l>
+               <l>Withers the laurel on the conqueror's brow,</l>
+               <l>Blasts every honour wealth or genius brings,</l>
+               <l>And dims the brightest diadem of kings.</l>
+            </lg>
+            <lg>
+               <l>Oh! rend the heavens, Almighty Conqueror, rend!</l>
+               <l>In majesty and mercy now descend;</l>
+               <l>Chase from the earth these shades of mental night,</l>
+               <l>And visit man with heaven's celestial light;</l>
+               <l>Then shall the oppressor humbly turn to thee,</l>
+               <l>Forsake his sins and "let the oppressed go free;" --</l>
+               <l>Then shall the sable slave on whom he trod</l>
+               <l>Stretch his freed hands and call upon his God;</l>
+               <l>Anticipate a brighter world above,</l>
+               <l>And bask in all the liberty of love.</l>
+               <l>Then shall the blest Desire of Nations come;</l>
+               <l>All men be Brethren and each land a Home.</l>
+            </lg>
+            <signed>
+               <persName>James Riddall Wood</persName>.
+            </signed>
+         </div>
+      </body>
+   </text>
+</TEI>
+
