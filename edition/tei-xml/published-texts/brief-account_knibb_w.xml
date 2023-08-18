@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief Account of a Much-Persecuted Christian Slave</title>
+            <author>William Knibb</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Unknown</publisher>
+            <pubPlace>Unknown</pubPlace>
+            <date>Unknown</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <epigraph>
+               <ab>"Blessed are they which are persecuted for righteousness' sake; for their's is the kingdom of heaven."</ab>
+            </epigraph>
+            <p>-- Yes, he was a lovely Christian, and to him was given, not only to believe on the name of Jesus, but also to suffer pain for his sake. He was a plantation-slave, and had been promoted for his consistent conduct. A few years ago, one of the slave-members belonging to the Baptist Church at Montego Bay was banished from his home, and sent to the estate where David lived, to be cured of his praying. By the pious conversation of this exiled christian negro, David was brought under serious concern for his soul, which ended in his conversion to God. Acting up to the christian negro's motto, that "what good for one negro, good for him brother too," David spoke to his fellow-slaves about Jesus, and his love in dying for poor sinners. God, who despiseth not the humblest instrument, blessed the efforts of this poor negro, and, in a short time, about thirty on the estate began to pray, and at length built a small hut, in which, after the labours of the day, they might assemble and worship God.</p>
+            <p>Tidings of these things reached the ears of the white persons employed on the estate, and David was summoned before his attorney, and asked whether he was teaching the slaves to pray. On replying in the affirmative, the hut was demolished and burnt, and David was stretched upon the earth and flogged with the cart-whip till his flesh was covered with his blood. Next Lord's-day I missed my faithful deacon at the house of God. His afflicted wife came and told me the sad tale of his sufferings, and informed me, that his hands were bound and his feet made fast in the stocks. Often did I inquire after him, and for him, and the same answer was returned, "Massa, him in the stocks;" till one morning, as I sat in my piazza, he appeared before the window. There he stood -- I have his image now before me -- he was hand-cuffed, barefoot, unable to wear his clothes from his yet unhealed back; his wife had fastened some of her garments round his lacerated body. I called him in, and said,</p>
+            <p>"David, David, what have you done?"</p>
+            <p>With a look of resignation I shall never forget, he replied,</p>
+            <p>"Don't ask me, ask him that bring me, massa."</p>
+            <p>Turning to the negro who had him in charge, I said,</p>
+            <p>"Well, what has this poor man done?"</p>
+            <p>"Him pray, massa," was the reply, "and Buchra sending him to the workhouse for punishing."</p>
+            <p>I gave him some refreshment, for in the state I have described he had walked thirteen miles under a burning sun, and followed him to that den of cruelty, properly designated a Jamaica inquisition. He was chained to a fellow-slave by the neck, and sent to work on the public roads. The next day I went to visit him again, when I was informed by the supervisor of the workhouse, that he had received orders to have him flogged again, as soon as his back was well enough to bear it. In these chains David remained for months; frequently I saw him, but never did I hear one murmur or one complaint, except when he heard that the partner of his joys and sorrows was ill on the estate, and he was forbidden to go and see her.</p>
+            <p>At the end of three months he was liberated, and returning to the estate, was asked,</p>
+            <p>"Now, sir, will you pray again?"</p>
+            <p>"Massa," said the persecuted disciple, "you know me is a good slave, but if trouble come for dis, me must pray, and me must teach me broder to pray too."</p>
+            <p>Again he was immured in a dungeon, and his feet made fast in the stocks.</p>
+            <signed>William Knibb.</signed>
+         </div>
+      </body>
+   </text>
+</TEI>
+
