@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pierre Sallah</title>
+            <author>Dinah Townley</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>It was at one of those bountiful, social, and exhilarating breakfasts, for which the city of Dublin is justly renowned, when the pious and the benevolent are convened for accelerating their great objects, that a Secretary of one of the Missionary Societies attracted the attention of the whole assembly, by relating a circumstance contained in letters which he had just received from Western Africa.</p>
+            
+            <p>A Negro-slave, on the River Gambia, the property of a French lady of the Roman Catholic Church, had been brought to experience deep and serious religion, under the preaching of a missionary. It soon appeared that the Great Head of the Church had raised up this sable disciple to be an instrument in His hand to accomplish the purposes of His mercy. Powerfully feeling his debt of gratitude to his Redeemer, and commiserating the lost condition of his afflicted brethren of the Jaloff tribe, the pious African began earnestly to exhort them, in their own language, to turn from their sins and seek in Christ Jesus that true freedom which had broken his spiritual bonds, and brought into his soul an inward heaven. His labours were crowned with great success; many of the slaves on the same plantation with himself became christian converts, and consequently, more valuable servants. This their mistress had the candour to allow; and being informed of the instrumentality of Pierre Sallah, her own negro, in the salutary change that had taken place among the slaves of her estate, she allowed him, at his earnest request, to visit the neighbouring plantations, and preach, within a more enlarged sphere, "the unsearchable riches of Christ." The wretched slaves, on all sides, heard of a Heavenly Benefactor, who looked on their misery with an eye of compassion, and said, "Come unto me, all ye that are weary and heavy-laden, and ye shall find rest unto your souls."</p>
+            
+            <p>The progress of his usefulness was noted by his observant mistress, and, though she did not forsake the bosom of her own church, she had too much respect for the religion inculcated by her slave, to restrain his labours; and, on being questioned as to her willingness to accept a ransom for him, she said, her esteem for Pierre Sallah was very great, and that his faithfulness and his industry might lead her to demand a considerable sum for his manumission; but that, impressed as she was with a sense of duty in allowing him to continue in his useful office of religious instructor, she would accept of the mitigated sum of fifty pounds for his liberty.</p>
+            
+            <p>Every one present thought, "Surely fifty pounds might soon be raised for the accomplishment of so great an object!"</p>
+            
+            <p>The breakfast was over, and the gentlemen dispersed. The wife of one of the Missionary Secretaries thought it might be worth while to attempt a commencement of the ransom, by an appeal to the benevolence of the ladies who remained in the apartment, and in such a way as to secure a trifling contribution from all. She, therefore, put a sixpence into a saucer, and requested the same sum from each: thus, the first sovereign was raised. In the evening, at a public missionary meeting, Pierre Sallah's story was told, and the sovereign held up as the first-fruits of the ransom, while a warm address was made to the hearts of all present. Nothing more was necessary in a city where all that moves the soul is flame from the altar in a righteous cause. A voice from one side of the platform said -- "I subscribe five pounds." Another said, "Put me down three." "No," said the zealous pleader,</p>
+            
+            <p>"It is money in hand that I hold, and that is better than promises." The five pounds, and the three, were immediately passed to the table. This brought notes, gold, and silver, from the gallery in a shower, amidst the acclamations of the assembly; and when the long-continued inundation ceased, and the money was counted in breathless silence, a voice of transport exclaimed -- "Pierre Sallah is free!" Every heart bounded with joy, the luxury of benevolence thrilled every bosom and gleamed in every eye, while the roof echoed long and energetic applause. A voice from below cried, "Pierre Sallah shall be an Irishman!" -- and assent was clapped with laughter.</p>
+            
+            <p>This happened in August, 1830; and in August, 1833, the Secretary's wife, who collected the first sovereign at Dublin, received a box of shells, and other curiosities, from the River Gambia, containing the calabash used by Pierre Sallah when a slave, neatly carved, engraved with his initials, and inscribed to Mrs. ----, "with a thousand thanks for her exertion in his behalf."</p>
+            
+            <p>What English bosom will refuse sympathy with the glowing heart thus rewarded for a trifling service! And who will not appreciate the delicacy of the grateful boon, conveyed with blessings from the hand of the liberated slave, now the free and accredited minister of Christ!</p>
+            
+            <signed>D. Townley.</signed>
+      </body>
+  </text>
+</TEI>
