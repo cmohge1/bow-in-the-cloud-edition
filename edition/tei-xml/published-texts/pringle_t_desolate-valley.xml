@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Desolate Valley</title>
+            <author>Thomas Pringle</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+      <text>
+         <body>
+            <div type="poem">
+               <head>A South-African Scene</head>
+               <p>[The result of the war of 1819, between the Colonial Government of the Cape and the Caffer tribes, was the annexation to the Colony of a large tract of the Amakosa country. This was effected by a compulsory convention with the native chiefs, who, with their followers, were dislodged and expelled beyond the Keisi and Chumi rivers. The whole of the evacuated territory, under the appellation of the Neutral Ground, remained unoccupied for several years, and a large portion of it remains so still. I made an excursion through part of it, from the Winterberg mountain down the river Koonap, in 1822, and again in 1825, in another direction. The aspect of the country, though wild, was beautiful and impressive. It was finely diversified with lofty mountains and winding glens, with picturesque rocks and forests, open upland pastures, and level savannahs along the rivers, sprinkled with mimosa trees; and herds of wild animals, quaggas, elands, hartebeests, gnoos, koodoos, with several varieties of the smaller antelopes, were scattered over the verdant pastures; while troops of elephants were browsing undisturbed among the wooded kloofs and jungles of evergreens. But the remains of Caffer hamlets, scattered through every grassy nook and dell, and now long deserted and fast crumbling to decay, excited reflections of no gratifying character, and occasionally increased, even to a painful degree, the feeling of melancholy *lonesomeness* which a country void of human inhabitants never fails to inspire. Before the Caffers and Ghonaquas were expelled from this territory, a few of them had acquired some knowledge of Christianity, partly from the instructions of that singular but most meritorious man, Doctor Vanderkemp, and more especially from the missionary Williams, who resided about two years among them at the Kat River, previous to his death in 1818. The following Stanzas are an attempt to give a Sketch of a remote Vale in this wild country, after the first missionary station had been left desolate, and previous to its occupation by the Emancipated Hottentots and their Christian Pastors, in 1829. T. P.]</p>
+               <lg>
+                  <label type="stanza-num" n="1">I.</label>
+                  <l>Far up among the forest-belted mountains,</l>
+                  <l>Where Winterberg, stern giant old and grey,</l>
+                  <l>Looks down the subject dells, whose gleaming fountains</l>
+                  <l>To wizard Kat their virgin tribute pay,</l>
+                  <l>A Valley opens to the noontide ray,</l>
+                  <l>With green savannahs shelving to the brim</l>
+                  <l>Of the young River, sweeping on his way</l>
+                  <l>To where Umtoka hies to meet with him,</l>
+                  <l>Like a blue serpent gliding through the acacias dim.</l>
+               </lg>
+               <lg>
+                  <label type="stanza-num" n="2">II.</label>
+                  <l>Round this secluded region circling rise</l>
+                  <l>A billowy waste of mountains, wild and wide;</l>
+                  <l>Upon whose grassy slopes the pilgrim spies</l>
+                  <l>The gnu and quagga, by the greenwood side,</l>
+                  <l>Tossing their shaggy manes in tameless pride;</l>
+                  <l>Or troop of elands near some sedgy fount;</l>
+                  <l>Or koodoo fawns, that from the thicket glide</l>
+                  <l>To seek their dam beneath the misty mount;</l>
+                  <l>With roebucks, harts, gazelles, more than the eye may count.</l>
+               </lg>
+               <lg>
+                  <label type="stanza-num" n="3">III.</label>
+                  <l>And as we journeyed up the pathless glen,</l>
+                  <l>Flanked by romantic hills on either hand,</l>
+                  <l>The bush-buck oft would bound away -- and then,</l>
+                  <l>Beside the willows, backward gazing, stand.</l>
+                  <l>And where old forests darken all the land,</l>
+                  <l>From rocky Katberg to the river's brink,</l>
+                  <l>The buffalo would start upon the strand</l>
+                  <l>Where, 'midst palmetto flags, he stooped to drink,</l>
+                  <l>And, crashing through the brakes, to the deep jungle shrink.</l>
+               </lg>
+               <lg>
+                  <label type="stanza-num" n="4">IV.</label>
+                  <l>Then, couched at night in hunter's wattled shieling,</l>
+                  <l>How wildly beautiful it was to hear</l>
+                  <l>The elephant his shrill reveillé pealing,</l>
+                  <l>Like some far signal-trumpet on the ear:</l>
+                  <l>While the broad midnight moon was shining clear,</l>
+                  <l>How fearful to look forth upon the woods,</l>
+                  <l>And see those stately forest-kings appear,</l>
+                  <l>Emerging from their mountain solitudes --</l>
+                  <l>As if that trump had woke Earth's old gigantic broods!</l>
+               </lg>
+               <lg>
+                  <label type="stanza-num" n="5">V.</label>
+                  <l>Such was the fair but melancholy scene</l>
+                  <l>Which 'midst that lonely wilderness we found,</l>
+                  <l>With scarce a trace to tell where man had been,</l>
+                  <l>Save the old Caffer cabins crumbling round.</l>
+                  <l>Yet this wild glen (Sicana's ancient ground,)</l>
+                  <l>To Nature's savage tribes abandoned long,</l>
+                  <l>Had heard, erewhile, the Gospel's joyful sound,</l>
+                  <l>And low of herds mixed with the Sabbath song.</l>
+                  <l>But all is silent now. Th' Oppressor's hand was strong!</l>
+               </lg>
+               <lg>
+                  <label type="stanza-num" n="6">VI.</label>
+                  <l>Now the gay loxia hangs her pensile nest</l>
+                  <l>From the wild-olive, bending o'er the rock,</l>
+                  <l>Beneath whose shadow, in grave mantle drest,</l>
+                  <l>The meek-eyed Pastor taught his swarthy flock.</l>
+                  <l>A roofless ruin, scathed by flame and smoke,</l>
+                  <l>Tells where the decent Mission-chapel stood:</l>
+                  <l>While the baboon with jabbering cry doth mock</l>
+                  <l>The pilgrim, pausing, in his pensive mood,</l>
+                  <l>To ask -- "Why is it thus? Shall EVIL baffle GOOD?"</l>
+               </lg>
+               <lg>
+                  <label type="stanza-num" n="7">VII.</label>
+                  <l>Yes -- for a season Satan may prevail,</l>
+                  <l>And hold, as if secure, his dark domain:</l>
+                  <l>The prayers of righteous men may seem to fail,</l>
+                  <l>And Heaven's Glad Tidings be proclaimed in vain.</l>
+                  <l>But wait in faith: ere long shall spring again</l>
+                  <l>The seed that seemed to perish in the ground;</l>
+                  <l>And, fertilized by Zion's latter rain,</l>
+                  <l>The long-parched land shall laugh, with harvests crowned,</l>
+                  <l>And through those silent wastes Jehovah's praise resound.</l>
+               </lg>
+               <lg>
+                  <label type="stanza-num" n="8">VIII.</label>
+                  <l>Look round that Vale: behold the unburied bones</l>
+                  <l>Of Ghona's children withering in the blast:</l>
+                  <l>Can the sad wind that through the forest moans</l>
+                  <l>To these breathe back the spirit that hath passed?</l>
+                  <l>So, in the Vale of Desolation vast,</l>
+                  <l>In moral death dark Afric's myriads lie:</l>
+                  <l>But the appointed day shall dawn at last,</l>
+                  <l>When, breathed on by the Spirit from on High,</l>
+                  <l>The dry bones shall awake, and shout -- "Our God is nigh!"</l>
+               </lg>
+               <signed>Thomas Pringle.</signed>
+            </div>
+         </body>
+      </text>
+   </TEI>
