@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Persecuted Missionary</title>
+            <author>William Knibb</author>
+            <author>Thomas Burchell</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>The Bow in the Cloud: A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud (1834), pp. 220–24.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+      <text>
+         <body>
+            <div type="prose">
+               <head>THE PERSECUTED MISSIONARY</head>
+               <p>"Persecuted, but not forsaken."</p>
+               <p>I had laboured on the slave-cursed, though otherwise lovely island of Jamaica, in the humble character of a missionary, for the space of seven years, when some faint intimations reached me and my brethren that the unhappy victims of despotic power, the deeply-injured slaves, goaded by the cruelties and taunts of their guilty oppressors, had resolved on freeing themselves from the iron yoke of bondage under which they were held; but we had not the smallest idea of the extent to which the spirit of insubordination had been awakened. After having successfully allayed the excitement amongst the Christian slaves by whom we were surrounded, we assembled with our beloved flock in the house of prayer, that we might enjoy that comfort which communion with God in His ordinances imparts. All was hurry, confusion, and sin without, -- within the sanctuary was that peace which Jesus alone bestows. In the evening of this ever-memorable Sabbath, the small band of missionaries solemnly commended each other to God; Jesus was in our midst, and the protracted evening devotions were a preparative for the trials which awaited us. On the following Tuesday I was arrested, with two of my brother-missionaries. In vain did we demand the reason of this proceeding: *martial law* bad been proclaimed, which was the signal that every enormity might be practised with impunity. While walking to and fro in the barracks, one of the officers came, and said, "I am commanded by the colonel of the militia to inform you that you are to proceed to head-quarters in half an hour." The request to be permitted to take leave of our wives and children having been denied by these christian slave-drivers, and our pockets having been searched, marched between four soldiers with their muskets loaded, we commenced our melancholy journey. On our arrival at the sea-beach, a small boat was procured, in which we were placed with our infuriated guards. Exposed to a tropical sun, and our feet saturated with water from the leakage of the boat, we were rowed a distance of twenty-two miles. Arriving at Montego Bay, we were marched and counter-marched from one place to another, exposed to the insults of those who thirsted for our blood. At length we were placed in the jury-box in the Courthouse, which had been converted into a prison, where the most horrid scene presented itself. The curses of the slave-drivers were of the most revolting description, and, together with the inhuman cruelties practised upon the slaves whom they had captured, produced an impression upon my mind which will never be effaced. Being overcome by fatigue, I requested permission to lie down on the boards, when the sentinel replied, "No, you villain; if you stir one step I'll stab you to the heart: you are to be shot in the morning, and I shall be very glad to have a shot at you." God, however, in His mercy interposed, and in this time of need raised up a friend, who, with much difficulty and personal hazard, effected our deliverance; and thus we were rescued from the hands of those who intended our death, and who gloried in the prospect of imbruing their hands in our blood. "Cursed be their anger, for it was fierce; and their wrath, for it was cruel."</p>
+               <p>During the following six weeks we were held on bail, and frequently exposed to imminent peril, while every effort was made by the colonists to effect our destruction. Every means they used to implicate us in the rebellion completely failed; and God, in His mercy, saved His servants "because they trusted in Him." When we were released from restraint, I returned to the people of my charge; their joy was unbounded, and their expressions of affection quite overwhelming; some clasped my knees, some my hands, and others my feet; while, with eyes suffused with tears, they thanked that God who had again restored to them the minister they loved.</p>
+               <signed>William Knibb.</signed></div>
+               <div type="letter-extract"><p>[A Letter which the Editor has lately received from another devoted Missionary, contains the following striking and affecting account of the feelings of the Christian Slaves towards their cruel persecutors.]</p>
+               <p>"You are aware of my arrest and imprisonment, as well as that of other Missionaries, during the sanguinary persecutions of 1831 and 1832. The cruel sufferings inflicted upon many of the christian negroes during that period, for their attachment to the Redeemer and His cause, can never be fully related; so that had they given vent to their feelings, by the most indignant expressions, it could not have excited our surprise: but so far from this, I do not remember to have heard one christian slave, during the whole of those terrible persecutions, indulge in a vindictive term towards any of his malignant oppressors. When I arrived at my lodgings, on the day of my liberation from incarceration, crowds of my afflicted friends thronged to see me, giving vent to their feelings by their many tears and their kindly expressions of sympathy on account of my sufferings, and congratulations for my triumph over my bitter foes, who were thirsting for my blood. Amongst many other interesting remarks, one poor christian negro addressed me in the following manner: 'Massa,' said he, 'no you feel too bad. We enemy, -- dem wicked, -- dem bad for true, Massa; -- dem take we neger, -- dem shoot we, -- dem hang we, -- dem flog we, -- dem 'pill we blood, as though we no worth at all -- but, minister, we must pray for dem -- dem very bad, -- dem very wicked, -- but, DEM NO CONVERT YET!!!' A noble apology made by one of those despised slaves in behalf of those cruel men, and which cannot but remind us of the spirit and prayer of the blessed Redeemer upon the cross, 'Father, forgive them, for they know not what they do.' 'DEM NO CONVERT YET!!!'"</p>
+            </div>
+         </body>
+      </text>
+   </TEI>
+   

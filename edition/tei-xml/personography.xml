@@ -89,6 +89,15 @@
                <forename type="middle">Moon</forename></name> 
             </person>
             <!-- ... -->
+            <person xml:id="pringle-t">
+               <name>
+                  <surname>Pringle</surname>
+                  <forename>Thomas</forename>
+               </name>
+               <birth when="1789-01-05">5 January 1789</birth>
+               <death when="1834-12-05">5 December 1834</death>
+               <note>was a Scottish writer, poet and abolitionist. Known as the father of South African poetry, he was the first successful English language poet and author to describe South Africa's scenery, native peoples, and living conditions (source: Wikipedia).</note>
+            </person>
             <person xml:id="sterndale_mh">
             <name>
                <surname>Sterndale</surname>
