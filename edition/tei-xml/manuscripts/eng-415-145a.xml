@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title>415-145a</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:id="eng-415-145a">
+		<body>
+			<div>
+				<head><pb facs="#f000"/> The Desolate Valley. A South-African Scene. By Thomas Pringle</head>
+				<p>
+					<add>145a 1</add>
+				</p>
+				<p><add rend="pen" resp="tp" type="authorial">[The</add> result of the Caffer war of 1819-20 ^<add rend="caret" type="authorial">between the Colonial Government of the Cape and &amp; the Caffer tribes</add> was the annexation to the Colo<add>ny</add> of a large track of the Amakosa country<del rend="strikethrough" resp="personography#pringle-t" type="authorial">, extending to about two millions of acres</del>. This was affected by a compulsory convention with the native chiefs <del rend="strikethrough" resp="personography#pringle-t" type="authorial">(our <hi rend="italic">ally</hi> Gaika included),</del> who, with their followers, were <del rend="strikethrough" resp="personography#pringle-t" type="authorial">then</del> dislodged and expelled beyond the Keisi and Chumi rivers. The whole of the evacuated territory, under the appellation of the Neutral Ground, remained unoccupied for several years, and a large portion of it remains so still. I made an excursion through part of it, from the Winterberg mountain down the river Koonap, in 1822, <del rend="strikethrough" resp="personography#pringle-t" type="authorial">in company with Captain (now Colonel) C. R. Fox and some other officers,</del> and again, in 1825, in another direction. The aspect of the country, though wild, was beautiful and impossible; it was finely diversified with lofty mountains and winding glens, with picturesque rocks and forests, open upland pastures, and level savannas along the rivers, sprinkled with mimosa-trees: and herds of wild animals, quaggas, elands, hartebeests, gnu<add rend="caret-above" resp="personography#pringle-t" type="authorial">o</add>s, koodoos, with many varieties of the smaller antelopes, were scattered over the verdant pastures; while troops of elephants were browsing undisturbed among the wooded kloofs and jungles of evergreens. But the remains of Caffer hamlets, scattered through every grassy nook and dell, and now long deserted and fast crumbling to decay, excited reflections of no gratifying character, and occasionally increased, even to a painful degree, the feeling of melancholy <hi rend="italic">lonesomeness</hi> which a country void of human inhabitants never fails to inspire. Before the Caffers ^<add rend="marginal-caret" resp="personography#pringle-t" type="authorial">and Ghonaquas</add> were expelled from this territory, a few of them had acquired some knowledge of Christianity, partly from the instructions of that singular but most meritorious man Dr. Vanderkemp, and more especially from the missionary Williams, who resided about two years among them at the Kat River, previous to his death in 1818<add rend="inline" resp="personography#pringle-t" type="authorial">.</add> <add rend="inline" resp="personography#pringle-t" type="authorial">The following stanzas are an attempt to give a sketch of a remote vale in this wild country, after the first missionary station had been left desolate, &amp; previous to its occupation by the Emancipated Hottentots &amp; their Christian Pastors in 1829.]</add></p>
+				<lg>
+					<l>Far up among the forest-belted mountains,</l>
+					<l>Where Winterberg, stern giant old &amp; grey,</l>
+					<l>Looks down the subject dells, whose gleaming fountains</l>
+					<l>To Wizard Kat their virgin tribute pay,</l>
+					<l>A valley opens to the moontide ray,</l>
+					<l>With green Savannahs shelving to the brim</l>
+					<l>Of the young River, sweeping on his way</l>
+					<l>To where Umtoka hies to meet with him,</l>
+					<l>Like a blue serpent gliding through the acacias dim.</l>
+				</lg>
+				<lg>
+					<label n="2" type="stanza-num"><pb facs="#f001"/> II.</label>
+					<l>Round this secluded region circling rise</l>
+					<l>A billowy waste of mountains, wild and wide;</l>
+					<l>Upon whose grapy slopes the pilgrine spies</l>
+					<l>The gnu and quagga by the greenwood side,</l>
+					<l>Shaking their shaggy manes in tameless pride;</l>
+					<l>Or troop of elands near some sedgy forest;</l>
+					<l>Or koodoo fawns, that from the <add rend="above-caret" resp="personography#pringle-t" type="authorial">^thicket</add> <del rend="strikethrough" resp="personography#pringle-t" type="authorial">bathes</del>[?] glide</l>
+					<l>To seek their dam beneath the misty mount;</l>
+					<l>With roebucks, harts, gazelles, more than the eye may count.</l>
+				</lg>
+				<lg>
+					<label n="3" type="stanza-num">III.</label>
+					<l>And, as we journeyed up the <add rend="above-caret" resp="personography#pringle-t" type="authorial">^tangled</add> <del rend="strikethrough" resp="personography#pringle-t" type="authorial">pathless</del> glen,</l>
+					<l>Flanked by romantic hills on either hand,</l>
+					<l>The bush-buck oft would bound away -- and then,</l>
+					<l>Beside the <ref target="note_e75e7175e88645158041369a0a33b57e">copsewood</ref><note type="editorial" xml:id="note_e75e7175e88645158041369a0a33b57e">'willows' (BiC).</note>, backward gazing, stand.</l>
+					<l>And where old forests darken all the land,</l>
+					<l>From rocky Katberg to the river's brink,</l>
+					<l>The buffalo would start upon the strand</l>
+					<l>Where, 'midst palmetto <ref target="note_e013e70009634f399f95886c3b8ae8b2">reeds</ref><note xml:id="note_e013e70009634f399f95886c3b8ae8b2">'flags' (BiC).</note>, he stooped to drink,</l>
+					<l>And, crashing through the brakes, to the deep jungle shrink.</l>
+				</lg>
+				<lg>
+					<label n="4" type="stanza-num">IV.</label>
+					<l>Then, couched at night in hunter's <del rend="strikethrough" resp="personography#pringle-t" type="authorial">leafy</del> <add rend="above-caret" resp="personography#pringle-t" type="authorial">^wattled</add> shieling,</l>
+					<l>How wildly beautiful it was to hear</l>
+					<l>The elephant his shrill reveillé pealing,</l>
+					<l>Like some far signal-trumpet on the ear:</l>
+					<l>While the broad midnight moon was shining clear,</l>
+					<l>How fearful to look forth upon the woods,</l>
+					<l>And see those stately forest-kings appear,</l>
+					<l>Emerging from their mountain solitudes --</l>
+					<l>As if that trump had woke Earth's old gigantic broods!</l>
+				</lg>
+				<lg>
+					<label n="5" type="stanza-num">V.</label>
+					<l>Such was the fair but melancholy scene</l>
+					<l>Which 'midst that lonely wilderness <note xml:id="note_8429226a622a4bce983fa053e49bc6eb">'we' (BiC).</note><ref target="note_8429226a622a4bce983fa053e49bc6eb">the pilgrim</ref> found,</l>
+					<l>With scarce a trace to tell where man had been,</l>
+					<l>Save the old Caffer <del rend="strikethrough" resp="personography#pringle-t" type="authorial">hamlets</del> <add rend="above" resp="personography#pringle-t" type="authorial">cabins</add> crumbling round.</l>
+					<l>Yet this <ref target="note_f4e76f72d8a0447a8634cdd6204880c3">lone</ref><note xml:id="note_f4e76f72d8a0447a8634cdd6204880c3">'wild' (BiC).</note> <del rend="strikethrough" resp="personography#pringle-t" type="authorial">region</del> <add rend="inline" resp="personography#pringle-t" type="authorial">glen</add> (Sicana's ancient ground)</l>
+					<l>To Nature's savage <ref target="note_3155dec65ec041f09610d45b941004c7">herds</ref><note xml:id="note_3155dec65ec041f09610d45b941004c7">'tribes' (BiC).</note> abandoned long,</l>
+					<l>Had heard, erewhile, the Gospel's joyful sound,</l>
+					<l>And low of herds mixed with the Sabbath song.</l>
+					<l>But all is silent now<note xml:id="note_931b47ce9d694b61b151e3dfa7950eac">This is a full stop in the published version.</note><ref target="note_931b47ce9d694b61b151e3dfa7950eac">:</ref> the' Oppressor's hand was strong!</l>
+				</lg>
+				<lg>
+					<label n="6" type="stanza-num"><pb facs="#f002"/> VI.</label>
+					<l>Now the gay loxia hangs her pensile nest </l>
+					<l>From the wild-olive, bending o'er the rock, </l>
+					<l>Beneath whose shadow, in grave mantle drest, </l>
+					<l>The meek-eyed Pastor taught his <del rend="strikethrough" resp="personography#pringle-t" type="authorial">native</del> <add rend="above" resp="personography#pringle-t" type="authorial">swarthy</add> flock.</l>
+					<l>A roofless ruin, <ref target="note_c7c8f5d874ce4b00a75485e367a8a34e">marked</ref><note xml:id="note_c7c8f5d874ce4b00a75485e367a8a34e">'scathed' (BiC).</note> by flame &amp; smoke, </l>
+					<l>Tells where the decent Mission-chapel stood: </l>
+					<l>While the baboon <del rend="strikethrough" resp="personography#pringle-t" type="authorial">&amp; wild satyr</del> <add rend="above-caret" resp="personography#pringle-t" type="authorial">^with jabbering</add> cry doth mock </l>
+					<l>The pilgrim, pausing, in his pensive mood,</l>
+					<l>To ask -- "Why is it thus? Shall <hi rend="smallcaps">evil</hi> baffle <hi rend="smallcaps">good</hi>?"</l>
+				</lg>
+				<lg>
+					<label n="7" type="stanza-num">VII.</label>
+					<l>Yes -- for a season Satan <del rend="strikethrough" resp="personography#pringle-t" type="authorial">shall</del> <add rend="above-caret" resp="personography#pringle-t" type="authorial">^may</add> prevail,</l>
+					<l>And hold, as if secure, his dark domain;</l>
+					<l>The prayers of righteous men <del rend="strikethrough" resp="personography#pringle-t" type="authorial">shall</del> <add rend="above-caret" resp="personography#pringle-t" type="authorial">^may</add> seem to fail,</l>
+					<l>And Heaven's Glad Tidings be proclaimed in vain. --</l>
+					<l>But wait in faith: ere long shall spring again </l>
+					<l>The seed that seemed to perish in the ground; </l>
+					<l>And, fertilized by Zion's latter rain,</l>
+					<l>The long-parched land<del rend="cross-out" resp="personography#pringle-t" type="authorial">s</del> shall laugh, with harvests crowned,</l>
+					<l>And through those silent wastes Jehovah's praise resound.</l>
+				</lg>
+				<lg>
+					<label n="8" type="stanza-num">VIII.</label>
+					<l>Look round that <ref target="note_afadd6d663094c14b3be5e5456d62006">Valley</ref><note xml:id="note_afadd6d663094c14b3be5e5456d62006">'Vale' (BiC).</note>: <ref target="note_e13cbdef6fa8434493ee1fb801e63fd3">where</ref><note xml:id="note_e13cbdef6fa8434493ee1fb801e63fd3">'behold' (BiC).</note> the unburied bones </l>
+					<l>Of <del rend="strikethrough" resp="personography#pringle-t" type="authorial">Afric's</del> ^<add rend="above-caret" resp="personography#pringle-t" type="authorial">Ghona's</add> children <ref target="note_2bcb0f9f18ac44cda301eff16453701d">whiten</ref><note xml:id="note_2bcb0f9f18ac44cda301eff16453701d">'withering' (BiC)</note> in the blast <ref target="note_eb0ddacc832e4ff5bb7df67dea2a3ae8">--</ref><note xml:id="note_eb0ddacc832e4ff5bb7df67dea2a3ae8">: (BiC).</note></l>
+					<l>Can the sad wind that through the forest moans </l>
+					<l>To these breathe back the spirit that hath passed? </l>
+					<l><del rend="strikethrough" resp="personography#pringle-t" type="authorial">Thus</del> <add rend="above-caret" resp="personography#pringle-t" type="authorial">^So,</add> in the <del>dust of d</del> Vale of Desolation vast,</l>
+					<l>In moral death dark Afric's myriads lie:</l>
+					<l>But the appointed day shall dawn at last, </l>
+					<l>When, breathed on by the Spirit from on High,</l>
+					<l>The dry bones shall awake, and shout -- "Our God is nigh!"</l>
+				</lg>
+			</div>
+		</body>
+	</text>
+	<facsimile sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00415-00145-A" xml:id="iiifMS-ENGLISH-00415-00145-A">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="5800" lry="6500" sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00415-00145-A/canvas/1">
+			<label>1</label>
+			<graphic mimeType="application/json" url="https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00415-00145-A-000-00001.jp2"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="6500" lry="4382" sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00415-00145-A/canvas/2">
+			<label>2</label>
+			<graphic mimeType="application/json" url="https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00415-00145-A-000-00002.jp2"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="6500" lry="4381" sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00415-00145-A/canvas/3">
+			<label>3</label>
+			<graphic mimeType="application/json" url="https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00415-00145-A-000-00003.jp2"/>
+		</surface>
+	</facsimile>
+</TEI>
