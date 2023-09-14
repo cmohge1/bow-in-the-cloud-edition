@@ -20,8 +20,9 @@
       <text>
          <body>
             <div type="poem" n="1">
-               <lg>
+               
                   <head>[The following, though not, strictly speaking, "a true story," is founded on statements not to be disproved; and narratives well authenticated would furnish many other particulars, of at least as dark a character.]</head>
+               <lg>
                   <l>Loved, as a mother loves the babe she bore,</l>
                   <l>Watches, toils, sighs, and loves it but the more,</l>
                   <l>An infant negro, in the Westem isles,</l>
@@ -33,15 +34,17 @@
                   <l>No: -- ere his birth, -- when fast her hour drew on,</l>
                   <l>Burdened and faint, her task must yet be done,</l>
                   <l>Short respite, short repose that frame must feel;</l>
-                  <l>Can she not stand to labour? -- she must kneel.</l>
+                  <l>Can she not stand to labour? -- she must <hi rend="italic">kneel</hi>.</l>
                   <l>Some interval at length even avarice gave,</l>
-                  <l>In pity? -- nay; his property to save;</l>
+                  <l>In pity? -- nay; his <hi rend="italic">property</hi> to save;</l>
                   <l>But that is past, and she again must bear</l>
                   <l>The sun, the lash, and to a stranger's care,</l>
                   <l>(An aged negress for the field unfit,)</l>
                   <l>Till day decline, her nurseling must commit;</l>
                   <l>Nor dare a mother's fondness to express,</l>
                   <l>Till nature droop, heart-sick with weariness.</l>
+               </lg>
+               <lg>
                   <l>Yet even thus, some comfort she derives</l>
                   <l>From every sight of him; he grows, he thrives,</l>
                   <l>Her hourly solace. Who -- what fiend could bear</l>
@@ -58,9 +61,11 @@
                   <l>Can he not silence it? -- it breaks his sleep;</l>
                   <l>Is there no remedy? -- there is; -- the whip!</l>
                   <l>This is the anodyne he deems the best,</l>
-                  <l>To soothe her spirit? -- no, -- to bring him rest.</l>
+                  <l>To soothe her spirit? -- no, -- to bring <hi rend="italic">him</hi> rest.</l>
                   <l>And from that hour, perchance, his court she trod</l>
                   <l>In stillness, -- but "her cry went up to God."</l>
+               </lg>
+               <lg>
                   <l>He, the poor infant-victim, wept not long;</l>
                   <l>Self-interest bade them shew a thing so young</l>
                   <l>Such tenderness as even the young of brutes</l>
@@ -69,7 +74,7 @@
                   <l>Hears even the voice of interest plead in vain;</l>
                   <l>When gain, so fondly sought, less joy imparts,</l>
                   <l>Than torturing human limbs and human hearts.</l>
-                  <l>His lot was milder, if it be more mild</l>
+                  <l><hi rend="italic">His</hi> lot was milder, if it be more mild</l>
                   <l>To spare a slave than slay him when a child:</l>
                   <l>His childhood past, he grew a hardy boy,</l>
                   <l>And entered early on a slave's employ;</l>
@@ -87,13 +92,15 @@
                   <l>But should his hands, when resting from the field,</l>
                   <l>Be active yet, and should the effort yield</l>
                   <l>Some humble fruit -- precarious rights are his!</l>
-                  <l>His little all a lawless white may seize,</l>
+                  <l>His little all a lawless <hi rend="italic">white</hi> may seize,</l>
                   <l>And if he dared defend it, with his life</l>
                   <l>He pays the forfeit of that blameless strife.</l>
-                  <l>Or were he freed, unless the proof appear</l>
+                  <l>Or were he <hi rend="italic">freed</hi>, unless the proof appear</l>
                   <l>In every point indisputably clear,</l>
                   <l>Though guiltless of a fault, his doom may be</l>
                   <l>A fresh, remediless captivity.</l>
+               </lg>
+               <lg>
                   <l>But trained from childhood, William suffered not,</l>
                   <l>In all their weight, the hardships of his lot;</l>
                   <l>Stung by no memory of a happier day, --</l>
@@ -104,6 +111,8 @@
                   <l>On all who loiter, -- feebleness their fault;</l>
                   <l>And he not quite escaped, but his dark day</l>
                   <l>Of misery had not dawned, -- 'twas on its way.</l>
+            </lg>
+               <lg>
                   <l>It chanced among the females, one there was</l>
                   <l>Whom William loved, for Nature's bounteous laws</l>
                   <l>Even Slavery cannot wholly set aside;</l>
@@ -120,6 +129,8 @@
                   <l>Than even his own beneath the ruthless whip.</l>
                   <l>And love, long time, sustained her, but at length</l>
                   <l>Failed to supply the want of firmer strength.</l>
+               </lg>
+               <lg>
                   <l>Just then, when first her energy declined,</l>
                   <l>Their manager -- a wretch of foulest mind, --</l>
                   <l>Had eyed her wantonly, and strove to gain</l>
@@ -135,7 +146,7 @@
                   <l>They stand before him; for the other, each</l>
                   <l>Pleads strongly, though in short and broken speech.</l>
                   <l>Vain cry! can he compassionate their smart?</l>
-                  <l>He feel the groan that bursts a Negro's heart?</l>
+                  <l><hi rend="italic">He</hi> feel the groan that bursts a Negro's heart?</l>
                   <l>His malice smiles to see the whip fulfil</l>
                   <l>Its fiery office and his barbarous will;</l>
                   <l>And yet unsatisfied, his deadly hate</l>
@@ -148,6 +159,8 @@
                   <l>Now scarce avails his tardiness to urge.</l>
                   <l>Slow steals his life in wretchedness away,</l>
                   <l>Till dawns the long-desired, the closing day.</l>
+               </lg>
+               <lg>
                   <l>There is a balm that o'er the bruised heart</l>
                   <l>Whose anguish mocks the power of healing art,</l>
                   <l>Sheds ease, hope, gladness, heaven: -- there is a name</l>
@@ -156,7 +169,7 @@
                   <l>The Son of Man, -- the Son of God, the stream</l>
                   <l>Of whose rich blood the troubled soul can clear</l>
                   <l>From its foul burden, guilt, and shame, and fear.</l>
-                  <l>Feels he that balm, transforming all his lot?</l>
+                  <l>Feels <hi rend="italic">he</hi> that balm, transforming all his lot?</l>
                   <l>Knows he that name? -- Alas! he knows it not.</l>
                   <l>Heralds of peace had visited that isle,</l>
                   <l>Charged with the news that makes even Slavery smile,</l>
@@ -164,27 +177,31 @@
                   <l>For Negro-minds, -- too, too divinely sweet!</l>
                   <l>Some had indeed been taught, but not a word</l>
                   <l>Of that inspiring news had William heard,</l>
-                  <l>His Christian owner seeing little need</l>
-                  <l>To teach the animal so high a creed.</l>
+                  <l>His <hi rend="italic">Christian</hi> owner seeing little need</l>
+                  <l>To teach the <hi rend="italic">animal</hi> so high a creed.</l>
                   <l>Hopeless and blind, he died, and One whose eye</l>
-                  <l>No thought escapes, has judged him -- righteously.</l>
-                  <l>And this is Slavery! and they are men</l>
+                  <l>No thought escapes, has judged him -- <hi rend="italic">righteously</hi>.</l>
+               </lg>
+               <lg>
+                  <l>And this is Slavery! and they are <hi rend="italic">men</hi></l>
                   <l>That forge, and fix, and rivet fast the chain,</l>
                   <l>And o'er their brethren hold a tyrant's sway!</l>
                   <l>Not all a tyrant's spirit will display;</l>
-                  <l>Not all will play the demon, but all may.</l>
+                  <l>Not all will play the demon, but all <hi rend="italic">may</hi>.</l>
                   <l>And that dread power, in hands however just,</l>
                   <l>Is an unwarranted, tremendous trust.</l>
                   <l>Shall a supremacy to man be given</l>
                   <l>Unquestioned, absolute, like that of Heaven?</l>
+               </lg>
+               <lg>
                   <l>Slavery! of all enormities the worst</l>
                   <l>Man's fall has gendered, or his madness nurst!</l>
                   <l>Earth teems with crime, and one, above the rest,</l>
                   <l>Against high Heaven uplifts its daring crest;</l>
-                  <l>But War, even War, in guilt, in infamy,</l>
+                  <l>But War, even <hi rend="italic">War</hi>, in guilt, in infamy,</l>
                   <l>In hardihood and horror, -- yields to thee!</l>
                   <l>Shame on thy bold pretence, endured so long,</l>
-                  <l>Thy right to perpetrate a matchless wrong!</l>
+                  <l>Thy <hi rend="italic">right</hi> to perpetrate a matchless wrong!</l>
                   <l>Drop thy proud plume, bend low thy hated brow,</l>
                   <l>The eyes of Britons scan the features now.</l>
                   <l>Thy long, dark reign is ending, -- die to be</l>
@@ -195,9 +212,10 @@
                   <l>Of half thy loathsome crimes the sad amount.</l>
                   <l>Perish! and may kind Heaven a world forgive</l>
                   <l>That suffered thee so many an age to live.</l>
-                  <l>C.</l>
-                  <l>N---.</l>
                </lg>
+                  <signed>C.</signed>
+                  <dateline><placeName>N---.</placeName></dateline>
+               
             </div>
          </body>
       </text>
