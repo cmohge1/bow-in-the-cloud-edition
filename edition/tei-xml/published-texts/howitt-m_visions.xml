@@ -145,8 +145,8 @@
                <l>And from His holy Heaven would stoop</l>
                <l>To raise the fallen slave.</l>
             </lg>
-            <signed><hi rend="smallcaps">Mary Howitt</hi>.</signed>
-            <dateline>Nottingham.</dateline>
+            <signed><hi rend="smallcaps"><persName ref="../personography.xml#howitt_m">Mary Howitt</persName></hi>.</signed>
+            <dateline><placeName>Nottingham</placeName>.</dateline>
          </div>
       </body>
    </text>
