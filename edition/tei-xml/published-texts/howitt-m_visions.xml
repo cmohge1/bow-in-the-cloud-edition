@@ -22,10 +22,11 @@
                <quote>"Many cheeks are wet with tears, and faces sad with unutterable grief, which we see not."</quote>
                <quote>"Cruel tyranny is encouraged. The hands of robbers are strengthened, and thousands reduced to the most abject slavery who never injured us."</quote>
                <quote>"Were we for the term of one year only to be eye-witnesses to what passeth in getting these slaves; -- were the blood which is shed to be sprinkled on our garments; -- were the poor captives, bound with thongs, heavy-laden with elephants' teeth, to pass before our eyes on their way to the sea; -- were their bitter lamentations, day after day, to ring in our ears, and their mournful cries in the night to hinder us from sleeping; -- were we to hear the sound of the tumult, when the slaves on board the ships attempt to kill the English, and behold the issue of these bloody conflicts -- what pious man could be a witness to these things, and see a trade carried on in this manner, without feeling deeply affected with sorrow?"</quote>
+            <cit><bibl><hi rend="smallcaps">John Woolman's Journal</hi></bibl></cit>
             </epigraph>
             <label type="stanza-num" n="1">I.</label>
             <lg>
-               <l>I have had visions of dismay,</l>
+               <l><hi rend="smallcaps">I have</hi> had visions of dismay,</l>
                <l>Of guilt and agony and fear,</l>
                <l>Of dark deeds which ne'er saw the day,</l>
                <l>That men would shrink to hear;</l>
@@ -116,7 +117,7 @@
                <l>Then came contagion like a flood,</l>
                <l>Sweeping its thousands to the grave;</l>
                <l>But all unmoved the Negro stood,</l>
-               <l>Heaven-guarded from its wave.[authorial note: A fact well known as regards the Yellow Fever.]</l>
+               <l>Heaven-guarded from its wave.<note type="authorial">A fact well known as regards the Yellow Fever</note></l>
                <l>Then the white mother hung and wept</l>
                <l>In anguish o'er her first-born dead;</l>
                <l>The negro babe and mother slept</l>
@@ -144,8 +145,8 @@
                <l>And from His holy Heaven would stoop</l>
                <l>To raise the fallen slave.</l>
             </lg>
-            <signed>Mary Howitt</signed>
-            <dateline>Nottingham</dateline>
+            <signed><hi rend="smallcaps">Mary Howitt</hi>.</signed>
+            <dateline>Nottingham.</dateline>
          </div>
       </body>
    </text>
