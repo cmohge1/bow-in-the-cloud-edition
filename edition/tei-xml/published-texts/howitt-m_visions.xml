@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Visions of Slavery</title>
+            <author>Mary Howitt</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>The Bow in the Cloud: A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud (1834), pp. 233–38.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <epigraph>
+               <quote>"Many groans arise from dying men which we hear not."</quote>
+               <quote>"Many cries are uttered by widows and fatherless children which reach not our ears."</quote>
+               <quote>"Many cheeks are wet with tears, and faces sad with unutterable grief, which we see not."</quote>
+               <quote>"Cruel tyranny is encouraged. The hands of robbers are strengthened, and thousands reduced to the most abject slavery who never injured us."</quote>
+               <quote>"Were we for the term of one year only to be eye-witnesses to what passeth in getting these slaves; -- were the blood which is shed to be sprinkled on our garments; -- were the poor captives, bound with thongs, heavy-laden with elephants' teeth, to pass before our eyes on their way to the sea; -- were their bitter lamentations, day after day, to ring in our ears, and their mournful cries in the night to hinder us from sleeping; -- were we to hear the sound of the tumult, when the slaves on board the ships attempt to kill the English, and behold the issue of these bloody conflicts -- what pious man could be a witness to these things, and see a trade carried on in this manner, without feeling deeply affected with sorrow?"</quote>
+            </epigraph>
+            <label type="stanza-num" n="1">I.</label>
+            <lg>
+               <l>I have had visions of dismay,</l>
+               <l>Of guilt and agony and fear,</l>
+               <l>Of dark deeds which ne'er saw the day,</l>
+               <l>That men would shrink to hear;</l>
+               <l>I have seen war come sweeping o'er</l>
+               <l>A land, with fire, and sword, and chain;</l>
+               <l>And all her sons lie heaped in gore</l>
+               <l>Upon the battle plain;--</l>
+            </lg>
+            <label type="stanza-num" n="2">II.</label>
+            <lg>
+               <l>And heard how woman's terror broke</l>
+               <l>Forth in her frantic midnight cries,</l>
+               <l>When first the mighty city's smoke</l>
+               <l>Burst blackening to the skies:</l>
+               <l>I've seen the clinging infant slain</l>
+               <l>Before its kneeling mother's face,</l>
+               <l>And guilty deed, and bloody stain</l>
+               <l>Within the holy place.</l>
+            </lg>
+            <label type="stanza-num" n="3">III.</label>
+            <lg>
+               <l>I've seen the loathsome pestilence</l>
+               <l>Through a vast city stalk in gloom;</l>
+               <l>And each night thousands carried thence</l>
+               <l>Into a common tomb;</l>
+               <l>When man cared not for death or life,</l>
+               <l>Nor mothers o'er their children wept,</l>
+               <l>And foe met foe, yet knew no strife,</l>
+               <l>For love and hatred slept.</l>
+            </lg>
+            <label type="stanza-num" n="4">IV.</label>
+            <lg>
+               <l>I have had visions of the wave,</l>
+               <l>Of night-storm, mutiny, and wreck;</l>
+               <l>Seen dead men to their nameless grave,</l>
+               <l>Lowered slowly from the deck:</l>
+               <l>The loved of many hearts laid low</l>
+               <l>Within the ocean's boiling foam;</l>
+               <l>And old men saved through fight and woe,</l>
+               <l>Whom none might welcome home.</l>
+            </lg>
+            <label type="stanza-num" n="5">V.</label>
+            <lg>
+               <l>Alas! alas! of broken heart</l>
+               <l>I have had knowledge, secret pain,</l>
+               <l>Remorse and fear, the soul-sick smart,</l>
+               <l>And the damp dungeon's chain:</l>
+               <l>Through grief my spirit has been led,</l>
+               <l>Though pain and sorrow to the grave;</l>
+               <l>But ne'er came aught of crime and dread,</l>
+               <l>Like visions of the slave.</l>
+            </lg>
+            <label type="stanza-num" n="6">VI.</label>
+            <lg>
+               <l>I saw the curs'd ship which did bear</l>
+               <l>For freight a thousand slaves away,</l>
+               <l>And breathed the hot and putrid air</l>
+               <l>Of darkness where they lay;</l>
+               <l>I heard their fearful groans arise,</l>
+               <l>The curse, the lash, the clanking chain;</l>
+               <l>Nor have their loud and frenzied cries,</l>
+               <l>From that day left my brain.</l>
+            </lg>
+            <label type="stanza-num" n="7">VII.</label>
+            <lg>
+               <l>I saw them, mother torn from child,</l>
+               <l>Love's holy bonds asunder riven;</l>
+               <l>Beheld them kneel, and heard their wild</l>
+               <l>And mournful prayer to Heaven:</l>
+               <l>I saw the white man standing by,</l>
+               <l>Unmoved, with cold unpitying breast,</l>
+               <l>A laughing scorn was in his eye,</l>
+               <l>Upon his lips a jest.</l>
+            </lg>
+            <label type="stanza-num" n="8">VIII.</label>
+            <lg>
+               <l>Then in my soul's indignant might,</l>
+               <l>I cried, Great God, from Heaven look down!</l>
+               <l>Even then rose cries of strange affright,</l>
+               <l>As from a captured town;</l>
+               <l>God's angel was sent forth again,</l>
+               <l>Another sinful race to smite,</l>
+               <l>Even as was the Egyptian slain</l>
+               <l>Yet spared the Israelite.</l>
+            </lg>
+            <label type="stanza-num" n="9">IX.</label>
+            <lg>
+               <l>Then came contagion like a flood,</l>
+               <l>Sweeping its thousands to the grave;</l>
+               <l>But all unmoved the Negro stood,</l>
+               <l>Heaven-guarded from its wave.[authorial note: A fact well known as regards the Yellow Fever.]</l>
+               <l>Then the white mother hung and wept</l>
+               <l>In anguish o'er her first-born dead;</l>
+               <l>The negro babe and mother slept</l>
+               <l>Unharmed, secure from dread.</l>
+            </lg>
+            <label type="stanza-num" n="10">X.</label>
+            <lg>
+               <l>But youths and maids on every hand</l>
+               <l>Like frost-nipped flowers were borne away,</l>
+               <l>Yet did the aged negro stand</l>
+               <l>To gaze upon their clay:</l>
+               <l>When bent the white man o'er the grave</l>
+               <l>Where love and hope and friend was laid;</l>
+               <l>The avenging terror left the slave</l>
+               <l>Untouched and undismayed.</l>
+            </lg>
+            <label type="stanza-num" n="11">XI.</label>
+            <lg>
+               <l>I saw it, and I bent my knee</l>
+               <l>In confidence that God was just;</l>
+               <l>Nor vain the prayer that misery</l>
+               <l>Breathed to Him from the dust.</l>
+               <l>I saw it, and my faith sprung up</l>
+               <l>Assured that God was strong to save;</l>
+               <l>And from His holy Heaven would stoop</l>
+               <l>To raise the fallen slave.</l>
+            </lg>
+            <signed>Mary Howitt</signed>
+            <dateline>Nottingham</dateline>
+         </div>
+      </body>
+   </text>
+</TEI>
