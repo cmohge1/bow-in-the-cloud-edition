@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Repose for the Weary</title>
+            <author>Jane Roscoe</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>The Bow in the Cloud: A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud (1834), pp. 239–40.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <epigraph>
+               <quote>"There the wicked cease from troubling, and there the weary be at rest. There the prisoners rest together; they hear not the voice of the oppressor. The small and great are there; and the servant is free from his master."</quote>
+            </epigraph>
+            <lg>
+               <l>There is a spot within the Western isle,</l>
+               <l>Where all is peace and freedom, and the Slave</l>
+               <l>In that small lone enclosure finds a home.</l>
+               <l>Its sods are paved with monuments, which tell</l>
+               <l>The name of him whose bondage here is cancelled,</l>
+               <l>And the birth-day of the free. Here is kept</l>
+               <l>The charter of the injured Indian's rights,</l>
+               <l>Which none dare violate; and he whose name</l>
+               <l>Midst freedom's archives here is registered,</l>
+               <l>A title to his liberty obtains,</l>
+               <l>The proud oppressor never questions more.</l>
+               <l>The sugar-cane may never flourish here,</l>
+               <l>The soil of this pure sanctuary to taint,</l>
+               <l>And mark the Negro's curse; but rosemary</l>
+               <l>And thyme, and here and there a violet,</l>
+               <l>Adorn each narrow dwelling. Sweetly sleeps</l>
+               <l>The free inhabitant; nor hears he more</l>
+               <l>The voice of the task-master or the chain.</l>
+               <l>On this retreat the worm alone intrudes;</l>
+               <l>Yet his still inroads cannot break the sleep</l>
+               <l>Of the oppressed sweetly slumbering there.</l>
+               <l>From earthly wrong here all may refuge find,</l>
+               <l>And undisturbed repose, where softly lie,</l>
+               <l>By dreams unstartled, on one balmy couch,</l>
+               <l>And by the same light canopy o'ershadowed,</l>
+               <l>The proud oppressor with his toil-worn slave.</l>
+               <l>And though with penury and scorn o'ercome,</l>
+               <l>Each in his turn the ransom pays in full.</l>
+               <l>But yet that claim of purchase to receive,</l>
+               <l>The oppressor grudges, sickening at the sight</l>
+               <l>Of that which buys it, e'en as though the touch</l>
+               <l>Would breed corruption; -- for its price is <hi rend="italic">death</hi>.</l>
+            </lg>
+            <signed>J. R.</signed>
+         </div>
+      </body>
+   </text>
+</TEI>
