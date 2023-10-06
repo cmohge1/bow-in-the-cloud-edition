@@ -27,6 +27,15 @@
                   <note>Dinah Ball was Mary Anne Rawson's governess and a published poet.</note>
                </name>
             </person>
+            <person xml:id="bridges_m">
+               <name>
+                  <surname>Bridges</surname>
+                  <forename>Matthew</forename>
+               </name>
+               <birth>1800</birth>
+               <death>1894</death>
+               <note>Matthew Bridges was a British-Canadian hymnodist.</note>
+            </person>
             <person xml:id="brown_jb">
                <name>
                   <surname>Brown</surname>

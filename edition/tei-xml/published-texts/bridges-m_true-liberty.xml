@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True Liberty: An impromptu</title>
+            <author>Matthew Bridges</author>
+            <editor>Mary Anne Rawson</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>The Bow in the Cloud: A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud (1834), pp. 249–50.</p>
+            
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <lg>
+               <l>O! Liberty, how fair art thou,</l>
+               <l>Offspring of heaven, religion's child;</l>
+               <l>The olive waves around thy brow,</l>
+               <l>And roses grace thine aspect mild:</l>
+               <l>Where thou art absent, ills arrive</l>
+               <l>Hovering on desolation's wing;</l>
+               <l>Where thou art present, joys revive,</l>
+               <l>And hill and valley laugh and sing.</l>
+               <l>Why weeps the captive, long and late,</l>
+               <l>When looking through his iron grate</l>
+               <l>On heaven, or earth, or sea?</l>
+               <l>It is because the vault above,</l>
+               <l>The fields, the waves, in lines of love,</l>
+               <l>All say he should be free.</l>
+               <l>The thought at first in hell began,</l>
+               <l>That man should bind his brother-man.</l>
+            </lg>
+            <lg>
+               <l>Rise, England, rise -- and cast aside</l>
+               <l>That stain which well may check thy pride,</l>
+               <l>And bow thee in the dust;</l>
+               <l>Haste to those lovely western isles,</l>
+               <l>Where thou hast blasted nature's smiles,</l>
+               <l>And there at last be just!</l>
+            </lg>
+            <lg>
+               <l>Ah! who of us can ever know</l>
+               <l>The Negroes' mournful cup of woe?</l>
+               <l>Beneath their hard oppression's load,</l>
+               <l>For them no milk of kindness flowed.</l>
+               <l>We pressed the sweetness from the cane,</l>
+               <l>And paid them bitterly in pain; --</l>
+               <l>Wipe -- wipe those untold tears away,</l>
+               <l>And turn their darkness into day!</l>
+            </lg>
+            <lg>
+               <l>Yes -- let the shameful fetters fall</l>
+               <l>From off the hands and feet of all;</l>
+               <l>And may their God and ours impart</l>
+               <l>A nobler freedom of the heart:</l>
+               <l>Freedom from sin's accursed coil,</l>
+               <l>That bond of tyranny and toil!</l>
+               <l>Then shall a brighter morn arise</l>
+               <l>Than yet hath graced their glorious skies: --</l>
+               <l>The tree of life its shade shall shed</l>
+               <l>O'er many a sable mourner's head,</l>
+               <l>With balmy leaves for healing given,</l>
+               <l>And fruit for food -- the bread of heaven!</l>
+               <l>Partakers of that blissful seed,</l>
+               <l>The negroes shall be free indeed!</l>
+            </lg>
+            <signed><hi rend="smallcaps">Matthew Bridges</hi>.</signed>
+         </div>
+      </body>
+   </text>
+</TEI>
