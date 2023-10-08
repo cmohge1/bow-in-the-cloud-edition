@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Negro Will Work for Wages
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>The Bow in the Cloud: A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud (1834), pp. 251–53.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>(Extract from a Letter addressed to the Editor by a Gentleman who has for many years resided in Jamaica.)</head>
+            <ab>----</ab>
+         <p>"You wish for some facts shewing the readiness with which slaves will work for even a small remuneration. On this subject you may obtain important information in the Evidence of Mr. Taylor, contained in the Parliamentary Report of the Select Committee for the Extinction of Slavery. The following incident also is direct to the point, and fully proves the disposition of the slaves to labour, if they are fairly remunerated. Wishing to widen and improve a road from the highway to my residence, which was up a steep and difficult ascent, and indeed scarcely passable, I applied to the master of a jobbing gang, and requested him to state to me the lowest terms for which he would undertake the work: after several interviews and discussions he offered to perform it for the sum of 32l. Jamaica currency, prompt payment. Considering this amount too high, I was induced to pursue another plan. Accordingly one day I took a slave, who was driver of a jobbing gang, and after explaining the nature and difficulties of the work, proposed the following question: -- 'Supposing I was to hire of your master, twelve negroes, and if instead of working them before the whip, I gave each one a fippenny* [authorial note: <hi rend="italic">Fippenny</hi> -- a piece of money current in Jamaica.] *per* day besides paying the master,+ [authorial note: The sum charged by the master for the hire of each negro, was two-and-sixpence <hi rend="italic">per diem</hi>.] how many days would they require to complete the work?' The negro proceeded to examine the nature of the work, when after some time he returned, and replied that if thus rewarded they would do it in ten days, or in eleven at the farthest. Upon this information, I applied to the master, and hired the slaves, who were sent to me on the following Monday. Before, however, appointing them their work, I called them together, and addressed them in the following manner: 'I have hired you of your master to perform certain work, -- I shall not allow the whip to be used or even carried by the driver, but if you turn out early in the morning, and work well during the day, I will give each a fippenny for himself; -- if any one is late to his work, or indolent in his work, I shall not give him any thing, but will send him home, and obtain another slave in his stead.' When I had thus spoken, one of the negroes, with much good humour, replied, 'Massa, no you talk about sending we home; give we de hammer and make we go work.' They proceeded, and I never recollect to have seen any persons work better or more cheerfully. Frequently, when I went to see how they were getting on, they would indulge in their jokes: 'Massa, you no send we home yet!' referring to my address to them. One morning I went down about half-past five o'clock; they had been at work half an hour, when with much drollery they said, 'Massa, no you say, if neger no turn out soon, you send him home? Massa no up, him no know when neger come.' And at another time as they were breaking the stones for the road, one remarked, 'Massa, dat fippenny, -- him make de stone break! If de hammer only fall upon de stone, him break all to pieces.' I had not occasion to withhold: the promised reward from one, nor indeed to find fault with one; and such was the influence which this small sum had upon them, that they completed the work within the specified time, so that it cost me but 13l. 15s., instead of 32l."</p>
+      </body>
+  </text>
+</TEI>
