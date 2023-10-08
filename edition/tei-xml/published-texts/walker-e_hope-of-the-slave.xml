@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Hope of the Slave</title>
+            <author>Elizabeth Walker</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>The Bow in the Cloud: A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud (1834), pp. 254.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <quote>"The hope of the Slave is in the British people."</quote>
+            <lg>
+               <l>Poor slave! -- then thy hope is but vain,</l>
+               <l>We cannot be moved with thy grief --</l>
+               <l>Implore not our pity again --</l>
+               <l>From Britain expect no relief:</l>
+               <l>The joy of removing thy bitter distress</l>
+               <l>Is far, far too blessed for us to possess.</l>
+            </lg>
+            <lg>
+               <l>Return to thy home in despair --</l>
+               <l>Compassion from man never crave;</l>
+               <l>Return -- and then offer thy prayer</l>
+               <l>To Him who is mighty to save:</l>
+               <l>Turn from earth, and present thine appeal to the skies,</l>
+               <l>Jehovah will never thy sorrows despise!</l>
+            </lg>
+            <signed>
+               <persName>E.</persName></signed>
+               <dateline>April 13th, 1833.</dateline>
+         </div>
+      </body>
+   </text>
+</TEI>
