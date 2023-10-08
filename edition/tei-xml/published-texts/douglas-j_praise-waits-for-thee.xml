@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>"Praise waits for Thee in Zion, Lord!"</title>
+            <author>James Douglas</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>The Bow in the Cloud: A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud (1834), pp. 255–56.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <lg><l>"Praise waits for Thee in Zion, Lord!"</l>
+            <l>The earth, the sky, the sea</l>
+            <l>Shall ring responsive to the chord</l>
+            <l>Of heavenly minstrelsy,</l>
+            <l>When forth shall go Thy mighty word,</l>
+            <l>That sets the captive free.</l></lg>
+            
+            <lg><l>Kings are deceitful -- statesmen vain --</l>
+            <l>Senates a baseless trust; --</l>
+            <l>Much reckon they on gold and gain,</l>
+            <l>Little -- on what is just;</l>
+            <l>Their thoughts return to air again,</l>
+            <l>Their bodies to the dust.</l></lg>
+            
+            <lg><l>We pass them by as idle things,</l>
+            <l>Like foam upon the wave,</l>
+            <l>We turn to Thee, O King of kings,</l>
+            <l>Thou, who alone canst save;</l>
+            <l>The hand, the dead to life that brings,</l>
+            <l>Shall liberate the slave.</l></lg>
+            
+            <lg><l>"Praise waits for Thee in Zion, Lord!"</l>
+            <l>"To Thee vows paid shall be,"</l>
+            <l>All lands their increase shall afford</l>
+            <l>An offering unto Thee,</l>
+            <l>When home the exile is restored,</l>
+            <l>And when the earth is free.</l></lg>
+            
+            <signed>
+              James Douglas</signed>
+               <dateline>Cavers, 27th April, 1833.</dateline>
+         </div>
+      </body>
+   </text>
+</TEI>
