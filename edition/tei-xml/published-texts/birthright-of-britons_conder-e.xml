@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Birthright of Britons
+            </title>
+            <author>Eliza Conder</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>The Bow in the Cloud: A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud (1834), pp. 257–60.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <epigraph>
+               <l>"With a great sum obtained I this freedom."</l>
+               <l>"But I was <hi rend="italic">free born</hi>."</l>
+            </epigraph>
+            
+            <lg>
+               <l><hi rend="smallcaps">Explore</hi> the wide Atlantic;</l>
+               <l>And thrid with every breeze</l>
+               <l>The southern isles romantic,</l>
+               <l>That stud Pacific seas;</l>
+            </lg>
+            
+            <lg>
+               <l>Their coralline recesses,</l>
+               <l>Which break the ocean-calm,</l>
+               <l>And reefs that Nature dresses</l>
+               <l>With crests of feathery palm.</l>
+            </lg>
+            
+            <lg>
+               <l>Speed o'er the bounding surges</l>
+               <l>That sweep the summer-zone;</l>
+               <l>The depths the sea-tide merges,</l>
+               <l>The steeps its waves enthrone:</l>
+            </lg>
+            
+            <lg>
+               <l>The gardens ever-flowering,</l>
+               <l>That plant the Indian wave,</l>
+               <l>With spicy shades embowering</l>
+               <l>The soil its waters lave:</l>
+            </lg>
+            
+            <lg>
+               <l>Where crowns and thrones barbaric</l>
+               <l>In orient splendour shine;</l>
+               <l>Or sceptred realms Tartaric</l>
+               <l>Exhaust the jewelled mine:</l>
+            </lg>
+            
+            <lg>
+               <l>The regions incense-breathing,</l>
+               <l>Where pearly billows sleep,</l>
+               <l>In caves of Ormus wreathing</l>
+               <l>Tiaras for the deep:</l>
+            </lg>
+            
+            <lg>
+               <l>The groves whose clusters pendent</l>
+               <l>The wealth of commerce hold;</l>
+               <l>And sunny climes resplendent</l>
+               <l>With Afric's pliant gold.</l>
+            </lg>
+            
+            <lg>
+               <l>Could all their bright profusion</l>
+               <l>In one vast altar rise,</l>
+               <l>Here in our green seclusion,</l>
+               <l>A richer dowry lies.</l>
+            </lg>
+            
+            <lg>
+               <l>For England holds a treasure,</l>
+               <l>Than all their glorious spoil</l>
+               <l>More costly beyond measure: --</l>
+               <l>The freedom of her soil.</l>
+            </lg>
+            
+            <lg>
+               <l>This, this she cannot barter</l>
+               <l>For wealth of land or sea;</l>
+               <l>But sends her royal charter,</l>
+               <l>To set the captive free.</l>
+            </lg>
+            
+            <lg>
+               <l>O bright and blessed mission!</l>
+               <l>When shall her sails convey</l>
+               <l>The tidings of fruition,</l>
+               <l>For sickening Hope's delay?</l>
+            </lg>
+            
+            <lg>
+               <l>The voice of intercession</l>
+               <l>Through all our land and that pleads,</l>
+               <l>Abjures the long oppression,</l>
+               <l>Whose final moment speeds.</l>
+            </lg>
+            
+            <lg>
+               <l>Our oaken forests weaving</l>
+               <l>The garland of the sea,</l>
+               <l>Whose billows proudly heaving,</l>
+               <l>Bear freedom, <hi rend="italic">from</hi> the free;</l>
+            </lg>
+            
+            <lg>
+               <l>Shall boast a name more glorious,</l>
+               <l>More fraught with deathless fame,</l>
+               <l>Than all their fleets victorious</l>
+               <l>In battled line may claim.</l>
+            </lg>
+            
+            <lg>
+               <l>Our flags that yielded never,</l>
+               <l>But to the tempest's sway, --</l>
+               <l>Our prows that boldly sever</l>
+               <l>The ocean's pathless way, --</l>
+            </lg>
+            
+            <lg>
+               <l>As borne on wings angelic,</l>
+               <l>Shall waft the blest release:</l>
+               <l>Not sealed till every relic</l>
+               <l>Of Afric's bondage cease.</l>
+            </lg>
+            
+            <lg>
+               <l>Their course o'er rock and shallow,</l>
+               <l>Awaits a prospering gale.</l>
+               <l>That course may Justice hallow,</l>
+               <l>And Heaven direct the sail!</l>
+            </lg>
+            
+            <signed>
+               <hi rend="smallcaps">Eliza Conder</hi>.</signed>
+               <dateline><hi rend="italic">Watford</hi>,
+                  <lb/><hi rend="italic">May</hi>, 1833.</dateline>
+         </div>
+      </body>
+   </text>
+</TEI>
