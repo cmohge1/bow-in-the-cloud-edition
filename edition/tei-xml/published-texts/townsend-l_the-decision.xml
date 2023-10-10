@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Decision</title>
+            <author>Lucy Townsend</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>The Bow in the Cloud: A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud (1834), pp. 261–63.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+      <text>
+         <body>
+            <div type="poem">
+               <note type="authorial">
+               Explanatory quotation from the eighth Report of the Birmingham and West Bromwich Ladies' Negro-Friend Society: --
+               <p>"On the day of our present meeting, the 11th of April, we are expecting with intense anxiety the disclosure of the "safe and satisfactory" plan for the abolition of Slavery, which his Majesty's Ministers have declared their intention of disclosing to Parliament on the 23d instant, and we earnestly hope that it will be satisfactory, to the wise, the just, and the good, and not to the unjust, the unprincipled, and the misjudging." -- P. 14.</p>
+               <p>This safe and satisfactory plan is now postponed till May 14th, when the final election must be made by the Reformed Parliament, between the oppressor and the oppressed -- between the Slave-master and his unoffending Victim -- between those who acknowledge the true God, the God of justice and mercy, who loveth the stranger, and those who remove Him far out of their sight.
+               </p>
+               </note>
+            <epigraph><p>&quot;And Rehoboam went to Shechem; for all Israel were come to Shechem to make him king.&quot;</p>
+          
+            <p>&quot;And King Rehoboam consulted with the old men that stood before Solomon his Father, while he yet lived, and said, &#39;How do you advise that I may answer this people?&#39;&quot;</p>
+           
+            <p>&quot;And he (Rehoboam) spake to them after the counsel of the young men, saying, &#39;My father made your yoke heavy, and I will add to your yoke; my Father also chastised you with whips, but I will chastise you with scorpions.&#39;&quot;</p>
+        
+            <p>1 Kings xii. 1, 6, 14.</p>
+            </epigraph>
+    
+            <milestone unit="section" rend="----"/>
+            <lg>
+               <l><hi rend="small-caps">Who</hi> to his Father&#39;s mighty throne</l>
+            <l>In royal robes is passing on</l>
+            <l> To wear a kingly crown?</l>
+            <l>&#39;Tis he, who on the appointed day,</l>
+            <l>To the oppressed may wisely say,</l>
+            <l>&quot;Your bitter bonds are rent away.&quot;</l></lg>
+          
+            <lg><l>Ah! no -- the base advice he took,</l>
+            <l>And in their face their chains he shook!</l>
+            <l>He talked of whips with scorpion sting,</l>
+            <l>And made them loathe their youthful king.</l>
+            <l> Ten tribes depart in scorn. --</l>
+            <l>Nor evermore they owned his sway,</l>
+            <l>And all his glory passed away.</l></lg>
+           
+            <lg><l>O England! does thy hour draw near?</l>
+            <l>Say -- wilt thou wipe the captive&#39;s tear?</l>
+            <l> Or bow thee in the dust?</l>
+            <l>In foul dishonour wilt thou lie,</l>
+            <l>The scorn of every passer by? --</l>
+            <l> &quot;<hi rend="italic">She dared not to be just!</hi>&quot;</l></lg>
+            
+            <lg><l>O Britain! do thy duty now!</l>
+            <l>Let <hi rend="italic">mercy</hi>crown thy noble brow,</l>
+               <l> Be <hi rend="italic">righteousness</hi> thy trust;</l>
+            <l>High to the heavens lift up thy head;</l>
+            <l>Fear God, and know no other dread.</l></lg>
+            
+            <lg><l>The just will not forsake thy side;</l>
+            <l>Then only in thy God confide,</l>
+            <l>And He can help whate&#39;er betide.</l>
+            <l>Oh! may the happy future prove,</l>
+            <l>Thy tribes unite in peace and love;</l>
+            <l>Columbia bid her slaves be free,</l>
+            <l>And glory that she copies thee.</l></lg>
+            
+            <lg><l>Her starry-spangled banner waves on high,</l>
+            <l>Her Motto is not scorned by Afric&#39;s brightened eye.</l></lg>
+            
+            <signed><hi rend="small-caps">Lucy Townsend</hi>.</signed>
+            
+           <dateline><hi rend="italic">West Bromwich, May</hi>, 1833.</dateline></div>
+         </body>
+      </text>   
+</TEI>
