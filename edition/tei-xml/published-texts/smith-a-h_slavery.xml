@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title>Slavery</title>
+               <author>A. H. Smith</author>
+            </titleStmt>
+            <publicationStmt>
+               <p>The Bow in the Cloud: A Digital Scholarly Edition</p>
+            </publicationStmt>
+            <sourceDesc>
+               <p>Published in the Bow in the Cloud (1834), pp. 265–68.</p>
+            </sourceDesc>
+         </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l>O ye who hate oppression,</l>
+            <l>On the land or on the wave,</l>
+            <l>Think, O think of St. Domingo,</l>
+            <l>When they tell you that the Slave</l>
+            <l>Can never bear his freedom, and that the galling chain,</l>
+            <l>In phrensy snapt asunder, will reunite again.</l>
+         </lg>
+         <lg>
+            <l>Go read its glorious history</l>
+            <l>In the infamy of Gaul,</l>
+            <l>In Napoleon's humbled legions,</l>
+            <l>And the overthrow of all</l>
+            <l>The tyrant's base endeavours to quench, ere it was yet</l>
+            <l>Fanned to its true sublimity, the wild-fire he had lit.</l>
+         </lg>
+         <lg>
+            <l>And now that half a century</l>
+            <l>Of liberty hath smiled</l>
+            <l>O'er a country once degraded,</l>
+            <l>A paradise run wild,</l>
+            <l>And only rendered fruitful by the scarring whip and chain --</l>
+            <l>Hath want e'er traced on freedom's brow, "my manacles again?"</l>
+         </lg>
+         <lg>
+            <l>Then away, away for ever,</l>
+            <l>With the impious thought that dare,</l>
+            <l>In the face of God and nature,</l>
+            <l>And their witness every where,</l>
+            <l>The universal sun, and heaven's blue arch sublime</l>
+            <l>Bending o'er all, deny man's right in every clime.</l>
+         </lg>
+         <lg>
+            <l>Then, noble-minded Britons,</l>
+            <l>Shall Afric's sons be slaves?</l>
+            <l>Shall your tarnished banner float</l>
+            <l>O'er the blood-complaining waves?</l>
+            <l>Shall the orphan's cry for ever, and the widow's frantic wail,</l>
+            <l>From that living charnel-house arise, like poison on the gale?</l>
+         </lg>
+         <lg>
+            <l>When ye, whose voice hath oft</l>
+            <l>Made tyranny to feel,</l>
+            <l>That ye were not the victims</l>
+            <l>To grace his chariot wheel,</l>
+            <l>Can waft your mandate o'er the main, and grant to every isle</l>
+            <l>That boon which else shall yet be snatched from slavery's funeral pile.</l>
+         </lg>
+         <lg>
+            <l>And will ye tamely give</l>
+            <l>Twenty millions of your gold?</l>
+            <l>Or acknowledge, e'en, a mart</l>
+            <l>Where man is bought and sold?</l>
+            <l>And unto him who promised bread, but gave a scorpion, bow?</l>
+            <l>And slaves, will ye? No; look to God, and to your right arms now.</l>
+         </lg>
+         <lg>
+            <l>No; look to God alone,</l>
+            <l>The Christian meek responds,</l>
+            <l>Though still the seal of blood</l>
+            <l>Be on your altered bonds,</l>
+            <l>Assured that He, who often turns the labyrinth of guilt</l>
+            <l>Unto some deep mysterious good, when avarice has built --</l>
+         </lg>
+         <lg>
+            <l>A shrine, which bears alike,</l>
+            <l>Both the symbol of the free,</l>
+            <l>And the soul-debasing stain</l>
+            <l>Of thrice-cursed slavery,</l>
+            <l>Shall scan a fane, where, traced in light, creation's glorious plan</l>
+            <l>Shall lead to all, of every hue, love to his fellow-man.</l>
+         </lg>
+         
+            <signed>A. H. S.</signed>
+            <dateline>Newcastle,
+               <lb/>6th Mo. 1833.</dateline>
+         
+      </body>
+   </text>
+</TEI>
