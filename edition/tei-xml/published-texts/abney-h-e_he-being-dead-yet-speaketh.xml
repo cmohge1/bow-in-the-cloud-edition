@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>"He Being Dead Yet Speaketh"</title>
+            <author>Edward Henry Abney</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud, pp. 269–71.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+      <text>
+         <body>
+            <lg>
+               <l>Vast are the plains, and rich the teeming soil</l>
+               <l>Where labour reaps no solace from her toil;</l>
+               <l>Fair is the clime, which dawns on Pity's sleep,</l>
+               <l>And mocks their anguish while the sufferers weep;</l>
+               <l>Where 'neath the scourge they wail their abject lot,</l>
+               <l>And sigh unblest, unpitied, and forgot.</l>
+            </lg>
+            <lg>
+               <l>But shall I say, forgot, when one pure breast</l>
+               <l>Heaved for their sorrows, mournfully opprest?</l>
+               <l>Whose fearless words and dauntless ardour woke</l>
+               <l>A slumbering sympathy for Afric's yoke,</l>
+               <l>That shall not cease on Briton's sea-girt shore,</l>
+               <l>Till Slavery's chain shall gall the slave no more.</l>
+               <l>Aye! then the first free orisons of praise,</l>
+               <l>The ransomed negro to his God shall raise;</l>
+               <l>And bless His love who to his champion gave</l>
+               <l>The heart to pity, and the hand to save.</l>
+               <l>What, though amid the mansions of the blest,</l>
+               <l>His spirit shares a bright and glorious rest?</l>
+               <l>Yet still he speaks; his vast exertions crave</l>
+               <l>Our aid unwearied for the outcast slave.</l>
+            </lg>
+            <lg>
+               <l>Awake, my countrymen, awake to bless</l>
+               <l>The long-enthralled with long-sought happiness;</l>
+               <l>Can ye not learn, while o'er the pathless main,</l>
+               <l>Your barks are sped for commerce, wealth and gain,</l>
+               <l>That all Heaven's noblest gifts are unconfined,</l>
+               <l>Their Maker's bounty meant for all mankind?</l>
+               <l>While one above the rest, wide as the sea,</l>
+               <l>Secures the whole, -- unfettered Liberty?</l>
+               <l>Vouchsafed by Him to all -- to none denied,</l>
+               <l>Save by the avarice of British pride.</l>
+               <l>Base is the selfishness which bids you bind</l>
+               <l>Whom God created free, -- the chainless wind</l>
+               <l>That wafts your treasures wrung from hardest toil</l>
+               <l>O'er ocean's bosom, scaths your base-earned spoil;</l>
+               <l>And whispers, while it breathes, a saddening tale</l>
+               <l>Of manhood's sorrow, or of woman's wail.</l>
+            </lg>
+            <lg> 
+               <l>Oh! blush ye not, that through the scented air</l>
+               <l>Rise the deep curses of the sufferer's prayer?</l>
+               <l>Untaught the attributes of God above,</l>
+               <l>Unblest by knowledge of redeeming love.</l>
+               <l>Fail not your hearts with terror, when you know</l>
+               <l>That such a depth of misery and woe</l>
+               <l>Broods o'er our isle, and scatters blight around,</l>
+               <l>For mercy not dispensed when mercy's found?</l>
+            </lg>
+            <lg>
+               <l>O God of Mercy! hear the suppliant cry,</l>
+               <l>Which bursts from hearts full-fraught with agony!</l>
+               <l>Regard their prayer, who oft before Thy throne,</l>
+               <l>Implore compassion for the lost and lone;</l>
+               <l>Open Thine hand, and on yon injured race</l>
+               <l>Shower down the richest blessings of Thy grace;</l>
+               <l>No more may man his fellow-man oppress,</l>
+               <l>Give Liberty -- give Light -- give Holiness!</l>
+            </lg>
+            <signed><hi rend="smallcaps">Edward Henry Abney</hi>.</signed>
+         </body>
+      </text>
+   </TEI>
+   

@@ -20,6 +20,16 @@
   <text>
       <body>
          <listPerson>
+            <person xml:id="abney_e">
+               <name>
+                  <surname>Abney</surname>
+                  <forename type="first">Edward</forename>
+                  <forename type="middle">Henry</forename>
+               </name>
+               <birth>1811</birth>
+               <death>1892</death>
+               <note>Edward Henry Abney (1811-1892), domestic chaplain to 1st Baron Belper, was vicar of St. Alkmund's, Derby, afterwards prebendary of Lichfield.</note>
+            </person>
             <person xml:id="ball_d">
                <name>
                   <surname>Ball</surname>
