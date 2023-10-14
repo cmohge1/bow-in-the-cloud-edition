@@ -108,6 +108,17 @@
                <forename type="middle">Moon</forename></name> 
             </person>
             <!-- ... -->
+            <person>
+               <name>
+                  <surname>Parker</surname>
+                  <forename>John</forename>
+               </name>
+               <birth>21 October 1799</birth>
+               <death>5 September 1881</death>
+               <note>Parker was an English politician and barrister.</note>
+               <!-- complete -->
+               <!-- Wikidata item Q6251908 -->
+            </person>
             <person xml:id="pringle-t">
                <name>
                   <surname>Pringle</surname>
