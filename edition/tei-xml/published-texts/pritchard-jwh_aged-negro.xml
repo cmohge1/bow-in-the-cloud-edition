@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Aged Negro</title>
+            <author>J. W. H. Pritchard</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud, pp. 303–304.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="headnote">Intended to express the feelings of a Christian Slave, on finding that the period fixed for complete Emancipation was too distant for him to expect to participate in its benefits.</head>
+         <lg>
+            <l>The dream of Liberty is past!</l>
+            <l>The vision bright is o'er!</l>
+            <l>And long as feeble life shall last,</l>
+            <l>I now must hope no more</l>
+            <l>To seize the boon, I claim by right,</l>
+            <l>And break the chain of bondage quite.</l>
+         </lg>
+            <lg>
+            <l>Father of Spirits! though oppressed,</l>
+            <l>To Thee I bow resigned,</l>
+            <l>And calm the anguish of my breast --</l>
+            <l>The fever of my mind.</l>
+            <l>For Thou with pitying eye dost see,</l>
+            <l>The smarting Negro's agony.</l>
+            </lg>
+            <lg><l>'Tis not on Thee I charge the wrong;</l>
+            <l>Thy justice I revere;</l>
+            <l>Nor shall reproach e'er from my tongue</l>
+            <l>Reach e'en th' oppressor's ear;</l>
+            <l>For Thou hast taught me how to bear</l>
+            <l>The hardest lot that waits me here.</l></lg>
+            <lg>
+            <l>Thanks to Thy name! Thy love has wrought</l>
+            <l>Salvation for the Slave:</l>
+            <l>Thy Son has full redemption bought,</l>
+            <l>And died, my soul to save</l>
+            <l>From sin's worse bondage, and the chains</l>
+            <l>Of death, and hell's eternal pains.</l>
+            </lg>
+            <lg><l>Then let me not repine again,</l>
+            <l>As though I were not free,</l>
+            <l>For though the brand may yet remain,</l>
+            <l>A Slave I will not be.</l>
+            <l>A Slave! and all my fetters riven!</l>
+            <l>A Child! a Son! an Heir of Heaven!</l></lg>
+            <lg>
+            <l>Oh! now a brighter vision breaks</l>
+            <l>Through Truth's resplendent beam,</l>
+            <l>Th' emancipated spirit wakes,</l>
+            <l>And finds it not a dream;</l>
+            <l>And sings exulting, joyful, freed,</l>
+            <l>"Whom Christ makes free is free indeed!"</l>
+         </lg>
+         <signed>
+            <persName>J. W. H. Pritchard</persName>.
+         </signed>
+         <dateline>
+            <placeName>Attercliffe</placeName>.
+         </dateline>
+      </body>
+   </text>
+</TEI>
