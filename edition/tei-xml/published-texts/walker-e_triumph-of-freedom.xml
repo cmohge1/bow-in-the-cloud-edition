@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Triumph of Freedom</title>
+            <author>Elizabeth Walker</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud, pp. 316–17.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l>Slavery's fell reign is past -- her power is o'er,</l>
+            <l>Triumph, ye Free! -- her triumph is no more.</l>
+            <l>The long-anticipated time draws nigh,</l>
+            <l>Freedom advances in the western sky,</l>
+            <l>Sheds her bright glory toward the Indian seas,</l>
+            <l>And waves her banner o'er the Caribbees;</l>
+            <l>The tortured captive hears her thrilling voice,</l>
+            <l>Looks up -- and checks his groanings to rejoice.</l>
+            </lg>
+            <lg>
+            <l>Nursed in the land, where rolls the giant tide</l>
+            <l>Of sluggish Senegal through deserts wide, --</l>
+            <l>Where every tainted breeze comes tinged with death,</l>
+            <l>And Nature sickens in the poisoned breath, --</l>
+            <l>The wandering negro, 'midst these regions lone,</l>
+            <l>Thinks himself happy, though untaught, unknown;</l>
+            <l>Happy -- because the desert's faithless sand</l>
+            <l>He claims his own, his long-loved native land;</l>
+            <l>Because, no more the white man, lured by gain,</l>
+            <l>Can bind his limbs with Slavery's galling chain --</l>
+            <l>Rob him of Heaven's best gift, and cast him then</l>
+            <l>Forth from his equal rank with fellow-men, --</l>
+            <l>Transform him to a brute, yea, worse, a slave --</l>
+            <l>Who loathes to bear the life that Nature gave.</l>
+            </lg>
+         <lg>
+            <l>No more his mourning brow will pain our sight,</l>
+            <l>For Nature triumphs and asserts her right,</l>
+            <l>Expands his heart and bids his tongue explain</l>
+            <l>The pride, the bliss that swells through every vein,</l>
+            <l>Flushes unseen his dusky cheek, and dwells</l>
+            <l>Enshrined within his bosom's deepest cells.</l>
+            </lg>
+         <lg>
+            <l>But, a still warmer feeling rises there,</l>
+            <l>Which gushes like the desert-waters clear:</l>
+            <l>That fount is gratitude; -- it flows for you,</l>
+            <l>To whom the tribute of his thanks is due,</l>
+            <l>Who loosed his bonds and taught his mind to soar,</l>
+            <l>Far from Oppression's chain, to Freedom's shore.</l>
+            <l>Ne'er can his heart forget that glorious deed --</l>
+            <l>Through you the sable African was freed</l>
+            <l>From every bond, save one which memory threw</l>
+            <l>Around his heart, to bind it fast to you.</l>
+         </lg>
+         <signed>
+            From the Emerald Isle.
+         </signed>
+      </body>
+   </text>
+</TEI>
