@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Song: The Negro is Free!</title>
+            <author>Agnes Bulmer</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud, pp. 380–82.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l><hi rend="small-caps">the negro is free!</hi></l>
+         </lg>
+         <lg>
+            <l><hi rend="small-caps">Hark</hi>! a voice from the islands, a voice from the seas,</l>
+            <l>Rolls hoarse o'er the waters, floats light on the breeze;</l>
+            <l>It gladdens the morn in her mantle of light,</l>
+            <l>And steals soft on the silence of star-spangled night.</l>
+         </lg>
+         <lg>
+            <l>O list! 'tis the wide-wafted echo of songs</l>
+            <l>Uprising from regions, where Africa's wrongs</l>
+            <l>Till now have repressed the sweet music of joy,</l>
+            <l>Where the watch-word of Guilt was "Debase, and destroy."</l>
+         </lg>
+         <lg>
+            <l>O list! 'tis the trumpet of Justice; -- the voice</l>
+            <l>Of Humanity swells the grand chorus, "Rejoice!"</l>
+            <l>Rejoice! for Oppression's galled victim is free!</l>
+            <l>Re-echo his gladness, ye isles of the sea!</l>
+         </lg>
+         <lg>
+            <l>'Tis thy jubilee, Africa! long, long delayed,</l>
+            <l>For thy year of release thou hast patiently stayed:</l>
+            <l>Yet fell not thy tears, with thy blood, on the soil,</l>
+            <l>Unpitied by Him who regarded thy toil.</l>
+         </lg>
+         <lg>
+            <l>He spake, and the voices of Albion arose,</l>
+            <l>Like the rush of wild waves, that tumultuously close</l>
+            <l>Round the throne of her pride, 'midst the crags of the deep,</l>
+            <l>Where her trident gleams bright, and her broad banners sweep.</l>
+         </lg>
+         <lg>
+            <l>Hark! multitudes -- multitudes utter the cry,</l>
+            <l>The mountains receive it, the vallies reply,</l>
+            <l>"From the white cliffs of Albion be cleansed the dark stain</l>
+            <l>"Of the blood of the negro, -- be broken his chain!"</l>
+         </lg>
+         <lg>
+            <l>'Tis done! the stern lion hath loosed from his hold,</l>
+            <l>The victim he mangled; -- nor rapine, nor gold,</l>
+            <l>Though cruel as murder, though fell as despair,</l>
+            <l>Shall drag him again to his crimson-dyed lair.</l>
+         </lg>
+         <lg>
+            <l>O Albion! the happy, the favoured, the free,</l>
+            <l>Be light in thy dwellings, thou gem of the sea;</l>
+            <l>O fadeless and fair be the wreath on thy brow,</l>
+            <l>Be Africa's favoured, as happy as thou!</l>
+         </lg>
+         <lg>
+            <l>Her children have laboured, have suffered for thee,</l>
+            <l>Now, ruthless no longer, thou bidst her be free;</l>
+            <l>O wipe the sad tear-drops with lenient hand,</l>
+            <l>And be kind to instruct, who wast stern to command!</l>
+         </lg>
+         <lg>
+            <l>So the Isles of the Ocean thy banners shall bless,</l>
+            <l>The prayer of the stranger shall bring thee success;</l>
+            <l>And thy shield of defence, and the sword of thy might,</l>
+            <l>Shall be girded by Freedom, and wielded by Right.</l>
+         </lg>
+            <signed><hi rend="small-caps">Agnes Bulmer</hi>.</signed>
+      </body>
+   </text>
+</TEI>
