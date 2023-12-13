@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>They Ask Me for Some Radiant Lay</title>
+            <author>J. H. Wiffen</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud, pp. 391–95.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+                  <body><milestone unit="line" type="section-divider"/>
+                  <lg>
+                     <l>"There is an exquisite subtilty, and the same is unjust."</l>
+                     <l>Ecclesiasticus.</l>
+                  </lg>
+                  <lg>
+                     <label n="1">I.</label>
+                     <l>They ask me for some radiant lay,</l>
+                     <l>  Like that which high-toned minstrels breathe,</l>
+                     <l>When, blithe for victory's festal day,</l>
+                     <l>  Their crowns rejoicing millions wreathe;</l>
+                     <l>For Britain now, in western skies,</l>
+                     <l>  Hath snapt the Slave's envenomed thong,</l>
+                     <l>And loosed the thousand lingering ties</l>
+                     <l>  That linked him with the brute so long.</l>
+                  </lg>
+                  <lg>
+                     <label n="2">II.</label>
+                     <l>But if, amid the strings I try,</l>
+                     <l>  As prescient of enduring ill,</l>
+                     <l>In discord with the tones of joy,</l>
+                     <l>  One chord, more plaintive, murmurs still, --</l>
+                     <l>And if amidst my brighter braid</l>
+                     <l>  Of flowers, ye note the darkening rue,</l>
+                     <l>Ye must not chide the passing shade,</l>
+                     <l>  Nor deem th' unflattering strain untrue.</l>
+                  </lg>
+                  <lg>
+                     <label n="3">III.</label>
+                     <l>For I had thought, when brooding o'er</l>
+                     <l>  This Christian nation's load of guilt, --</l>
+                     <l>The tears -- the shrieks -- the stripes -- the gore --</l>
+                     <l>  Her marts have viewed, her children spilt, --</l>
+                     <l>That, like Elijah, when the seers</l>
+                     <l>  Of Baäl were to Tophet driven,</l>
+                     <l>Her senate would have dried those tears</l>
+                     <l>  With instant lightnings, called from heaven: --</l>
+                  </lg>
+                  <lg>
+                     <label n="4">IV.</label>
+                     <l>That, as on Carmel's brow sublime,</l>
+                     <l>  Freedom's charged Prophet would have trod,</l>
+                     <l>And cried to yon far coasts of crime,</l>
+                     <l>  "The Lord alone, the Lord is God!</l>
+                     <l>And instant let the chains be riven</l>
+                     <l>  From off each Ethiop's swarthy limb!"</l>
+                     <l>Angels might then have stooped from heaven,</l>
+                     <l>  Their glorious Exodus to hymn.</l>
+                  </lg>
+                  <lg>
+                     <label n="5">V.</label>
+                     <l>But they have sought the light and dark,</l>
+                     <l>  The just and unjust to combine;</l>
+                     <l>And freed, perchance, Jehovah's ark,</l>
+                     <l>  But not to grace Jehovah's shrine.</l>
+                     <l>The sword, that should have driven in rout</l>
+                     <l>  Each idol lure to England's sin,</l>
+                     <l>Has chased, indeed, brute Moloch out,</l>
+                     <l>  But left rapacious Mammon in!</l>
+                  </lg>
+                  <lg>
+                     <label n="6">VI.</label>
+                     <l>Yet, piteous of the weak resolve,</l>
+                     <l>  Still may His grace th' offence forgive;</l>
+                     <l>And what was of the dust, dissolve,</l>
+                     <l>  And what was of the heavens, receive.</l>
+                     <l>Sent by His word, to Lybian lands</l>
+                     <l>  Long absent Justice shall return;</l>
+                     <l>And incense, heaped by dusky hands,</l>
+                     <l>  Bright on His hallowed altars burn.</l>
+                  </lg>
+                  <lg>
+                     <label n="7">VII.</label>
+                     <l>And through the unendangered isles, --</l>
+                     <l>  Those Edens of the western sun,</l>
+                     <l>Where now no Negro mother smiles,</l>
+                     <l>  Save when her infant's course is run, --</l>
+                     <l>Shall Peace and Liberty restore</l>
+                     <l>  Those golden times, ere plain and creek</l>
+                     <l>Shook to the Spaniard's shout, who tore</l>
+                     <l>  His treasures from the mild Cacique.</l>
+                     <l><note type="authorial">When Columbus landed in Hispaniola, he almost imagined that he had found the seat of Paradise. "The country," wrote his son, "excels all others, as far as the day surpasses the night in splendour. Nor is there a better people in the world. They love their neighbour as themselves; their conversation is the sweetest imaginable; their faces are always smiling; and their hearts the most gentle and affectionate," &amp;c.</note>
+                     </l>
+                  </lg>
+                  <lg>
+                     <label n="8">VIII.</label>
+                     <l>And, for the curses and the groans</l>
+                     <l>  That long from anguished hearts have burst,</l>
+                     <l>Shall then be heard, in grateful tones,</l>
+                     <l>  The voice of solemn praise, -- as erst</l>
+                     <l>O'er Pharaoh's dying host, the clang</l>
+                     <l>  Of timbrels sounded in the breeze,</l>
+                     <l>At morn, when ransomed Israel sang</l>
+                     <l>  "Salvation!" by the refluent seas.</l>
+                  </lg>
+                  <lg>
+                     <label n="9">IX.</label>
+                     <l>What troubles in their transit, yet,</l>
+                     <l>  The Negro nation shall sustain,</l>
+                     <l>Ere, clearly 'scaped the tyrant's net,</l>
+                     <l><hi rend="italic">Their</hi> promised Land of Rest they gain,</l>
+                     <l>We ask not, so Thy cloudy shrine</l>
+                     <l>And fiery pillar go before, --</l>
+                     <l>And as deliverance, Lord, is Thine,</l>
+                     <l>Be Thine the glory evermore!</l>
+                  </lg>
+                  <lg>
+                     <l>J. H. Wiffen.</l>
+                  </lg>
+                  <lg>
+                     <l><hi rend="italic">Froxfield</hi>.</l>
+                  </lg>
+                  </body>
+  </text>
+</TEI>
