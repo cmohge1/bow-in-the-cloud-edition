@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dying Negress</title>
+            <author>Charlotte Elliott</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud, pp. 396–400.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>
+            (Written after hearing Mr. Buxton's reply to Mr. Canning's speech, March, 1824.)
+         </head>
+         <note type="editorial" resp="#MAR">[Editorial note:] This poem ought to have been placed in the former part of the volume, but it was not received in time.</note>
+         
+         <lg type="quatrain">
+            <l><hi rend="smallcaps">Kind</hi> Companion! cease to mourn me,</l>
+            <l>&#xA0;&#xA0;Not for Leila smite thy breast;</l>
+            <l>Fiercer pangs than these have torn me,</l>
+            <l>&#xA0;&#xA0;Ending not like these in rest.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Weep no more to see me suffer,</l>
+            <l>&#xA0;&#xA0;On this burning sand laid low;­</l>
+            <l>Can the grasp of Death be rougher</l>
+            <l>&#xA0;&#xA0;Than these chains which gall me now?</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Yesternight my tears were steeping</l>
+            <l>&#xA0;&#xA0;Slavery's coarse and scanty food,</l>
+            <l>Guilty of the crime of weeping,</l>
+            <l>&#xA0;&#xA0;I have paid each tear with blood.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Now, in vain his threats will urge me,</l>
+            <l>&#xA0;&#xA0;Hark! the blood-stained whip resounds! </l>
+            <l>But the lash no more can scourge me;</l>
+            <l>&#xA0;&#xA0;Death is binding up my wounds.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Yet, though <hi rend="italic">they</hi> are fresh and bleeding,</l>
+            <l>&#xA0;&#xA0;And for me no cure remains,</l>
+            <l>There <hi rend="italic">are</hi> tortures far exceeding </l>
+            <l>&#xA0;&#xA0;Those the <hi rend="italic">outward</hi> frame sustains.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Scars deface my limbs all over;</l>
+            <l>&#xA0;&#xA0;Burning brands have scorched my skin;</l>
+            <l>But, couldst thou my heart uncover,</l>
+            <l>&#xA0;&#xA0;Wounds more painful bleed within.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Where are those I fondly cherished, </l>
+            <l>&#xA0;&#xA0;Husband, children, once my own?</l>
+            <l>May they all, ere this, have perished, </l>
+            <l>&#xA0;&#xA0;Nor a lot like mine have known!</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Till the fierce Oppressor tore us </l>
+            <l>&#xA0;&#xA0;From our native land so fair,</l>
+            <l>Life's gay prospect smiled before us; -- </l>
+            <l>&#xA0;&#xA0;White men, then, were strangers there.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>But, at midnight, they descended, </l>
+            <l>&#xA0;&#xA0;Like the dread tornado's sweep; --</l>
+            <l>Seized us sleeping, undefended,</l>
+            <l>&#xA0;&#xA0;Bore us to their dungeon-ship.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Swift we flew, with rapid motion, </l>
+            <l>&#xA0;&#xA0;Chained together, o'er the wave;</l>
+            <l>Wildly gazing on the ocean,</l>
+            <l>&#xA0;&#xA0;Longing there to find a grave.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Once, I burst the chains that held me, </l>
+            <l>&#xA0;&#xA0;Resolute to plunge and die;</l>
+            <l>But my husband's voice withheld me -- </l>
+            <l>&#xA0;&#xA0;And I heard my children's cry.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>To this land of woe they brought us, </l>
+            <l>&#xA0;&#xA0;Weak, dispirited, forlorn;</l>
+            <l>Slavery's lessons soon were taught us, -- </l>
+            <l>&#xA0;&#xA0;Labour, stripes, injustice, scorn.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Still one gleam of comfort brightened</l>
+            <l>&#xA0;&#xA0;For a time poor Leila's fate;</l>
+            <l>Even Slavery's yoke was lightened,</l>
+            <l>&#xA0;&#xA0;While we <hi rend="italic">jointly</hi> bore its weight.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Soon this solace was denied me; --</l>
+            <l>&#xA0;&#xA0;Husband, babes, were torn away; --</l>
+            <l>And the tyrant dared deride me </l>
+            <l>&#xA0;&#xA0;While I knelt to weep and pray.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Since the fearful hour we parted,</l>
+            <l>&#xA0;&#xA0;Though the frenzy left my brain,</l>
+            <l>Leila, sad, and broken-hearted, </l>
+            <l>&#xA0;&#xA0;Never raised her head again.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Oft, in Memory's vivid painting,</l>
+            <l>&#xA0;&#xA0;I behold them standing near;</l>
+            <l>Oft I see them bleeding--fainting;-- </l>
+            <l>&#xA0;&#xA0;Oft their cries of anguish hear.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>O, ye loved ones!--could I view you</l>
+            <l>&#xA0;&#xA0;<hi rend="italic">Once</hi> before I yield my breath!--</l>
+            <l>Still do pain and grief pursue you;</l>
+            <l>&#xA0;&#xA0;Or are ye at rest in death ?</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Once they told me there existed, </l>
+            <l>&#xA0;&#xA0;In some realm beyond the sea,</l>
+            <l>Patriots, in our cause enlisted,</l>
+            <l>&#xA0;&#xA0;Who had vowed the Slave to free.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Oh! this thought assuaged my sadness;</l>
+            <l>&#xA0;&#xA0;For my babes I wept no more:--</l>
+            <l>Oft my heart exclaimed with gladness,</l>
+            <l>&#xA0;&#xA0;"Freedom is for <hi rend="italic">them</hi> in store!"</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>[<hi rend="italic">A Missionary enters, and addresses her</hi>.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Hark! What unknown voice is speaking,</l>
+            <l>&#xA0;&#xA0;While my eyelids close in death?--</l>
+            <l>Though poor Leila's heart is breaking,</l>
+            <l>&#xA0;&#xA0;Words like these can stay my breath.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>[<hi rend="italic">She listens, while the Missionary reads from the Bible and prays; then says</hi>]:--</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Why, O why did Leila never</l>
+            <l>&#xA0;&#xA0;Hear this heavenly news before?</l>
+            <l>Why must Death my life-strings sever</l>
+            <l>&#xA0;&#xA0;Now I long to live once more?</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Now I hear, with awe and wonder,</l>
+            <l>&#xA0;&#xA0;Of a God who loves to save;</l>
+            <l>And that He who wakes the thunder</l>
+            <l>&#xA0;&#xA0;Pities e'en the Negro-slave.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Will the white man's Saviour bless us?</l>
+            <l>&#xA0;&#xA0;Can his name indeed be Love?--</l>
+            <l>While they torture and oppress us,</l>
+            <l>&#xA0;&#xA0;Can <hi rend="smallcaps">He</hi> see them from above?</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>[<hi rend="italic">She listens again, while the Missionary converses</hi>.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Yes!-the day of light is dawning;</l>
+            <l>&#xA0;&#xA0;It will shine o'er Leila's grave!</l>
+            <l>She has heard, in death, the warning:--</l>
+            <l>&#xA0;&#xA0;Christ has freed the Negro-slave!</l>
+         </lg>
+         
+         <signed>
+            <hi rend="smallcaps">Charlotte Elliott.</hi>
+         </signed>
+         <dateline>
+            <hi rend="italic">Westfield Lodge,
+               <lb/>Brighton</hi>.</dateline>
+      </body>
+   </text>
+</TEI>
