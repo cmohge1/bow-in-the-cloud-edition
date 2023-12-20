@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heard Ye Those Mild Tones of Gladness?</title>
+            <author>John Sheppard</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud, pp. 401–3.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg type="quatrain">
+            <l>Heard ye those mild tones of gladness</l>
+            <l>&#xA0;&#xA0;Echoing o'er the Western sea?</l>
+            <l>'Twas no shout of mirthful madness,</l>
+            <l>&#xA0;&#xA0;In the dance of slavery.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>As the swelling strain comes o'er us</l>
+            <l>&#xA0;&#xA0;Many a manly tear-drop starts,</l>
+            <l>At the sable mothers' chorus</l>
+            <l>&#xA0;&#xA0;Poured from <hi rend="italic">"hundred thousand hearts."</hi></l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>"Smile, my babes!--the words are spoken;</l>
+            <l>&#xA0;&#xA0;Bondsmen's children,--you are free!</l>
+            <l>Now the coming fetter's broken,</l>
+            <l>&#xA0;&#xA0;These soft limbs with joy I see--</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Growing, not for chains to clasp them,</l>
+            <l>&#xA0;&#xA0;Nor for burning brands to sear;</l>
+            <l>Ne'er for pitiless hands to grasp them</l>
+            <l>&#xA0;&#xA0;While the lash is piercing here!</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>"Grow, my babes, young freedom prizing;</l>
+            <l>&#xA0;&#xA0;To the scourge no more ye'll bow:</l>
+            <l>Love the suns from Britain rising,</l>
+            <l>&#xA0;&#xA0;For ye'll love her white men now."</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>How shall Britain's heart maternal</l>
+            <l>&#xA0;&#xA0;Answer best these artless songs?</l>
+            <l>What but gifts untold, eternal,</l>
+            <l>&#xA0;&#xA0;Can outweigh those ancient wrongs?</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Waft your sympathetic promise,</l>
+            <l>&#xA0;&#xA0;Loud responsive, o'er the deep:­</l>
+            <l>"Sable mothers, ask not from us</l>
+            <l>&#xA0;&#xA0;Yet to smile: 'tis ours to weep,</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>"Weep we o'er that iron bruising,</l>
+            <l>&#xA0;&#xA0;Borne for ages, healed not soon;</l>
+            <l>'Midst our tears with joy diffusing</l>
+            <l>&#xA0;&#xA0;Heavenly freedom's nobler boon.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>"Tell your 'little ones' we <hi rend="italic">owe</hi> them,</l>
+            <l>&#xA0;&#xA0;And will send them, 'light and truth;'</l>
+            <l>Light from heaven shall soon o'erflow them,   </l>
+            <l>&#xA0;&#xA0;Guard and guide their joyous youth.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>"We would have them free for ever;</l>
+            <l>&#xA0;&#xA0;'Free indeed;' in <hi rend="italic">spirit</hi> free;</l>
+            <l>Bonds of guilt and grief dissever,</l>
+            <l>&#xA0;&#xA0;Foil e'en death's captivity.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>"Give 'glad tidings' from above;</l>
+            <l>&#xA0;&#xA0;Preach 'a blood-bought free reward;'</l>
+            <l>Then they <hi rend="italic">must</hi> the white man love,</l>
+            <l>&#xA0;&#xA0;When they love his bleeding Lord."</l>
+         </lg>
+         
+         <signed>
+            J. S.</signed>
+            <dateline><placeName><hi rend="italic">Frome</hi></placeName>.</dateline>
+      </body>
+   </text>
+</TEI>

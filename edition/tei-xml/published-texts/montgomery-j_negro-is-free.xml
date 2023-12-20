@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Negro is Free</title>
+            <author>James Montgomery</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud, pp. 404–5.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="headnote">Imitated from Moore's sacred melody, "Sound the loud timbrel o'er Egypt's dark sea."</head>
+         <lg>
+            <l><hi rend="smallcaps">Blow</hi> ye the trumpet abroad o'er the sea,</l>
+            <l>Britannia hath triumphed, the Negro is free;</l>
+            <l>Sing, for the pride of the tyrant is broken,</l>
+            <l>His scourges and fetters, all clotted with blood,</l>
+            <l>Are wrenched from his grasp;--for the word was but spoken,</l>
+            <l>And fetters and scourges were sunk in the flood:</l>
+            <l>Blow ye the trumpet abroad o'er the sea,</l>
+            <l>Britannia hath triumphed, the Negro is free.</l>
+            <l>Hail to Britannia, fair Liberty's isle!</l>
+            <l>Her frown quailed the tyrant, the slave caught her smile;</l>
+            <l>Fly on the winds to tell Afric the story;</l>
+            <l>Say to the Mother of mourners, "Rejoice!"</l>
+            <l>Britannia went forth in her beauty, her glory,</l>
+            <l>And slaves sprang to men at the sound of her voice:</l>
+            <l>Praise to the <hi rend="smallcaps">God</hi> of our fathers;--'twas <hi rend="smallcaps">He</hi>,</l>
+            <l>Jehovah, that triumphed, my Country, by <hi rend="smallcaps">Thee</hi>.</l>
+         </lg>
+         
+         <lg>
+            <l>James Montgomery.</l>
+            <l><hi rend="italic">Sheffield</hi>.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>
