@@ -1,0 +1,120 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Goal; or, Clarkson in Old Age.</title>
+            <author>Bernard Barton</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in the Bow in the Cloud, pp. 406–8.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <lg type="quatrain">
+            <l>Near half a century hath flown;</l>
+               <l>&#xA0;&#xA0;That way-side wanderer now</l>
+            <l>A venerable sage has grown,</l>
+               <l>&#xA0;&#xA0;With years traced on his brow.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>More bent in form, more dim of eye,</l>
+            <l>&#xA0;&#xA0;More faltering in his pace;</l>
+            <l>But time has stamped in dignity,</l>
+            <l>&#xA0;&#xA0;More than it reft of grace.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>And joy is his, age cannot chill,</l>
+            <l>&#xA0;&#xA0;Memories it need not shun;</l>
+            <l>The lone enthusiast of Wades-Mill</l>
+            <l>&#xA0;&#xA0;His glorious goal hath won!</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Not vainly has he watched the ark</l>
+            <l>&#xA0;&#xA0;Wherein his hopes were shrined,</l>
+            <l>Nor vainly fanned fair Freedom's spark</l>
+            <l>&#xA0;&#xA0;In many a kindling mind.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>At times, indeed, those hopes might seem</l>
+            <l>&#xA0;&#xA0;Lost in the whelming wave;</l>
+            <l>That spark--a faintly, struggling gleam--</l>
+            <l>&#xA0;&#xA0;Quenched to the hapless slave.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Anon the dove, with weary wing,</l>
+            <l>&#xA0;&#xA0;Her olive-branch would bear;</l>
+            <l>A sign to which his hopes might cling</l>
+            <l>&#xA0;&#xA0;In hours of anxious care.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>The bow of promise has come forth;</l>
+            <l>&#xA0;&#xA0;It stands as erst it stood,</l>
+            <l>When the old land-marks of the earth</l>
+            <l>&#xA0;&#xA0;Emerged above the flood!</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>And Christian states have owned His right,</l>
+            <l>&#xA0;&#xA0;Who bade the waves recede,</l>
+            <l>As Freedom's champions, in His might,</l>
+            <l>&#xA0;&#xA0;For Afric rose to plead.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>Well may the vet'ran of that band,</l>
+            <l>&#xA0;&#xA0;In life's declining days,</l>
+            <l>Offer, with lifted heart and hand,</l>
+            <l>&#xA0;&#xA0;Thanksgiving, glory, praise!</l>
+         </lg>
+            
+         <lg type="quatrain">
+            <l>His name, with those of his compeers,</l>
+            <l>&#xA0;&#xA0;Have travelled earth's wide round;</l>
+            <l>And grateful hearts, and listening ears,</l>
+            <l>&#xA0;&#xA0;Have hailed their welcome sound.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>His toils are o'er, his part is done;</l>
+            <l>&#xA0;&#xA0;The Captive is set free;</l>
+            <l>But, Europe, though <hi rend="italic">his</hi> goal be won,</l>
+            <l>&#xA0;&#xA0;Much yet devolves on <hi rend="italic">thee</hi>.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>The bondage that made Afric vile</l>
+            <l>&#xA0;&#xA0;Can ne'er be wrapt in night,</l>
+            <l>Until her barren wastes shall smile</l>
+            <l>&#xA0;&#xA0;Beneath the Gospel's light.</l>
+         </lg>
+         
+         <lg type="quatrain">
+            <l>'Till where the Scourge created fear,</l>
+            <l>&#xA0;&#xA0;The Cross shall waken love,</l>
+            <l>And Afric's children altars rear</l>
+            <l>&#xA0;&#xA0;To Him who reigns above!</l>
+         </lg>
+         
+         <signed>
+            <persName>Bernard Barton</persName>.
+         </signed>
+         </div>
+         
+         <div type="closing">
+            <p>FINIS.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

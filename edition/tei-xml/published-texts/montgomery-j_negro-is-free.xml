@@ -16,7 +16,7 @@
    <text>
       <body>
          <head type="headnote">Imitated from Moore's sacred melody, "Sound the loud timbrel o'er Egypt's dark sea."</head>
-         <lg>
+         <lg type="octet">
             <l><hi rend="smallcaps">Blow</hi> ye the trumpet abroad o'er the sea,</l>
             <l>Britannia hath triumphed, the Negro is free;</l>
             <l>Sing, for the pride of the tyrant is broken,</l>
@@ -25,6 +25,8 @@
             <l>And fetters and scourges were sunk in the flood:</l>
             <l>Blow ye the trumpet abroad o'er the sea,</l>
             <l>Britannia hath triumphed, the Negro is free.</l>
+         </lg>
+         <lg type="octet">
             <l>Hail to Britannia, fair Liberty's isle!</l>
             <l>Her frown quailed the tyrant, the slave caught her smile;</l>
             <l>Fly on the winds to tell Afric the story;</l>
@@ -35,10 +37,9 @@
             <l>Jehovah, that triumphed, my Country, by <hi rend="smallcaps">Thee</hi>.</l>
          </lg>
          
-         <lg>
-            <l>James Montgomery.</l>
-            <l><hi rend="italic">Sheffield</hi>.</l>
-         </lg>
+         <signed>
+            <persName>James Montgomery</persName>.</signed>
+            <dateline><placeName><hi rend="italic">Sheffield</hi></placeName>.</dateline>
       </body>
    </text>
 </TEI>
