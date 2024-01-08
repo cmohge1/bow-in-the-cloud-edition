@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Eng 415/159
+            </p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <opener><dateline>London April 6. 1833</dateline>
+         
+            <salute>My dear Sir,</salute></opener>
+         <p>
+            I should be most
+            truly glad to comply with
+            any request of yours. But
+            I really am so much occupied,
+            or rather overwhelmed by
+            business of different kinds
+            that it will, I fear, be quite
+            out of my power to
+            write any thing you your 
+            <pb/>
+            friend's collection. I have
+            no fragment by me which
+            would be of the least use
+            to her.
+         </p>
+         <p>
+            I am truly glad to hear that
+            your cough has departed
+            and that you have
+            had so long and so quiet a
+            holiday. What do you
+            think of Sir Andrew Agnew's
+            Lord's Day Bill?<note type="editorial">The Lord's Day Bill...</note> And <pb/>
+            what does Mrs Rawson think
+            of it? We had an argument
+            on the subject, I remember,
+            at Hanover Square. I am
+            favorable to temperate legislation
+            on the subject. But this
+            measure seems to have
+            been framed by persons very
+            much of the temper of
+            those who forbade the
+            disciples to rub the <pb/>
+            ears of corn in their
+            hands.<note type="editorial">Allusion to Luke 6.1: 'And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands.'</note>
+         </p>
+         <p>
+            Remember me kindly to all
+            your family, and believe
+            me <unclear>?</unclear>,</p>
+            <closer><salute>My dear Sir
+            Yours most truly</salute>
+            <signed>W Macaulay</signed>
+            </closer>
+      </body>
+  </text>
+</TEI>
