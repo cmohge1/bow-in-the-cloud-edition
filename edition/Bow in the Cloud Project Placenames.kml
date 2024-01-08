@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bow in the Cloud Project Placenames</name>
+    <description>A map of places named in Bow in the Cloud pieces.</description>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Bow in the Cloud Placenames</name>
+      <Placemark>
+        <name>Attercliffe (England)</name>
+        <description><![CDATA[Coordinates: 53.394, -1.433<br>Number of pieces: 4<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/attercliffe?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>53.394, -1.433</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>4.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/attercliffe?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.433,53.394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barbados</name>
+        <description><![CDATA[Coordinates: 13.17, -59.5525<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/barbados?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>13.17, -59.5525</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/barbados?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -59.5525,13.17,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boston (USA)</name>
+        <description><![CDATA[Coordinates: 42.360278, -71.057778<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/boston-usa?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>42.360278, -71.057778</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/boston-usa?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -71.057778,42.360278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brighton (England)</name>
+        <description><![CDATA[Coordinates: 50.820833, -0.1375<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/brighton-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>50.820833, -0.1375</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/brighton-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1375,50.820833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bromham, Wiltshire (England)</name>
+        <description><![CDATA[Coordinates: 51.386, -2.054<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/bromham-wiltshire-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>51.386, -2.054</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/bromham-wiltshire-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.054,51.386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cavers (Scotland)</name>
+        <description><![CDATA[Coordinates: 55.432453, -2.727314<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/cavers-scotland?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>55.432453, -2.727314</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/cavers-scotland?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.727314,55.432453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chesterfield (England)</name>
+        <description><![CDATA[Coordinates: 53.2361, -1.4241<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/chesterfield-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>53.2361, -1.4241</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/chesterfield-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.4241,53.2361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dublin (Ireland)</name>
+        <description><![CDATA[Coordinates: 53.35, -6.260278<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/dublin-ireland?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>53.35, -6.260278</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/dublin-ireland?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.260278,53.35,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frome (England)</name>
+        <description><![CDATA[Coordinates: 51.2279, -2.3215<br>Number of pieces: 2<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/frome-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>51.2279, -2.3215</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>2.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/frome-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.3215,51.2279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Froxfield (England)</name>
+        <description><![CDATA[Coordinates: 51.41, -1.574<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/froxfield-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>51.41, -1.574</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/froxfield-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.574,51.41,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haiti</name>
+        <description><![CDATA[Coordinates: 19, -72.416667<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/haiti?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>19, -72.416667</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/haiti?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -72.416667,19,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Herrnhut (Germany)</name>
+        <description><![CDATA[Coordinates: 51.016667, 14.741667<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/herrnhut-germany?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>51.016667, 14.741667</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/herrnhut-germany?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.741667,51.016667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ilfracombe (England)</name>
+        <description><![CDATA[Coordinates: 51.208, -4.12<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/ilfracombe-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>51.208, -4.12</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/ilfracombe-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -4.12,51.208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jamaica</name>
+        <description><![CDATA[Coordinates: 18.18, -77.4<br>Number of pieces: 5<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/jamaica?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>18.18, -77.4</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>5.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/jamaica?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.4,18.18,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Keswick (England)</name>
+        <description><![CDATA[Coordinates: 54.5999, -3.1293<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/keswick-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>54.5999, -3.1293</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/keswick-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.1293,54.5999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kingston (Jamaica)</name>
+        <description><![CDATA[Coordinates: 17.971389, -76.793056<br>Number of pieces: 2<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/kingston-jamaica?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>17.971389, -76.793056</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>2.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/kingston-jamaica?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.793056,17.971389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leeds (England)</name>
+        <description><![CDATA[Coordinates: 53.800755, -1.549077<br>Number of pieces: 3<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/leeds-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>53.800755, -1.549077</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>3.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/leeds-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.549077,53.800755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Liverpool (England)</name>
+        <description><![CDATA[Coordinates: 53.4075, -2.991944<br>Number of pieces: 3<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/liverpool?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>53.4075, -2.991944</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>3.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/liverpool?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -2.991944,53.4075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>London (England)</name>
+        <description><![CDATA[Coordinates: 51.507222, -0.1275<br>Number of pieces: 23<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/london-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>51.507222, -0.1275</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>23.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/london-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.1275,51.507222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mansfield (England)</name>
+        <description><![CDATA[Coordinates: 53.144444, -1.196389<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/mansfield-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>53.144444, -1.196389</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/mansfield-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.196389,53.144444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Martinique</name>
+        <description><![CDATA[Coordinates: 14.65, -61.015<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/martinique?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>14.65, -61.015</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/martinique?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -61.015,14.65,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newcastle upon Tyne (England)</name>
+        <description><![CDATA[Coordinates: 54.98, -1.61<br>Number of pieces: 3<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/newcastle-upon-tyne?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>54.98, -1.61</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>3.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/newcastle-upon-tyne?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.61,54.98,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Playford, Suffolk (England)</name>
+        <description><![CDATA[Coordinates: 52.086, 1.235<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/playford-suffolk-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>52.086, 1.235</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/playford-suffolk-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.235,52.086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rotherham (England)</name>
+        <description><![CDATA[Coordinates: 53.43, -1.357222<br>Number of pieces: 2<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/rotherham-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>53.43, -1.357222</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>2.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/rotherham-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.357222,53.43,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sheffield (England)</name>
+        <description><![CDATA[Coordinates: 53.380833, -1.470278<br>Number of pieces: 8<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/sheffield-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>53.380833, -1.470278</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>8.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/sheffield-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.470278,53.380833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Croix</name>
+        <description><![CDATA[Coordinates: 17.733509, -64.783864<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/st-croix-us-virgin-islands?path=placenames-index&t=1703171795802]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>17.733509, -64.783864</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value><![CDATA[https://antislavery-anthologies.org/books/bow-in-the-cloud/st-croix-us-virgin-islands?path=placenames-index&t=1703171795802]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.783864,17.733509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Thomas</name>
+        <description><![CDATA[Coordinates: 18.3335, -64.90142<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/st-thomas-us-virgin-islands?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>18.3335, -64.90142</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/st-thomas-us-virgin-islands?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -64.90142,18.3335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Gambia</name>
+        <description><![CDATA[Coordinates: 13.5, -15.5<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/the-gambia?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>13.5, -15.5</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/the-gambia?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -15.5,13.5,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Watford (England)</name>
+        <description><![CDATA[Coordinates: 51.655, -0.395694<br>Number of pieces: 3<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/watford-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>51.655, -0.395694</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>3.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/watford-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.395694,51.655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Bromwich (England)</name>
+        <description><![CDATA[Coordinates: 52.519, -1.995<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/west-bromwich-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>52.519, -1.995</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/west-bromwich-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.995,52.519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woodbridge (England)</name>
+        <description><![CDATA[Coordinates: 52.093889, 1.32<br>Number of pieces: 3<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/woodbridge-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>52.093889, 1.32</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>3.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/woodbridge-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.32,52.093889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

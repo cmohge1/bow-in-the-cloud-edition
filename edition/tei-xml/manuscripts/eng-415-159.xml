@@ -6,13 +6,13 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Letter from Thomas Babington Macaulay to George Rawson (English MS 415/159)</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Eng 415/159
+            <p>John Rylands Library, Rawson/Wilson Collection, Eng MS 415/159.
             </p>
          </sourceDesc>
       </fileDesc>
@@ -63,10 +63,10 @@
          <p>
             Remember me kindly to all
             your family, and believe
-            me <unclear>?</unclear>,</p>
+            me ever,</p>
             <closer><salute>My dear Sir
-            Yours most truly</salute>
-            <signed>W Macaulay</signed>
+            <lb/>Yours most truly</salute>
+            <signed>Th Macaulay</signed>
             </closer>
       </body>
   </text>
