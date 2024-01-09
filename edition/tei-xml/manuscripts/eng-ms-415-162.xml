@@ -26,8 +26,63 @@
                <salute>My dear Madam,</salute>
             </opener>
             <p>The communication you did me the
-               honour to address to me at 18 Aldemanny[?]
+               honour to address to me at 18 Aldermanbury <note type="editorial">18 Aldermanbury, London, was the location of Anti-slavery Society offices.</note>
+               did not reach me till this morning.
+               This delay must be my apology for
+               a silence what you perhaps have
+               censured, but will now forgive.
+               It affords me much pleasure to
+               find that you contemplate the pub-
+               lication of a volume which I doubt
+               not will be highly interesting to every
+               sincere <add place="above" rend="caret">^friend</add> of the Abolition of Slavery.
+               I much fear whether any thing which
+               I can contribute will be worthy a
+               place among its pages, but I cannot
+               refuse to comply with a request <pb/>
+               which will confer upon me so high an
+               honour as that of being epocuted with
+               the names you have mentioned: I will
+               therefore in a few days forward you
+               a prose contribution.</p>
+               <p>It will afford we much satisfaction
+               to aid the circulation of the work
+               when published, and if you would allow
+               me to offer a suggestion, I would say, the
+               sooner it appears the better.</p>
+               <p>I feel greatly obliged by your very
+               kind invetition to visit Wincobank should
+               I again be in the neighbourhood of Sheffield.
+               I am sorry the pleasure was precluded
+               when last near you.</p>
+               <p>I have now been upwards of a fortnight
+               in Scotland and have held Six Meetings[?]
+               in Glasgow. Three of them were called
+               for the purpose of debating hour by hour
+               the merits of the question with Borthwick
+               the Advocate of the West Indians.
             </p>
+            <pb/>
+            <p>The last discussion took place last
+               Thursday evening when the question was
+               decided by a shew of hands. For gradual
+               emancipation as recommended by the
+               [new?] Slavery [party?] about 150 or 200 appeared
+               for Immediate emancipation as set forth
+               by our Society 2400 appeared. This result
+               was obtained notwithstanding the most
+               strenuous efforts made by the opposite
+               party to procure a contrary decision</p>
+               <p>With Kindest regards to Mr. &amp; Mrs. Read
+               and every other member of your
+               much respected family, believe
+               me Dear Madam</p>
+            <closer>
+               With high esteem
+               Your Very Humble &amp; Devoted St
+               G. Thompson
+               Mrs. M. A. Rawson
+            </closer>
          </div>
          <div type="envelope">
             <ab>Mr. W. B. Rawson<lb/>
@@ -35,6 +90,7 @@
                Wincobank Hall<lb/>
                G. Thompson <gap/> Near Sheffield</ab>
          </div>
+         <!-- See also corr with WL Garrison, e.g.: https://www.digitalcommonwealth.org/search/commonwealth:2z10zp109 -->
       </body>
   </text>
 </TEI>
