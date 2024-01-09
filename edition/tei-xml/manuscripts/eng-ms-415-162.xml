@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from George Thompson to Mary Anne Rawson (English MS 415/162)
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John Rylands Library, Rawson/Wilson Collection, Eng MS 415-162</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="letter-text">
+            <opener>
+               <dateline>Canning Place Glasgow
+               Feb 25. 1833</dateline>
+               <salute>My dear Madam,</salute>
+            </opener>
+            <p>The communication you did me the
+               honour to address to me at 18 Aldemanny[?]
+            </p>
+         </div>
+         <div type="envelope">
+            <ab>Mr. W. B. Rawson<lb/>
+               Joseph Read Esq<lb/>
+               Wincobank Hall<lb/>
+               G. Thompson <gap/> Near Sheffield</ab>
+         </div>
+      </body>
+  </text>
+</TEI>
