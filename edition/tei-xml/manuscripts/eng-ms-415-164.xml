@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Isaac Taylor to Mary Anne Rawson (English MS 415/164)
+            </title>
+            <editor ref="#cmo">Christopher Ohge</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John Rylands Library, Rawson/Wilson Collection, Eng MS 415-164</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <opener><dateline><placeName>Stanford Rivers</placeName>
+            <date when="1826-05-15">May 15. 1826</date></dateline>
+            <salute>Madam --</salute></opener>
+         <p>I am grieved
+            and ashamed to find that
+            I have so long delayed to reply
+            to the letter with which you
+            honoured me some weeks
+            ago. The pressure of many
+            engagements, <hi rend="underlined">merely</hi>, would not
+            have occasioned this delay
+            but I have really felt reluctant
+            to confess myself unable to <pb/>
+            take part in promoting your
+            benevolent design -- and yet
+            at last I must make this con-
+            fession -- Poetry and fiction
+            are quite beyond my sphere
+            nor can I imagine that any such
+            essay as it would be possible for
+            me to furnish -- however well
+            intended it might be, would
+            either suit the company in
+            which it must appear or at all
+            subserve the great cause you
+            propose to advocate.
+            It remains <add rend="caret" place="above">^for me</add> therefore only
+            <pb/>
+            to offer my sincere and hearty
+            wishes for the success of your
+            humane and christian-like
+            endeavours and, though
+            unknown, to <unclear>?</unclear> myself
+            with sympathy and respect
+         </p>
+         <closer><salute>Your obedient servant</salute>
+            <signed><persName ref="../personography.xml#taylor_i">I. Taylor</persName></signed> <unclear>?</unclear></closer>
+      </body>
+  </text>
+</TEI>

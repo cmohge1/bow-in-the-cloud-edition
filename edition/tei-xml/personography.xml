@@ -159,6 +159,15 @@
                <death>1840</death>
                <note>Mary Handley Sterndale was a poet, novelist, and travel writer. Born in Derbyshire. She became friends with the poet Anna Seward (1742-1809; ODNB). See more at https://btw.wlv.ac.uk/authors/1138.</note>
             </person>
+            <person xml:id="taylor_i">
+               <name>
+                  <surname>Taylor</surname>
+                  <forename>Isaac</forename>
+               </name>
+               <birth>1787</birth>
+               <death>1865</death>
+               <note>English philosopher, writer, artist, and inventor. Brother of Jane and Ann Taylor, and friends with Josiah Conder</note>
+            </person>
             <person>
                <name>
                   <surname>Townsend</surname>
