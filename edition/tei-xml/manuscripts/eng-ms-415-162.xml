@@ -13,7 +13,7 @@
             <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
          </publicationStmt>
          <sourceDesc>
-            <p>John Rylands Library, Rawson/Wilson Collection, Eng MS 415-162</p>
+            <p>John Rylands Library, Rawson/Wilson Collection, Eng MS 415/162</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
@@ -65,10 +65,10 @@
             <pb/>
             <p>The last discussion took place last
                Thursday evening when the question was
-               decided by a shew of hands. For gradual
-               emancipation as recommended by the
+               decided by a shew of hands. For <hi rend="underlined">gradual
+               emancipation</hi> as recommended by the
                [new?] Slavery [party?] about 150 or 200 appeared
-               for Immediate emancipation as set forth
+               for <hi rend="underlined">Immediate emancipation</hi> as set forth
                by our Society 2400 appeared. This result
                was obtained notwithstanding the most
                strenuous efforts made by the opposite
@@ -85,7 +85,7 @@
             </closer>
          </div>
          <div type="envelope">
-            <ab>Mr. W. B. Rawson<lb/>
+            <ab>Mrs. W. B. Rawson<lb/>
                Joseph Read Esq<lb/>
                Wincobank Hall<lb/>
                G. Thompson <gap/> Near Sheffield</ab>

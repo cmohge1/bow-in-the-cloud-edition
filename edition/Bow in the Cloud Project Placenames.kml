@@ -184,6 +184,27 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Edinburgh (Scotland)</name>
+        <description><![CDATA[Coordinates: 55.953333, -3.189167<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/edinburgh-scotland?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>55.953333, -3.189167</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/edinburgh-scotland?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.189167,55.953333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Frome (England)</name>
         <description><![CDATA[Coordinates: 51.2279, -2.3215<br>Number of pieces: 2<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/frome-england?path=placenames-index]]></description>
         <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
@@ -222,6 +243,27 @@
         <Point>
           <coordinates>
             -1.574,51.41,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glasgow (Scotland)               </name>
+        <description><![CDATA[Coordinates: 55.861111, -4.25<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/glasgow-scotland?path=placenames-index       ]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>55.861111, -4.25</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/glasgow-scotland?path=placenames-index       </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -4.25,55.861111,0
           </coordinates>
         </Point>
       </Placemark>
@@ -579,6 +621,27 @@
         <Point>
           <coordinates>
             -64.90142,18.3335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stanford Rivers (England)          </name>
+        <description><![CDATA[Coordinates: 51.689528, 0.207539<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/stanford-rivers-england?path=placenames-index            ]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>51.689528, 0.207539</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/stanford-rivers-england?path=placenames-index            </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.207539,51.689528,0
           </coordinates>
         </Point>
       </Placemark>
