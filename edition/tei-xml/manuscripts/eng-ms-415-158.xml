@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from John Clare to Mary Anne Rawson (English MS 415/158)
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="letter-text">
+            <opener>
+            <dateline>Helpstone near Market Deeping<lb/>
+            Northamptonshire<lb/>
+            July 10. 1826</dateline>
+            <salute>My dear Madam</salute>
+         </opener>
+         <p>
+            I feel realy ashamed to write to
+            you to tell you of my willingness to write a trifle for your
+            work after this long delay to do so for it seems to
+            contradict the assertion after I have said it yet the
+            cause of the delay was my attempting to send something
+            with the letter but I have not felt satisfied with what
+            I have as yet done &amp;amp; I feel it nesesary for good
+            manners sake to write to you without it to tell you
+            that I am anxious to do something &amp;amp; most assuredly will
+            wether it be good bad or indifferent the attempt will
+            be the same -– I am sure Slavery is an abominable
+            traffic &amp;amp; a disgrace to Mehomedism or much more
+            Christianity &amp;amp; they who sanction it cannot be
+            Christians for it is utterly at variance with religion
+            &amp;amp; nature -- I should have liked to have had all the
+            <pb/>time I can to write a Trifle in as I am very ill at
+            a proposed subject &amp; scarcely or ever succeed as I could wish
+            will a month or 5 weeks be soon enough I think a
+            few verses in the shape of a song on the "Negroe Boy"
+            would perhaps do if I can treat the matter as it should
+            be at least I will try &amp; if you want it directly I must
+            trouble you if you please to write again to tell me so
+            if not I shall take my own time as above said I have
+            never heard of the Work you mention as I am but
+            seldom applied to for such matters in fact I live in such
+            an unknown corner of the Country that a letter hardly
+            finds out the way to me unless directed as above &amp;
+            then there is often some difficulty but I hope this will
+            find you to assure you that I am ever anxious to assist
+            in every laudable endeavour as far as my humble
+            abilitys will permit me &amp; that I am
+         </p>
+         <closer>
+            <salute>My dear Madam<lb/>
+            yours very respectfully</salute>
+            <signed>John Clare</signed>
+         </closer>
+         </div>
+         <div type="envelope">
+            <ab>July 10<lb/>
+            M. Mary Anne Read<lb/>
+            Wincobank Hall<lb/>
+            near Skeffield<lb/>
+            Yorkshire</ab>
+         </div>
+      </body>
+  </text>
+</TEI>
