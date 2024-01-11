@@ -19,14 +19,87 @@
   </teiHeader>
   <text>
       <body>
-         <opener>
-            <salute></salute>
+         <div type="letter-text">
+            <opener>
+            <dateline>Edinburgh March 20th, 1834.</dateline>
+            <salute>My Dear Madam</salute>
          </opener>
-         <p>Some text here.</p>
+         <p>   
+            I am sorry that the apology you
+            so kindly meant for me is one which I cannot
+            plead -- namely that your first letter might possibly
+            not have reached me. At the same time, it would
+            be impossible for me, after so long an interval
+            to give any distinct account of the circumstances
+            which, at the period of its reception, prevented me from
+            answering it, I have most assuredly been very ungal-
+            lant; and, considering the nature and object of the
+            request it contained, in other respects culpable[?].
+            Your second letter reached me at Glasgow on the
+            afternoon of this day simight[?]; and next morn-
+            ing I came off for Edinr. where I now write.
+            A press of engagements prevented me from getting any
+            thing said in reply before leaving home; and since
+            coming in here, I have been tossed about incessant-
+            ly. I am tho more concerned at this, because, after
+            all I am constrained to answer you in terms that
+            will not be to your mind, -- that is, in terms of ne-
+            gation. I should not only be seriously[?] anxious to
+            gratify you; I should count it, moreover, a high
+            honour to have my name associated with the names
+            of those eminent and excellent friends of religion
+            and humanity, whom you mention; and an hon-
+            our still higher to appear in permanent associa-<pb/>
+            tion with the Cause, equally glorious for its piety
+            and its benevolence, in which they have so nobly
+            and through the divine blessing, so successfully
+            co-operated. I rejoice in having been, even in how-
+            ever feeble a manner, employed in the work of ?
+            pecation?, -- in pulling down the prison-house, and
+            striking off the fetters of the bondmen; -- and few
+            things could afford me a higher gratification than
+            to put a stone into the Monument which you are
+            engaged in erecting upon its ruins, to tell posterity
+            where it stood, the curses it contained, and how
+            it fell. But it must not be. The time is alrea-
+            dy gone, which your last letter allowed me; and
+            my hands are now, and must be for some time
+            to come, quite full. I might explain how; but
+            it might wear the aspect of affectation, and is un-
+            necessary. The hands you inumerall are more than
+            sufficient to present to the view of posterity an ex-
+            quisite piece of masonry, -- a structure, in moral
+            &amp; literary architecture, amply worthy of the great
+            occasion. ----
+         </p>
+         <p>I have only now once more to offer my apolo-
+            gies, lame as I feel them to be, for my former long
+            silence, and to ask your forgiveness. ----
+            Mrs. W. who is here with me, unites[?] in kindest
+            regards to youself &amp; to the members of both the fa-
+            milies with which you stand connected. -- We are <pb/>
+            just going down to Leith, and intend leaving for
+            home to morrow morning. -- We thank you for
+            your kind regrets as to our not seeing you when in
+            your neighbourhood; we join in reciprocating those
+            regrets, and hope to be more fortunate next time.
+         </p>
          <closer>
-            <salute></salute>
-            <signed></signed>
-         </closer>
+            <salute>Believe me to be, My Dear Madam<lb/>
+               Yours with esteem &amp; affection
+               </salute>
+            <signed>Ralph Wardlaw</signed>
+         </closer></div>
+         <div type="envelope">
+            <ab type="stamp">
+               MAR | 20 E | 1834</ab>
+               <ab>Add! 1/2.</ab>
+               <ab type="address">Mrs. John Rawson<lb/>
+               Mrs.[?] Reid's Esq<lb/>
+               Wincobank<lb/>
+               near Sheffield
+               </ab>
+         </div>
       </body>
   </text>
 </TEI>
