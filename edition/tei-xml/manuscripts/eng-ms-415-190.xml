@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Thomas Raffles to Mary Anne Rawson (English MS 415/190)
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John Rylands Library, Rawson/Wilson Collection, Eng MS 415/190</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <opener>
+            <dateline><placeName>Liverpool</placeName>
+            <date when="1833-11-09">Nov 9. 1833</date>.</dateline>
+            <salute>My dear Mrs. Rawson,</salute>
+         </opener>
+         <p>
+            I found your Letter, along
+            with many others, waiting my
+            arrival on my return from
+            Scotland (where I have recently
+            been in a missionary tour) the
+            latter end of last week: &amp;
+            my purpose then was to do
+            my best to meet the wishes
+            it expressed. But on Monday[?]
+            last it pleased our Heavenly
+            Father to visit us with a
+            severe domestic affliction
+            at 5 in the morning of that
+            day, that fell disease the
+            Croup in its severest form,
+            seized our youngest Child,
+            <pb/> and at noon he died --
+            the visitation has fallen
+            heavily upon us -- so that
+            I have been quite in capacitated
+            for any occupation similar
+            to that to which your letter
+            calls me: &amp; now I find
+            myself so oppressed with
+            public &amp; pastoral business
+            accumulated during my
+            late journey &amp; present
+            domestic trial, that I
+            cannot direct my attention
+            to any thing but ^that which is
+            worth? keeping? &amp; ?
+            in its claims. Indeed I
+            <pb/>
+            never had any taste or
+            tact for that kind of writing
+            which your professed &amp; volume
+            requires. I have had the
+            mis fortune it is true to scribble
+            to scribble a few lines of rhyme
+            but this has only ?
+            when the rhyme came
+            I never invited it.
+            I never could com:
+            mand it -- &amp; might sit the
+            whole day in vain endeavours
+            to string a few couplets together
+            on any subjects that should
+            be given to me for this purpose.
+            You must therefore place no
+            dependence upon me. If,
+            contrary to my expectations,
+            anything that I may have
+            the vanity to think suitable
+            should occur, in time, I will
+            <pb/>
+            send it -- &amp; if not -- I do
+            earnestly pray that my
+            Sin of omission may not
+            be deemed by you unpardon-
+            able!
+            Mr R. joins me
+            in kind regards to yourself
+            &amp; worthy family
+            and I remain
+            my dear Mrs. Rawson</p>
+            <closer>
+            <salute>Yrs very truly</salute>
+            <signed><persName>Th. Raffles</persName></signed>
+            <persName type="addressed-to">Mrs. Rawson</persName>
+            </closer>
+      </body>
+  </text>
+</TEI>
