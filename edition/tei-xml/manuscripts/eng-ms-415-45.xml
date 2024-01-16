@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <opener>London 11th July 1834
+            Dear Miss Rawson</opener>
+         <p>
+            I ought before to have thanked you
+            for your very pretty little volume. I [?]
+            the poor part I took in its production had
+            flitted away from my mind and memory
+            but it is very delightful to find that
+            minds and memories better than mine
+            have been occupied with topics which (to
+            my shame be it spoken) I had almost forgotten
+            the topics? -- No[?] -- but my small participation
+            in labours so generous? devoted and useful
+            as yours.</p>
+            <p>Mrs. Bowring is engaged in the most pain-
+            ful and percmptory of duties -- She is closing
+            the eyes of her dying mother -- otherwise I am
+            sure she would have charged me with a
+            mission of kind remembrances
+            </p>
+         <closer>
+         <salute>Most faithfully and ever yours</salute>
+         <signed>John Bowring</signed>
+         </closer>
+      </body>
+  </text>
+</TEI>

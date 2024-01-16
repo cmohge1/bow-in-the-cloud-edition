@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Thomas Raffles to Mary Anne Rawson (English MS 415/188)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John Rylands Library, Rawson/Wilson Collection, Eng MS 415/188</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <opener><dateline>Liverpool, June 16th 1826.</dateline>
+            <salute>My dear Miss Read</salute></opener>
+         <p>
+            I cannot express to you how
+            much pain I feel in the long delay
+            which has attended the acknowledgement
+            of your most interesting letter of
+            the March last. Not a day has
+            passed, I can truly assure you...
+            without serious?, &amp; I may say, anxious
+            thoughts respecting the important
+            subject to which it refers - and
+            delayed from day to day to
+            write in the hope that tomorrow, and
+            tomorrow, would yield me the leisure
+            and what was still more to the
+            purpose, the cue, for the trifling
+            service you was so good as to seek
+            at my hands -- but no such tomorrow
+            has yet arrived. I have tried
+            but I can accomplish nothing
+            I did indeed once string couplets
+            and do now &amp; then put a few rhymes
+            together still but then, I have
+            never sought them -- they have
+            come unasked, and unexpected
+            &amp; now that I [deleted word]? have earnestly
+            desired them -– they refuse to obey
+            my call -- &amp; every effort has
+            utterly failed. And this is the state
+            of mind in reference to your request
+            in which I have been for the
+            last two months -- Ashamed of my
+            delay -- yet reluitant to write to
+            tell you, what I have been
+            compelled to disclose after all
+            &amp; what, it I had told sooner, I
+            should have communicated, though
+            not with less regret, yet certainly
+            with an easier conscience
+            the same circumstances which
+            have caused the delay in this com-
+            munication to you, have also oper-
+            ated to keep me from Mr Roscoe, as
+            least in a great degree -- though
+            till lately the pressure of business
+            when him, relating to the subject
+            of slavery which has of recently
+            been much agaitated here, to get
+            with a consideration of
+            his infirmities &amp; [?]
+            indisposition, has induced
+            him to regard an application to
+            him as unsuitable. I But
+            independently of these things, I
+            could not but think I should go
+            to him with a poor[?] face, to ask[?]
+            his help when as yet I had done
+            nothing my self. I will however,
+            apply to him, now -- And if he
+            should comply, and it should
+            unhappily be too late, his verses
+            may adorn a second edition of your
+            work.
+            <pb/>
+            And now, my dear friend, can you
+            forgive me. I have no alternative
+            but to call[?] my self upon your kindness
+            I have told you honestly the truth how-
+            ever much you may be disposed, to
+            censure me, exonerate me &amp; entreat[?}
+            you[?] from the charge of wilful neglect
+            or indifference -- the subject is one
+            in which, I, in common with every man
+            worthy of the name of man, must be
+            deeply interested -- and if I could write
+            about it as I feel, you wd. have [?]
+            that breathe towards that [?]. Mrs. R
+            am sorry to say is very delicate still in
+            her health -- I am this day setting off
+            <pb/> <!-- crosswritten on the opening page -->
+            for London -- &amp; thence to H[?]. </p><closer>With kindest
+            and most respectful regards to your most excellent
+            family, in which
+            Mrs. R. unites, I
+            am most truly
+            <salute>Yr. obliged friend</salute>
+            <signed>Th. Raffles.</signed>
+            </closer>
+      </body>
+  </text>
+</TEI>
