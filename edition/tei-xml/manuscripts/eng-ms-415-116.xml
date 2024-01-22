@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Thomas Fowell Buxton to Mary Anne Rawson (English MS 415/116)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John Rylands Library, Rawson/Wilson Collection, Eng MS 415/116</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="letter-text">
+            <opener><dateline>Northrepps Hall  Cromer</dateline>
+         <salute>Dear Madam</salute></opener>
+         <p>
+            Your letter followed me in an
+            absence from home which had delayed
+            my answering it until now. I hope
+            therefore you have proceeded without
+            waiting for me &amp; that I shall soon
+            have the pleasure of seeing your little
+            Work in Print. -- X As to me, the fact
+            is I have talked written &amp; thought<pb/>
+            on the subject of Slavery till I can
+            talk &amp; write no longer. A mighty
+            work is accomplished as far as this
+            Country is concerned. A mighty
+            effect remains to be produced on
+            the other side of the Atlantic. ^ [deletion of We? and ?] How many in England will
+            wait &amp; watch the Result with
+            intense anxiety &amp; interest! I only
+            hope they will not forget how much
+            they may contribute to its perfect
+            success -- The more I hear &amp; read
+            the more I am convinced that the<pb/>
+            Negro Race are blessed with rather
+            a peculiar aptitude for the
+            reception of moral &amp; religious Instruc[-]
+            tion, and it does seem to me that
+            there never[?] was a stronger call on
+            any nation than there is now on
+            us to meet this inclination in
+            them, to supply them amply
+            with the means of Instruction
+            to [deleted word?] dispath Missionaries; to institute
+            Schools &amp; to send out Bibles --
+            this is the only Compensation more<pb/>
+            Power. &amp; it is an abundant one! [deletion]
+            We may in this manner recompense
+            all the sorrows &amp; sufferings we have
+            inflicted &amp; be the means of making
+            in the End, their barbarous Removal
+            from their own [deleted word] Land. The
+            greatest of blessings to them. [deleted: My]
+            I am cheered indeed by hearing
+            the note of Preparation on many
+            sides. Various Denominations of
+            Dissenters are preparing the
+            Emissaries. The Church I trust<pb/>
+            will not be behind &amp; the [deleted word: service?]
+            Wilberforce Subscription which after
+            the Erection of a monument is to
+            be applied to some the foundation
+            of some Institution in the West Indies
+            which shall be a more appropriate
+            Monument ^to Him than Marble, will
+            trust be widely patronized X
+            If -- dear Madam you can
+            condescend to print into your Work
+            as an extract from a letter the
+            Paragraph I have placed between<pb/>
+            crosses, you are of course at
+            liberty. It is little worth while,
+            but I am too much occupied to
+            write a more formal Contribution</p>
+            <closer>I am Yr faithful Servt
+            T. F. Buxton
+            I am far from wishing or
+            advising you to insert it ----</closer></div>
+         <div type="envelope">
+            <ab>Cromer Oct Six --
+               1833
+               Mrs. W. B. Rawson
+               Jos. Read's Esq.
+               Wincobank Hall
+               Sheffield
+               T. F. Buxton</ab>
+         </div>
+      </body>
+  </text>
+</TEI>

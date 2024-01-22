@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Eliza and Josiah Conder to Mary Anne Rawson(English MS 414/18)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>English MS 414/18</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <opener>
+            <dateline>Watford Field House<lb/>
+               Dec 10th
+               </dateline>
+            <salute>My dear Mrs. Rawsan,</salute>
+         </opener>
+         <p>
+            It was most fully my
+            intention to reply to your last letter
+            by return of post. The difficulty,
+            however, which I felt in returning
+            any thing like a satisfactory answer,
+            induced delay in the first instance;
+            and in the interim, my thoughts and
+            feelings have been much absorbed;
+            our youngest boy having been confined
+            with measles, from which he has
+            most mercifully recovered; and the last
+            few days having been unexpectedly
+            passed away from home. Still the
+            uneasy thought has cantinually recurred,
+            that your letter remained unacknowleged.
+            I found that Mr. Conder considered it
+            no easier task than I myself did, to
+            decide on a title, and although I felt
+            certain</p>
+         <closer>
+            <salute></salute>
+            <signed></signed>
+         </closer>
+      </body>
+  </text>
+</TEI>

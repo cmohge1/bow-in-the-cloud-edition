@@ -6,19 +6,21 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Letter from John Bowring to Mary Anne Rawson (English MS 414/45)
+            </title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>John Rylands Library, Rawson/Wilson Collection, Eng MS 414/45</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
-      <body>
-         <opener>London 11th July 1834
+      <body>   
+         <div type="letter-text">
+            <opener>London 11th July 1834
             Dear Miss Rawson</opener>
          <p>
             I ought before to have thanked you
@@ -28,12 +30,12 @@
             but it is very delightful to find that
             minds and memories better than mine
             have been occupied with topics which (to
-            my shame be it spoken) I had almost forgotten
-            the topics? -- No[?] -- but my small participation
+            my shame be it spoken) I had almost forgotten.
+            The topics? -- No[?] -- but my small participation
             in labours so generous? devoted and useful
             as yours.</p>
             <p>Mrs. Bowring is engaged in the most pain-
-            ful and percmptory of duties -- She is closing
+            ful and peremptory[?] of duties -- She is closing
             the eyes of her dying mother -- otherwise I am
             sure she would have charged me with a
             mission of kind remembrances
@@ -41,7 +43,14 @@
          <closer>
          <salute>Most faithfully and ever yours</salute>
          <signed>John Bowring</signed>
-         </closer>
+         </closer></div>
+         <div type="envelope">
+            <ab>London July eleven 1834[?]
+            Miss M. A. Rawson
+            Wincobank Hall
+            Sheffield
+            [???]</ab>
+         </div>
       </body>
   </text>
 </TEI>

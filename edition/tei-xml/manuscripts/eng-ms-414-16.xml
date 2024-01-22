@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Eliza Conder to Mary Anne Rawson (English MS 414/16)
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John Rylands Library, Rawson/Wilson Collection, Eng MS 414/16</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <opener>
+            <salute>My dear Madam,</salute>
+         </opener>
+         <p>Having, contrary to my
+            intention, omitted sending on immediate
+            acknowledgment of your polite and kind
+            note, I must beg you to accept with
+            my best thanks for its friendly contents,
+            my apologies for having thus delayed
+            them. It would affaid me much pleasure
+            to enjoy a few hours of your society, and
+            I am not without hope of accomplishing
+            this purpose at some interval, before
+            my return.</p>
+            <p>A copy of your elegant volume
+            was sent into my hands by Mr. Conder
+            the evening before I left home.
+            In the praspect of paiting, from my
+            family. I had not much leisure of
+            mind<pb/>
+            mind, to consider its merits. Therefore,
+            contented myself with ascertaining satis-
+            factorily the two points on which, I believe,
+            all writers -- whether drinking at the
+            fountain head of Coustaly[?], or sipping at its
+            remotest confluence with the waters
+            of oblivion -- will he found most sen-
+            sitive: -- What mistakes have the
+            printers made? and who are our companions?
+            Both questions were imeceptionable[?]
+            answered both for Mr. Conder's verses and
+            my own. Then, I felt obliged to close
+            the book, and can guess[?] at its further
+            character only only as it may be more
+            or less favourably received in the review.
+            The Critic seems to have possessed the
+            good taste and tact to transmute
+            the <hi rend="italic">one</hi> disadvantage -- its late appear-
+            ance into a recommendation.
+            I cannot suppress a degree of agitation
+            in looking on the thickening shadows
+            of this evening, and thinking of
+            tomorrow dawn. -- feelings in which
+            you have feared, that you most
+            (deeply<pb/>
+            deeply participate[?].. A day so full of
+            thrilling interest may not again wake
+            until the last sunrise shall appear.
+            I must offer my sincere thanks for
+            your very kind enquiries, and am thankful
+            to be able to say All is well.</p>
+            <p>My Sister unites with me
+            affectionate respects to Mrs. Reid[sic], and
+            best regards to your whole family. She
+            begs also her kindest remembrance
+            to yourself. Believe me,
+            My dear Mrs Rawson</p>
+            <closer><salute>Your with affection and esteem</salute>
+            <signed>Eliza Conder</signed>
+            <dateline>West DanHann
+            July 31st
+            1834.</dateline>
+            </closer>
+      </body>
+  </text>
+</TEI>
