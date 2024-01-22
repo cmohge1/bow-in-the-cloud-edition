@@ -6,19 +6,20 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letter from Eliza and Josiah Conder to Mary Anne Rawson(English MS 414/18)</title>
+            <title>Letter from Eliza and Josiah Conder to Mary Anne Rawson (English MS 414/18)</title>
          </titleStmt>
          <publicationStmt>
             <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
          </publicationStmt>
          <sourceDesc>
-            <p>English MS 414/18</p>
+            <p>John Rylands Library, Rawson/Wilson Collection, English MS 414/18</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
   <text>
       <body>
-         <opener>
+         <div type="letter-text">
+            <opener>
             <dateline>Watford Field House<lb/>
                Dec 10th
                </dateline>
@@ -43,11 +44,46 @@
             I found that Mr. Conder considered it
             no easier task than I myself did, to
             decide on a title, and although I felt
-            certain</p>
+            certain<pb/>
+            certain that Montgomery's West Indies
+            would supply more than one suitable
+            motto[?], I was yet unable to select two
+            lines, which might be so detached.
+            It would not have seemed kind to say
+            in reply to such a letter as yours: who[?] could
+            counsel and decide half so well as
+            Montgomery himself? although I mamelle
+            much that you should think of
+            consulting any one else. Thus have I
+            vainly cogitated, under the painful sense
+            of keeping you in daily expectation
+            and the perpetually recurring[?] fear of not
+            being, at last, able to resolve that
+            expectation. Having just had another
+            conversation with Mr Conder, I am
+            not without hope that he may
+            be able to suggest something on which
+            you may decide. I shall therefore leave
+            the remaining page for him to fill more
+            worthily, after entreating your pardon for
+            this long delay, and answering you that
+            it has caused me much regret.
+            I beg to be remembered[?] with affectionate respect[?]
+            to Mr &amp; Mrs Read, and love to your Sister.
+            May I be allowed also, to [?] a kiss for your
+            dear little Daughter.</p>
          <closer>
-            <salute></salute>
-            <signed></signed>
+            <salute>Believe me, dear Madam
+               Yours sincerely and affectionately
+               </salute>
+            <signed>Eliza Conder.</signed>
          </closer>
+         </div>
+         <div>
+            <opener></opener>
+            <p></p>
+            <closer></closer>
+         </div>
       </body>
   </text>
 </TEI>
