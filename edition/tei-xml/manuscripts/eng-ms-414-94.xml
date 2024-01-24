@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Eustace Carey to Mary Anne Rawson (English MS 414/94)
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John Rylands Library, Rawson/Wilson Collection, English MS 414/94</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="letter-text">
+            <opener>
+            <dateline>London 3d. July 1834</dateline>
+            <salute>My very dear friend,</salute>
+         </opener>
+         <p>
+            I am obliged, greatly
+            obliged, by your welcome note &amp; welcome
+            book; which indeed, come into my
+            hand but yesterday, which I trust
+            you will accept as the explanation of
+            my great delay in acknowledging them.
+            The book is exceedingly neat &amp; has no fault
+            but the one you name, its bulkiness. Nei-
+            ther the eye nor the hand quite agree to the
+            size; but you would naturally feel de-
+            licate in withholding, or abridging the con-
+            tributions you had yourself procured, es-
+            pecially from quarters so valued as those <pb/>
+            from which the principal articles are proceed-
+            ed. You will not feel disappointed, I am
+            sure, at some slight pecuniary sacrifice.
+            The public, even the religious portion of it,
+            are not quite so liberal or even just
+            to such designs as yours, as we might
+            anticipate. I think you might with the
+            utmost propriety have omitted to convey
+            a copy to the minor contributors such as
+            myself. In this you have been too liberal.
+            Your benevolent purpose must compensate
+            the toil &amp; the loss. When we read your vol-
+            ume we shall all [???] &amp; think of our dear
+            friend, who, after all her troubles, modestly
+            styled herself the 'Compiler'.
+            After long wonderings, we are now
+            finding a resting place at least for a short
+            time. We have this day enjoyed apart-
+            ments in Camberwell. Here we hope to a-<pb/>
+            bide for a season, how long, is known
+            to Him who fixes the bounds ^of our habita-
+            tion! Mrs Carey feels truly obliged by
+            your kind overture to her, &amp; designs
+            to give expression to her own feelings in
+            a few separate lines to your dear Ma[???]
+            Our beloved Anne is fast improving.
+            She has been upon the very verge of the
+            grave. But God has been merciful to
+            her &amp; to me. She har a sweet parent in
+            Mrs Carey. I think she will send
+            a line to her beloved friend, Elizabeth. <!-- MAR's daughter -->
+            Our united[?] love to her &amp; a kiss. Allow
+            me to beg my affectienate respects to every
+            one within your endeared circle, &amp; to fub
+            scribe myself,
+         </p>
+         <closer>
+            <salute>My dear Madam,
+               Yours, Truly &amp; affectionately
+               </salute>
+            <signed>Eustace Carey</signed>
+         </closer>
+         </div>
+         <div type="envelope">
+            <ab>
+            Mrs Rawson<lb/>
+            Wincobonk Hall<lb/>
+            Sheffield
+         </ab>
+         </div>
+      </body>
+  </text>
+</TEI>

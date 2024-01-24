@@ -18,12 +18,12 @@
   </teiHeader>
   <text>
       <body>
-         <div type="letter-text">
+         <div type="letter-text1">
             <opener>
             <dateline>Watford Field House<lb/>
                Dec 10th
                </dateline>
-            <salute>My dear Mrs. Rawsan,</salute>
+            <salute>My dear Mrs. Rawson,</salute>
          </opener>
          <p>
             It was most fully my
@@ -39,8 +39,8 @@
             most mercifully recovered; and the last
             few days having been unexpectedly
             passed away from home. Still the
-            uneasy thought has cantinually recurred,
-            that your letter remained unacknowleged.
+            uneasy thought has continually recurred,
+            that your letter remained unacknowledged.
             I found that Mr. Conder considered it
             no easier task than I myself did, to
             decide on a title, and although I felt
@@ -52,7 +52,7 @@
             It would not have seemed kind to say
             in reply to such a letter as yours: who[?] could
             counsel and decide half so well as
-            Montgomery himself? although I mamelle
+            Montgomery himself? although I [?]
             much that you should think of
             consulting any one else. Thus have I
             vainly cogitated, under the painful sense
@@ -79,10 +79,41 @@
             <signed>Eliza Conder.</signed>
          </closer>
          </div>
-         <div>
-            <opener></opener>
-            <p></p>
-            <closer></closer>
+         <div type="letter-text2">
+            <opener>
+               <salute>My dear Madam</salute>
+            </opener>
+            <p>
+               I really feel, as Mrs Conder
+               has stated, quite at a loss what title to
+               suggest; but incline to think that "Eleutheria,
+               or the Negro's Memorial" would be the best of
+               those you have mentioned. I wish that my inven
+               tion would supply a better. Those who would not
+               understand the Greek word (which is one that
+               occurs in the Greek Testt. repeatedly) would at
+               least understand the second title; &amp; the two
+               together would imply both a retrospective &amp; a
+               prospective view of the subject. I regret that
+               the volume was not brought out last spring, when
+               the public feeling was all alive to the subject;
+               but under existing circumstances, I hope that
+               the notes of hope &amp; joy will be found pleasingly
+               blended with the sadder straws, so as to give
+               to the publication a chain &amp; interest which
+            it could not have had before the legislative abo-
+            lition of Slavery. I hope that Montgomery has sounded
+            the trump of jubilee. I seem myself to have almost lost
+            the power of writing poetry, except at rare intervals, &amp;
+            feel ashamed of my meagre contribution.
+            I suppose that you have seen a certain pamphlet
+            called Wages or the Whip. Could I send you a copy
+            free of expense, if you have it not? I beg to join
+            with Mrs Conder in kindest respects to Mr &amp; Mrs Read
+            &amp; the rest of your circle. I am, my dear Madam,
+            </p>
+            <closer><salute>Yours very sincerely</salute>
+               <signed>Josiah Conder</signed></closer>
          </div>
       </body>
   </text>
