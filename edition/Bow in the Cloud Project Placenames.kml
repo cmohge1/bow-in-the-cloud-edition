@@ -163,6 +163,27 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Cromer (England)</name>
+        <description><![CDATA[Coordinates: 52.931, 1.302<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/cromer-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>52.931, 1.302</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/cromer-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.302,52.931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Dublin (Ireland)</name>
         <description><![CDATA[Coordinates: 53.35, -6.260278<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/dublin-ireland?path=placenames-index]]></description>
         <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
@@ -285,6 +306,27 @@
         <Point>
           <coordinates>
             -72.416667,19,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Helpston (England)                     </name>
+        <description><![CDATA[Coordinates: 52.635, -0.344<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/helpston-england?path=placenames-index ]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>52.635, -0.344</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/helpston-england?path=placenames-index </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.344,52.635,0
           </coordinates>
         </Point>
       </Placemark>
@@ -416,14 +458,14 @@
       </Placemark>
       <Placemark>
         <name>Liverpool (England)</name>
-        <description><![CDATA[Coordinates: 53.4075, -2.991944<br>Number of pieces: 3<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/liverpool?path=placenames-index]]></description>
+        <description><![CDATA[Coordinates: 53.4075, -2.991944<br>Number of pieces: 5<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/liverpool?path=placenames-index]]></description>
         <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
         <ExtendedData>
           <Data name="Coordinates">
             <value>53.4075, -2.991944</value>
           </Data>
           <Data name="Number of pieces">
-            <value>3.0</value>
+            <value>5.0</value>
           </Data>
           <Data name="Scalar place page">
             <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/liverpool?path=placenames-index</value>
@@ -520,6 +562,27 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Norwich (England)</name>
+        <description><![CDATA[Coordinates: 52.630886, 1.297355<br>Number of pieces: 3<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/norwich-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>52.630886, 1.297355</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>3.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/norwich-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            1.297355,52.630886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Playford, Suffolk (England)</name>
         <description><![CDATA[Coordinates: 52.086, 1.235<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/playford-suffolk-england?path=placenames-index]]></description>
         <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
@@ -604,7 +667,7 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>St Thomas</name>
+        <name>St. Thomas</name>
         <description><![CDATA[Coordinates: 18.3335, -64.90142<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/st-thomas-us-virgin-islands?path=placenames-index]]></description>
         <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
         <ExtendedData>
@@ -705,6 +768,27 @@
         <Point>
           <coordinates>
             -1.995,52.519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Winterberg (Eastern Cape, South Africa)</name>
+        <description><![CDATA[Coordinates: -32.65, 26.283333<br>Number of pieces: 2<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/winterberg-eastern-cape-south-africa?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>-32.65, 26.283333</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>2.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/winterberg-eastern-cape-south-africa?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            26.283333,-32.65,0
           </coordinates>
         </Point>
       </Placemark>
