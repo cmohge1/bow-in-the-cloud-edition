@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from James Montgomery to Mary Anne Rawson (English MS 414/78)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John Rylands Library, Rawson/Wilson Collection, English MS 414/78</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <opener>
+            <dateline><placeName>Sheffield</placeName>
+               <date when="1833-06-29">Jun 29 1833</date>.
+            </dateline>
+         <salute>My dear friend</salute>
+         </opener>
+         <p>
+            When I received your note I had pre-
+            pared a rough sketch of the enclosed narrative from
+            memorandums. Which had lain on my desk ever since
+            my promise (sometime about last Easter, I believe)
+            to furnish you with something in the course of a few
+            weeks for your Negro-emancipation Volume. I
+            will not pretend to explain why this was not duly done;
+            latterly, however, it has been neglected because I thought
+            you would abandon your project when the ministerial
+            plan of abolishing Slavery was made known. -- All
+            this week, except today, I have been much occupied
+            in other unavoidable business -- not my own, and
+            therefore I cannot charge myself with evading your
+            commission either from idleness or ^for personal interest.
+            Here it is, such as it is, my humble contribution to your
+            Volume! The matter I am sure is excellent; and of
+            the manner[?] you will be hard-hearted indeed if you
+            think worse than I do; but my pen, my head my
+            heart itself, is worn[?] out on this, and almost every
+            other subject of intense interest which in times past
+            has engaged all ^my powers and affections. No matter --
+            I must not trouble you with my troubles; forgive me for
+            ever ???. If the narrative now sent does not satisfy
+            you as suitable for your publication, do not hesitate to reject it.
+            </p>
+         <closer>
+            <salute>With kindest regards to all at Wincobank, I am truly your friend</salute>
+         <signed>J. Montgomery</signed>
+         </closer>
+         <postscript><p>XXX This is so late that I have no means of sending you this packet
+            except through the Post Office.
+         Perhaps the following new reading will suit the two last lines of the verse which you quote.
+         (or see the top of the page)</p>
+         <p>"What did it there, but to betray his thought,
+         -- The Man, that traffic'd in his fellow-man!"
+         </p>
+         <p>
+            "What did it there but to betray the thought
+            Of Him who traffic'd in his fellow-Man!
+         </p></postscript>
+      </body>
+  </text>
+</TEI>
