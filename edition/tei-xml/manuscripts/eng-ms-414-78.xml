@@ -19,7 +19,7 @@
   <text>
       <body>
          <opener>
-            <dateline><placeName>Sheffield</placeName>
+            <dateline><placeName>Sheffield</placeName>,
                <date when="1833-06-29">Jun 29 1833</date>.
             </dateline>
          <salute>My dear friend</salute>
@@ -52,7 +52,7 @@
             </p>
          <closer>
             <salute>With kindest regards to all at Wincobank, I am truly your friend</salute>
-         <signed>J. Montgomery</signed>
+         <signed><persName>J. Montgomery</persName></signed>
          </closer>
          <postscript><p>XXX This is so late that I have no means of sending you this packet
             except through the Post Office.

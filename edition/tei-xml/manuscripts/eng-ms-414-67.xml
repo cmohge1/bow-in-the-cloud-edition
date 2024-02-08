@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from J. W. H. Pritchard to Mary Anne Rawson (English MS 414/67)
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John Rylands Library, Rawson/Wilson Collection, English MS 414/67</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <metamark function="folio-mark">67</metamark>
+         <opener>
+            <salute>My Dear Madam</salute>
+         </opener>
+         <p>
+            I am much obliged
+            for the sight of the proof-
+            sheet, &amp; think with you
+            that the Title of the verses
+            would hardly be complete
+            without the addition you
+            mention. I know of nothing
+            better than what you have
+            expressed -- "The Aged Slave
+            on finding that the period
+            fixed for <hi rend="italic">complete</hi> eman-
+            cipation was too distant
+            for him to expect to live
+            to participate in its benefits."
+            As to the transposition <pb/>
+            of the words "son" &amp; "child"?
+            if you think it would be
+            better to make the alteration
+            I shall feel certain that it
+            will be an improvement.
+            I am persuaded that in
+            reading verses if on first
+            looking at them anything
+            appears uncouth, misplaced,
+            or awkward, it ought to be
+            at once condemned[?] or corrected,
+            for we may read the same
+            words ever so often as not
+            to perceive the faults which
+            were glaring at first sight.
+            I have read over the whole
+            of the sheet, &amp; see nothing
+            to correct unless, in the
+            last line but one of <pb/>
+            page 289, the word <hi rend="italic">not</hi>
+            should be placed before the
+            word cheaply. In <hi rend="italic">one
+            slave</hi> the triumph of the
+            the cause was indeed
+            achieved cheaply at the
+            cost of £20 000 000 &amp; it
+            may be that Mr Ely refers
+            to that: but when I finish
+            read it I thought it possible
+            another <del>sense[?]</del> meaning
+            might have been intended.
+            I have been frightened by
+            the weather from setting
+            off to-day, &amp; therefore shall
+            not now leave until Satur-
+            day. I am sorry on account
+            of your Packet, but I had
+            fixed not to go if the weather
+            precluded the possibility <pb/>
+            of deriving much advantage
+            from the journey. As it is
+            I shall be in Nottingham
+            on Monday.
+         </p>
+         <closer>
+            <salute>I remain,<lb/>
+            Dear Madam<lb/>
+            Yours very faithfully</salute>
+            <signed>
+               <persName>J. W. H. Pritchard</persName>
+            </signed>
+         </closer>
+      </body>
+  </text>
+</TEI>
