@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Thomas Fowell Buxton to Mary Anne Rawson (English MS 415/117)
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <metamark function="folio-mark">17</metamark>
+         <opener>
+            <salute>Dear Madam</salute>
+         </opener>
+         <p>
+            I am almost
+            ashamed to address you
+            at all after my long
+            apparent neglect of
+            your kind Favour
+            &amp; of the beautiful
+            Book you were so <pb/>
+            good as to send me
+            I need not say I have
+            been interested in it
+            &amp; admire the Execution
+            &amp; putting together of it.
+            The only part which
+            disgrace it is my 
+            Letter &amp; must say <pb/>
+            it makes a most 
+            contemptible figure 
+            among its far superior 
+            Neighbours -- I have
+            been extremely engaged
+            of late on a Subject
+            of new Interest -- the
+            state of the <hi rend="italic">Natives</hi> <pb/>
+            in our Colonies &amp; this
+            must be my Excuse
+            for my long Silence.
+            I send you a Paper
+            on the 1st of August
+            I cannot refuse
+            myself the pleasure
+            of telling you though
+            a purely private
+            Interest, that my <pb/>
+            <metamark function="folio-mark">117+</metamark>
+            eldest Daughter is to
+            be married on that
+            Day -- which every
+            thing therefore combines
+            to render most
+            memorable to me --
+         </p>
+         <closer>
+            <salute>I am Dear Madam
+            Yr faithful Servt</salute>
+            <signed><persName>T. F. Buxton</persName></signed>
+            <dateline><date when="1834-07-11">July 11, 1834</date></dateline>
+         </closer>
+      </body>
+  </text>
+</TEI>
