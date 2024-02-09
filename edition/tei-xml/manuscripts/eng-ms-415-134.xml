@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Untitled poem by Elizabeth Walker (English MS 415/134)</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John Rylands Library, Rawson/Wilson Collection, Eng MS 415/134</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>134
+            He hath sent me to heal the broken hearted
+            to preach deliverance to the Captives -- &amp; recovering of light
+            to the blind to set at liberty them that bruised
+            to preach the acceptable year of the Lord -- Luke 4th chapter
+            18 &amp; 19th verses
+            Lest! to that deep despairing groan, that frantic cry of woe!
+            Gaze on those looks of agony, those scalding tears that flow
+            flash! 'tis the clank of Slav'ry's chain, they forge each ? fast
+            One parting, hopeless look of love -- Ah! Captive, 'tis thy last!!
+            Now swiftly o'er the briny deep the fatal vessel flies,
+            No light of day, no breath of Heav'n, to mingle with their sighs
+            Unheeded flow those bitter tears, e'en Pity[?] weeps in vain
+            Alas! the depth of human woe -- they ne er will smile again!
+            Thro' years of piercing agony, we hear the sad low moan
+            or cutting last, or cruel scourge extoot? the deeper groan
+            Then mem'ry pictures home, &amp; wife. Ah! can he e'er forget?
+            His children too, can they be slaves? More bitter anguish yet? <pb/>
+            Towards Heav'n the clasped hands are raised the woe[?] worn ? eye
+            God pity Thee!! poor suff'ring one! from Man no aid is nigh
+            Yet cheer, oh cheer thee hapless Slave -- thy Tyrants ? is o'er
+            Thou'st hast'ning to that happy Land, where He can set[?] no more
+            Th' indignant heart has burst in twain -- its last warm streaming-
+            blood
+            Appeals from mans base treachery -- to a heart searching[?] God!
+            Thou Lord! hast heard the Captives prayers, hast set his Spirit
+            free
+            Captive, but in the bonds of love, he dwells in bliss with thee!!
+            How rouse[?] thee Albions! ah how long has been thy dreamy
+            sleep --
+            Shall Africs children still be Slaves "still drag those chains
+            &amp; weep."
+            Britons!! oh Liberty is yours oh Liberty you prize --
+            Then claim it, for you fetterd Slave, who now in anguish
+            lies --
+            A Light, the star of Hope &amp; Joy, has o'er th' Atlantic shone
+            Shall it be quench'd in deeper night -- shall Hope's bright
+            gleam be gone?
+            Ah! no! let ev'ry heart respond -- be firm, press on &amp; prove
+            What British hands &amp; hearts can do, when sway'd by
+            Christian love!!
+            Elizabeth
+            she hath done what she could! <!-- allusion to Mark  -->
+            April 3rd 1933
+         </p>
+      </body>
+  </text>
+</TEI>
