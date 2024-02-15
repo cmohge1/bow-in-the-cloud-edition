@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from John Holland to Mary Anne Rawson (English MS 414/88)
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <metamark function="folio-mark">88</metamark>
+         <opener>
+            <dateline><hi rend="underlined">Sheffield Oct. 8th 1833</hi></dateline>
+            <salute><hi rend="underlined">Madam</hi>,</salute></opener>
+         <p>
+            I am exceedingly concerned to have suffered[?]
+            so many days to elapse between the reception of your kind
+            letter by me and this reply, my apology must be the confession
+            of a hope only extinguished by the lines on the other page, that
+            I might have been able to have composed, at least a Sonnet
+            in commemoration of the more auspicious circumstances in which
+            the recent legislative enactment has placed the question of Slavery.
+            If you still think worth your favour, the little communication
+            which I have the pleasure of rendering so long ago, I thought that
+            it might not be unbecoming on my part, to enable you to append
+            to it, or place in its company some memento that the writer was not
+            insensible to the fact of the virtual, though in reality still prospective
+            abolition of Slavery under British authority. How imperfectly I
+            have succeeded in this aim, the lines on the first page will, I am
+            afraid afford but too clear evidence: whether or not therefore, they
+            may be thought worth your acceptance, on the group above mentioned,
+            must depend upon the view you take of the reason given, as compared
+            with the demerit of the lines themselves. One happy feature in the
+            theory of slavery, as now espoused is that however many old captives,
+            and many who are neither old nor ailling, will die without seeing the
+            day of actual emancipation, they will have the satisfaction of leaving
+            that to their children which themselves never possessed -- the heritage
+            of freedom -- and surely, it is not a light thing for us to say, that the
+            registers of the West Indies shall no more record the birth of a slave.
+            </p>
+         <closer>
+            <salute>I remain, Madam,
+            yours, very truly &amp; respectfully</salute>
+            <signed>Jno. Holland</signed>
+         </closer> <!--  -->
+      </body>
+  </text>
+</TEI>
