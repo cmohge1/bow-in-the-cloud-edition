@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from James Montgomery to Mary Anne Rawson (English MS 414/81)
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Digital Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John Rylands Library, Rawson/Wilson Collection, Eng MS 415/134</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="letter-text">
+            <metamark>305 81</metamark>
+            <opener>
+               <dateline>Sheffield
+               Jan 18 1834</dateline>
+               <salute>My dear Friend</salute>
+            </opener>
+            <p>
+            Would "Records of Slavery" be a
+            suitable title for D. Townley's article?
+            The sentence respecting Buxton certainly does
+            read awkwardly, but it is constructed lyity
+            -- at least according to many indifferent
+            precedents. After the word "Senate," you might
+            omit the "and," place a semicolon after the
+            former word, and read thus "Senate; where
+            eventually, his great" &amp;c. Then <hi rend="underlined">remember</hi>
+               to strike out a "<hi rend="underlined">eventually</hi>" in the last line
+            ??? of the paragraph. -- In the "voice
+            from &amp;c" I have ventured to restore the
+            verbal reading in the English Version of
+            our Saviour's most beautiful and tender
+            address, -- which, indeed, is more <hi rend="underlined">im</hi>pressive
+               and <hi rend="underlined">ex</hi>pressive too, than the substituted
+               form of "<hi rend="underlined">me</hi>, <hi rend="underlined">ye</hi> who are weary," in which "me"
+            and "ye," followed by so many vowels, make
+            the reader almost whistle in pronouncing
+            them. I may probably trouble you to
+            enclose a few lines for me to Mr Townley
+            but I am so unwell, and so spiritless, that
+            <del>that</del>
+            I have hardly heart or stength to do anything right.</p>
+            <!-- cross-written in the left margin --><closer><salute>Kind regards to all at Wincobank
+            from their friend &amp; yours</salute> <signed><persName>J. Montgomery</persName></signed></closer>
+         </div>
+         <div type="envelope">
+            <ab>Mrs M. A. Rawson <lb/>
+            Wincobank <lb/>
+            Hall</ab>
+         </div>
+      </body>
+  </text>
+</TEI>
