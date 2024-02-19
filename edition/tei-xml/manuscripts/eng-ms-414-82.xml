@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from James Montgomery to Mary Anne Rawson (English MS 414/82)
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>82
+            My dear friend
+            Both your letter and its enclosure from
+            Mrs Townley, were very welcome. The former indeed gave me a
+            minute or two's trouble, by imposing a task, though as light as
+            the least feather that fell from the wing of Noah's Dove while she
+            was flying over the waters without a shore, or where she was plucking
+            the leaf from the olive just emerging above them; -- yet, after
+            murmuring a little between my lips (my heart all the while
+            reproaching me) I cast about in my mind for a thought, and
+            having caught one caged it till this morning -- being interrupted at
+            the time, and finding no spirit in the interval to meddle with
+            plumage so delicate that I was afraid to touch it, lest like a
+            butterfly's it should all come off upon my fingers, and I should
+            have the mortification to send you a soiled and mutilated
+            specimen for your repository of things "most good, most fair," of
+            the kind, -- as I hope all, except my contributions, will prove to be.
+            I was almost tempted to congratulate myself on some measure
+            of success, in this instance, when, turning to your letter, I am
+            deservedly (no doubt) for my vanity, humbled to find that
+            you are to have an engraved vignette for your title-page,
+            which will probably exclude a motto[?] so long as that which I
+            have endeavoured to furnish. This would not have been too
+            long, though consisting of twelve lines, if printed in the small
+            but exquisite and distinct type, frequently used for such
+            occasions. The lines, however, are written, and I may as well
+            send them, leaving you to do what you please with them. If
+            unsuitable for the frontispiece, they may perhaps be put into a
+            corner towards the latter end, -- if the Book is ever to have arrived!
+            Surely it will appear before the 1st of August, in spite of printers
+            and engravers, who are by practice most accomplished procrastinators.
+            I have been interrupted, as usual, here, and shall reconsider the</p>
+      </body>
+  </text>
+</TEI>
