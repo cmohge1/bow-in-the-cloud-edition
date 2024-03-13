@@ -19,8 +19,12 @@
   </teiHeader>
   <text>
       <body>
-         <p>82
-            My dear friend
+         <div>
+            <metamark function="folio-mark">82</metamark>
+            <opener>
+               <salute>My dear friend</salute>
+            </opener>
+            <p>
             Both your letter and its enclosure from
             Mrs Townley, were very welcome. The former indeed gave me a
             minute or two's trouble, by imposing a task, though as light as
@@ -50,7 +54,74 @@
             corner towards the latter end, -- if the Book is ever to have arrived!
             Surely it will appear before the 1st of August, in spite of printers
             and engravers, who are by practice most accomplished procrastinators.
-            I have been interrupted, as usual, here, and shall reconsider the</p>
+            I have been interrupted, as usual, here, and shall reconsider the <pb/>
+            the subject of a motto before I take up my pen again -- this day's post
+            being lost; but that will be so much time gained for an idler like me.
+            XXX Perhaps the following from Milton would be a motto sufficiently
+            significant, in connection with the phrase of the second title, "the
+            Negro's Memorial," which is itself a comment on the first figurative
+            one, "The Bow in the Cloud."
+            <lg><l>He, with uplifted lands, and eyes devout,</l>
+            <l>Grateful to heaven, over his head beholds</l>
+            <l>A dewy cloud, and in the cloud a bow,</l>
+            <l>Conspicuous with three listed colours gay,</l>
+            <l>Betokening peace from God, and covenant new.</l></lg>
+            Paradise Lost, Book XI.
+            You will find these lines, with further allusions to the rain-
+            bow (but these I think are decidedly most appropriate for
+            your purpose) at the close of the eleventh Book of Paradise
+            Lost. My opinion of their peculiar appropriateness for your
+            title-page, is founded upon the circumstance of their application
+            being <hi rend="underlined">general</hi> "betokening peace, and covenant new," whereas in
+            the context, though each of the allusions is exceedingly beautiful
+            yet <hi rend="underlined">immediate</hi> reference is made to the deluge, and ^<add>the</add> promise that
+            no second destruction of the earth by a flood should ever ensue.
+            After reading this passage in Milton, I am almost ashamed of
+            my own puny[?] lines, and my weakness in having confessed that
+            I was somewhat pleased with them, when I had first embodied the
+            thought in readable verse. Do ^<add>what</add> you <del>please</del> <add>will</add> with them;
+            and in everything that concerns this darling volume of
+            yours, freely command any service which you think I can render.
+            With sincere regards to Mr &amp; Mrs Read and the rest of
+            my Wincobank acquaintances
+         </p>
+            <closer>
+               <salute>I am, very truly
+               your friend &amp; Servt</salute> <signed>J Montgomery</signed>
+               <dateline>Sheff<hi rend="superscript">d.</hi> March 22,
+               1834</dateline>
+            </closer>
+         </div>
+         <pb/>
+         <div type="poem">
+            <head>The Rainbow
+               For the first of August 1834.</head>
+            <lg>
+            <l>Sign of the passing storm,</l>
+            <l>Symbol of wrath gone by,</l>
+            <l>Born of the cloud and sun, -- what form</l>
+            <l>Of Beauty tracks the sky?</l>
+            <l>From Afric to the isles of slaves,</l>
+            <l>The Rainbow spans the Atlantic waves.</l>
+            <metamark function="stanza-break">*   *</metamark>
+            <l>Black, white, and bond and free,</l>
+            <l>Castes and proscriptions cease;</l>
+            <l>The Negro wakes to liberty,</l>
+            <l>The Negro sleeps in peace;</l>
+            <l>Read the great charter on his brow,</l>
+               <l>"I <hi rend="triple-underlined">am</hi> <hi rend="underlined">a Man</hi>, <hi rend="underlined">a Brother</hi>, <hi rend="triple-underlined">now</hi>."</l>
+            <signed>J. Montgomery.</signed>
+         </lg>
+            <postscript><ab>I have put a head to these stanzas, on the supposition
+               that you will not use them as a motto. If you do,
+               of course, the head all be unnecessary.</ab></postscript>
+         </div>
+         <pb/>
+         <div type="envelope"><ab>Mrs
+            M Rawson <lb/>
+            at Josh Read, Esq.<lb/>
+            Wincobank Hall<lb/></ab>
+            <ab type="postmark">SHEFFIELD MA24 1834</ab></div>
       </body>
   </text>
 </TEI>
