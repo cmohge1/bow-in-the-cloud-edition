@@ -133,6 +133,16 @@
             </person>
             <!-- ... -->
             <person>
+               <name ref="http://viaf.org/viaf/183634">
+                  <surname>Montgomery</surname>
+                  <forename>James</forename>
+               </name>
+               <birth when="1771">1771</birth>
+               <death when="1854">1854</death>
+               <faith>Moravian</faith>
+               <note>James Montgomery was a Scottish-born hymn writer, poet, editor, and activist who eventually settled in Sheffield. He was the eldest son of a Moravian clergyman, and was born at Irvine, in Scotland, on 4 November 1771.</note>
+            </person>
+            <person>
                <name>
                   <surname>Parker</surname>
                   <forename>John</forename>
@@ -157,8 +167,9 @@
                   <surname>Pritchard</surname>
                   <forename>J. W. H.</forename>
                </name>
+               <birth>1804?</birth>
                <death>1836</death>
-               <note>Reverend J. W. H. Pritchard was a congregationalist minister. In 1826 he published a life of his predecessor. Mr. P. Died 14th July, 1836, æt. 32.</note>
+               <note>Reverend J. W. H. Pritchard was a congregationalist minister. In 1826 he published a life of his predecessor. He died 14th July, 1836, at 32.</note>
             </person>
             <person xml:id="rawson_ma">
                <name ref="http://viaf.org/viaf/4004154867602660100003">
@@ -179,6 +190,17 @@
                <birth>1766</birth>
                <death>1840</death>
                <note>Mary Handley Sterndale was a poet, novelist, and travel writer. Born in Derbyshire. She became friends with the poet Anna Seward (1742-1809; ODNB). See more at https://btw.wlv.ac.uk/authors/1138.</note>
+            </person>
+            <person xml:id="taylor_a">
+               <name ref="http://viaf.org/viaf/10688233">
+                  <surname>Gilbert</surname>
+                  <surname type="maiden">Taylor</surname>
+                  <forename>Ann</forename>
+               </name>
+               <birth when="1782">1782</birth>
+               <death when="1866">1866</death>
+               <faith></faith>
+               <note>Ann Gilbert (née Taylor) was an English poet and literary critic. She gained lasting popularity in her youth as a writer of verse for children. In the years up to her marriage, she became an astringent literary critic. However, she is best remembered as the elder sister and collaborator of Jane Taylor.</note>
             </person>
             <person xml:id="taylor_i">
                <name>
