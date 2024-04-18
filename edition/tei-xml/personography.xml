@@ -20,6 +20,7 @@
   <text>
       <body>
          <listPerson>
+            
             <person xml:id="abney_e">
                <name>
                   <surname>Abney</surname>
@@ -36,6 +37,16 @@
                   <forename>Dinah</forename>
                   <note>Dinah Ball was Mary Anne Rawson's governess and a published poet.</note>
                </name>
+            </person>
+            <person xml:id="barton_b">
+               <name ref="http://viaf.org/viaf/47543211">
+                  <surname>Barton</surname>
+                  <forename>Bernard</forename>
+               </name>
+               <birth>1784</birth>
+               <death>1849</death>
+               <faith>Quaker</faith>
+               <note>Bernard Barton was a Quaker poet who was best known for The Convict's Appeal (1818), in which he protested against the death penalty and the severity of the criminal code.</note>
             </person>
             <person xml:id="bridges_m">
                <name>
@@ -62,7 +73,7 @@
                   <lb/>'Memoirs of the Public and Private Life of John Howard, the Philanthropist,' London, 1818, 4to, 2nd edit. 1823, 8vo; dedicated to William Wilberforce, M.P.</p></note>
             </person>
             <person xml:id="bulmer_a">
-               <name>
+               <name ref="https://viaf.org/viaf/306133896/">
                   <surname>Bulmer</surname>
                   <surname type="maiden">Collinson</surname>
                   <forename>Agnes</forename>
@@ -74,22 +85,22 @@
                    (<ref target="https://doi.org/10.1080/09699082.2015.1011841">https://doi.org/10.1080/09699082.2015.1011841</ref>).</note>
             </person>
             <person xml:id="buxton_tf">
-               <name>
+               <name ref="http://viaf.org/viaf/12306089">
                   <surname>Buxton</surname>
                   <forename type="first">Thomas</forename>
                   <forename type="middle">Fowell</forename>
                </name>
                <birth when="1786">1786</birth>
                <death when="1845">1845</death>
-               <note>British philanthropist and politician who, in 1822, succeeded William Wilberforce as leader of the campaign in the House of Commons for the abolition of slavery in the British colonies and thus was partly responsible for the Abolition Act of August 28, 1833 (Brittanica).</note>
+               <note>Sir Thomas Fowell Buxton, 1st Baronet Buxton of Belfield and Runton (1 April 1786 – 19 February 1845) was an English Member of Parliament, brewer, abolitionist and social reformer. In 1822 he succeeded William Wilberforce as leader of the campaign in the House of Commons for the abolition of slavery in the British colonies and thus was partly responsible for the Abolition Act of 28 August 1833.</note>
             </person>
             <person xml:id="ely_j">
                <name>
                   <surname>Ely</surname>
                   <forename>John</forename>
                </name>
-               <birth>1793</birth>
-               <death>1847</death>
+               <birth when="1793">1793</birth>
+               <death when="1847">1847</death>
                <residence>
                   <settlement>Leeds</settlement>
                   <country>Great Britain</country>
@@ -148,6 +159,16 @@
                </name>
                <death>1836</death>
                <note>Reverend J. W. H. Pritchard was a congregationalist minister. In 1826 he published a life of his predecessor. Mr. P. Died 14th July, 1836, æt. 32.</note>
+            </person>
+            <person xml:id="rawson_ma">
+               <name ref="http://viaf.org/viaf/4004154867602660100003">
+                  <surname>Rawson</surname>
+                  <forename>Mary Anne</forename>
+               </name>
+               <birth>1801</birth>
+               <death>1887</death>
+               <faith>Congregationalist</faith>
+               <note>Mary Anne Rawson was an abolitionist and activist. She campaigned with the Tract Society and the British and Foreign Bible Society, for Italian nationalism, and against child labour. She was first involved as a founding member of the Sheffield Ladies Anti-Slavery group, which successfully campaigned for people to boycott sugar from the West Indies, as it was produced by slave labour.</note>
             </person>
             <person xml:id="sterndale_mh">
             <name>
