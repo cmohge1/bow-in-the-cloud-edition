@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- with links to Scalar project -->
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Bow in the Cloud Project Placenames</name>
@@ -349,6 +348,27 @@
         <Point>
           <coordinates>
             14.741667,51.016667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunmanby (England) </name>
+        <description><![CDATA[Coordinates: 54.181786, -0.317532<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/hunmanby-england?path=placenames-index                      ]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>54.181786, -0.317532</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/hunmanby-england?path=placenames-index                      </value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -0.317532,54.181786,0
           </coordinates>
         </Point>
       </Placemark>
