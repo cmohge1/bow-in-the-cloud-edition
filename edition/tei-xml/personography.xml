@@ -131,15 +131,25 @@
                <!-- complete -->
             </person>
             <person xml:id="howitt_m">
-               <name>
+               <name ref="http://viaf.org/viaf/42648131">
                   <surname type="married">Howitt</surname>
-                  <surname type="née">Botham</surname>
+                  <surname type="maiden">Botham</surname>
                   <forename>Mary</forename>
                </name>
                <birth>1799</birth>
                <death>1888</death>
                <note>Best known for her children's poem 'The Spider and the Fly' (1829), Howitt also painted and translated Hans Christian Anderson...</note>
                <!-- complete -->
+            </person>
+            <person xml:id="howitt_w">
+               <name ref="http://viaf.org/viaf/22908301">
+                  <surname>Howitt</surname> 
+                  <forename>William</forename>
+               </name>
+               <birth>1792</birth>
+               <death>1879</death>
+               <faith>Quaker</faith>
+               <note>William Howitt was a Quaker writer and activist. In 1821 he married Mary Botham</note>
             </person>
             <person xml:id="james_pm">
                <name><surname>James</surname>
