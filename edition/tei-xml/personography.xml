@@ -200,6 +200,29 @@
                <faith>Congregationalist</faith>
                <note>Mary Anne Rawson was an abolitionist and activist. She campaigned with the Tract Society and the British and Foreign Bible Society, for Italian nationalism, and against child labour. She was first involved as a founding member of the Sheffield Ladies Anti-Slavery group, which successfully campaigned for people to boycott sugar from the West Indies, as it was produced by slave labour.</note>
             </person>
+            
+            <person xml:id="roscoe_j">
+               <name ref="https://viaf.org/viaf/74211865/">
+                  <surname type="married">Hornblower</surname>
+                  <surname type="maiden">Roscoe</surname>
+                  <forename type="middle">Elizabeth</forename>
+                  <forename>Jane</forename>
+               </name>
+               <birth>1797</birth>
+               <death>1853</death>
+               <faith>Unitarian</faith>
+               <note>Jane E. Roscoe was a poet. She was the daughter of the abolitionist MP William Roscoe (1753–1831) and Jane Roscoe (née Griffies). In 1838 she married the Unitarian minister Francis Hornblower (1812–1853). Her <hi rend="italic">Poems by one of the Authors of Poems for Youth by a Family Circle</hi> were published in 1820, and her <hi rend="italic">Poems</hi> in 1843 Her hymns in common use are:—
+                  
+                  1. How rich the blessings, O my God. Gratitude. In the Liverpool Kenshaw Street Collection 1818.
+                  2. My Father, when around me spread. Peace in Affliction. Appeared in the Monthly Repository, Dec, 1828; and the Sacred Offering, 1832.
+                  3. O God, to Thee, Who first hast given. Self-Consecration. In Poems for Youth, 1820.
+                  4. Thy will be done, I will not fear. Resignation.
+                  [Rev. Valentine D. Davis, B.A.]
+                  
+                  (John Julian, Dictionary of Hymnology (1907).)
+                  
+Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe; Robert Roscoe; Thomas Roscoe; Richard Roscoe; Mary Anne Jevons and Henry Roscoe.</note>
+            </person>
             <person xml:id="sterndale_mh">
             <name>
                <surname>Sterndale</surname>
