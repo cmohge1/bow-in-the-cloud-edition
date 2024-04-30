@@ -202,7 +202,7 @@
             </person>
             
             <person xml:id="roscoe_j">
-               <name ref="https://viaf.org/viaf/74211865/">
+               <name ref="http://viaf.org/viaf/74211865">
                   <surname type="married">Hornblower</surname>
                   <surname type="maiden">Roscoe</surname>
                   <forename type="middle">Elizabeth</forename>
