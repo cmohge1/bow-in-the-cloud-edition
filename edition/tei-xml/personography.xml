@@ -43,7 +43,7 @@
                <note>Bernard Barton was a Quaker poet who was best known for The Convict's Appeal (1818), in which he protested against the death penalty and the severity of the criminal code.</note>
             </person>
             <person xml:id="bridges_m">
-               <name>
+               <name ref="https://www.wikidata.org/wiki/Q18093862">
                   <surname>Bridges</surname>
                   <forename>Matthew</forename>
                </name>
@@ -52,7 +52,7 @@
                <note>Matthew Bridges was a British-Canadian hymnodist.</note>
             </person>
             <person xml:id="brown_jb">
-               <name ref="https://www.wikidata.org/wiki/Q19090761">
+               <name ref="http://viaf.org/viaf/61925237">
                   <surname>Brown</surname>
                   <forename type="first">James</forename>
                   <forename type="middle">Baldwin</forename>
