@@ -219,8 +219,20 @@
                <birth when="1782">1782</birth>
                <death when="1866">1866</death>
                <faith></faith>
-               <note>Ann Gilbert (née Taylor) was an English poet and literary critic. She gained lasting popularity in her youth as a writer of verse for children. In the years up to her marriage, she became an astringent literary critic. However, she is best remembered as the elder sister and collaborator of Jane Taylor.</note>
+               <note>Ann Gilbert (née Taylor) was an English poet and literary critic. She was the daughter of the noncomformist pastor, author, and engraver Isaac Taylor (1759–1829), and second wife of Joseph Gilbert, a Congregationalist minister. She gained lasting popularity in her youth as a writer of verse for children. In the years up to her marriage, she became an astringent literary critic. However, she is best remembered as the elder sister and collaborator of Jane Taylor.</note>
             </person>
+            
+            <person xml:id="gilbert_j">
+               <name ref="https://www.wikidata.org/wiki/Q6283438">
+                  <surname>Gilbert</surname>
+                  <forename>Joseph</forename>
+               </name>
+               <birth>1779</birth>
+               <death>1852</death>
+               <faith>Congregationalist</faith>
+               <note>Joseph Gilbert (1779–1852) was an Independent then Congregational minister who in 1813 married the renowned children's author Ann Taylor (who also contributed to The Bow in the Cloud).</note>
+            </person>
+            
             <person xml:id="taylor_i">
                <name>
                   <surname>Taylor</surname>

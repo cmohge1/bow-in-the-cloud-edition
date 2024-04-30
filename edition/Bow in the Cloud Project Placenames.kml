@@ -79,6 +79,27 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Bradford (England)</name>
+        <description><![CDATA[Coordinates: 53.794, -1.751<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/bradford-england?path=placenames-index]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Coordinates">
+            <value>53.794, -1.751</value>
+          </Data>
+          <Data name="Number of pieces">
+            <value>1.0</value>
+          </Data>
+          <Data name="Scalar place page">
+            <value>https://antislavery-anthologies.org/books/bow-in-the-cloud/bradford-england?path=placenames-index</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.751,53.794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Brighton (England)</name>
         <description><![CDATA[Coordinates: 50.820833, -0.1375<br>Number of pieces: 1<br>Scalar place page: https://antislavery-anthologies.org/books/bow-in-the-cloud/brighton-england?path=placenames-index]]></description>
         <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
