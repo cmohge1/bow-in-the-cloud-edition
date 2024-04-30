@@ -52,14 +52,14 @@
                <note>Matthew Bridges was a British-Canadian hymnodist.</note>
             </person>
             <person xml:id="brown_jb">
-               <name>
+               <name ref="https://www.wikidata.org/wiki/Q19090761">
                   <surname>Brown</surname>
                   <forename type="first">James</forename>
                   <forename type="middle">Baldwin</forename>
                </name>
                <birth>1785</birth>
                <death>1843</death>
-               <note><p>[<ref target="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Brown,_James_Baldwin_(1785-1843)">From the Dictionary of National Biography, 1885-1900, Volume 07</ref>:] miscellaneous writer, was called to the bar at the Inner Temple in 1816, and practised on the northern circuit and at the Lancashire quarter sessions. He was appointed judge of the Oldham court of requests in 1840, and died in November 1843. Brown married a sister of the Rev. Thomas Raffles, D.D., and was father of the Rev. James Baldwin Brown [q. v.] His portrait has been engraved.</p>   
+               <note><p>[<ref target="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Brown,_James_Baldwin_(1785-1843)">From the Dictionary of National Biography, 1885-1900, Volume 07</ref>:] miscellaneous writer, was called to the bar at the Inner Temple in 1816, and practised on the northern circuit and at the Lancashire quarter sessions. He was appointed judge of the Oldham court of requests in 1840, and died in November 1843. Brown married a sister of the Rev. Thomas Raffles, D.D., and was father of the Rev. James Baldwin Brown [q. v.] His portrait has been engraved.</p> 
                   <p>He was the author of:</p>
                   <p>'An Historical Account of the Laws enacted against the Catholics, both in England and Ireland,' London, 1813, 8vo.
                   <lb/>'An Historical Inquiry into the ancient Ecclesiastical Jurisdiction of the Crown,' 1815, 8vo.
