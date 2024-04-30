@@ -10,7 +10,7 @@
             <editor>Christopher Ohge</editor>
          </titleStmt>
          <publicationStmt>
-            <p>Mary Anne Rawson's The Bow in the Cloud: a digital edition and network analysis</p>
+            <p>Mary Anne Rawson's The Bow in the Cloud: a scholarly edition and network analysis</p>
          </publicationStmt>
          <sourceDesc>
             <p>This is a born-digital authority file of biographical details relating to the Bow in the Cloud manuscript archive (English MS 414 and 415, John Rylands Library, Manchester).</p>
@@ -31,13 +31,7 @@
                <death>1892</death>
                <note>Edward Henry Abney (1811-1892), domestic chaplain to 1st Baron Belper, was vicar of St. Alkmund's, Derby, afterwards prebendary of Lichfield.</note>
             </person>
-            <person xml:id="ball_d">
-               <name>
-                  <surname>Ball</surname>
-                  <forename>Dinah</forename>
-                  <note>Dinah Ball was Mary Anne Rawson's governess and a published poet.</note>
-               </name>
-            </person>
+            
             <person xml:id="barton_b">
                <name ref="http://viaf.org/viaf/47543211">
                   <surname>Barton</surname>
@@ -236,6 +230,27 @@
                <death>1865</death>
                <note>English philosopher, writer, artist, and inventor. Brother of Jane and Ann Taylor, and friends with Josiah Conder</note>
             </person>
+            
+            <person xml:id="townley_d">
+               <name>
+                  <surname type="married">Townley</surname>
+                  <surname type="maiden">Ball</surname>
+                  <forename>Dinah</forename>
+                  <note>Dinah Townley (née Ball) was Mary Anne Rawson's governess and a published poet. She married James Townley, Wesleyan Methodist minister, in 1829. She was also connected to James Montgomery.</note>
+               </name>
+            </person>
+            
+            <person xml:id="townley_j">
+               <name ref="https://www.wikidata.org/wiki/Q19107008">
+                  <surname>Townley</surname>
+                  <forename>James</forename>
+               </name>
+               <birth>1774</birth>
+               <death>1833</death>
+               <faith>Wesleyan Methodist</faith>
+               <note>'Wesleyan divine, son of Thomas Townley, a Manchester tradesman, was born at that town on 11 May 1774, and educated by the Rev. David Simpson [q. v.] of Macclesfield. He became a member of the Wesleyan methodist body in 1790, and a minister in 1796. In 1822 he received the degree of D.D. from the college of Princeton, New Jersey, in recognition of his literary work. From 1827 to 1832 he acted as general secretary of the Wesleyan Methodist Missionary Society, and in 1829 was elected president of the Wesleyan conference, and presided at the Dublin and Leeds conferences. While in Manchester he was a member of a philological society founded by Dr. Adam Clarke. He died at Ramsgate on 12 Dec. 1833. He was twice married—to Mary Marsden and Dinah Ball, both of London—and had seven children by his first wife' (Dictionary of National Biography, 1885-1900/Townley, James (1774-1833)).</note>
+            </person>
+            
             <person>
                <name>
                   <surname>Townsend</surname>
