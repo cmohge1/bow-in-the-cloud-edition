@@ -42,6 +42,18 @@
                <faith>Quaker</faith>
                <note>Bernard Barton was a Quaker poet who was best known for The Convict's Appeal (1818), in which he protested against the death penalty and the severity of the criminal code.</note>
             </person>
+            
+            <person xml:id="bowring_j">
+               <name ref="https://btw.wlv.ac.uk/authors/1138">
+                  <surname>Bowring</surname>
+                  <forename>John</forename>
+               </name>
+               <birth>1792</birth>
+               <death>1872</death>
+               <note>Sir John Bowring was the 4th Governor of Hong Kong and a hymnwriter and translator.
+               </note>
+            </person>
+            
             <person xml:id="bridges_m">
                <name ref="https://www.wikidata.org/wiki/Q18093862">
                   <surname>Bridges</surname>
@@ -103,6 +115,18 @@
                <death>1842</death>
                <note>Allan Cunngingham was a Scottish poet.</note>
             </person>
+            
+            <person xml:id="edmeston_j">
+               <name ref="http://viaf.org/viaf/19298317">
+                  <surname>Edmeston</surname>
+                  <forename>James</forename> 
+               </name>
+               <birth>1791</birth>
+               <death>1867</death>
+               <faith>Anglican</faith>
+               <note>James Edmeston was a British architect, surveyor, and well-known hymnwriter. Edmeston published <hi rend="italic">The Search, and other Poems</hi> in 1817.</note>
+            </person>
+            
             <person xml:id="ely_j">
                <name>
                   <surname>Ely</surname>
@@ -224,14 +248,14 @@
 Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe; Robert Roscoe; Thomas Roscoe; Richard Roscoe; Mary Anne Jevons and Henry Roscoe.</note>
             </person>
             <person xml:id="sterndale_mh">
-            <name>
+               <name ref="http://viaf.org/viaf/61410705">
                <surname>Sterndale</surname>
                <forename type="first">Mary</forename>
                <forename type="nee">Handley</forename>
             </name>
                <birth>1766</birth>
                <death>1840</death>
-               <note>Mary Handley Sterndale was a poet, novelist, and travel writer. Born in Derbyshire. She became friends with the poet Anna Seward (1742-1809; ODNB). See more at https://btw.wlv.ac.uk/authors/1138.</note>
+               <note>Mary Handley Sterndale was a poet, novelist, and travel writer. Born in Derbyshire. She became friends with the poet Anna Seward (1742-1809; ODNB). See more at <ref target="https://btw.wlv.ac.uk/authors/1138">https://btw.wlv.ac.uk/authors/1138</ref>.</note>
             </person>
             <person xml:id="taylor_a">
                <name ref="http://viaf.org/viaf/10688233">
