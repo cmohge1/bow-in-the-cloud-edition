@@ -141,11 +141,14 @@
                <!-- need to find more info -->
             </person>
             <person xml:id="gurney_jj">
-               <name>
+               <name ref="https://www.wikidata.org/wiki/Q6284410">
                   <surname>Gurney</surname>
                   <forename>Joseph</forename>
                   <surname>John</surname>
                </name>
+               <birth>1788</birth>
+               <death>1847</death>
+               <note>British banker.</note>
                <!-- complete -->
             </person>
             <person xml:id="howitt_m">
@@ -169,12 +172,29 @@
                <faith>Quaker</faith>
                <note>William Howitt was a Quaker writer and activist. In 1821 he married Mary Botham</note>
             </person>
+            
             <person xml:id="james_pm">
-               <name><surname>James</surname>
+               <name ref="https://www.wikidata.org/wiki/Q7152575">
+                  <surname>James</surname>
                <forename type="first">Paul</forename>
-               <forename type="middle">Moon</forename></name> 
+               <forename type="middle">Moon</forename>
+               </name>
+               <birth>1780</birth>
+               <death>1854</death>
+               <note>Paul Moon James was a British poet and banker.</note>
+               
             </person>
             <!-- ... -->
+            <person>
+               <name ref="https://www.wikidata.org/wiki/Q8014079">
+                  <surname>Knibb</surname> 
+                  <forename>William</forename>
+               </name>
+               <birth>1803</birth>
+               <death>1845</death>
+               <note>William Knibb was a Baptist minister and missionary in Jamaica.</note>
+            </person>
+            
             <person>
                <name ref="http://viaf.org/viaf/183634">
                   <surname>Montgomery</surname>
@@ -223,6 +243,17 @@
                <death>1887</death>
                <faith>Congregationalist</faith>
                <note>Mary Anne Rawson was an abolitionist and activist. She campaigned with the Tract Society and the British and Foreign Bible Society, for Italian nationalism, and against child labour. She was first involved as a founding member of the Sheffield Ladies Anti-Slavery group, which successfully campaigned for people to boycott sugar from the West Indies, as it was produced by slave labour.</note>
+            </person>
+            
+            <person xml:id="rawson_tt">
+               <name ref="http://viaf.org/viaf/26896473">
+                  <surname>Taylor</surname>
+                  <forename>Thomas</forename>
+                  <forename type="middle">Rawson</forename>
+               </name>
+               <birth>1807</birth>
+               <death>1835</death>
+               <note>Congregationalist minister.</note>
             </person>
             
             <person xml:id="roscoe_j">
