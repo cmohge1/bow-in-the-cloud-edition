@@ -43,6 +43,26 @@
                <note>Bernard Barton was a Quaker poet who was best known for The Convict's Appeal (1818), in which he protested against the death penalty and the severity of the criminal code.</note>
             </person>
             
+            <person xml:id="benson_m">
+               <name ref="http://viaf.org/viaf/29881923">
+                  <surname>Benson</surname>
+                  <forename>Maria</forename>
+               </name>
+               
+               <note>Maria Benson was a British writer. She is the author of a few published novels and the pedagocial essay Thoughts on Education. Benson's sister was Anna Dorothea Montagu -- third wife of Basil Montagu (source: https://snaccooperative.org/view/50169953).</note>
+            </person>
+            
+            <person xml:id="barnard_ew">
+               <name ref="https://www.wikidata.org/wiki/Q5345890">
+                  <surname>Barnard</surname>
+                  <forename>Edward</forename>
+                  <forename type="middle">William</forename>
+               </name>
+               <birth>1791</birth>
+               <death>1828</death>
+               <note>Edward William Barnard was a divine, poet and scholar (ODNB). Nephew of fellow abolitionist Archdeacon Francis Wrangham.</note>
+            </person>
+            
             <person xml:id="bowring_j">
                <name ref="https://btw.wlv.ac.uk/authors/1138">
                   <surname>Bowring</surname>
@@ -151,6 +171,16 @@
                <note>British banker.</note>
                <!-- complete -->
             </person>
+            
+            <!-- needs more investigation -->
+            <person xml:id="hill_th">
+               <name>
+                  <surname>Hill</surname>
+                  <forename>Thomas</forename>
+               </name>
+               <note>The Reverend Thomas Hill was the deacon of Chesterfield.</note>
+            </person>
+            
             <person xml:id="howitt_m">
                <name ref="http://viaf.org/viaf/42648131">
                   <surname type="married">Howitt</surname>
@@ -185,7 +215,7 @@
                
             </person>
             <!-- ... -->
-            <person>
+            <person xml:id="knibb_w">
                <name ref="https://www.wikidata.org/wiki/Q8014079">
                   <surname>Knibb</surname> 
                   <forename>William</forename>
@@ -194,6 +224,16 @@
                <death>1845</death>
                <note>William Knibb was a Baptist minister and missionary in Jamaica.</note>
             </person>
+            
+            <!-- Not sure about this one. There was a Revd Richard Miles who was associated with the London Missionary Society and worked in South Africa in the 1820s. -->
+            <person xml:id="miles_r">
+               <name ref="https://www.wikidata.org/wiki/Q7327809">
+                  <surname>Miles</surname>
+                  <forename>Richard</forename>
+               </name>
+               <note>Richard Miles was a Motswana (Tswana) catechist and preacher "to the native tribes beyond the border" in South Africa.</note>
+            </person>
+            
             
             <person>
                <name ref="http://viaf.org/viaf/183634">
@@ -205,6 +245,7 @@
                <faith>Moravian</faith>
                <note>James Montgomery was a Scottish-born hymn writer, poet, editor, and activist who eventually settled in Sheffield. He was the eldest son of a Moravian clergyman, and was born at Irvine, in Scotland, on 4 November 1771.</note>
             </person>
+            
             <person>
                <name>
                   <surname>Parker</surname>
