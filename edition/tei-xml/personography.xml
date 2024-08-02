@@ -29,6 +29,7 @@
                </name>
                <birth>1811</birth>
                <death>1892</death>
+               <sex>Male</sex>
                <note>Edward Henry Abney (1811-1892), domestic chaplain to 1st Baron Belper, was vicar of St. Alkmund's, Derby, afterwards prebendary of Lichfield.</note>
             </person>
             
@@ -40,6 +41,7 @@
                <birth>1784</birth>
                <death>1849</death>
                <faith>Quaker</faith>
+               <sex>Male</sex>
                <note>Bernard Barton was a Quaker poet who was best known for The Convict's Appeal (1818), in which he protested against the death penalty and the severity of the criminal code.</note>
             </person>
             
@@ -48,7 +50,7 @@
                   <surname>Benson</surname>
                   <forename>Maria</forename>
                </name>
-               
+               <sex>Female</sex>
                <note>Maria Benson was a British writer. She is the author of a few published novels and the pedagocial essay Thoughts on Education. Benson's sister was Anna Dorothea Montagu -- third wife of Basil Montagu (source: https://snaccooperative.org/view/50169953).</note>
             </person>
             
@@ -60,7 +62,9 @@
                </name>
                <birth>1791</birth>
                <death>1828</death>
-               <note>Edward William Barnard was a divine, poet and scholar (ODNB). Nephew of fellow abolitionist Archdeacon Francis Wrangham.</note>
+               <sex>Male</sex>
+               <faith>Anglican</faith>
+               <note>Edward William Barnard was a divine, poet and scholar. Nephew of fellow abolitionist, the Archdeacon Francis Wrangham. 'He was educated at Harrow and Trinity College, owing to his distaste for mathematics. In 1817 he published anonymously, 'Poems, founded upon the Poems of Meleager,' which were re-edited in 1818 under the title of 'Trifles, imitative of the Chaster Style of Meleager.' The latter volume was dedicated to Thomas Moore, who tells us in his journal that he had the manuscript to look over, and describes the poems as 'done with much elegance.' Barnard was presented to the living of Brantingthorp, Yorkshire, from which is dated his next publication, 'The Protestant Beadsman' (1822), This is described by a writer in 'Notes and Queries' as a 'delightful little volume on the saints and martyrs commemorated by the English church, containing biographical notices of them, and hymns upon each of them.’ Barnard died prematurely on 10 Jan. 1828' (Source: ODNB, <ref target="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Barnard,_Edward_William">https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Barnard,_Edward_William</ref>.</note>
             </person>
             
             <person xml:id="bowring_j">
@@ -273,6 +277,7 @@
                </name>
                <birth>1804?</birth>
                <death>1836</death>
+               <faith>Congregationalist</faith>
                <note>Reverend J. W. H. Pritchard was a congregationalist minister. In 1826 he published a life of his predecessor. He died 14th July, 1836, at 32.</note>
             </person>
             <person xml:id="rawson_ma">
@@ -282,6 +287,7 @@
                </name>
                <birth>1801</birth>
                <death>1887</death>
+               <sex>Female</sex>
                <faith>Congregationalist</faith>
                <note>Mary Anne Rawson was an abolitionist and activist. She campaigned with the Tract Society and the British and Foreign Bible Society, for Italian nationalism, and against child labour. She was first involved as a founding member of the Sheffield Ladies Anti-Slavery group, which successfully campaigned for people to boycott sugar from the West Indies, as it was produced by slave labour.</note>
             </person>
@@ -294,6 +300,8 @@
                </name>
                <birth>1807</birth>
                <death>1835</death>
+               <sex>Male</sex>
+               <faith>Congregationalist</faith>
                <note>Congregationalist minister.</note>
             </person>
             
@@ -306,6 +314,7 @@
                </name>
                <birth>1797</birth>
                <death>1853</death>
+               <sex>Female</sex>
                <faith>Unitarian</faith>
                <note>Jane E. Roscoe was a poet. She was the daughter of the abolitionist MP William Roscoe (1753–1831) and Jane Roscoe (née Griffies). In 1838 she married the Unitarian minister Francis Hornblower (1812–1853). Her <hi rend="italic">Poems by one of the Authors of Poems for Youth by a Family Circle</hi> were published in 1820, and her <hi rend="italic">Poems</hi> in 1843 Her hymns in common use are:—
                   
@@ -327,6 +336,7 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
             </name>
                <birth>1766</birth>
                <death>1840</death>
+               <sex>Female</sex>
                <note>Mary Handley Sterndale was a poet, novelist, and travel writer. Born in Derbyshire. She became friends with the poet Anna Seward (1742-1809; ODNB). See more at <ref target="https://btw.wlv.ac.uk/authors/1138">https://btw.wlv.ac.uk/authors/1138</ref>.</note>
             </person>
             <person xml:id="taylor_a">
@@ -337,7 +347,8 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                </name>
                <birth when="1782">1782</birth>
                <death when="1866">1866</death>
-               <faith></faith>
+               <sex>Female</sex>
+               <faith>Congregationalist</faith>
                <note>Ann Gilbert (née Taylor) was an English poet and literary critic. She was the daughter of the noncomformist pastor, author, and engraver Isaac Taylor (1759–1829), and second wife of Joseph Gilbert, a Congregationalist minister. She gained lasting popularity in her youth as a writer of verse for children. In the years up to her marriage, she became an astringent literary critic. However, she is best remembered as the elder sister and collaborator of Jane Taylor.</note>
             </person>
             
@@ -348,6 +359,7 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                </name>
                <birth>1779</birth>
                <death>1852</death>
+               <sex>Male</sex>
                <faith>Congregationalist</faith>
                <note>Joseph Gilbert (1779–1852) was an Independent then Congregational minister who in 1813 married the renowned children's author Ann Taylor (who also contributed to The Bow in the Cloud).</note>
             </person>
@@ -359,6 +371,7 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                </name>
                <birth>1787</birth>
                <death>1865</death>
+               <sex>Male</sex>
                <note>English philosopher, writer, artist, and inventor. Brother of Jane and Ann Taylor, and friends with Josiah Conder</note>
             </person>
             
@@ -425,7 +438,9 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                </name>
                <birth>1769</birth>
                <death>1842</death>
-               <note>classical scholar, writer, and archdeacon</note>
+               <sex>Male</sex>
+               <faith>Anglican</faith>
+               <note>Classical scholar, writer, and archdeacon</note>
             </person>
          </listPerson>
       </body>
