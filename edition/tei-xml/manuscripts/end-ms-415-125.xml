@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poem: 'The Planter's Last Hour', by Sarah J. Williams (English MS 415/125)
+            </title>
+            <author>Sarah Joanna Williams</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Transcribed from original text.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <head>The Planter's Last Hour</head>
+            <lg>
+               <l>I saw a chamber in th' abode of pride,</l>
+               <l>With all of rest that could be bought with gold;</l>
+               <l>Where was a bed of down, high canopied,</l>
+               <l>And curtained round with damask's crimson fold.</l>
+               <l>The windows were deep veil'd, and yet a ray --</l>
+               <l>A single ray of the sweet sunshine <choice><sic>sunlight</sic><corr>sunlight</corr></choice> shone</l>
+               <l>Thro' the dim room, and on that couch did play,</l>
+               <l>And on the face of him who laid thereon,</l>
+               <l>But he was dying -- O there was a look</l>
+               <l>On his white lips which moved convulsively,</l>
+               <l>And all his features quivered, and he shook</l>
+               <l>As if a vision met his glazing eye.</l>
+               <l>The hireling nurse was there, and serving men</l>
+               <l>Waited his bidding; yet he was alone,</l>
+               <l>Lone, for their hearts were not with him, &amp; when</l>
+               <l>He spoke how deep and hollow was the tone</l>
+               <l>That would so soon be silent! yet tho' then</l>
+               <l>The gurgling sound of death was in his throat,</l>
+               <l>She lifted his faint voice yet once again;</l>
+               <l>It needed not a bended ear to note</l>
+               <l>His accents midst that silence most profound,</l>
+               <l>For each and every word the hush that broke</l>
+               <l>Was horribly distinct, as if it's sound</l>
+               <l>Would fain be heard for ever; thus he spoke,</l>
+               <l>"I stood within a crowded mart, I bought</l>
+               <l>"That which was there exposed for sale, which gold</l>
+               <l>"Of course made justly mine; it mattered nought</l>
+               <l>"What were the creatures that were bought and sold;</l>
+               <l>"They were but chattels. Did I treat them well,</l>
+               <l>"Or ill, or what of food and rest I gave? --</l>
+               <l>"Is that all ye would ask, or I should tell?</l>
+               <l>"Why was one tyrant and the other slave?"</l>
+               <l>"Had I the right to vest me with a power</l>
+               <l>"Unlimited, to deal out misery,</l>
+               <l>"To trust mine own frail nature with a dower</l>
+               <l>"Of such momentous import, or was I</l>
+               <l>"Free to impress my name upon his brow,</l>
+               <l>"To bend his will beneath my iron rod?</l>
+               <l>"That is the question, and that question now</l>
+               <l>"He was to me but as my dog, my steed,</l>
+               <l>"But as the tool with which I wrote his doom;</l>
+               <l>"But now he turns and asks me of that deed,</l>
+               <l>"He looks up to me from his early tomb,</l>
+               <l>"And with a face so human -- and a voice,</l>
+               <l>"A Brother's voice, even like his, who played</l>
+               <l>"With me in childhood, where free birds rejoice,</l>
+               <l>"And tinkling rills flow by near the chestnut shade.</l>
+               <l>"And hark! I hear his heart throb like my own,</l>
+               <l>"I see the life-blood rushing thro' his veins,</l>
+               <l>"Quickened by feelings I did long disown</l>
+               <l>"Or kept in foul[?]<choice><sic>foul</sic><corr>vile</corr></choice> subjection by my chains.</l>
+               <l>"E'en as my soul is his, that truth I find</l>
+               <l>"Now that all hath lies naked to <choice><sic>my</sic><corr>my</corr></choice> view,</l>
+               <l>"I bought him; could I tell the thing had mind?</l>
+               <l>"Immortal mind, and did I buy that too?["]</l>
+               <l>The pallidness of death came o'er his clay</l>
+               <l>He ceased -- and pressed his eye-lids close as tho'</l>
+               <l>That slave with his fixed gaze did still essay</l>
+               <l>To look upon his heart and its last throe,</l>
+               <l>His mouth grew rigid -- The expression flung</l>
+               <l>Around his unclosed lips showed he had tried</l>
+               <l>To answer to some quest, but that his tongue</l>
+               <l>Stiffened ere utterance came; -- and thus he died.</l>
+               <l>But still that clear bright gleam of sunshine <choice><sic>caught</sic><corr>caught</corr></choice></l>
+               <l>His dark brow pillowèd in silence then,</l>
+               <l>What did it there, but to betray the thought</l>
+               <l>Of him, the man who trafficèd in men.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
