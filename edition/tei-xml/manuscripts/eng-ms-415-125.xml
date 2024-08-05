@@ -24,9 +24,11 @@
                <l>Where was a bed of down, high canopied,</l>
                <l>And curtained round with damask's crimson fold.</l>
                <l>The windows were deep veil'd, and yet a ray --</l>
-               <l>A single ray of the sweet sunshine <choice><sic>sunlight</sic><corr>sunlight</corr></choice> shone</l>
+               <l>A single ray of the sweet sunshine sunlight shone</l>
                <l>Thro' the dim room, and on that couch did play,</l>
                <l>And on the face of him who laid thereon,</l>
+            </lg>
+            <lg>
                <l>But he was dying -- O there was a look</l>
                <l>On his white lips which moved convulsively,</l>
                <l>And all his features quivered, and he shook</l>
@@ -35,6 +37,8 @@
                <l>Waited his bidding; yet he was alone,</l>
                <l>Lone, for their hearts were not with him, &amp; when</l>
                <l>He spoke how deep and hollow was the tone</l>
+            </lg>
+            <lg>
                <l>That would so soon be silent! yet tho' then</l>
                <l>The gurgling sound of death was in his throat,</l>
                <l>She lifted his faint voice yet once again;</l>
@@ -43,6 +47,8 @@
                <l>For each and every word the hush that broke</l>
                <l>Was horribly distinct, as if it's sound</l>
                <l>Would fain be heard for ever; thus he spoke,</l>
+            </lg>
+            <lg>
                <l>"I stood within a crowded mart, I bought</l>
                <l>"That which was there exposed for sale, which gold</l>
                <l>"Of course made justly mine; it mattered nought</l>
@@ -51,6 +57,8 @@
                <l>"Or ill, or what of food and rest I gave? --</l>
                <l>"Is that all ye would ask, or I should tell?</l>
                <l>"Why was one tyrant and the other slave?"</l>
+            </lg>
+            <lg>
                <l>"Had I the right to vest me with a power</l>
                <l>"Unlimited, to deal out misery,</l>
                <l>"To trust mine own frail nature with a dower</l>
@@ -58,6 +66,8 @@
                <l>"Free to impress my name upon his brow,</l>
                <l>"To bend his will beneath my iron rod?</l>
                <l>"That is the question, and that question now</l>
+            </lg>
+            <lg>
                <l>"He was to me but as my dog, my steed,</l>
                <l>"But as the tool with which I wrote his doom;</l>
                <l>"But now he turns and asks me of that deed,</l>
@@ -66,6 +76,8 @@
                <l>"A Brother's voice, even like his, who played</l>
                <l>"With me in childhood, where free birds rejoice,</l>
                <l>"And tinkling rills flow by near the chestnut shade.</l>
+            </lg>
+            <lg>
                <l>"And hark! I hear his heart throb like my own,</l>
                <l>"I see the life-blood rushing thro' his veins,</l>
                <l>"Quickened by feelings I did long disown</l>
@@ -74,6 +86,8 @@
                <l>"Now that all hath lies naked to <choice><sic>my</sic><corr>my</corr></choice> view,</l>
                <l>"I bought him; could I tell the thing had mind?</l>
                <l>"Immortal mind, and did I buy that too?["]</l>
+            </lg>
+            <lg>
                <l>The pallidness of death came o'er his clay</l>
                <l>He ceased -- and pressed his eye-lids close as tho'</l>
                <l>That slave with his fixed gaze did still essay</l>
@@ -82,11 +96,38 @@
                <l>Around his unclosed lips showed he had tried</l>
                <l>To answer to some quest, but that his tongue</l>
                <l>Stiffened ere utterance came; -- and thus he died.</l>
+            </lg>
+               <lg>
                <l>But still that clear bright gleam of sunshine <choice><sic>caught</sic><corr>caught</corr></choice></l>
                <l>His dark brow pillowèd in silence then,</l>
                <l>What did it there, but to betray the thought</l>
                <l>Of him, the man who trafficèd in men.</l>
             </lg>
+         </div>
+         
+         <div type="letter">
+            <div>
+            <dateline>
+               <date when="1833-03-27">March 27th</date>
+               <placeName>Mansfield</placeName>
+            </dateline>
+            <opener>
+               <salute>Madam</salute>
+            </opener>
+            <p>I returned home a few days ago, after a long absence and found a letter from Miss H Horker[?] requesting I would contribute something to a volume you intended publishing on "Slavery." I have my heart so much in the cause that it would give me great pleasure to afford any assistance in my power to such a work. I only fear that so much time having elapsed (as Miss H wrote on the 3d instant) it may be too late to do so. I had no unpublished piece on the subject by me, but have written the enclosed on purpose for you and shall be glad if it answers your purpose. If you should wish any thing further from my pen have the goodness to direct to me at Rev J Williams Mansfield.</p>
+            <closer>
+               <signed>S J Williams</signed>
+            </closer>
+         </div>
+            <div type="addressed">
+               <ab>Mrs. Wm Rawson<lb/>
+               At Josh Read's Esqr<lb/>
+               Wincobank<lb/>
+               near Sheffield</ab>
+            </div>
+            <div type="postmark">
+               <ab>Mansfield | MA22 | 18 3</ab>
+            </div>
          </div>
       </body>
    </text>
