@@ -24,7 +24,7 @@
                <l>Where was a bed of down, high canopied,</l>
                <l>And curtained round with damask's crimson fold.</l>
                <l>The windows were deep veil'd, and yet a ray --</l>
-               <l>A single ray of the sweet sunshine sunlight shone</l>
+               <l>A single ray of the sweet <del>sunshine</del> <add>sunlight</add> shone</l>
                <l>Thro' the dim room, and on that couch did play,</l>
                <l>And on the face of him who laid thereon,</l>
             </lg>
@@ -81,9 +81,9 @@
                <l>"And hark! I hear his heart throb like my own,</l>
                <l>"I see the life-blood rushing thro' his veins,</l>
                <l>"Quickened by feelings I did long disown</l>
-               <l>"Or kept in foul[?]<choice><sic>foul</sic><corr>vile</corr></choice> subjection by my chains.</l>
+               <l>"Or kept in <del>foul[?]</del> <add>^vile</add> subjection by my chains.</l>
                <l>"E'en as my soul is his, that truth I find</l>
-               <l>"Now that all hath lies naked to <choice><sic>my</sic><corr>my</corr></choice> view,</l>
+               <l>"Now that all hath lies naked to <add>^my</add> view,</l>
                <l>"I bought him; could I tell the thing had mind?</l>
                <l>"Immortal mind, and did I buy that too?["]</l>
             </lg>
@@ -98,7 +98,7 @@
                <l>Stiffened ere utterance came; -- and thus he died.</l>
             </lg>
                <lg>
-               <l>But still that clear bright gleam of sunshine <choice><sic>caught</sic><corr>caught</corr></choice></l>
+               <l>But still that clear bright gleam of sunshine <add>caught</add></l>
                <l>His dark brow pillowèd in silence then,</l>
                <l>What did it there, but to betray the thought</l>
                <l>Of him, the man who trafficèd in men.</l>
@@ -114,14 +114,14 @@
             <opener>
                <salute>Madam</salute>
             </opener>
-            <p>I returned home a few days ago, after a long absence and found a letter from Miss H Horker[?] requesting I would contribute something to a volume you intended publishing on "Slavery." I have my heart so much in the cause that it would give me great pleasure to afford any assistance in my power to such a work. I only fear that so much time having elapsed (as Miss H wrote on the 3d instant) it may be too late to do so. I had no unpublished piece on the subject by me, but have written the enclosed on purpose for you and shall be glad if it answers your purpose. If you should wish any thing further from my pen have the goodness to direct to me at Rev J Williams Mansfield.</p>
+            <p>I returned home a few days ago, after a long absence and found a letter from Miss H Horker[?] requesting I would contribute something to a volume you intended publishing on "Slavery." I have my heart so much in <add>the</add> cause that it would give me great pleasure to <add>afford</add> any assistance in my power to such a work. I only fear that so much time having elapsed (as Miss H wrote on the 3d instant) it may be too late to do so. I had no unpublished piece on the subject by me, but have written the enclosed <del>on purpose</del> for you and shall be glad if it answers your purpose. If you should wish any thing further from my pen have the goodness to direct to me at Rev J Williams Mansfield.</p>
             <closer>
                <signed>S J Williams</signed>
             </closer>
          </div>
             <div type="addressed">
                <ab>Mrs. Wm Rawson<lb/>
-               At Josh Read's Esqr<lb/>
+                  At Jos<hi rend="superscript">h</hi> Read's Esq<hi rend="superscript">r</hi><lb/>
                Wincobank<lb/>
                near Sheffield</ab>
             </div>
