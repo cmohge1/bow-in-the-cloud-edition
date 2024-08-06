@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Invocation to Liberty</title>
+            <author>Elizabeth Walker</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published in the Bow in the Cloud (1834)</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Transcribed from original text.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="pohi rend="italic"">
+            <lg>
+               <l><hi rend="smallcaps">All</hi> hail, sweet Liberty! thy cheering ray</l>
+               <l>Gives promise of a bright -- a glorious day --</l>
+               <l>Soon may it burst in dazzling splendour bright,</l>
+               <l>Chasing the <hi rend="italic">long</hi>, <hi rend="italic">deep</hi> gloom of Slavery's night!</l>
+               <l>Unloose the fetters! -- set the Captive free! --</l>
+               <l>Bind up his wounds! -- and soothe his agony!</l>
+               <l>Shed thy blest influence o'er the hapless Slave,</l>
+               <l>And shew him <hi rend="italic">thou</hi> hast found a heart to save!</l>
+               <l>Of what avail fair climes, or brightest sky?</l>
+               <l>Unblest by <hi rend="italic">Thee</hi>, he <hi rend="italic">must</hi> despairing lie:</l>
+               <l>Let him at length the hallowed vision see</l>
+               <l>Of Peace, -- of Hope, -- of Joy, -- of Liberty!</l>
+               <l>Wave thy bright banner! mount it up on high!</l>
+               <l>Unfurl thy standard to the gorgeous sky!</l>
+               <l>Enroll <hi rend="italic">thy</hi> name there, -- <hi rend="italic">Briton</hi>, <hi rend="italic">brave</hi>, and <hi rend="smallcaps">free</hi>!</l>
+               <l>'Tis a fit hi rend="italic"blhi rend="italic" of thy <hi rend="italic">Land</hi>, and <hi rend="italic">Thee</hi>!</l>
+            </lg>
+            <lg>
+               <l>Say! <hi rend="italic">shall</hi> that Land to Fame and Freedom dear</l>
+               <l>Refuse the weeping suppliant's ardent prayer?</l>
+               <l>Behold his bitter grief, his galling chain,</l>
+               <l>Yet <hi rend="italic">mock</hi> his woes, or <hi rend="italic">aggravate</hi> his pain?</l>
+               <l>Ah! let not Man so <hi rend="italic">base</hi> a Recreant prove --</l>
+               <l>Dead to the voice of Justice, Mercy, Love --</l>
+               <l><hi rend="italic">Melt</hi> his <hi rend="italic">hard</hi> heart, ye attributes divine!</l>
+               <l>So shall his worth in <hi rend="italic">tenfold</hi> radiance shine!</l>
+            </lg>
+            <lg>
+               <l>England's fair Daughters, too, shall aid supply,</l>
+               <l>Heal breaking hearts, and dry the streaming eye,</l>
+               <l>To injured Africa speak words of peace,</l>
+               <l>Feel for her wrongs, and bid her sorrows cease;</l>
+               <l>Her sable sons shall bless the tender care</l>
+               <l>Which soothes their grief and in their hope hath share.</l>
+            </lg>
+            <lg>
+               <l>Then hail, <hi rend="smallcaps">sweet</hi> Liberty! Thy banner float</l>
+               <l>From North to South, o'er regions <hi rend="italic">most</hi> rhi rend="italic"ote;</l>
+               <l>From East to West, till <hi rend="italic">every</hi> land and clime,</l>
+               <l>Exulting shouts, "This <hi rend="italic">glorious</hi> boon is mine!"</l>
+            </lg>
+            <signed>
+               <l><hi rend="smallcaps">Elizabeth</hi>.</l>
+               <note place="bottom">
+                  <p><hi rend="italic"ph><span class="note" rev="scalar:has_note" resource="clifton-house-rotherham" data-show-title="yes" data-show-description="no" data-show-content="yes" data-type="undefined">Clifton House</span></hi rend="italic"ph>.</p>
+               </note>
+            </signed>
+         </div>
+      </body>
+   </text>
+</TEI>

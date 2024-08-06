@@ -405,12 +405,14 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                <note>Lucy Townsend (née Jesse) was a British abolitionist. She started the first Ladies' Anti-Slavery Society in Birmingham, UK, titled the Birmingham Ladies Society for the Relief of Negro Slaves.</note>
             </person>
             <person xml:id="walker_e">
-               <name>
+               <name ref="https://www.geni.com/people/Elizabeth-Abney/6000000204883880265">
                   <surname>Walker</surname>
-                  <forename>Elizabeth</forename>
+                  <forename type="first">Elizabeth</forename>
+                  <forename type="middle">Abney</forename>
                </name>
+               <birth>1782</birth>
                <death>1850</death>
-               <note>Elizabeth Walker (d. 1850) was a poet and activist and wife of Henry Walker (1785-1860), an iron and steel businessman from Rotherham (see <ref target="https://www.cliftonpark.org.uk/homepage/29/the-walkers-of-clifton-house">https://www.cliftonpark.org.uk/homepage/29/the-walkers-of-clifton-house</ref>).</note>
+               <note>Elizabeth Walker was a poet and activist and wife of Henry Walker (1785-1860), an iron and steel businessman from Rotherham (see <ref target="https://www.cliftonpark.org.uk/homepage/29/the-walkers-of-clifton-house">https://www.cliftonpark.org.uk/homepage/29/the-walkers-of-clifton-house</ref>).</note>
             </person>
             <person xml:id="watson_j">
                <name ref="https://www.benshamgrove.org.uk/history/the-spence-watsons/">
