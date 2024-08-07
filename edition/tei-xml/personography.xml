@@ -114,6 +114,20 @@
                <note>Born in London, Bulmer was a poet who belonged to the Wesleyan community, having been admitted by <ref target="https://www.wikidata.org/wiki/Q349070">Charles Wesley</ref> himself. Her major publications include <hi rend="italic">Memoirs of Mrs. Mortimer</hi> and a 12-book epic poem entitled <hi rend="italic">Messiah's Kingdom</hi> (1833). This poem, consisting of nearly fourteen thousand verses, is one of the longest works of poetry composed by a woman. See also the <ref target="https://www.wikidata.org/wiki/Q16147344">Wikidata item</ref> and Andrew O. Winckles' 'The Book of Nature and the Methodist Epic: Agnes Bulmer's Analogic Poetics and the End(s) of Romanticism' <hi rend="italic">Womens Writing</hi> 22:2 (2015), pp. 209–28,
                    (<ref target="https://doi.org/10.1080/09699082.2015.1011841">https://doi.org/10.1080/09699082.2015.1011841</ref>).</note>
             </person>
+            
+            <person xml:id="burchell_t">
+               <name ref="https://www.wikidata.org/wiki/Q7788037">
+                  <surname>Burchell</surname>
+                  <forename>Thomas</forename>
+               </name>
+               <birth>1799</birth>
+               <death>1846</death>
+               <faith>Baptist</faith>
+               <note>
+                  Thomas Burchell was a leading Baptist missionary and slavery abolitionist in Montego Bay, Jamaica, in the early nineteenth century.
+               </note>
+            </person>
+            
             <person xml:id="buxton_tf">
                <name ref="http://viaf.org/viaf/12306089">
                   <surname>Buxton</surname>
