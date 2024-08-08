@@ -285,7 +285,7 @@
             </person>
             
             
-            <person>
+            <person xml:id="montgomery_j">
                <name ref="http://viaf.org/viaf/183634">
                   <surname>Montgomery</surname>
                   <forename>James</forename>
