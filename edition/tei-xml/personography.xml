@@ -13,7 +13,7 @@
             <p>Mary Anne Rawson's The Bow in the Cloud: a scholarly edition and network analysis</p>
          </publicationStmt>
          <sourceDesc>
-            <p>This is a born-digital authority file of biographical details relating to the Bow in the Cloud manuscript archive (English MS 414 and 415, John Rylands Library, Manchester).</p>
+            <p>This is a born-digital authority file of biographical details relating to the Bow in the Cloud manuscript archive (English MS 414 and 415, John Rylands Library, Manchester, UK).</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
@@ -22,7 +22,7 @@
          <listPerson>
             
             <person xml:id="abney_e">
-               <name>
+               <name ref="https://www.wikidata.org/wiki/Q76154758">
                   <surname>Abney</surname>
                   <forename type="first">Edward</forename>
                   <forename type="middle">Henry</forename>
@@ -207,6 +207,30 @@
                <note>The Reverend Thomas Hill was the deacon of Chesterfield.</note>
             </person>
             
+            <person xml:id="holland_j">
+               <name ref="https://www.wikidata.org/wiki/Q15452389">
+                  <surname>Holland</surname>
+                  <forename>John</forename>
+               </name>
+               <birth>1794</birth>
+               <death>1872</death>
+               <faith>Methodist</faith>
+               <note>John Holland (14 March 1794–28 December 1872) was an English poet, newspaper editor, and writer on mining, botany, geology, topography and metallurgy. Born on the grounds of the ancient Sheffield Manor, in Yorkshire, he published poems as a young man that caught the attention of James Montgomery.</note>
+            </person>
+            
+            <person xml:id="morpeth">
+               <name ref="https://www.wikidata.org/wiki/Q2079517">
+                  <surname>Howard</surname>
+                  <forename>George</forename>
+                  <forename>William</forename>
+                  <forename>Frederick</forename>
+               </name>
+               <birth>1802</birth>
+               <death>1865</death>
+               <faith>Anglican</faith>
+               <note>George Howard, 7th Earl of Carlisle (1802-1865), known as Lord or Viscount Morpeth in the Bow in the Cloud, was a Whig politician, orator, and writer. He was closely associated with a group of Whig Liberal Anglicans who opposed the Evangelical movement. He also exchanged sonnets with William Wordsworth.</note>
+            </person>
+            
             <person xml:id="howitt_m">
                <name ref="http://viaf.org/viaf/42648131">
                   <surname type="married">Howitt</surname>
@@ -269,7 +293,7 @@
                <birth when="1771">1771</birth>
                <death when="1854">1854</death>
                <faith>Moravian</faith>
-               <note>James Montgomery was a Scottish-born hymn writer, poet, editor, and activist who eventually settled in Sheffield. He was the eldest son of a Moravian clergyman, and was born at Irvine, in Scotland, on 4 November 1771.</note>
+               <note>James Montgomery was a Scottish-born hymn writer, poet, editor, and activist who eventually settled in Sheffield. He was the eldest son of a Moravian clergyman, and was born at Irvine, Scotland, on 4 November 1771.</note>
             </person>
             
             <person xml:id="parker_j">
@@ -387,6 +411,14 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                <note>Joseph Gilbert (1779–1852) was an Independent then Congregational minister who in 1813 married the renowned children's author Ann Taylor (who also contributed to The Bow in the Cloud).</note>
             </person>
             
+            <!-- no info on this one... -->
+            <person xml:id="smith_ah">
+               <name>
+                  <surname>Smith</surname>
+                  <forename>A. H.</forename>
+               </name>
+            </person>
+            
             <person xml:id="taylor_i">
                <name>
                   <surname>Taylor</surname>
@@ -427,6 +459,19 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                <death>20 April 1847</death>
                <note>Lucy Townsend (née Jesse) was a British abolitionist. She started the first Ladies' Anti-Slavery Society in Birmingham, UK, titled the Birmingham Ladies Society for the Relief of Negro Slaves.</note>
             </person>
+            
+            <person xml:id="townshend_c">
+               <name>
+                  <surname>Townshend</surname>
+                  <forename type="first">Chauncey</forename>
+                  <forename type="middle">Hare</forename>
+               </name>
+               <birth>1798</birth>
+               <death>1868</death>
+               <faith>Anglican</faith>
+               <note>Chauncey Hare Townshend (1798–1868) was a poet and collector. He took holy orders in the Church of England as a young man, but was disabled by illness from the active duties of his profession. Early in life he made the acquaintance of Robert Southey, and received an invitation to Greta Hall, Southey's residence in the vale of Keswick. Encouraged by the laureate's approbation, he published a volume of ‘Poems’ in 1821 (London, 8vo) which were generally praised. He also became friends with Charles Dickens, owing to his interest in mesmerism.</note>
+            </person>
+            
             <person xml:id="walker_e">
                <name ref="https://www.geni.com/people/Elizabeth-Abney/6000000204883880265">
                   <surname>Walker</surname>
