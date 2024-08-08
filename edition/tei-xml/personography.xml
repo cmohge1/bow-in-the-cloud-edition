@@ -30,6 +30,7 @@
                <birth>1811</birth>
                <death>1892</death>
                <sex>Male</sex>
+               <faith>Anglican</faith>
                <note>Edward Henry Abney (1811-1892), domestic chaplain to 1st Baron Belper, was vicar of St. Alkmund's, Derby, afterwards prebendary of Lichfield.</note>
             </person>
             
@@ -166,16 +167,13 @@
             </person>
             
             <person xml:id="ely_j">
-               <name>
+               <name ref="https://www.wikidata.org/wiki/Q55020582">
                   <surname>Ely</surname>
                   <forename>John</forename>
                </name>
                <birth when="1793">1793</birth>
                <death when="1847">1847</death>
-               <residence>
-                  <settlement>Leeds</settlement>
-                  <country>Great Britain</country>
-               </residence>
+               <note>John Ely (1793-1847) was a minister from Leeds...</note>
                <!-- need to find more info -->
             </person>
             <person xml:id="gurney_jj">
@@ -190,6 +188,16 @@
                <!-- complete -->
             </person>
             
+            
+            <person xml:id="hill_r">
+               <name ref="https://www.wikidata.org/wiki/Q9310294">
+                  <surname>Hill</surname>
+                  <forename>Richard</forename>
+               </name>
+               <birth>1795</birth>
+               <death>1872</death>
+               <note>Richard Hill (1795-1872) was a Jamaican lawyer, zoologist, politician, and poet, as well as leader of the free people of colour, which campaigned for equal rights in the early nineteenth century.e</note>
+            </person>
             <!-- needs more investigation -->
             <person xml:id="hill_th">
                <name>
@@ -218,7 +226,7 @@
                <birth>1792</birth>
                <death>1879</death>
                <faith>Quaker</faith>
-               <note>William Howitt was a Quaker writer and activist. In 1821 he married Mary Botham</note>
+               <note>William Howitt was a Quaker writer and activist. In 1821 he married Mary Botham.</note>
             </person>
             
             <person xml:id="james_pm">
@@ -264,17 +272,17 @@
                <note>James Montgomery was a Scottish-born hymn writer, poet, editor, and activist who eventually settled in Sheffield. He was the eldest son of a Moravian clergyman, and was born at Irvine, in Scotland, on 4 November 1771.</note>
             </person>
             
-            <person>
-               <name>
+            <person xml:id="parker_j">
+               <name ref="https://www.wikidata.org/wiki/Q6251908">
                   <surname>Parker</surname>
                   <forename>John</forename>
                </name>
-               <birth>21 October 1799</birth>
-               <death>5 September 1881</death>
-               <note>Parker was an English politician and barrister.</note>
-               <!-- complete -->
-               <!-- Wikidata item Q6251908 -->
+               <birth>1799</birth>
+               <death>1881</death>
+               <faith>Anglican</faith>
+               <note>John Parker (21 October 1799 – 5 September 1881) was an English Whig politician and barrister. He was instrumental in the enfranchisement of Sheffield, petitioning Parliament in 1817 and 1822, and creating a pamphlet stating the case for Sheffield in 1830. When the Sheffield constituency was finally created as a Parliamentary borough in 1832 he was elected alongside James Silk Buckingham as its first MPs. He served as MP for Sheffield until 1852, becoming Lord of the Treasury (1839–1840), First Secretary of the Admiralty, joint Secretary to the Treasury (1846–1849), and a Member of the Privy council (1853).</note>
             </person>
+            
             <person xml:id="pringle-t">
                <name>
                   <surname>Pringle</surname>
@@ -284,6 +292,7 @@
                <death when="1834-12-05">5 December 1834</death>
                <note>was a Scottish writer, poet and abolitionist. Known as the father of South African poetry, he was the first successful English language poet and author to describe South Africa's scenery, native peoples, and living conditions (source: Wikipedia).</note>
             </person>
+            
             <person xml:id="pritchard_jwh">
                <name>
                   <surname>Pritchard</surname>
@@ -457,7 +466,7 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                <birth>1805</birth>
                <death>1841</death><!-- could be 1844, per the Rylands, but other sources suggest it's 1841 -->
                <faith>Unitarian</faith>
-               <note>Williams, Sarah Johanna (1805-1841) was the daughter of Rev. John Williams (1768–1835), the biographer of Rev. Thomas Belsham, who was a Unitarian minister at Mansfield. She contributed various poems to the Liverpool Sacred Offering. In the vol. for 1834 is the poem, "Quiet from God! it cometh not to still The vast and high aspirings of the soul," from which the hymn, “Quiet from God! how blessed 'tis to keep," Rest in God, is adapted in Martineau’s Hymns of Praise and Prayer, also in J. P. Hopp’s Collection
+               <note>Sarah Joanna Williams (1805-1841) was the daughter of Mansfield-based Unitarian minister Rev. John Williams (1768–1835), the biographer of Rev. Thomas Belsham. She contributed various poems to the Liverpool Sacred Offering. In the vol. for 1834 is the poem, "Quiet from God! it cometh not to still The vast and high aspirings of the soul," from which the hymn, “Quiet from God! how blessed 'tis to keep," Rest in God, is adapted in Martineau’s Hymns of Praise and Prayer, also in J. P. Hopp’s Collection.
                   </note>
             </person>
             
