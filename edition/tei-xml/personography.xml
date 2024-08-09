@@ -112,6 +112,7 @@
                <birth><date when="1775">1775</date>
                <placeName>London</placeName></birth>
                <death><date when="1836">1836</date></death>
+               <faith>Wesleyan Methodist</faith>
                <note>Born in London, Bulmer was a poet who belonged to the Wesleyan community, having been admitted by <ref target="https://www.wikidata.org/wiki/Q349070">Charles Wesley</ref> himself. Her major publications include <hi rend="italic">Memoirs of Mrs. Mortimer</hi> and a 12-book epic poem entitled <hi rend="italic">Messiah's Kingdom</hi> (1833). This poem, consisting of nearly fourteen thousand verses, is one of the longest works of poetry composed by a woman. See also the <ref target="https://www.wikidata.org/wiki/Q16147344">Wikidata item</ref> and Andrew O. Winckles' 'The Book of Nature and the Methodist Epic: Agnes Bulmer's Analogic Poetics and the End(s) of Romanticism' <hi rend="italic">Womens Writing</hi> 22:2 (2015), pp. 209–28,
                    (<ref target="https://doi.org/10.1080/09699082.2015.1011841">https://doi.org/10.1080/09699082.2015.1011841</ref>).</note>
             </person>
@@ -173,7 +174,8 @@
                </name>
                <birth when="1793">1793</birth>
                <death when="1847">1847</death>
-               <note>John Ely (1793-1847) was a minister from Leeds...</note>
+               <faith>Congregationalist</faith>
+               <note>John Ely (1793–1847) was a minister from Leeds. He was educated at Hoxton Academy (London), which was a training institution for dissenting Congregational ministers. Ely served as a pastor in various locations, including Rochdale before moving to Leeds. His work and influence were significant in the religious life of Leeds, particularly in the context of the Congregational movement, which emphasized independent, self-governing congregations outside the established Church of England​ (source: <ref target="https://www.genuki.org.uk/big/eng/YKS/WRY/Leeds/Leeds-SalemChapelCongChurch">https://www.genuki.org.uk/big/eng/YKS/WRY/Leeds/Leeds-SalemChapelCongChurch</ref>)​.</note>
                <!-- need to find more info -->
             </person>
             <person xml:id="gurney_jj">
@@ -463,7 +465,7 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
             <person xml:id="townshend_c">
                <name>
                   <surname>Townshend</surname>
-                  <forename type="first">Chauncey</forename>
+                  <forename type="first">Chauncey</forename>el
                   <forename type="middle">Hare</forename>
                </name>
                <birth>1798</birth>

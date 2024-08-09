@@ -27,8 +27,8 @@
     <!-- Template to process each person -->
     <xsl:template match="tei:person">
         <!-- Person's name as h2 -->
-        <h2>
-            <xsl:apply-templates select="tei:name"/>
+        <h2 id="{@xml:id}">
+            <xsl:apply-templates select="tei:name/tei:surname"/>, <xsl:apply-templates select="tei:name/tei:forename[1]"/><xsl:text> </xsl:text> <xsl:apply-templates select="tei:name/tei:forename[2]"/>
         </h2>
         
         <!-- Person's details -->
