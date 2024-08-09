@@ -156,6 +156,17 @@
                <note>Allan Cunngingham was a Scottish poet.</note>
             </person>
             
+            <person xml:id="douglas_j">
+               <name ref="https://digital.nls.uk/histories-of-scottish-families/archive/95281787?mode=transcription">
+                  <surname>Douglas</surname>
+                  <forename>James</forename>
+               </name>
+               <birth>1790</birth>
+               <death>1861</death>
+               <faith>Congregationalist</faith>
+               <note>James Douglas, of Cavers, Scotland, came from a long line of Scottish nobles dating back to Sir James Douglas, who fought with Robert the Bruce during the Scottish Wars of Independence. Douglas was the eighteenth in descent from Archibald, second son of James, second Earl of Douglas, who was killed at the battle of Otterburn, 21st July, 1388. He was born on 9 October 1790 at Cavers, near Hawick, Roxburghshire, and died there on 17 August 1861. He became laird of Cavers on the death of his father in 1815. He published on philosophy, religion, politics and history, and was a staunch opponent of slavery. In 1833 he published his 'Address on Slavery' (Edinburgh: Adam and Charles Black; and London: Longman, Rees, Orme, Brown, Green and Longman, 1833), which argued for the economic costs of slavery and empire. His intention was to broaden the appeal to those who could oppose slavery on utilitarian rather than moral principles.</note>
+            </person>
+            
             <person xml:id="edmeston_j">
                <name ref="http://viaf.org/viaf/19298317">
                   <surname>Edmeston</surname>
@@ -453,7 +464,7 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
             </person>
             
             <person>
-               <name>
+               <name ref="https://www.wikidata.org/wiki/Q18528740">
                   <surname>Townsend</surname>
                   <forename>Lucy</forename>
                </name>
