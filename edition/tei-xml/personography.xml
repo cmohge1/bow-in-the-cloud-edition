@@ -138,8 +138,21 @@
                </name>
                <birth when="1786">1786</birth>
                <death when="1845">1845</death>
+               <faith>Quaker</faith>
                <note>Sir Thomas Fowell Buxton, 1st Baronet Buxton of Belfield and Runton (1 April 1786 – 19 February 1845) was an English Member of Parliament, brewer, abolitionist and social reformer. In 1822 he succeeded William Wilberforce as leader of the campaign in the House of Commons for the abolition of slavery in the British colonies and thus was partly responsible for the Abolition Act of 28 August 1833.</note>
             </person>
+            
+            <person xml:id="carey_e">
+               <name ref="https://www.wikidata.org/wiki/Q19022952">
+                  <surname>Carey</surname>
+                  <forename>Eustace</forename>
+               </name>
+               <birth>1791</birth>
+               <death>1855</death>
+               <faith>Baptist</faith>
+               <note>Eustace Carey was a missionary to India and religious campaigner. He was the son of Thomas Carey, a non-commissioned officer in the army, and the nephew of Dr. William Carey, Indian missionary. He was born 22 March 1791 at Paulerspury, Northamptonshire. He began his preparatory studies for the baptist ministry under the Rev. Mr. Sutcliff at Olney, and in 1812 went to Bristol College; as he set out in the beginning of 1814 as a missionary to India, arriving at Serampore on 1 Aug. On account of failing health he was compelled to leave India, and, arriving in England in September 1825, he in the following year began to advocate the claims of missions throughout the home counties, subsequently extending his visits to Scotland and Ireland. In 1828 be published 'Vindication of the Calcutta Baptist Missionaries,' and in 1831 'Supplement to the Vindication.' In the latter year he published the 'Memoir' of his relative William Carey, D.D. He took a prominent part in the agitation against slavery in Jamaica, and in 1840 was appointed a delegate to the churches there (source: <ref target="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Carey,_Eustace"> https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Carey,_Eustace</ref>).</note>
+            </person>
+            
             <person xml:id="conder_e">
                <name>
                   <surname>Conder</surname>
@@ -321,13 +334,14 @@
             </person>
             
             <person xml:id="pringle-t">
-               <name>
+               <name ref="https://www.wikidata.org/wiki/Q380383">
                   <surname>Pringle</surname>
                   <forename>Thomas</forename>
                </name>
-               <birth when="1789-01-05">5 January 1789</birth>
-               <death when="1834-12-05">5 December 1834</death>
-               <note>was a Scottish writer, poet and abolitionist. Known as the father of South African poetry, he was the first successful English language poet and author to describe South Africa's scenery, native peoples, and living conditions (source: Wikipedia).</note>
+               <birth when="1789-01-05">1789</birth>
+               <death when="1834-12-05">1834</death>
+               <faith>Presbyterian</faith>
+               <note>Thomas Pringle was a Scottish writer, poet and abolitionist. A friend of Sir W. Scott, and for a short time editor of the Edinburgh Monthly Magazine, he published his first volume of poems in 1809, which included ‘The Emigrant's Farewell’. He emigrated to South Africa, and he is remembered chiefly as a poet of that country. His Ephemerides (1828) and African Sketches (1834) reveal his sympathetic interest in the native races and the wildlife of Africa. He became the secretary of the London Anti-slavery Society in 1827. In 1834, the year the Slavery Abolition Act was passed, he died of consumption.</note>
             </person>
             
             <person xml:id="pritchard_jwh">
@@ -388,6 +402,18 @@
                   
 Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe; Robert Roscoe; Thomas Roscoe; Richard Roscoe; Mary Anne Jevons and Henry Roscoe.</note>
             </person>
+            
+            <person xml:id="pye-smith_j">
+               <name ref="https://www.wikidata.org/wiki/Q6058440">
+                  <surname>Pye-Smith</surname>
+                  <forename>John</forename>
+               </name>
+               <birth>1774</birth>
+               <death>1851</death>
+               <faith>Congregationalist</faith>
+               <note>John Pye-Smith (1774-1851) was Theological Tutor, effectively Principal, of Homerton Academy from 1806-1850. Born to a Sheffield bookseller John Smith and his wife Mary, John Pye Smith had little formal education, instead teaching himself using the many books available to him in his father’s shop. In 1800, after completing his studies at the Rotherham Academy, Pye Smith was appointed Resident Classical Tutor at Homerton Academy, and became Theological Tutor in 1806. Was friends with James Montgomery.</note>
+            </person>
+            
             <person xml:id="sterndale_mh">
                <name ref="http://viaf.org/viaf/61410705">
                <surname>Sterndale</surname>
