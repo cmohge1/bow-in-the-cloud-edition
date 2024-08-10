@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Slave's Lament</title>
+        <author>Allan Cunningham</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+
+          <label>I.</label>
+        
+        <lg>
+          <l>My native land! far o'er the sea,</l>
+          <l>Enslaved and sad, I think of thee,</l>
+          <l>When, free as the unbridled breeze,</l>
+          <l>I chased the deer 'mongst spicy trees,</l>
+          <l>And stayed, amidst his fleet career,</l>
+          <l>The ostrich, with my swifter spear.</l>
+          <l>Then bright of look--as sun at noon,</l>
+          <l>Then gay of heart-as bird in June,</l>
+          <l>And careless as the lark that flies,</l>
+          <l>With song to bid the morn arise,</l>
+          <l>I rose in gladness, breast and brow</l>
+          <l>Fearless and free,--how rise I now ?</l>
+        </lg>
+    
+          <label>II.</label>
+        
+        <lg>
+          <l>How rise I?--my heart throbs to ask;</l>
+          <l>See, there's the whip, and here's the task;</l>
+          <l>Nor toil alone enchafes my mood,</l>
+          <l>My taxed and burthened soul sweats blood;</l>
+          <l>My heart leaps up in arms,--the brand</l>
+          <l>Smites sharp in an insulted hand.</l>
+          <l>This golden clime, in vain for me,</l>
+          <l>Pours liquid fragrance from the tree,--</l>
+          <l>The fruits which cool men's lips at noon,</l>
+          <l>The preacher's prayers beneath the moon,</l>
+          <l>Are vain,--my trampled heart, in truth,</l>
+          <l>Nor food can cheer, nor words can soothe.</l>
+        </lg>
+      
+          <label>III.</label>
+        
+        <lg>
+          <l>I heard a voice far o'er the waves,</l>
+          <l>Cry, &quot;Greece had serfs and Rome had slaves;</l>
+          <l>See, swarthy Spain is doomed to pine,</l>
+          <l>'Neath slavery thrice as fierce as thine;</l>
+          <l>Gay France her rosy vintage quaffs</l>
+          <l>In fetters,--yet she leaps and laughs;</l>
+          <l>Wide Russia's rude and savage horde</l>
+          <l>Own for their law the sharpest sword;</l>
+          <l>Colombia from her slave the cup</l>
+          <l>Of freedom takes, and drinks it up;­</l>
+          <l>Lo, one fair island 'midst the main !­</l>
+          <l>Go touch it,--and off drops thy chain.&quot;</l>
+        </lg>
+      
+          <label>IV.</label>
+        
+        <lg>
+          <l>'Tis true,--'tis true,--yet Britons born</l>
+          <l>Still bid me taste the cup they scorn;</l>
+          <l>Men who in court, and flood, and field,</l>
+          <l>For freedom wear the sword and shield;</l>
+          <l>To save the weak, and strike the strong,</l>
+          <l>Has been green England's motto long.</l>
+          <l>I've said my say,--I've moan'd my moan,­</l>
+          <l>Yet one word more,--one word alone;­</l>
+          <l>My wedded love! far o'er the deep,</l>
+          <l>Livest thou, to think of me and weep?</l>
+          <l>My darling boy,--my one sweet child,</l>
+          <l>I saw thee late in sleep, and smiled,--</l>
+          <l>I saw thee in my dreams,--'tis sweet</l>
+          <l>To see them there,--we ne'er shall meet.</l>
+        </lg>
+        <signed>
+          Allan Cunningham
+        </signed>
+        <dateline>
+          <address><addrLine>Lower Belgrave Place, 16th May, 1826.</addrLine></address>
+        </dateline>
+      </div>
+    </body>
+  </text>
+</TEI>
