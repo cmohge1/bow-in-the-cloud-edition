@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sonnet</title>
+        <author>Eliza Conder</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+      
+          <metamark>----</metamark>
+          <head type="headnote">These lines refer to a well-attested circumstance which occurred in Egypt.</head>
+          <metamark>----</metamark>
+        
+        <lg>
+          <l>With speed as of the ocean-wind there fled</l>
+          <l>A shuddering captive from the impending stroke,</l>
+          <l>Whose lash adds scorpions to the bondsman's yoke;</l>
+          <l>And, gaining on his wild, despairing tread,</l>
+          <l>That scorpion-lash was near. No pity woke</l>
+          <l>For thee, lost fugitive! No refuge led</l>
+          <l>To hope: there was no mercy to invoke;</l>
+          <l>Nor faith for thee her sanctuary spread.</l>
+          <l>Even at that latest moment, in his path,</l>
+          <l>A child whose form the hues of England wore,</l>
+          <l>The fainting victim saw. He stooped and bore</l>
+          <l>Him in his arms: --then faced the avenger's wrath.</l>
+          <l>His tyrants owned the eloquent appeal;</l>
+          <l>And, with his pardon, stamped on Britain's power the seal.</l>
+        </lg>
+        <signed>
+          Eliza Conder,
+        </signed>
+        <dateline>
+          Watford.
+        </dateline>
+      </div>
+    </body>
+  </text>
+</TEI>
