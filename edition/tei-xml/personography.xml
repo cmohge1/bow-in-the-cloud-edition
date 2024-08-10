@@ -159,6 +159,7 @@
                   <forename>Eliza</forename>
                </name>
             </person>
+            
             <person xml:id="cunningham_a">
                <name ref="https://www.wikidata.org/wiki/Q2062341">
                   <surname>Cunningham</surname>
@@ -166,7 +167,8 @@
                </name>
                <birth>1784</birth>
                <death>1842</death>
-               <note>Allan Cunngingham was a Scottish poet.</note>
+               <faith>Presbyterian</faith> <!-- In an 1835 letter to his mother in Hogg's Life of Allan Cunningham, p. 331 (1875), he says that he is among the 'Dissenters of England' -->
+               <note>Allan Cunngingham was born in Dumfriesshire, Scotland. He was a poet and well connected to the circle of Romantic writers that included Thomas De Quincey, Charles Lamb, William Hazlitt, John Keats, and Thomas Hood -- all of whom who were contributors to the London Magazine in the early 1820s. His father was a neighbor of Robert Burns. After publishing some poems disguised as old ballads in Remains of Nithsdale and Galloway Songs (1810), he went to London where he became assistant (1814–41) to the sculptor Sir Francis Chantrey. In his spare time he was a hard-working writer and editor. He collected old ballads and stories, published as Traditional Tales of the English and Scottish Peasantry (1822) and The Songs of Scotland, Ancient and Modern (1825). He wrote The Lives of the Most Eminent British Painters, Sculptors, and Architects, 6 vol. (1829–33). He edited The Works of Robert Burns (1834), prefacing it with a biography of Burns that contained much valuable new material.</note>
             </person>
             
             <person xml:id="douglas_j">
@@ -265,6 +267,7 @@
                </name>
                <birth>1799</birth>
                <death>1888</death>
+               <faith>Quaker</faith>
                <note>Best known for her children's poem 'The Spider and the Fly' (1829), Howitt also painted and translated Hans Christian Anderson...</note>
                <!-- complete -->
             </person>

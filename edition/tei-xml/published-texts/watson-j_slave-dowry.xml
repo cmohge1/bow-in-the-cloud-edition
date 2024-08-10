@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Slave-Dowry</title>
+        <author>Joseph Watson</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        
+          <metamark>----</metamark>
+        
+        <lg>
+          <l>By the present law, the daughter of a slave-holder may receive slaves for her marriage-portion.</l>
+        </lg>
+        <metamark>
+          ----
+        </metamark>
+        <lg>
+          <l>I.</l>
+        </lg>
+        <lg>
+          <l>Oh! glad is many a youthful heart,</l>
+          <l>Amid yon festal throng,</l>
+          <l>As hand in hand through the ancient porch</l>
+          <l>They move in joy along;</l>
+          <l>And many a young and graceful form,</l>
+          <l>Stands by the altar's side,</l>
+          <l>And many a mildly laughing eye</l>
+          <l>Is turned upon the bride.</l>
+          <l>But no eye so bright--no form so light,</l>
+          <l>No cheek so passing fair,</l>
+          <l>No purer mind, and no heart more kind</l>
+          <l>Than her's, is beating there.</l>
+          <l>The gems that hang mid her raven locks,</l>
+          <l>Gleam like the stars of night;</l>
+          <l>The wreath of roses that binds her brow,</l>
+          <l>Bedims its lustrous white.</l>
+          <l>And the modest fear that gently shakes</l>
+          <l>Her rich and silken dress,</l>
+          <l>Like the night-breeze in the cypress boughs,</l>
+          <l>Adds grace to loveliness.</l>
+          <l>Well may her mother in such an hour</l>
+          <l>Gaze on her child with pride;</l>
+          <l>Well may her lover in rapture smile,</l>
+          <l>On his young stately bride.</l>
+          <l>The ring is passed--and the vows are spoke</l>
+          <l>By lisping lips and pale,</l>
+          <l>And the merry bells with loudest peal</l>
+          <l>Ring out their joyous tale.</l>
+          <l>Blessings are said,--and fairest flowers</l>
+          <l>Bestrew the holy ground,</l>
+          <l>And friends with whispered hopes and prayers,</l>
+          <l>Press eagerly around.</l>
+          <l>Joy! joy to the wedded pair,</l>
+          <l>The bridegroom and the bride!</l>
+          <l>In a world that holds such happiness</l>
+          <l>Can sorrow e'er abide?</l>
+        </lg>
+        <lg>
+          <label>II.</label>
+        </lg>
+        <lg>
+          <l>Turn thine eye to that bleeding slave!</l>
+          <l>With black and woolly hair,</l>
+          <l>And sable skin, and heavy lips,</l>
+          <l>There seems no beauty there!</l>
+          <l>But there are feelings keen and strong,</l>
+          <l>Feelings that will not rest;</l>
+          <l>Why doth she rend her sable locks,</l>
+          <l>And beat upon her breast?</l>
+          <l>Why gives she to the heedless air,</l>
+          <l>That low despairing cry?</l>
+          <l>Why turn to heaven, and not in hope,</l>
+          <l>Her large and throbbing eye?</l>
+          <l>Like Rachel, who in Rama wept,</l>
+          <l>With ceaseless anguish, wild,</l>
+          <l>Nor would be comforted:--she weeps,</l>
+          <l>The mother for her child.</l>
+          <l>He was her life; by wicked men</l>
+          <l>Tom from her kindred band,</l>
+          <l>She had no friend;--no comforter;--</l>
+          <l>A stranger in the land.</l>
+          <l>But he was all, to cheer her way,</l>
+          <l>To love her and to bless:</l>
+          <l>He was her all;--none shared with him</l>
+          <l>Her bosom's tenderness.</l>
+          <l>They forced him from her close embrace,</l>
+          <l>In that glad bridal hour;</l>
+          <l>The lady's wealth is in human limbs,</l>
+          <l>The price of blood her dower.</l>
+          <l>And that lone mother may return,</l>
+          <l>To her short and broken sleep;</l>
+          <l>At morning's dawn they'll drive her forth,</l>
+          <l>And flog her if she weep!</l>
+          <l>Well may she turn her eye to heaven,</l>
+          <l>And breathe her muttered prayer,</l>
+          <l>Suffering and sorrow are her lot,</l>
+          <l>But vengeance dwelleth there!</l>
+        </lg>
+        <signed>
+          J. W.
+        </signed>
+        
+          <dateline>Newcastle, 6th Mo.</dateline>
+        
+      </div>
+    </body>
+  </text>
+</TEI>
