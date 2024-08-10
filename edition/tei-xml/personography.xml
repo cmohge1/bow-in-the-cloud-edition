@@ -341,7 +341,7 @@
                <birth when="1789-01-05">1789</birth>
                <death when="1834-12-05">1834</death>
                <faith>Presbyterian</faith>
-               <note>Thomas Pringle was a Scottish writer, poet and abolitionist. A friend of Sir W. Scott, and for a short time editor of the Edinburgh Monthly Magazine, he published his first volume of poems in 1809, which included ‘The Emigrant's Farewell’. He emigrated to South Africa, and he is remembered chiefly as a poet of that country. His Ephemerides (1828) and African Sketches (1834) reveal his sympathetic interest in the native races and the wildlife of Africa. He became the secretary of the London Anti-slavery Society in 1827. In 1834, the year the Slavery Abolition Act was passed, he died of consumption.</note>
+               <note>Thomas Pringle was a Scottish writer, poet, and abolitionist. A friend of Sir W. Scott, and for a short time editor of the Edinburgh Monthly Magazine, he published his first volume of poems in 1809, which included ‘The Emigrant's Farewell’. He emigrated to South Africa, and he is remembered chiefly as a poet of that country. His Ephemerides (1828) and African Sketches (1834) reveal his sympathetic interest in the native races and the wildlife of Africa. He became the secretary of the London Anti-slavery Society in 1827. In 1834, the year the Slavery Abolition Act was passed, he died of consumption.</note>
             </person>
             
             <person xml:id="pritchard_jwh">
@@ -521,6 +521,19 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                <death>1850</death>
                <note>Elizabeth Walker was a poet and activist and wife of Henry Walker (1785-1860), an iron and steel businessman from Rotherham (see <ref target="https://www.cliftonpark.org.uk/homepage/29/the-walkers-of-clifton-house">https://www.cliftonpark.org.uk/homepage/29/the-walkers-of-clifton-house</ref>).</note>
             </person>
+            
+            <person xml:id="wardlaw_r">
+               <name ref="https://www.wikidata.org/wiki/Q7288236">
+                  <surname>Wardlaw</surname>
+                  <forename>Ralph</forename>
+               </name>
+               <birth>1779</birth>
+               <death>1853</death>
+               <faith>Congregationalist</faith>
+               <note>Ralph Wardlaw was a Congregationalist minister and theologian. Born in Dalkeith, Scotland, in 1779, Wardlaw matriculated at the University of Glasgow in 1790. He then trained to become a minister in the Secession Church in which his grandfather and great grandfather had been prominent, but became instead a minister at the Scottish Congregationalist Church's chapel in North Albion Street in 1803. 
+               </note>
+            </person>
+            
             <person xml:id="watson_j">
                <name ref="https://www.benshamgrove.org.uk/history/the-spence-watsons/">
                   <surname>Watson</surname>
@@ -528,7 +541,10 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                </name>
                <birth>1807</birth>
                <death>1874</death>
+               <faith>Quaker</faith>
+               <note>The son of Joshua Watson, a cheesemonger, Joseph Watson was a gifted student and articled to a firm of well-known solicitors. By 1830 he was a practicing attorney. He was a reformer in politics and was known to speak before large crowds in Newcastle’s Town Moor about the Reform Bill. He also held strong views on civil and religious liberty and supported the abolition of slavery in America and the West Indies. He was known to welcome to his table at Bensham Grove, fugitive slaves including William Wells Brown and Frederick Douglas. He married Sarah Spence in 1835 and after living in Claremont Place in Bensham for some time the couple made their home at Bensham Grove on the death of his father in 1853. As well as his interest in politics, he was a poet and writer of children’s stories. He also had a great interest in Native Americans.</note>
             </person>
+            
             <person xml:id="wiffen_jh">
                <name>
                   <surname>Wiffen</surname>
