@@ -123,7 +123,7 @@
           <persName ref="../personography.xml#howitt_w">William Howitt</persName>
         </signed>
         <dateline>
-          <placeName>Nottingham</placeName>, <date when="1826">1826</date>.
+          <placeName><hi rend="italic">Nottingham</hi></placeName>, <date when="1826">1826</date>.
         </dateline>
       </div>
     </body>

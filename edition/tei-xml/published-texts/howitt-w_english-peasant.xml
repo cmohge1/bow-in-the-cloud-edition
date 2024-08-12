@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The English Peasant</title>
+        <author>William Howitt</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg>
+          <l>The land for me! the land for me!</l>
+          <l>Where every living soul is free!</l>
+          <l>Where winter may come, where storms may rave,</l>
+          <l>But the tyrant dare not bring his slave.</l>
+        </lg>
+        <lg>
+          <l>I should hate to dwell in a summer-land</l>
+          <l>Where flowers spring up on every hand;</l>
+          <l>Where the breeze is glad, the heavens are fair,</l>
+          <l>Yet you live midst the deadness of despair.</l>
+        </lg>
+        <lg>
+          <l>I saw a peasant sit at his door</l>
+          <l>When his weekly toil in the field was o'er:</l>
+          <l>He sate on the bench his grandsire made;</l>
+          <l>He sate in his father's walnut shade.</l>
+        </lg>
+        <lg>
+          <l>'Twas the golden hour of an April morn:</l>
+          <l>Lightly the lark sprang from the corn;</l>
+          <l>The blossoming trees shone purely white;</l>
+          <l>Quivered the young leaves in the light.</l>
+        </lg>
+        <lg>
+          <l>The Sabbath-bells, with their holy glee,</l>
+          <l>Were ringing o'er woodland, heath, and lea:</l>
+          <l>'Twas a season whose living influence ran</l>
+          <l>Through air, through earth, and the heart of man.</l>
+        </lg>
+        <lg>
+          <l>No feeble joy was that peasant's lot,</l>
+          <l>As his children gambolled before his cot;</l>
+          <l>Archly mimicking toils and cares,</l>
+          <l>Which coming life will make truly theirs.</l>
+        </lg>
+        <lg>
+          <l>But their mother with breakfast-call anon</l>
+          <l>Came forth, and the merry masque was gone:</l>
+          <l>'Twas a beautiful sight as, meekly still,</l>
+          <l>They sate in their joy on the cottage sill.</l>
+        </lg>
+        <lg>
+          <l>He looked on them, -- he looked to the skies, --</l>
+          <l>I saw how his heart spoke in his eyes:</l>
+          <l>Lightly he rose, and lightly he trod,</l>
+          <l>To pour out his soul in the house of God.</l>
+        </lg>
+        <lg>
+          <l>And is that the man, thou vaunting knave,</l>
+          <l>Thou hast dared to compare with the weeping slave?</l>
+          <l>Away! -- find one slave in the world to cope</l>
+          <l>With him in his spirit, his home, and hope!</l>
+        </lg>
+        <lg>
+          <l>He is not on thy lands of sin and pain,</l>
+          <l>Seared, scarred with the lash, cramped with the chain:</l>
+          <l>In thy burning isles where the heart is cold,</l>
+          <l>And man, like the beast, is bought and sold.</l>
+        </lg>
+        <lg>
+          <l>He is not in the East, in his gorgeous hall,</l>
+          <l>Where the servile crowds before him fall;</l>
+          <l>Till the bowstring comes, in an hour of wrath,</l>
+          <l>And he vanishes from a tyrant's path.</l>
+        </lg>
+        <lg>
+          <l>But oh! thou slanderer, false and vile!</l>
+          <l>Dare but to cross that garden stile;</l>
+          <l>Dare but to touch that lowly thatch;</l>
+          <l>Dare but to force that peasant's latch;</l>
+        </lg>
+        <lg>
+          <l>And thy craven-soul shall wildly quake</l>
+          <l>At the thunder-peal the deed shall wake:</l>
+          <l>For myriad tongues of fire shall sound,</l>
+          <l>As if every stone cried from the ground.</l>
+        </lg>
+        <lg>
+          <l>The indignant thrill, like flame, shall spread,</l>
+          <l>Till the isle itself rock 'neath thy tread;</l>
+          <l>And a voice from people, peer, and throne,</l>
+          <l>Ring in thine ears, -- &quot;Atone! atone!&quot;</l>
+        </lg>
+        <lg>
+          <l>For Freedom here is common guest</l>
+          <l>In princely hall and peasant's nest;</l>
+          <l>The palace is filled with her living light,</l>
+          <l>And she watches the hamlet day and night.</l>
+        </lg>
+        <lg>
+          <l>Then the land for me! the land for me!</l>
+          <l>Where every living soul is free!</l>
+          <l>Where winter may come, where storms may rave,</l>
+          <l>But the tyrant dare not bring his slave.</l>
+        </lg>
+        <signed>
+          <persName ref="../personography.xml#howitt_w"> William Howitt</persName>.
+        </signed>
+        <dateline>
+          <placeName>Nottingham,</placeName>
+          <date when="1826">1826</date>.
+        </dateline>
+      </div>
+    </body>
+  </text>
+</TEI>
