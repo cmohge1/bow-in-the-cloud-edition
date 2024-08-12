@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sonnet</title>
+        <author>Francis Wrangham</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg>
+          <l>Yes: we have fought in battle's bloodiest fray</l>
+          <l>For life, and liberty—life's brightest gem—</l>
+          <l>And clasped it in our island-diadem,</l>
+          <l>Whence none shall pluck the precious prize away:</l>
+        </lg>
+        <lg>
+          <l>And East and West have bent them to our sway,</l>
+          <l>From Darien's bosom to the holy stream</l>
+          <l>Which glitters in Aurora's earliest beam—</l>
+          <l>What race so bold our bidding may gainsay?</l>
+        </lg>
+        <lg>
+          <l>O not for self alone, dear mother-land,</l>
+          <l>Be such achievements wrought! while aught remains</l>
+          <l>Fettered or on firm earth, or on the sea,</l>
+        </lg>
+        <lg>
+          <l>Issue in God's dread name thine high command;</l>
+          <l>Speak from each shrivelled limb it's galling chains,</l>
+          <l>And bid dark Afric's sons, like thine, be free.</l>
+        </lg>
+        <signed>
+          <persName>F. Wrangham</persName>.
+        </signed>
+        <dateline>
+          <address><addrLine>Hunmanby, April 8, 1826</addrLine></address>
+        </dateline>
+      </div>
+    </body>
+  </text>
+</TEI>
