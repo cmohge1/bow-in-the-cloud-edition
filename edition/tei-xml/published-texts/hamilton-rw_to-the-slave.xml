@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To the Slave</title>
+        <author>Richard Winter Hamilton</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg>
+          <l>Poor outcast, thou the nations' scoff and prey!</l>
+          <l>The common victim marked by lust of gain</l>
+          <l>And lust of blood,––insulted Afric's son !</l>
+          <l>Brother! 'gainst whom I trespass day by day,</l>
+          <l>While I on thee leave chains unmerited,</l>
+          <l>To gall thy flesh and eat into thy soul!</l>
+          <l>My brother! of whose blood wantonly shed</l>
+          <l>The loud-voic'd accents ring to Heaven's high throne!</l>
+          <l>Ah! who will help thee? all whose sighs the winds</l>
+          <l>Catch up and scatter:––all whose scalding tears</l>
+          <l>The treacherous ocean or the slave-isle drinks?</l>
+          <l>Call ye on thee t' avenge thy wrongs? to burst</l>
+          <l>Thy thraldom? to assert humanity?</l>
+          <l>We would, we dare, not tell thee that thou may'st</l>
+          <l>Not be the rather free! Nor can we check</l>
+          <l>The inspiration which unshackles limbs</l>
+          <l>Made to be free, and souls, to be divine!</l>
+          <l>Yet shalt thou be avenged! Thy tears, thy blood,</l>
+          <l>Have long been exhaled from earth: vast the cloud</l>
+          <l>And dark which rolls above: filled with portents,</l>
+          <l>Forth volleys many a flash, glaring red wrath!</l>
+          <l>The tempest of th' Almighty's fury, loud</l>
+          <l>Its roar and fell its sweep! He directs it</l>
+          <l>Who hears the captive's groan, and He who breaks</l>
+          <l>The oppressor's rod;––His thunders do not sleep!</l>
+          <l>His justice is not warped, nor is His mercy</l>
+          <l>Clean gone for ever! Vengeance still is His!</l>
+          <l>He will repay!</l>
+        </lg>
+        <signed>
+          <persName ref="../personography.xml#hamilton_rw">Richard Winter Hamilton</persName>.
+        </signed>
+        <dateline>
+          <date when="1827-03-29">March 29, 1827</date>.
+        </dateline>
+      </div>
+    </body>
+  </text>
+</TEI>

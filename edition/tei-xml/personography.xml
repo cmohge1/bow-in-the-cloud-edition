@@ -216,6 +216,9 @@
                <!-- complete -->
             </person>
             
+            <person xml:id="hamilton_rw">
+               <name></name>
+            </person>
             
             <person xml:id="hill_r">
                <name ref="https://www.wikidata.org/wiki/Q9310294">
