@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Appeal for the Injured African</title>
+        <author>Jeremiah Holmes Wiffen</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg>
+          <l>O Thou, to whom the mournful sigh</l>
+          <l>Of sorrow and despair ascends,</l>
+          <l>Who hear'st the ravens when they cry,</l>
+          <l>The babe when at thy feet he bends!</l>
+        </lg>
+        <lg>
+          <l>More weak than is the raven's brood,</l>
+          <l>Less pure than infants though we be,</l>
+          <l>Our silent prayers for Lybia's good,</l>
+          <l>O Father! let them rise to Thee!</l>
+        </lg>
+        <lg>
+          <l>By realms dispeopled, tongues struck dumb</l>
+          <l>With the brute outrages of years,</l>
+          <l>In thy remembrance let them come-</l>
+          <l>The negro's wrongs, the negro's tears!</l>
+        </lg>
+        <lg>
+          <l>Whate'er of crime, whate'er of woe,</l>
+          <l>Europe has wrought, or Afric wept,</l>
+          <l>In his recording volume, lo!</l>
+          <l>The angel of thy court has kept.</l>
+        </lg>
+        <lg>
+          <l>Yet-ere the assessing Spirit stands,</l>
+          <l>Prepared to sound from shore to shore,</l>
+          <l>That golden trumpet which commands</l>
+          <l>The tyrant's scourge to smite no more:</l>
+        </lg>
+        <lg>
+          <l>Ah! stay his vials-with our prayer</l>
+          <l>No vengeance breathes,-in judgment break</l>
+          <l>The oppressor's galling chains, but spare</l>
+          <l>The oppressor, for thy mercy's sake.</l>
+        </lg>
+        <lg>
+          <l>Didst thou not form, from pole to pole,</l>
+          <l>The various tongues and tribes of earth</l>
+          <l>Erect, with an immortal soul,</l>
+          <l>Expectants of one holier birth?</l>
+        </lg>
+        <lg>
+          <l>And shall the nations dare to hold</l>
+          <l>In chains whom Thou hast chartered free,</l>
+          <l>Or buy with their accursed gold</l>
+          <l>The sinewy arm and servile knee?</l>
+        </lg>
+        <lg>
+          <l>No: not for this didst Thou command,</l>
+          <l>With westering keel and sails unfurled,</l>
+          <l>Columbus o'er the waves, to rend</l>
+          <l>The curtains of that younger world.</l>
+        </lg>
+        <lg>
+          <l>And O, 'twas not for this, that he</l>
+          <l>Upreared thy hallowed ensign there;</l>
+          <l>Alas! that e'er the cross should be</l>
+          <l>The joyless herald of Despair!-</l>
+        </lg>
+        <lg>
+          <l>That whom thy Loved One died to save,</l>
+          <l>Man, guilty man, should hold subdued,</l>
+          <l>And plead prescription o'er the grave,</l>
+          <l>When questioned of his brother's 'blood.</l>
+        </lg>
+        <lg>
+          <l>But Thou art righteous; Thou wilt rise</l>
+          <l>All mighty as in days of yore,</l>
+          <l>When Israel sighed, as Canaan sighs,</l>
+          <l>Beneath the tasks his children bore.</l>
+        </lg>
+        <lg>
+          <l>Cry not the isles themselves aloud,</l>
+          <l>&quot;Three hundred thralling years are fled,</l>
+          <l>Since earth by tyranny was ploughed;</l>
+          <l>The vintage of the land is red?&quot;</l>
+        </lg>
+        <lg>
+          <l>In that great day, when Afric's race</l>
+          <l>Are from their house of bondage cast,</l>
+          <l>O hide us in some peaceful place,</l>
+          <l>Till all thy wrath be overpast.</l>
+        </lg>
+        <lg>
+          <l>For dark, except thy mercy shine,</l>
+          <l>That later passover must be:</l>
+          <l>Hear then our pleadings at thy shrine;</l>
+          <l>O Father, let them rise to thee!</l>
+        </lg>
+        <signed>
+          <persName ref="../personography.xml#wiffen_jh">J. H. Wiffen</persName>.
+        </signed>
+        <dateline>
+          <placeName>Woburn Abbey,</placeName>
+          <date when="1828-08-09">8th month, 9th, 1828.</date>
+        </dateline>
+      </div>
+    </body>
+  </text>
+</TEI>
