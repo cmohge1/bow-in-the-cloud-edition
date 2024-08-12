@@ -217,7 +217,16 @@
             </person>
             
             <person xml:id="hamilton_rw">
-               <name></name>
+               <name ref="https://viaf.org/viaf/27156859/">
+                  <surname>Hamilton</surname> 
+                  <forename>Richard</forename> 
+                  <forename>Winter</forename>
+               </name>
+               <birth>1794</birth>
+               <death>1848</death>
+               <sex>Male</sex>
+               <faith>Congregationalist</faith>
+               <note>Richard Winter Hamilton was an English Congregational minister and writer. He was born at Pentonville, London, on 6 July 1794. In 1810 he entered Hoxton Academy to study for the ministry and began to preach early. In January 1815 he was chosen to be minister of Albion Independent Chapel, Leeds, where he became a popular preacher. He was an original member, and sometime president, of the Leeds Philosophical and Literary Society (established 1821), to which he presented several papers.</note>
             </person>
             
             <person xml:id="hill_r">
@@ -227,6 +236,7 @@
                </name>
                <birth>1795</birth>
                <death>1872</death>
+               <sex>Male</sex>
                <note>Richard Hill (1795-1872) was a Jamaican lawyer, zoologist, politician, and poet, as well as leader of the free people of colour, which campaigned for equal rights in the early nineteenth century.e</note>
             </person>
             <!-- needs more investigation -->
