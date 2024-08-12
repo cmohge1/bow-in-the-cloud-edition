@@ -544,18 +544,21 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                </name>
                <birth>1807</birth>
                <death>1874</death>
+               <sex>Male</sex>
                <faith>Quaker</faith>
                <note>The son of Joshua Watson, a cheesemonger, Joseph Watson was a gifted student and articled to a firm of well-known solicitors. By 1830 he was a practicing attorney. He was a reformer in politics and was known to speak before large crowds in Newcastle’s Town Moor about the Reform Bill. He also held strong views on civil and religious liberty and supported the abolition of slavery in America and the West Indies. He was known to welcome to his table at Bensham Grove, fugitive slaves including William Wells Brown and Frederick Douglas. He married Sarah Spence in 1835 and after living in Claremont Place in Bensham for some time the couple made their home at Bensham Grove on the death of his father in 1853. As well as his interest in politics, he was a poet and writer of children’s stories. He also had a great interest in Native Americans.</note>
             </person>
             
             <person xml:id="wiffen_jh">
-               <name>
+               <name ref="https://www.wikidata.org/wiki/Q5489274">
                   <surname>Wiffen</surname>
                   <forename type="first">Jeremiah</forename>
                   <forename type="middle">Holmes</forename>
                </name>
                <birth>1792</birth>
                <death>1836</death>
+               <sex>Male</sex>
+               <faith>Quaker</faith>
                <note>Wiffen was a prolific poet and translator. He hailed from an ironmongers family in Woburn, Bedfordshire. With James Baldwin Brown and the Rev. Thomas Raffles, he published a book entitled 'Poems by Three Friends' in 1812. In 1821, John Russell, the (progressive) 6th Duke of Bedford, appointed him the Chief Librarian at Woburn Abbey. He set about writing a history of the Hosue of Russell, translating the Italian poet Tasso, and writing well-regarded poems such as 'On Planting a Slip from Milton’s Mulberry Tree, in the Grounds of Woburn Abbey, Presented by Dr. Thackeray, of Cambridge'. <!-- CHECK? Wiffen had began work on a history of the Russell family.  The research on this, which took him to Normandy for four months, took eight years in total, and the resultant book was the most detailed family history he could compile.  It was published in 1833, as “The Historical Memoirs of the House of Russell”. The Senate House Library, at the University of London, holds 25 pages of manuscript notes of the book, but it breaks off at about 1230AD. A number of engravings are inserted, including seven taken from the large paper edition of the book. -->
              </note>
             </person>
