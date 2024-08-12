@@ -96,12 +96,8 @@
                </name>
                <birth>1785</birth>
                <death>1843</death>
-               <note><p>[<ref target="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Brown,_James_Baldwin_(1785-1843)">From the Dictionary of National Biography, 1885-1900, Volume 07</ref>:] miscellaneous writer, was called to the bar at the Inner Temple in 1816, and practised on the northern circuit and at the Lancashire quarter sessions. He was appointed judge of the Oldham court of requests in 1840, and died in November 1843. Brown married a sister of the Rev. Thomas Raffles, D.D., and was father of the Rev. James Baldwin Brown [q. v.] His portrait has been engraved.</p> 
-                  <p>He was the author of:</p>
-                  <p>'An Historical Account of the Laws enacted against the Catholics, both in England and Ireland,' London, 1813, 8vo.
-                  <lb/>'An Historical Inquiry into the ancient Ecclesiastical Jurisdiction of the Crown,' 1815, 8vo.
-                  <lb/>'Poems' in conjunction with the Rev. Thomas Raffles and Jeremiah Holmes-Wiffen, 1815, 8vo.
-                  <lb/>'Memoirs of the Public and Private Life of John Howard, the Philanthropist,' London, 1818, 4to, 2nd edit. 1823, 8vo; dedicated to William Wilberforce, M.P.</p></note>
+               <note><p>James Baldwin Brown (1785-1843) was a miscellaneous writer, was called to the bar at the Inner Temple in 1816, and practised on the northern circuit and at the Lancashire quarter sessions. He was appointed judge of the Oldham court of requests in 1840, and died in November 1843. Brown married a sister of the Rev. Thomas Raffles, D.D., and was father of the Rev. James Baldwin Brown.</p> 
+                  </note>
             </person>
             <person xml:id="bulmer_a">
                <name ref="https://viaf.org/viaf/306133896/">
@@ -370,6 +366,9 @@
                <faith>Congregationalist</faith>
                <note>Reverend J. W. H. Pritchard was a congregationalist minister. In 1826 he published a life of his predecessor. He died 14th July, 1836, at 32.</note>
             </person>
+            
+            <person xml:id="raffles_t"></person><!-- complete -->
+            
             <person xml:id="rawson_ma">
                <name ref="http://viaf.org/viaf/4004154867602660100003">
                   <surname>Rawson</surname>
