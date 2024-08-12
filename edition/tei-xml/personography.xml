@@ -568,6 +568,7 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                </name>
                <birth>1805</birth>
                <death>1841</death><!-- could be 1844, per the Rylands, but other sources suggest it's 1841 -->
+               <sex>Female</sex>
                <faith>Unitarian</faith>
                <note>Sarah Joanna Williams (1805-1841) was the daughter of Mansfield-based Unitarian minister Rev. John Williams (1768–1835), the biographer of Rev. Thomas Belsham. She contributed various poems to the Liverpool Sacred Offering. In the vol. for 1834 is the poem, "Quiet from God! it cometh not to still The vast and high aspirings of the soul," from which the hymn, “Quiet from God! how blessed 'tis to keep," Rest in God, is adapted in Martineau’s Hymns of Praise and Prayer, also in J. P. Hopp’s Collection.
                   </note>
@@ -582,7 +583,7 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                <death>1842</death>
                <sex>Male</sex>
                <faith>Anglican</faith>
-               <note>Classical scholar, writer, and archdeacon</note>
+               <note>Francis Wrangham was classical scholar, writer, and archdeacon</note>
             </person>
          </listPerson>
       </body>
