@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Latin Imitation</title>
+        <author>Francis Wrangham</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <head>
+          IMITATED.
+        </head>
+        <lg>
+          <l>Esto: quicquid ubique serviebat</l>
+          <l>Dextrâ solvere nos, nee incruentâ</l>
+          <l>Vinclis quivimus––Esto: liberatrae</l>
+          <l>Terrae gloria flore non fugaci</l>
+          <l>Cingit tempora nostra, ceu corollâ</l>
+          <l>Quam nulli rapere est datum––remoti</l>
+          <l>Esto nos Orientis Occidentisque</l>
+          <l>Agnosci dominos, Columbus olim</l>
+          <l>Quà primùm appulit, et sacrata primâ</l>
+          <l>Quà Gangis rubet unda luce Phoebi;</l>
+          <l>Nec quis sustinet hostis ire contrà––</l>
+          <l>Haud solis ea sint parata, Mater,</l>
+          <l>Nobis. Sol ubicunque lustrat orbem,</l>
+          <l>Cunctis excute vincla. Voce magnâ</l>
+          <l>Edic, efficies; Tuique ad instar,</l>
+          <l>Afris libera colla erunt capistro.</l>
+        </lg>
+        <signed>
+          <persName ref="../personography.xml#wrangham_f">F. W.</persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>
