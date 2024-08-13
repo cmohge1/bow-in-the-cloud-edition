@@ -71,12 +71,13 @@
             </person>
             
             <person xml:id="bowring_j">
-               <name ref="https://btw.wlv.ac.uk/authors/1138">
+               <name ref="https://www.wikidata.org/wiki/Q332508">
                   <surname>Bowring</surname>
                   <forename>John</forename>
                </name>
                <birth>1792</birth>
                <death>1872</death>
+               <faith>Unitarian</faith> <!-- ref:odnb/3087 -->
                <note>Sir John Bowring was the 4th Governor of Hong Kong and a hymnwriter and translator.
                </note>
             </person>
@@ -112,7 +113,7 @@
                <birth><date when="1775">1775</date>
                <placeName>London</placeName></birth>
                <death><date when="1836">1836</date></death>
-               <faith>Wesleyan Methodist</faith>
+               <faith>Methodist</faith>
                <note>Born in London, Bulmer was a poet who belonged to the Wesleyan community, having been admitted by <ref target="https://www.wikidata.org/wiki/Q349070">Charles Wesley</ref> himself. Her major publications include <hi rend="italic">Memoirs of Mrs. Mortimer</hi> and a 12-book epic poem entitled <hi rend="italic">Messiah's Kingdom</hi> (1833). This poem, consisting of nearly fourteen thousand verses, is one of the longest works of poetry composed by a woman. See also the <ref target="https://www.wikidata.org/wiki/Q16147344">Wikidata item</ref> and Andrew O. Winckles' 'The Book of Nature and the Methodist Epic: Agnes Bulmer's Analogic Poetics and the End(s) of Romanticism' <hi rend="italic">Womens Writing</hi> 22:2 (2015), pp. 209–28,
                    (<ref target="https://doi.org/10.1080/09699082.2015.1011841">https://doi.org/10.1080/09699082.2015.1011841</ref>).</note>
             </person>
@@ -241,11 +242,12 @@
             </person>
             <!-- needs more investigation -->
             <person xml:id="hill_th">
-               <name>
+               <name ref="https://www.wikidata.org/wiki/Q15990044">
                   <surname>Hill</surname>
                   <forename>Thomas</forename>
                </name>
-               <note>The Reverend Thomas Hill was the deacon of Chesterfield.</note>
+               <death>1875</death>
+               <note>The Reverend Thomas Hill was the deacon of Chesterfield when the Bow in the Cloud was published. From 1847 to 1873 he was Archdeacon of Derby.</note>
             </person>
             
             <person xml:id="holland_j">
