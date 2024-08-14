@@ -305,7 +305,8 @@
                </name>
                <birth>1780</birth>
                <death>1854</death>
-               <note>Paul Moon James was a British poet and banker.</note>
+               <faith>Quaker</faith>
+               <note>Paul Moon James was a British poet, banker, and lawyer, who also served for a time as magistrate of Worcestershire and later as High Bailiff of Birmingham, England.</note>
                
             </person>
             <!-- ... -->
@@ -451,10 +452,12 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                <forename type="first">Mary</forename>
                <forename type="nee">Handley</forename>
             </name>
+              <faith>Anglican</faith> <!-- This is tenuous, but she alludes to CoE services in her memoirs; her friend Anna was prominent CoF and she; and her husband were buried in Sheffield Cathedral (CoE) -->
                <birth>1766</birth>
                <death>1840</death>
                <sex>Female</sex>
-               <note>Mary Handley Sterndale was a poet, novelist, and travel writer. Born in Derbyshire. She became friends with the poet Anna Seward (1742-1809; ODNB). See more at <ref target="https://btw.wlv.ac.uk/authors/1138">https://btw.wlv.ac.uk/authors/1138</ref>.</note>
+               <note>Born in Derbyshire, Mary Handley Sterndale was a poet, novelist, and travel writer known particularly for children's literature.
+                  She became friends with the poet Anna Seward (1742–1809; ODNB). See more at <ref target="https://btw.wlv.ac.uk/authors/1138">https://btw.wlv.ac.uk/authors/1138</ref>.</note>
             </person>
             <person xml:id="taylor_a">
                <name ref="http://viaf.org/viaf/10688233">
