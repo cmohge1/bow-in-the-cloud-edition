@@ -64,7 +64,7 @@
                <l>Would even be as they had been,</l>
                <l>  Or never have been born.</l>
             </lg>
-            <byline><persName>James Baldwin Brown</persName></byline>
+            <byline><persName ref="../personography.xml#brown_jb">James Baldwin Brown</persName></byline>
          </div>
       </body>
    </text>

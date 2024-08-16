@@ -1,0 +1,30 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Extract from a Letter</title>
+            <author>George Pilkington</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Letter extract by George Pilkington.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter" xml:id="pilkington_letter">
+            <opener>
+               <salute>(Extract from a Letter.)</salute>
+            </opener>
+            <p><hi rend="small-caps">An</hi> incident at this moment recurs to my mind, of which I was not myself an eye-witness, although it took place in an engagement wherein, I regret to say, I bore a part; I can nevertheless vouch for its authenticity, as it was related to me by a very dear friend, who (as an officer of the Black Regiment to which the individual to whom the fact relates belonged) fought in the same action.</p>
+            <p>At the capture of Martinique in the year 1808, I (as an officer of the corps of Royal Engineers, in which I attained the rank of captain) was engaged in throwing up batteries for the purpose of assaulting Fort Dessaix; the enemy discovering our intention, sent out a strong party to dislodge us, which of course we were obliged to repel.</p>
+            <p>Our troops moved forward, and finding a wood on their left flank, the Black Regiment was thrown into it, in order to prevent any ambuscade from frustrating our design, and we soon found this precaution to have been necessary by the detached firing which took place. As the party pushed forward, a black soldier, who happened to be in the rear, was separated from his company; while so situated, he perceived a French officer similarly circumstanced. The soldier levelled his firelock, and called on the officer to surrender. The latter, finding he had no hope of escape, threw down his sword and knelt on one knee close by it, thus appearing to surrender, when, in fact, he only intended to deceive his adversary by this <foreign xml:lang="fr">ruse de guerre</foreign>, in order to get the advantage, by drawing him within reach of his point, for he could not have advanced openly to combat with a sword against a musket. The black soldier recovered his arms, and credulously proceeded to take his prisoner without being <foreign xml:lang="fr">en garde</foreign>: the officer watched for the moment when the soldier approached to the desired distance, then seizing his sword, sprang on his legs, and directed a desperate thrust at the breast of his benefactor, who, unprepared for such an act of treachery, had no other alternative than to raise his arm for the purpose of defending himself: by this means he exposed the very part at which the French officer directed his point. It fortunately failed of accomplishing the purpose of its director, and struck the breast-plate—a piece of brass which is attached to the centre of the cross-belt; and such was the force of the thrust, that the weapon shivered to pieces. Thus the black soldier once more obtained the advantage; his muscular arm being already raised in the air, with a heavy fire-lock in his hand, he might, at one blow, have (in all human probability) dashed his opponent into eternity: but no—a second time he spared him! To prove, however, his loyalty to those he served, he seized him by the collar, brought him to his officer, and related the circumstance in a plain unvarnished manner. The English officer asked the prisoner, whether or not the statement was correct. He assented to its correctness, alleging by way of excuse, that he could not be expected to surrender to a Negro! The English officer rebuked him, and sent him to the rear.</p>
+            <p>Such magnanimous conduct as that of this noble black would be lauded in <hi rend="italic">any</hi> soldier; but as the black regiments in those days were supplied by negroes purchased from the holds of slave-ships, it appears that this soldier must have been one of those, who, at the war-whoop’s infernal yell, had but recently been surprised and torn from their happy homes by armed bands of hired emissaries:—one who had undergone all the vicissitudes of fortune experienced by the shackled prisoner—the freighted package—the transported wretch—the miserable slave:—but who now, as a soldier, having the opportunity of satisfying his revenge by shooting one of those white men who so cruelly afflicted him, nobly refrained,—returned good for evil,—and proved triumphantly that the black man is capable of attaining to the very highest point of charity.</p>
+            <signed><hi rend="small-caps"><persName ref="../personography.xml#pilkington_g">George Pilkington</persName></hi></signed>
+         </div>
+      </body>
+   </text>
+</TEI>
