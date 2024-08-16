@@ -306,7 +306,7 @@
                <birth>1780</birth>
                <death>1854</death>
                <faith>Quaker</faith>
-               <note>Paul Moon James was a British poet, banker, and lawyer, who also served for a time as magistrate of Worcestershire and later as High Bailiff of Birmingham, England.</note>
+               <note>rPaul Moon James was a British poet, banker, and lawyer, who also served for a time as magistrate of Worcestershire and later as High Bailiff of Birmingham, England.</note>
                
             </person>
             <!-- ... -->
@@ -501,6 +501,17 @@ Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe;
                <death>1865</death>
                <sex>Male</sex>
                <note>English philosopher, writer, artist, and inventor. Brother of Jane and Ann Taylor, and friends with Josiah Conder</note>
+            </person>
+            
+            <person xml:id="thompson_g">
+               <name ref="http://viaf.org/viaf/39366358">
+                  <surname>Thompson</surname>
+                  <forename>George</forename>
+               </name>
+               <birth>1804</birth>
+               <death>1878</death>
+               <!-- note sure? <faith>Presbyterian</faith>  see Harwood, Thomas F. “British Evangelical Abolitionism and American Churches in the 1830’s.” The Journal of Southern History 28, no. 3 (1962): 287–306. https://doi.org/10.2307/2205310. -->
+               <note>George Thompson (18 June 1804 – 7 October 1878) was a British anti-slavery orator and activist who toured giving lectures and worked for legislation while serving as a Member of Parliament. He also became closely connected to American abolitionist William Lloyd Garrison in 1833 and later Wendell Phillips. In 1831, his inaugural year as an anti-slavery lecturer, Thompson met with Nathaniel Paul, an African American who was touring Britain to raise money for a fugitive slave colony in Ontario. In the following decades, Thompson collaborated with dozens of black visitors, including Frederick Douglass, with whom he publicly shamed the Free Church of Scotland for accepting a large donation from American slaveholders in 1840. Favoring a quick and decisive emancipation of all slaves, he was ultimately unsatisfied with the British Emancipation Act of 1833, because it forced slaves to work as apprentices for six years after, and used his position in Parliament to push for additional legislation.</note>
             </person>
             
             <person xml:id="townley_d">
