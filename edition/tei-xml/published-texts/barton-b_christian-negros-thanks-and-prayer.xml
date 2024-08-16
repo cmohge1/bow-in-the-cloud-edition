@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Christian Negro's Thanks and Prayer</title>
+            <author>Bernard Barton</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Poem by Bernard Barton, written in Woodbridge on 4th of May, 1826. Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies . London: Jackson &amp; Walford, 1834, pp. 106-107</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="barton_poem">
+            <head>O Father of the human race!</head>
+            <lg>
+               <l>O Father of the human race!</l>
+               <l>  The white, the black, the bond, the free; </l>
+               <l>Thanks for thy gift of heavenly grace,</l>
+               <l>  Vouchsafed, through Jesus Christ, to me.</l>
+            </lg>
+            <lg>
+               <l>This, 'mid oppression's every wrong,</l>
+               <l>  Has borne my sinking spirit up; </l>
+               <l>Made sorrow joyful,--weakness strong,</l>
+               <l>  And sweetened Slavery's bitter cup.</l>
+            </lg>
+            <lg>
+               <l>Hath not a Saviour's dying hour</l>
+               <l>  Made e'en the yoke of thraldom light?</l>
+               <l>Hath not thy Holy Spirit's power</l>
+               <l>  Made bondage freedom;--darkness bright?</l>
+            </lg>
+            <lg>
+               <l>Thanks, then, O Father! for the gift,</l>
+               <l>  Which through thy Gospel Thou hast given; </l>
+               <l>Which thus from bonds and earth can lift</l>
+               <l>  The soul to liberty and Heaven.</l>
+            </lg>
+            <lg>
+               <l>But not the less I mourn THEIR shame, </l>
+               <l>  Who, mindless of Thy gracious will,</l>
+               <l>Call on a Father's--Saviour's name,</l>
+               <l>  Yet keep their brethren bondsmen still!</l>
+            </lg>
+            <lg>
+               <l>Forgive them, Lord! for Jesus' sake;</l>
+               <l>  And since THE SLAVE Thou hast unbound,--</l>
+               <l>The chains which bind the OPPRESSOR--break,</l>
+               <l>  And be Thy love's last triumph crowned!</l>
+            </lg>
+            <byline><persName ref="../personography.xml#barton_b">Bernard Barton</persName></byline>
+            <dateline><placeName>Woodbridge</placeName>, <date when="1826-05-04">4th of 5th Mo. 1826</date></dateline>
+         </div>
+      </body>
+   </text>
+</TEI>
