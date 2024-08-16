@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>To a Negro Infant</title>
+        <author>Ann Gilbert (née Taylor)</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg>
+          <l>Poor baby! why opened the blue light of heaven,</l>
+          <l>Rejoicing to kindle the morn,</l>
+          <l>When thou to the arms of a captive wast given?--</l>
+          <l>A negro child! -- why is it born?</l>
+        </lg>
+        <lg>
+          <l>Why did not the Father of all, in his grace,</l>
+          <l>Life's spark to thy being deny?</l>
+          <l>Or bid thee grow cold in thy mother's embrace,</l>
+          <l>From her dark bosom borne to the sky?</l>
+        </lg>
+        <lg>
+          <l>In vain will her smile, well dissembled, essay</l>
+          <l>Thy morn of existence to cheer;</l>
+          <l>Deep, deep is the gloom that o'ershadows thy day,</l>
+          <l>Though even a mother be near.</l>
+        </lg>
+        <lg>
+          <l>But, haply, the will of some tyrant shall rend</l>
+          <l>The tie softly woven in Heaven,</l>
+          <l>And that breathing pillow, that tenderest friend,</l>
+          <l>May far from her dearest be driven:</l>
+        </lg>
+        <lg>
+          <l>Remote in some distant plantation, her tears</l>
+          <l>May water the sweet-growing soil,</l>
+          <l>And the thought of her baby, more swiftly than years,</l>
+          <l>Consume her,--more surely, than toil.</l>
+        </lg>
+        <lg>
+          <l>And when, with the weary at rest, she shall lie,</l>
+          <l>The clods of the valley her bed,</l>
+          <l>Thou, child, 'neath the blaze of a merciless sky,</l>
+          <l>The same track of sorrow shalt tread.</l>
+        </lg>
+        <lg>
+          <l>Thou then,--but a streak on the mountains I see,</l>
+          <l>The rainbow of promise I trace!--</l>
+          <l>The Father of all is preparing for thee,</l>
+          <l>Poor baby, the smile of his grace!</l>
+        </lg>
+        <lg>
+          <l>Already, warm hearts doth His Spirit inspire,</l>
+          <l>The captive to free from his chain;</l>
+          <l>And the brave, and the lovely, with ceaseless desire,</l>
+          <l>The rights of the negro maintain.</l>
+        </lg>
+        <lg>
+          <l>Yea see, where a sail, like a speck on the wave,</l>
+          <l>Rides on through the desert of foam,</l>
+          <l>And the meek man of God, for the land of the slave,</l>
+          <l>Has left the green vales of his home.</l>
+        </lg>
+        <lg>
+          <l>Oh! why did my soul, in its sadness, repine,</l>
+          <l>Life's spark in thy being to view?</l>
+          <l>The freedom of Heaven, little slave, shall be thine,</l>
+          <l>In Jesus created anew.</l>
+        </lg>
+        <lg>
+          <l>We haste,--on the wings of compassion, we fly,</l>
+          <l>The banner of Mercy to rear:--</l>
+          <l>Then live, thou dark baby, till bright in the sky</l>
+          <l>The rainbow of promise appear.</l>
+        </lg>
+        <signed>
+          <persName ref="../personography.xml#taylor_a">Ann Gilbert</persName>.</signed>
+          <dateline><placeName>Nottingham</placeName>,
+          <lb /><date when="1826">1826</date>.</dateline>
+      </div>
+    </body>
+  </text>
+</TEI>
