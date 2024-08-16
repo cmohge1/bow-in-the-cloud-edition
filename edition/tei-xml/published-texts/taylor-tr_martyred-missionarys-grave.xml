@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Poem Title</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <epigraph>
+          <l>&quot;While some shall delight to gaze upon the splendid sepulchre of Xavier, and others choose rather to ponder over the granite stone which covers all that is mortal of Swartz there will not be wanting those who will think of the humble and unfrequented grave of&quot;</l>
+          <l>--John Smith Sargent's Memoirs of Henry Martyn.</l>
+        </epigraph>
+        <lg>
+          <l>Whose is that quiet grave?</l>
+          <l>No shrine is there the heedless dust entombing,</l>
+          <l>But tallgreengrass,and wild flowers ever-blooming,</l>
+          <l>In silence wave.</l>
+        </lg>
+        <lg>
+          <l>Greatness! it cannot be</l>
+          <l>Thy haughty dust should choose so mean a dwelling;</l>
+          <l>Without one line of adulation, telling</l>
+          <l>Its lies of thee,</l>
+        </lg>
+        <lg>
+          <l>Honour! thou couldst not here</l>
+          <l>Rest thy high spirit from its dreams of glory;</l>
+          <l>No wondering crowds, to tell thy wondrous story,</l>
+          <l>And none to hear.</l>
+        </lg>
+        <lg>
+          <l>Riches! 'tis far too small</l>
+          <l>For thee to rest in with thy treasures by thee,</l>
+          <l>A wider tomb the world will ne'er deny thee,</l>
+          <l>When thou shalt fall.</l>
+        </lg>
+        <lg>
+          <l>Meek Charity! thy shrine</l>
+          <l>Should record of the bleeding heart, and broken,</l>
+          <l>Which thou hast bound;--but here is no such token:--</l>
+          <l>Can this be thine ?</l>
+        </lg>
+        <lg>
+          <l>Religion! shouldst not thou</l>
+          <l>Have one brief line to tell, where thou art sleeping,</l>
+          <l>That &quot;he who wept with anguish once, is weeping</l>
+          <l>With rapture now.&quot;</l>
+        </lg>
+        <lg>
+          <l>Whose is this quiet tomb?</l>
+          <l>Religion-Charity-Wealth-Greatness-Glory­</l>
+          <l>To tell, of all in one, the last sad story,</l>
+          <l>These wild flowers bloom.</l>
+        </lg>
+        <lg>
+          <l>Was it not great, to brave</l>
+          <l>Furious contempt, and scorn most spirit-breaking,</l>
+          <l>For thee! his country and his home forsaking,</l>
+          <l>Poor negro slave?</l>
+        </lg>
+        <lg>
+          <l>Hath he no honour? Fame</l>
+          <l>Speaks not; but, when the judgment trump hath shaken</l>
+          <l>The earth to dust again, its tones shall waken</l>
+          <l>This martyr's name.</l>
+        </lg>
+        <lg>
+          <l>And he was rich--an heir</l>
+          <l>Of all the bright-inheritance of Heaven:</l>
+          <l>And to the world, he panted to have given</l>
+          <l>A portion there.</l>
+        </lg>
+        <lg>
+          <l>And Charity?--Oh! see</l>
+          <l>That fettered captive in yon dungeon lying;</l>
+          <l>What brought him there-pale, weeping, pining,</l>
+          <l>dying? 'Twas Charity.</l>
+        </lg>
+        <lg>
+          <l>Religion! thou wast near!</l>
+          <l>Witness that smile upon his brow of anguish;</l>
+          <l>That glowing joy, when earthly joys did languish,</l>
+          <l>And hope was sere.</l>
+        </lg>
+        <lg>
+          <l>Let age on age roll by:</l>
+          <l>Yet still his memory shall the negro cherish;</l>
+          <l>And when his wrongs and woes in death must perish,</l>
+          <l>Come here to die.</l>
+        </lg>
+        <lg>
+          <l>And sire to son shall tell,</l>
+          <l>The tale of him beneath this sod who lieth;</l>
+          <l>And his shall be a name that never dieth.</l>
+          <l>Martyr! Farewell.</l>
+        </lg>
+        <signed>
+          <persName ref="../personography.xml#taylor_tr">T. R. T.</persName></signed>
+        <dateline><placeName>Bradford, Yorks.</placeName>
+            <lb/><date when="1826">1826</date>.</dateline>
+      </div>
+    </body>
+  </text>
+</TEI>
