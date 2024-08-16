@@ -284,6 +284,7 @@
                <birth>1799</birth>
                <death>1888</death>
                <faith>Quaker</faith>
+               <sex>Female</sex>
                <note>Best known for her children's poem 'The Spider and the Fly' (1829), Howitt also painted and translated Hans Christian Anderson.</note>
                <!-- complete -->
             </person>
@@ -295,6 +296,7 @@
                <birth>1792</birth>
                <death>1879</death>
                <faith>Quaker</faith>
+               <sex>Male</sex>
                <note>William Howitt was a Quaker writer and activist. In 1821 he married Mary Botham.</note>
             </person>
             
@@ -307,6 +309,7 @@
                <birth>1780</birth>
                <death>1854</death>
                <faith>Quaker</faith>
+               <sex>Male</sex>
                <note>rPaul Moon James was a British poet, banker, and lawyer, who also served for a time as magistrate of Worcestershire and later as High Bailiff of Birmingham, England.</note>
                
             </person>
@@ -318,6 +321,8 @@
                </name>
                <birth>1803</birth>
                <death>1845</death>
+               <faith>Baptist</faith>
+               <sex>Male</sex>
                <note>William Knibb was a Baptist minister and missionary in Jamaica.</note>
             </person>
             
@@ -327,6 +332,7 @@
                   <surname>Miles</surname>
                   <forename>Richard</forename>
                </name>
+               <sex>Male</sex>
                <note>Richard Miles was a Motswana (Tswana) catechist and preacher "to the native tribes beyond the border" in South Africa.</note>
             </person>
             
