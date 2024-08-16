@@ -358,6 +358,16 @@
                <note>John Parker (21 October 1799 – 5 September 1881) was an English Whig politician and barrister. He was instrumental in the enfranchisement of Sheffield, petitioning Parliament in 1817 and 1822, and creating a pamphlet stating the case for Sheffield in 1830. When the Sheffield constituency was finally created as a Parliamentary borough in 1832 he was elected alongside James Silk Buckingham as its first MPs. He served as MP for Sheffield until 1852, becoming Lord of the Treasury (1839–1840), First Secretary of the Admiralty, joint Secretary to the Treasury (1846–1849), and a Member of the Privy council (1853).</note>
             </person>
             
+            <person xml:id="pilkington_g">
+               <name><surname>Pilkington</surname>
+                  <forename>George</forename>
+               </name>
+               <birth>1785</birth>
+               <death>1858</death>
+               <sex>Male</sex>
+               <note>George Pilkington was born in Dublin, in 1785, and finished his education at Trinity College, where he probably was of some mark in mathematics, as he quitted the University to accept a commission in the Royal Engineers. He eventually became Captain. In 1848, he was appointed by Earl Grey to be Colonial Engineer of the Cape of Good Hope, where he died in 1858</note>
+            </person>
+            
             <person xml:id="pringle-t">
                <name ref="https://www.wikidata.org/wiki/Q380383">
                   <surname>Pringle</surname>
