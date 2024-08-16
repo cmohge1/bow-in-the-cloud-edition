@@ -359,13 +359,14 @@
             </person>
             
             <person xml:id="pilkington_g">
-               <name><surname>Pilkington</surname>
+               <name ref="https://viaf.org/viaf/21715216/">
+                  <surname>Pilkington</surname>
                   <forename>George</forename>
                </name>
                <birth>1785</birth>
                <death>1858</death>
                <sex>Male</sex>
-               <note>George Pilkington was born in Dublin, in 1785, and finished his education at Trinity College, where he probably was of some mark in mathematics, as he quitted the University to accept a commission in the Royal Engineers. He eventually became Captain. In 1848, he was appointed by Earl Grey to be Colonial Engineer of the Cape of Good Hope, where he died in 1858</note>
+               <note>George Pilkington was born in Dublin, in 1785, and finished his education at Trinity College, where he probably was of some mark in mathematics, as he quitted the University to accept a commission in the Royal Engineers. He eventually became Captain. In 1848, he was appointed by Earl Grey to be Colonial Engineer of the Cape of Good Hope, where he died in 1858. He was known among anti-slavery activists for his lectures and for his reports on slavery in Brazil for the British and Foreign Anti-Slavery Society (An Address to the English Residents of the Brazilian Empire, published in 1841).</note>
             </person>
             
             <person xml:id="pringle-t">
