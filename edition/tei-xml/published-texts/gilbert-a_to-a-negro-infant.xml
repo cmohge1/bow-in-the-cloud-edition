@@ -7,10 +7,10 @@
         <author>Ann Gilbert (née Taylor)</author>
       </titleStmt>
       <publicationStmt>
-        <p>Publication Information</p>
+        <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
       </publicationStmt>
       <sourceDesc>
-        <p>Information about the source</p>
+        <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolition in the British Colonies. London: Jackson &amp; Walford, 1834, pp. 100-102</p>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
@@ -18,7 +18,7 @@
     <body>
       <div type="poem">
         <lg>
-          <l>Poor baby! why opened the blue light of heaven,</l>
+          <l><hi rend="smallcaps">Poor</hi> baby! why opened the blue light of heaven,</l>
           <l>Rejoicing to kindle the morn,</l>
           <l>When thou to the arms of a captive wast given?--</l>
           <l>A negro child! -- why is it born?</l>
@@ -84,8 +84,8 @@
           <l>The rainbow of promise appear.</l>
         </lg>
         <signed>
-          <persName ref="../personography.xml#taylor_a">Ann Gilbert</persName>.</signed>
-          <dateline><placeName>Nottingham</placeName>,
+          <persName ref="../personography.xml#taylor_a"><hi rend="smallcaps">Ann Gilbert</hi></persName>.</signed>
+          <dateline><placeName><hi rend="italic">Nottingham</hi></placeName>,
           <lb /><date when="1826">1826</date>.</dateline>
       </div>
     </body>
