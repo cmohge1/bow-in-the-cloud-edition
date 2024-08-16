@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Negro Burial Ground</title>
+            <author>James Baldwin Brown</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies . London: Jackson &amp; Walford, 1834, pp. 108-109</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="baldwin_brown_poem">
+            <lg>
+               <l>"The young--the beautiful--the brave,"--</l>
+               <l>The stone upon the White-man's grave</l>
+               <l>  Had told us slumber nigh:--</l>
+               <l>And why not here? Their darker hue</l>
+               <l>  Upon the Negro's fortunes threw</l>
+               <l>  As dark a destiny.</l>
+            </lg>
+            <lg>
+               <l>They toiled, but not as others toil,</l>
+               <l>  To gain from the productive soil</l>
+               <l>  The wages of the free:</l>
+               <l>The toil--the cord--the whip--were theirs--</l>
+               <l>Their children's--call them not their heirs--</l>
+               <l>  Heirs but of misery:--</l>
+            </lg>
+            <lg>
+               <l>The gain was theirs who cooly tell</l>
+               <l>  Of power, and will, and right to sell</l>
+               <l>  The living form of man:--</l>
+               <l>To trade in it, as they would trade</l>
+               <l>In silks, and satins, and brocade,</l>
+               <l>  And make just what they can:--</l>
+            </lg>
+            <lg>
+               <l>To point to form, and face, and limb,</l>
+               <l>Not as the bounteous gifts of Him</l>
+               <l>  Whose every work is good;</l>
+               <l>But as mere items of account</l>
+               <l>To swell or lessen the amount</l>
+               <l>  Of money paid for blood.</l>
+            </lg>
+            <lg>
+               <l>And yet beneath this humble sod,</l>
+               <l>Despised of men--beloved of God,</l>
+               <l>  Full many a Slave's at rest:</l>
+               <l>And at the last great day shall rise,</l>
+               <l>  To claim their mansions in the skies,</l>
+               <l>Their glory with the blest.</l>
+            </lg>
+            <lg>
+               <l>And in that day, amidst the crowd</l>
+               <l>Of rich, and merciless, and proud,</l>
+               <l>  Who laughed their chains to scorn,</l>
+               <l>How many in the altered scene,</l>
+               <l>Would even be as they had been,</l>
+               <l>  Or never have been born.</l>
+            </lg>
+            <byline><persName>James Baldwin Brown</persName></byline>
+         </div>
+      </body>
+   </text>
+</TEI>
