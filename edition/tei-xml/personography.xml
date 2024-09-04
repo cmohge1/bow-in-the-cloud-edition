@@ -34,6 +34,19 @@
                <note>Edward Henry Abney (1811-1892), domestic chaplain to 1st Baron Belper, was vicar of St. Alkmund's, Derby, afterwards prebendary of Lichfield.</note>
             </person>
             
+            <person xml:id="barnard_ew">
+               <name ref="https://www.wikidata.org/wiki/Q5345890">
+                  <surname>Barnard</surname>
+                  <forename>Edward</forename>
+                  <forename type="middle">William</forename>
+               </name>
+               <birth>1791</birth>
+               <death>1828</death>
+               <sex>Male</sex>
+               <faith>Anglican</faith>
+               <note>Edward William Barnard was a divine, poet and scholar. Nephew of fellow abolitionist, the Archdeacon Francis Wrangham. 'He was educated at Harrow and Trinity College, owing to his distaste for mathematics. In 1817 he published anonymously, 'Poems, founded upon the Poems of Meleager,' which were re-edited in 1818 under the title of 'Trifles, imitative of the Chaster Style of Meleager.' The latter volume was dedicated to Thomas Moore, who tells us in his journal that he had the manuscript to look over, and describes the poems as 'done with much elegance.' Barnard was presented to the living of Brantingthorp, Yorkshire, from which is dated his next publication, 'The Protestant Beadsman' (1822), This is described by a writer in 'Notes and Queries' as a 'delightful little volume on the saints and martyrs commemorated by the English church, containing biographical notices of them, and hymns upon each of them.’ Barnard died prematurely on 10 Jan. 1828' (Source: ODNB, <ref target="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Barnard,_Edward_William">https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Barnard,_Edward_William</ref>.</note>
+            </person>
+            
             <person xml:id="barton_b">
                <name ref="http://viaf.org/viaf/47543211">
                   <surname>Barton</surname>
@@ -54,19 +67,6 @@
                <birth>1781?</birth> <!-- see https://www.seekingmyroots.com/members/files/G000536.pdf https://ancestors.familysearch.org/en/MJ29-9T4/anna-dorothea-bridget-benson-1773-1856 and https://www.familysearch.org/ark:/61903/1:1:J98K-N9C -->
                <sex>Female</sex>
                <note>Maria Benson was a British writer. She was the author of the novel The Wife (1810) and the pedagocial essay 'Thoughts on Education'. She was the daughter of Edward Benson, a wine merchant from York, and sister of Anna Dorothea Montagu (1773/4–1856) -- a friend of Robert Burns and the third wife of reformer and author Basil Montagu (1770–1851) (source: ODBNB, https://doi.org/10.1093/ref:odnb/19003). See also <ref target="https://womensprinthistoryproject.com/person/2769">https://womensprinthistoryproject.com/person/2769</ref>.</note>
-            </person>
-            
-            <person xml:id="barnard_ew">
-               <name ref="https://www.wikidata.org/wiki/Q5345890">
-                  <surname>Barnard</surname>
-                  <forename>Edward</forename>
-                  <forename type="middle">William</forename>
-               </name>
-               <birth>1791</birth>
-               <death>1828</death>
-               <sex>Male</sex>
-               <faith>Anglican</faith>
-               <note>Edward William Barnard was a divine, poet and scholar. Nephew of fellow abolitionist, the Archdeacon Francis Wrangham. 'He was educated at Harrow and Trinity College, owing to his distaste for mathematics. In 1817 he published anonymously, 'Poems, founded upon the Poems of Meleager,' which were re-edited in 1818 under the title of 'Trifles, imitative of the Chaster Style of Meleager.' The latter volume was dedicated to Thomas Moore, who tells us in his journal that he had the manuscript to look over, and describes the poems as 'done with much elegance.' Barnard was presented to the living of Brantingthorp, Yorkshire, from which is dated his next publication, 'The Protestant Beadsman' (1822), This is described by a writer in 'Notes and Queries' as a 'delightful little volume on the saints and martyrs commemorated by the English church, containing biographical notices of them, and hymns upon each of them.’ Barnard died prematurely on 10 Jan. 1828' (Source: ODNB, <ref target="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Barnard,_Edward_William">https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Barnard,_Edward_William</ref>.</note>
             </person>
             
             <person xml:id="bowring_j">

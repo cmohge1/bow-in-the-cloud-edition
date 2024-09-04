@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Woldsman's Prayer</title>
+        <author>Edward William Barnard</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies . London: Jackson &amp; Walford, 1834, pp. 123-125</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg>
+          <l>Free as the joyful things that skim</l>
+          <l>The fragrant earth or sunny sky,</l>
+          <l>I join in Nature's grateful hymn,</l>
+          <l>And bless our perfect liberty.</l>
+        </lg>
+        <lg>
+          <l>Free as the lark, whose carol sweet</l>
+          <l>Is pealing high through spheres above,</l>
+          <l>Springs my unfetter'd soul to greet</l>
+          <l>In his own heaven the light of love.</l>
+        </lg>
+        <lg>
+          <l>She weaves not now of heath, or thyme,</l>
+          <l>A wreath for earth-born Fiction's brow;</l>
+          <l>The Wold must lose her wonted rhyme,</l>
+          <l>For holy raptures fill her now.</l>
+        </lg>
+        <lg>
+          <l>She looks abroad on earth and air,</l>
+          <l>And feels--How blessed to be free!--</l>
+          <l>She asks, &quot;Do all that blessing share?&quot;</l>
+          <l>Then bows in shame her humbled knee!</l>
+        </lg>
+        <lg>
+          <l>What--though with passing brightness shine</l>
+          <l>The heavens o'er India's western isles;</l>
+          <l>And, deck'd with beauty half-divine,</l>
+          <l>The earth through flowers and fruitage smiles!</l>
+        </lg>
+        <lg>
+          <l>What--though there stream on every tower</l>
+          <l>The flag, that knows no other stain!--</l>
+          <l>There man usurps unhallow'd power;</l>
+          <l>There smacks the scourge, and clanks the chain.</l>
+        </lg>
+        <lg>
+          <l>There--loathing life--a child of fear--</l>
+          <l>The slave, with toil and trouble wan,</l>
+          <l>No sabbath-rest his soul to cheer,</l>
+          <l>Trembles before his brother-man!</l>
+        </lg>
+        <lg>
+          <l>There--led to feed lust's brutal flame,</l>
+          <l>There--torn from every social tie,</l>
+          <l>The helpless maiden stoops to shame--</l>
+          <l>The parent lays him down to die!</l>
+        </lg>
+        <lg>
+          <l>Oh! Thou that nervest the feeblest knees,</l>
+          <l>As fond to love as strong to save,</l>
+          <l>Wilt Thou not visit earth for these?</l>
+          <l>Wilt Thou not rise t' avenge the slave?</l>
+        </lg>
+        <lg>
+          <l>Oh! hasten thine appointed time,</l>
+          <l>And wrench from man his human prey:</l>
+          <l>Purge out this great accursed crime,</l>
+          <l>And cast the foul reproach away!</l>
+        </lg>
+        <lg>
+          <l>Lo! all through Britain's favour'd land,</l>
+          <l>The Christian shrinks at Slavery's name;</l>
+          <l>And burning brow, and clenched hand,</l>
+          <l>Attest the freeman's manly shame!</l>
+        </lg>
+        <lg>
+          <l>Hear, Lord!--Through all her sacred walls</l>
+          <l>Thy priests proclaim the bondsman's wrong:</l>
+          <l>Her senate on the tyrant calls,</l>
+          <l>And Justice arms her stateman's tongue!</l>
+        </lg>
+        <lg>
+          <l>Hear, Lord!--For e'en on desert wold</l>
+          <l>In secret mounts the fervent prayer:--</l>
+          <l>Scatter the tyrant's blood-wrought gold,</l>
+          <l>And bid his slaves our freedom share.</l>
+        </lg>
+        <byline>
+          <persName ref="../personography.xml#barnard_ew">Edward William Barnard</persName>.
+          <date when="1826-04">April, 1826.</date>
+        </byline>
+      </div>
+    </body>
+  </text>
+</TEI>
