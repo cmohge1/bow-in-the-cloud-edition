@@ -313,6 +313,15 @@
                
             </person>
             <!-- ... -->
+            
+            <person xml:id="jones_e">
+               <name>
+                  <surname>Jones</surname>
+                  <forename>Elizabeth</forename>
+               </name>
+               <!-- cannot find any info on this one -->
+            </person>
+            
             <person xml:id="knibb_w">
                <name ref="https://www.wikidata.org/wiki/Q8014079">
                   <surname>Knibb</surname> 
