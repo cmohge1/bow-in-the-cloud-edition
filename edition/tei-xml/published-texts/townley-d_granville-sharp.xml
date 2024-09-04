@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Granville Sharp</title>
+            <author>Dinah Townley</author>
+            <respStmt>
+               <resp>Fragment</resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Original poem by Dinah Townley</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Source: A fragmentary poem by Dinah Townley</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <head><hi rend="smallcaps">(a fragment.)</hi></head>
+            
+            
+            <p>It was the habit of this Christian scholar, to the last, to sing the Psalms of David, in Hebrew, to his harp, every night before he retired to rest, at his pleasant retreat at Fulham.</p>
+            
+            
+            <lg>
+               <l><hi rend="smallcaps">The</hi> flag was streaming, and the vessel bore</l>
+               <l>Peals of warm blessing from the ringing shore,</l>
+               <l>And tears of higher feeling brought to view,</l>
+               <l>When Freedom's charter o'er the billows flew.</l>
+            </lg>
+            
+            <lg>
+               <l>Saw you the hands with eager transport wave,</l>
+               <l>That first unloosed the shackles from the slave?</l>
+               <l>Heard you the praises, ardent and sublime,</l>
+               <l>Poured from that soul that braves the chills of time?</l>
+               <l>And would you follow where, apart from sight,</l>
+               <l>That rapture moderates to calm delight?</l>
+               <l>Let each intruding thought be awed to rest;</l>
+               <l>Let sacred stillness consecrate your breast;</l>
+               <l>Kneel, till bright convoy bands their waiting cease,</l>
+               <l>And "mark the Righteous -- for his end is peace."</l>
+            </lg>
+            
+            <lg>
+               <l>To grottoes where the moon's calm hallowed ray</l>
+               <l>Falls with pure glory on his locks of grey,</l>
+               <l>Turns the Philanthropist. Upon that head</l>
+               <l>The spoils of eighty winters have been shed.</l>
+               <l>His peace, like infant slumber, wears a smile: --</l>
+               <l>'Tis answered prayer, from Caribbean isle,</l>
+               <l>Conveyed o'er ocean-floods; where broken chains</l>
+               <l>The emancipated negro still retains;</l>
+               <l>Inscribes upon them his deliverer's fame,</l>
+               <l>And calls his free-born offspring by his name.</l>
+            </lg>
+            
+            <lg>
+               <l>From hurried scenes the failing saint retires;</l>
+               <l>Spends his last fervours on his silver wires,</l>
+               <l>In psalms of praise; -- for David's harp he owns,</l>
+               <l>And David's language swells his vocal tones: --</l>
+               <l>He bends, and strikes the bold, decided note;</l>
+               <l>His words are clear, but tremble as they float;</l>
+               <l>"To see thy glory have I longed, O Lord!"</l>
+               <l>His fingers languish on the yielding chord:</l>
+               <l>His notes fall weaker, as they seek the skies;</l>
+               <l>He bows upon the moaning harp, and dies.</l>
+            </lg>
+            
+            <byline>D. T.</byline>
+         </div>
+      </body>
+   </text>
+</TEI>
