@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rest</title>
+        <author>Maria Benson</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies . London: Jackson &amp; Walford, 1834, pp. 110-111</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <epigraph>
+          <p>&quot;There remaineth therefore a rest to the people of God.&quot; -- Heb. iv. 9.</p>
+        </epigraph>
+        <lg>
+          <l>Rest! thou sweet image of the Poet's dream,</l>
+          <l>The Patriarch's promise in a land of woe,</l>
+          <l>The hope ordained of God, whose faintest beam,</l>
+          <l>Can bid the eye with light and sunshine glow.</l>
+        </lg>
+        <lg>
+          <l>The Father's blessing for his erring child,</l>
+          <l>Turning repentant to the long-lost dome,</l>
+          <l>When with warm heart, and thoughts that once were wild,</l>
+          <l>He listens to the words, sweet rest, and home; --</l>
+        </lg>
+        <lg>
+          <l>And says, &quot;I will arise, and I will go</l>
+          <l>To seek a Father's face; the bitter tear,</l>
+          <l>Of vice and misery, no more will flow,</l>
+          <l>I hear the sounds, 'My Son,' and 'Welcome here.'&quot;</l>
+        </lg>
+        <lg>
+          <l>What is the Patriarch's hope -- the Poet's dream</l>
+          <l>To thee, poor Slave of scorn and tyranny!</l>
+          <l>Thou canst not say, &quot;I will arise, and go,</l>
+          <l>Break off these chains and be for ever free.&quot;</l>
+        </lg>
+        <lg>
+          <l>Where is thy home, poor Negro, where thy rest?</l>
+          <l>Where the sweet sounds, &quot;My Son,&quot; and, &quot;Welcome here?&quot;</l>
+          <l>Where the soft covert of a Parent's breast?</l>
+          <l>And where the hand to wipe away thy tear?</l>
+        </lg>
+        <lg>
+          <l>In hours of infancy thou hadst thy dream,</l>
+          <l>Thy rosy bowers and soft palmetto grove,</l>
+          <l>Where thy freed soul, returning to its home,</l>
+          <l>Thou thought'st would still in youthful freshness rove.</l>
+        </lg>
+        <lg>
+          <l>This was the Paradise within thy breast;</l>
+          <l>Thou knewest not the sound of Sabbath-bell;</l>
+          <l>A heavenly home, -- the saint's eternal rest,</l>
+          <l>Where, far from proud oppressors, thou mightst dwell,</l>
+        </lg>
+        <lg>
+          <l>Thou knewest not -- poor child of misery!</l>
+          <l>Yet hast thou still a home, thou still art free;</l>
+          <l>Far from the cruel lash -- the scorner's rod,</l>
+          <l>Still shalt thou find the rest ordained of God!</l>
+        </lg>
+        <byline>
+          <persName ref="../personography.xml#benson_m">Maria Benson</persName>.
+        </byline>
+      </div>
+    </body>
+  </text>
+</TEI>
