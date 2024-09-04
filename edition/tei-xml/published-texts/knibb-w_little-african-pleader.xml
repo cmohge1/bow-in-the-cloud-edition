@@ -1,0 +1,33 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Little African Pleader</title>
+            <author>William Knibb</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Original prose by William Knibb</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Source: A prose piece by William Knibb</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><hi rend="smallcaps">The</hi> usual punishment for playing the truant in the Lancasterian School in Kingston, Jamaica, was confinement for the same period as the culprit had absconded. This offence was far from being of frequent occurrence, but one little <hi rend="italic">pickaninnie</hi> gave me some trouble. He was a black curly-headed rogue, infinitely better pleased when roaming among orange and mango groves, than in poring over "Reading made Easy." One day, the little urchin was brought to the school, after he had been taking one of his rambling excursions, when, with all the authority of a pedagogue, I demanded where he had strayed, and what reason he could give, why summary punishment should not be inflicted.</p>
+         
+         <p>Summoning as much penitence as he could into his little roguish face, he looked at me with the most irresistible impudence, and said,</p>
+         
+         <p>"Stop, Schoolmassa, make me speak, me no tell a lie, me know me do wrong; but you see, Schoolmassa, you is one great big buckra man 
+            <note type="author" place="bottom"><hi rend="italic">Buckra man</hi>, i.e. White man.</note>
+            me is one little neger; 'pose, Schoolmassa, you lock me up in de school all night, why dere is no man in de whole world can hinder you.</p>
+         
+         <p>"You see, Schoolmassa, you is one great big buckra man, me is one little neger; 'pose, Schoolmassa, you flog me, you flog me till your arm him so tire, dat you no able to lift him up to give me one more stroke, me know dat dere is no man in de whole world can hinder you.</p>
+         
+         <p>"You stop, Schoolmassa, you see den, Schoolmassa, dat you is one great big buckra man, and dat me is one poor little neger; 'pose, den, Schoolmassa, dat <hi rend="italic">you forgive me</hi> dis once, why, Schoolmassa, dere is no man in de whole world can hinder you."</p>
+         
+         <signed><hi rend="smallcaps">William Knibb</hi></signed>
+      </body>
+   </text>
+</TEI>
