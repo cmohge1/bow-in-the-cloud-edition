@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Freedom Indeed</title>
+            <author>J. W. H. Pritchard</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Manuscript source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="sermon">
+            <head>Freedom Indeed</head>
+            <q>“If therefore the Son shall make you free, ye shall be free indeed.”</q> 
+            <q>-- John viii.36.</q>
+            <p>“En vain on cherche par le moyen des richesses, du credit, de l'autorité, des dignités, de l'étude, et de la sagesse des philosophes, de s'affranchir de quelque assujetissement, et de quelque servitude; on ne travaille qu'à se faire de nouvelles chaines, quand le croeur n'est point delivré des liens de l'iniquité, et de l'esclavage des passions, par l'unique Libérateur, Jésus-Christ.”</p>
+            <q>-- Quesnel.</q>
+            <p>There is scarcely a poet who has not sung the praises of Liberty, or an orator who has not made it the subject of his warmest eulogiums. The very name is invested with a charm that a thousand splendid associations have combined to render most potent in awakening the slumbering energies of the soul, and rousing it to glorious achievements; so that when liberty is the watchword, every heart is expected to respond to the call, and he would be branded as a dastard who should be backward to enter the lists in her defence. It is probable that one reason why this simple word acts like a magic spell in kindling up the most thrilling emotions, is because it has been employed with such extensive latitude as to embrace within its meaning some of the noblest blessings and privileges that pertain to man. The poet and the philosopher, the peasant and the slave, are alike interested in liberty; and if the one attaches ideas to it which are unthought of by the other, it is because one word has been chosen to designate the dearest rights of the human race, in all conditions and relations, and under all the endlessly diversified circumstances attending upon our present existence.</p>
+            <p>Liberty, in the view of the philosopher, as we may infer from Aristotle's definition, consists in a man's living according to his own reason; in not being enslaved by the opinion of others, the prejudices of education, the false glare which dazzles the imagination and imposes upon the heart, and all those enthralling influences by which error and delusion are accustomed to maintain their domination over the mind, and at the same time that they lead it astray, trample upon its liberty, and debase and enfeeble its powers. No one, who is acquainted with the history of the progress of knowledge and science, need be told how long the human intellect was held in the veriest slavery, in consequence of the shackles imposed by ignorance and superstition; what baneful effects resulted from this thraldom; how many desperate struggles were made for freedom; and that among the illustrious individuals who not only sought to disentangle their own minds from the servile track prescribed by former ages, but also to open up to others the true path of science, the highest praise is due to the immortal Bacon. He that would enjoy this rational liberty must claim it for himself; let him assert and exercise his independence; and if he would prove that he belongs not to the <foreign xml:lang="la">servum pecus</foreign>, let him cast away those fetters that would bind down the soul from an expansive search into all the regions of truth, and prevent the exercise of its right to judge on all subjects within the cognizance of the human mind.</p>
+            <p>Allied to the liberty of man, as a thinking being, is that which respects him as a creature accountable to the supreme moral Governor, and which has been usually termed liberty of conscience. And, -- but that the pen of history has recorded it in a thousand bloody persecutions, and in the expiring agonies of martyrs and confessors; and but that events in our own times add painful confirmation to the monstrous fact, and shew us that nothing is too vile for fallen humanity, we could scarcely believe that any one could ever dare to the presumption that usurps the sole and undivided prerogative of God, or presume to dictate to his fellow what religious creed he should embrace, what views he must entertain of his moral duties, and with what services he ought to approach his Maker! Happily the death-blow has been given to this species of slavery in our own country; but not until many a heart had been broken with suffering, and many a crime committed, over which the mantle of concealment shall never be thrown, that they may be held up to everlasting reproach and execration.</p>
+            <p>But the liberty which has been most frequently the theme of universal commendation is that which belongs to man as a member of civil society, and which claims for him an exemption from all unjust and oppressive conditions. For this, heroes have fought and patriots have bled; while mankind, who have reaped the fruits of their bravery, have not been sparing in rewarding them with the well-earned meed of praise. So long as the records of the past shall be preserved, their fame will live, and their names be transmitted down to posterity with eternal honour.</p>
+            <p>It appears, then, that liberty is defined and measured according to the nature and extent of the slavery which it destroys, and the peculiar character of those rights which it confirms; and must, therefore, be the greatest blessing to those who have suffered the most deeply under wrong, and been most degraded by their bondage. Now there is a form of slavery so atrocious and diabolical that language falters in expressing the villany in which it originated, the wickedness by which it is supported, and the tremendous evils that it inflicts; and to the disgrace and shame of humanity, it yet remains to be annihilated. How long shall the wrongs of Africa continue unredressed, and the groans of her captive sons be disregarded? Surely the time is come to remove the foulest stain that can attach itself to the character of a free and enlightened people; and if justice, and humanity, and even political expediency, deserve to be respected, the immediate emancipation of the Negro is already virtually decreed. It cannot be deferred; -- either the British Legislature, or the enslaved themselves, taught to know their power, and determined to vindicate their rights, and aided by that God who has declared himself to be the foe of the oppressor, will soon decide the question, whether these injured sufferers shall recover their station in society or not, and whether the myriads who have never refused to recognize the Negro as a brother, shall not at length have to hail him as restored to the rank and dignity of a free-man.</p>
+            <p>Surely if so many blessings are comprehended under the name of Liberty, we may admit that there <hi rend="italic">ought</hi> to be a charm in the very sound, and that it is the term a man should choose to employ when he would point out that which he conceived to be the dearest and noblest portion he could possess.</p>
+            <lg>
+               <l>But there is <hi rend="italic">yet</hi> a liberty, unsung</l>
+               <l>By poets, and by senators unpraised,</l>
+               <l>Which monarchs cannot grant, nor all the powers</l>
+               <l>Of earth and hell confederate take away:</l>
+               <l>A liberty, which persecution, fraud,</l>
+               <l>Oppression, prisons, have no power to bind;</l>
+               <l>Which whoso tastes can be enslaved no more.</l>
+               <l>'Tis <hi rend="italic">liberty</hi> of heart derived from Heaven,</l>
+               <l>Bought with His blood who gave it to mankind,</l>
+               <l>And sealed with the same token. It is held</l>
+               <l>By charter, and that charter sanctioned sure,</l>
+               <l>By the unimpeachable and awful oath</l>
+               <l>And promise of a God. His other gifts</l>
+               <l>All bear the royal stamp that speaks them His,</l>
+               <l>And are august, -- but this transcends them all.</l>
+            </lg>
+            <p>A man may be free in every sense but one, and yet be the very vilest slave. His reason may disdain the trammels of vulgar superstition, and be unconfined in the pursuit of worldly science, and yet his understanding may be enslaved by the depraved power of sinful prejudices and pursuits, so as to be incapable of unrestrained exercise in the sublime regions of heavenly Truth; he may be under no external control as to the manner in which he shall pay his vows to the Deity, and yet all the while be the drudge of Satan and the slave of sin; he may be a free citizen of the world, invested with the rights and privileges of British subjects, and rejoicing in civil liberty, and yet groan under an insupportable bondage -- the bondage of corruption, in consequence of which he cannot render obedience to the law of God, nor delight in His service, nor rejoice in His salvation. And, unless he is delivered from this cruel bondage, his liberty of thought, of conscience, and of action, is only as a gilded chain, adding tenfold weight to the iron bonds that unite him to his spiritual enemies. While, however, this is the worst of slavery, there is a deliverance so complete, so glorious, that it deserves to be called emphatically the Liberty of the children of God. He that is the subject of it may be despised, -- yet is he exalted; he may be poor, -- yet is he in possession of true riches; he may have many difficulties to encounter, -- yet is he supported under them all; and, finally, his soul, being the habitation of the Eternal Spirit, is ever rising in its contemplation and affections to the Glorious Being who dwells there, and whose service is perfect freedom. If, therefore, the Son make you free, ye shall be free indeed.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

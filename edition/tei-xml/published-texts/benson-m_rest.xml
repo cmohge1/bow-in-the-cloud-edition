@@ -51,7 +51,7 @@
           <l>And where the hand to wipe away thy tear?</l>
         </lg>
         <lg>
-          <l>In hours of infancy thou hadst thy dream,</l>
+          <l>In hours of infancy <hi rend="italic">thou</hi> hadst <hi rend="italic">thy</hi> dream,</l>
           <l>Thy rosy bowers and soft palmetto grove,</l>
           <l>Where thy freed soul, returning to its home,</l>
           <l>Thou thought'st would still in youthful freshness rove.</l>
@@ -64,9 +64,9 @@
         </lg>
         <lg>
           <l>Thou knewest not -- poor child of misery!</l>
-          <l>Yet hast thou still a home, thou still art free;</l>
+          <l>Yet hast thou <hi rend="italic">still</hi> a home, thou still art free;</l>
           <l>Far from the cruel lash -- the scorner's rod,</l>
-          <l>Still shalt thou find the rest ordained of God!</l>
+          <l><hi rend="italic">Still</hi> shalt thou find the rest ordained of God!</l>
         </lg>
         <byline>
           <persName ref="../personography.xml#benson_m">Maria Benson</persName>.
