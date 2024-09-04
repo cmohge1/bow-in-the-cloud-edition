@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Evening in the West Indies</title>
+            <author>Elizabeth Jones</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies . London: Jackson &amp; Walford, 1834, pp. 126-127</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            
+            
+            <lg type="stanza" n="I">
+               <l>A night of beauty veils the Atlantic isles,</l>
+               <l>The star of evening with her softest glance</l>
+               <l>Sheds o'er the faded west her silver smile,</l>
+               <l>Lighting the captive's wearied countenance;--</l>
+               <l>Beacon of bliss!--the wild delirious dance</l>
+               <l>Circles around, through twilight shadows seen,</l>
+               <l>Visions of daylight vanish in the trance,</l>
+               <l>Lost in the madness of the magic scene,</l>
+               <l>Chased by the dashing drum and gentle tambourine.</l>
+            </lg>
+            
+            <lg type="stanza" n="II">
+               <l>There is a wanderer in the woods apart,</l>
+               <l>He cannot mingle with the mirthful band,</l>
+               <l>Slave of the bending head and broken heart!</l>
+               <l>Meek mourner! pining for thy distant land,</l>
+               <l>Thy mother's cottage and thy maiden's hand,--</l>
+               <l>To thee, sweet evening's star, amid thy tears,</l>
+               <l>Seems like a pale funereal light to stand</l>
+               <l>O'er that far tomb of buried hopes and fears,</l>
+               <l>Where lies thy heart enshrined with joys of other years.</l>
+            </lg>
+            
+            <lg type="stanza" n="III">
+               <l>Yes!--'tis a false imaginary tale,</l>
+               <l>That captive spirits breathe unbroken rest;</l>
+               <l>They proudly fling the light delusive veil,</l>
+               <l>O'er the cold fetters bound upon the breast,</l>
+               <l>And keen philosophers pronounce them blest!</l>
+               <l>But they have eyes that can their darkness see,</l>
+               <l>Brows by the lightning of the lash deprest,</l>
+               <l>Hearts that would give the jewelled East to be</l>
+               <l>Children of light and love,--the sons of liberty!</l>
+            </lg>
+            
+            <byline>Elizabeth Jones
+               <date>1826</date></byline>
+         </div>
+      </body>
+   </text>
+</TEI>
