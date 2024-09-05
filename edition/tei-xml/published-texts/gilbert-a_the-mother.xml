@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Mother</title>
+            <author>Ann Gilbert</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies . London: Jackson &amp; Walford, 1834, pp. 180-182</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="theMother">
+            
+            <lg>
+               <l>Mother, a happy home hast thou,</l>
+               <l>In some green valley's shade?</l>
+               <l>Blest by the dear domestic vow</l>
+               <l>At yonder altar paid? --</l>
+               <l>Secure, as if by right divine,</l>
+               <l>That home of love thou callest <hi rend="italic">thine</hi>!</l>
+            </lg>
+            
+            <lg>
+               <l>And dost thou there thy baby's cheek</l>
+               <l>Regard with fondest gaze?</l>
+               <l>Does that dear boy, with merry freak,</l>
+               <l>Delight thee, as he plays? --</l>
+               <l>And she, thine elder one, -- for her,</l>
+               <l>Doth no sweet thought of blessing stir? --</l>
+            </lg>
+            
+            <lg>
+               <l>-- Nay, love them not! -- for <hi rend="italic">thine</hi> no more,</l>
+               <l>This tender group shall be! --</l>
+               <l><hi rend="italic">I've bought them!</hi></l><note n="1" type="editorial" target="https://antislavery-anthologies.org/books/bow-in-the-cloud/unpublished-illustration-accompanying-the-mother">Ann Gilbert supplied her own illustration for the poem which Rawson did not end up publishing.
+               </note>
+               <l>Watch, from yonder shore,</l>
+               <l>That vessel out at sea; --</l>
+               <l>I've bought thy children, -- o'er the waves</l>
+               <l>They go, to join my gang of slaves!</l>
+            </lg>
+            
+            <lg>
+               <l>I saw that gentle girl of thine</l>
+               <l>With anguish in her soul;</l>
+               <l>I marked the drops of burning brine</l>
+               <l>That down her cheeks did roll;</l>
+               <l>I heard her for her mother cry; --</l>
+               <l>Yet, had I not a right to buy?</l>
+            </lg>
+            
+            <lg>
+               <l>Perchance, in some far field, away,</l>
+               <l>The lash may teach her toil;</l>
+               <l>While tears of anguish, day by day,</l>
+               <l>Shall slake the fervid soil;</l>
+               <l>But thou, -- her mother, -- ne'er shalt know,</l>
+               <l>Where sheds thy child those tears of woe!</l>
+            </lg>
+            
+            <lg>
+               <l>Mothers, -- the fair, the firm, the free,</l>
+               <l>Of England's vaunted isle,</l>
+               <l>Tell me if griefs like this shall be,</l>
+               <l>And you be still the while!</l>
+               <l>No! -- strong in woman virtue rise!</l>
+               <l>And heed the negro mother's cries!</l>
+            </lg>
+            
+            <lg>
+               <l>With plighted hands, a living chain,</l>
+               <l>Unsevered, but to die, --</l>
+               <l>Crusaders, sally forth again</l>
+               <l>To heed that thrilling cry! --</l>
+               <l>A broken heart your ensign be,</l>
+               <l>Your watchword <hi rend="italic">Love and Liberty!</hi></l>
+            </lg>
+            
+            <byline>
+               <persName xml:lang="en"><hi rend="smallcaps">Ann Gilbert</hi></persName>.
+               <placeName>Nottingham</placeName>
+            </byline>
+         </div>
+      </body>
+   </text>
+</TEI>
