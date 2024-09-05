@@ -18,7 +18,7 @@
          <div type="poem" xml:id="theMother">
             
             <lg>
-               <l>Mother, a happy home hast thou,</l>
+               <l><hi rend="small-caps">Mother</hi>, a happy home hast thou,</l>
                <l>In some green valley's shade?</l>
                <l>Blest by the dear domestic vow</l>
                <l>At yonder altar paid? --</l>
@@ -83,7 +83,7 @@
             </lg>
             
             <byline>
-               <persName xml:lang="en"><hi rend="smallcaps">Ann Gilbert</hi></persName>.
+               <persName ref="../personography.xml#gilbert_a"><hi rend="smallcaps">Ann Gilbert</hi></persName>.
                <placeName>Nottingham</placeName>
             </byline>
          </div>
