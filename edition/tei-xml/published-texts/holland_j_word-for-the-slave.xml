@@ -10,166 +10,222 @@
             <author>John Holland</author>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolition in the British Colonies. London: Jackson &amp; Walford, 1834, pp. 195–201.</p>
          </sourceDesc>
       </fileDesc>
   </teiHeader>
       <text>
          <body>
             <div type="poem">
-               <l>How beautiful -- how glorious is the sun</l>
-               <l>Shining and warming with meridian strength!</l>
-               <l>I love to gaze upon him, he's a type</l>
-               <l>Of Liberty -- how dear to him that's *Free*!</l>
-               <l>-- How proudly, how sublimely, do the waves</l>
-               <l>Of the great ocean roll upon his surface,</l>
-               <l>Dashing on rock and beach all uncontrolled!</l>
-               <l>The waves of ocean in their loudest dash,</l>
-               <l>But echo independence to the *Free*.</l>
-               <l>How loudly, and how swiftly do the winds</l>
-               <l>Sweep through the heavens, and brush the verdured earth;</l>
-               <l>And none but HE who holds them in his fist</l>
-               <l>Can stay their blowing or compel their course:</l>
-               <l>The winds, unmanacled in their career,</l>
-               <l>Are but the type of freedom to the *Free*.</l>
-               <l>Hail, happy, holy, heaven-favoured isle!</l>
-               <l>Whose sons, entrusted with the rights of men,</l>
-               <l>Shew to the world what men were made to be:</l>
-               <l>Whose sons, entrusted with the gospel word,</l>
-               <l>Preach to the world what Christians ought to do.</l>
-               <l>To them, the sun not more unfettered moves</l>
-               <l>In luminous glory on his mid-day track,</l>
-               <l>Than they, in chartered rights, inviolate,</l>
-               <l>Think, speak, and act, as Heaven ordained they should.</l>
-               <l>To them, the waves that dash upon our shores</l>
-               <l>Sound not more loudly the accordant anthem</l>
-               <l>Of their unbridled and mysterious movement,</l>
-               <l>Than do the sons of this illustrious isle,</l>
-               <l>Chant the loud song of freedom -- and are free.</l>
-               <l>Nor do the winds more unrestrained blow by,</l>
-               <l>Than Britain's unimpoverished liberty</l>
-               <l>Is echoed through the world, wbere'er her sons</l>
-               <l>Can shew the passport of their birthright pure.</l>
-               <l>-- I am a Briton, and my heart exults</l>
-               <l>Whene'er I think upon these proud distinctions;</l>
-               <l>I am a Christian, and my heart is humbled</l>
-               <l>When I reflect on my ingratitude.</l>
-               <l>But, ah! (and this the sadness of my theme)</l>
-               <l>There is a blot, a foul and sickening blot,</l>
-               <l>On this fair picture of our reputation.</l>
-               <l>Oh! there are those -- men like ourselves in form;</l>
-               <l>Men like ourselves in physical exploit;</l>
-               <l>Men like ourselves in nature and complaint;</l>
-               <l>Men like ourselves in sin's primeval taint;</l>
-               <l>And, oh! like us, born to the destinies</l>
-               <l>Of endless life or death -- of Heaven or Hell:</l>
-               <l>Oh! *there are such* -- our brethren in humanity,</l>
-               <l>Yea, and our fellow-subjects -- that are SLAVES!</l>
-               <l>To them, the sun, if they dare look upon him,</l>
-               <l>Is a forbidden emblem; or at best,</l>
-               <l>The scorching symbol of their fiery trials.</l>
-               <l>To them, the waves sound not Britannia's song</l>
-               <l>Of rule and freedom; they but seem to roll</l>
-               <l>Hither with groans of bondage to the West,</l>
-               <l>Or back for other victims from afar.</l>
-               <l>To him, the winds that whistle joy elsewhere</l>
-               <l>Sound not the proud memento -- *thou* art free.</l>
-               <l>What is the Slave? and what are Slavery's pangs?</l>
-               <l>Think, if thou canst -- *think* -- for thou canst not feel:</l>
-               <l>Think upon slavery -- think upon thyself --</l>
-               <l>Think on the slave -- think on his cruel wrongs --</l>
-               <l>Think on thy state -- thy best, thy proudest rights;</l>
-               <l>Then ask thyself -- Who hath the difference made?</l>
-               <l>Wherefore his curse, and thy prerogative?</l>
-               <l>And what canst thou, to bless, to make him free?</l>
-               <l>Art *thou* a Man? Oh! think upon the Slave;</l>
-               <l>And if there is a fibre of thy heart</l>
-               <l>That vibrates in Humanity's best cause,</l>
-               <l>Oh! never, never may its tremors cease,</l>
-               <l>Till thou hast pleaded with sublime success,</l>
-               <l>Or spent thy life in pleading for *his* rights,</l>
-               <l>Whom cursed gold and sordid avarice bribes,</l>
-               <l>To brand with impotence and bind with chains.</l>
-               <l>Art *thou* a Patriot? think, oh! think</l>
-               <l>Upon that cruel and ungracious wrong,</l>
-               <l>Which brings upon thy country from the West</l>
-               <l>The blood of slavery and the bitter curse.</l>
-               <l>The oppressed and the oppressor on one soil</l>
-               <l>May live and hate -- and in one grave may lie:</l>
-               <l>But both -- or living in their mutual hate,</l>
-               <l>Or dead in their forgetfulness -- shall rise</l>
-               <l>And speak a fearful language in our land,</l>
-               <l>Blaming the patriot for this horrid crime.</l>
-               <l>Art *thou* a Christian? dost thou claim to love</l>
-               <l>The universal brotherhood of man?</l>
-               <l>Oh! think upon the Slave -- what has he done,</l>
-               <l>To be thus trampled on, despised, proscribed,</l>
-               <l>Cast out from mercy, manacled, and bruised?</l>
-               <l>What has he done, to forfeit thy good-will,</l>
-               <l>To lose his interest in thy daily prayers,</l>
-               <l>To be thy beast of burthen -- to be less</l>
-               <l>Than thy co-equal in the rights of life,</l>
-               <l>To live, to die, to be esteemed A SLAVE?</l>
-               <l>Oh! deign for once to honour thy estate,</l>
-               <l>And weigh for one short hour the Negro's claims</l>
-               <l>Upon thy thoughts, thy heart, thy influence:</l>
-               <l>What canst thou do? Oh! thou canst plead his cause</l>
-               <l>In argument with men -- in prayer with God --</l>
-               <l>In conscience with thyself; -- nor ever cease</l>
-               <l>To feel and plead, till Slavery and its guilt,</l>
-               <l>In final consummation, shall be swept</l>
-               <l>From every spot where British influence reigns;</l>
-               <l>And every man, that feels himself a man,</l>
-               <l>Scorn that worst degradation of his race,</l>
-               <l>To buy, or sell, or own A MAN *his slave*.</l>
-               <l>But not alone to man's imperious sex</l>
-               <l>Belongs this argument of high import,</l>
-               <l>As if forensic all its attributes.</l>
-               <l>Oh! there are *female slaves*! and thrice depressed --</l>
-               <l>And in their degradation low indeed</l>
-               <l>Are these, most dear and exquisitely formed</l>
-               <l>Of all God's works on earth, sunk when enslaved.</l>
-               <l>They live, they feel, they love, they think, they die:</l>
-               <l>They live -- alas! what is their sum of life,</l>
-               <l>But misery through existence deepliest wrought?</l>
-               <l>They feel -- and, oh! how exquisite the pang,</l>
-               <l>Allied to sensibilities which slaves --</l>
-               <l>Which even *slaves* themselves may often know.</l>
-               <l>They love -- alas! that their affections free</l>
-               <l>Should be outraged, beyond what privileged brutes,</l>
-               <l>Enjoying nature's suffrage, e'er endure.</l>
-               <l>They think -- nor deem their thoughts may not surpass</l>
-               <l>(However stinted) their's, the maudlin souls,</l>
-               <l>Which, loathsome as the slimy brood of earth,</l>
-               <l>Crawl, feed, and fatten, on their human prey.</l>
-               <l>They die -- and find that liberty in death</l>
-               <l>Which Heaven alike grants to the slave and free:</l>
-               <l>The only privilege which man from man,</l>
-               <l>(As human misery's last desperate hope)</l>
-               <l>Can neither change, arrest, nor filch away.</l>
-               <l>-- O ye of Womankind! of English birth,</l>
-               <l>Fair partners in our bliss:-- by what dear names</l>
-               <l>Soever ye be called this hour on earth:</l>
-               <l>Wives, mothers, daughters, sisters, lovers, *think*,</l>
-               <l>Oh! think on those, the thousands of your sex,</l>
-               <l>Who at this moment bear these generous titles,</l>
-               <l>Each badged and branded with the blotch of slave!</l>
-               <l>Oh! think on these, and plead their crying cause,</l>
-               <l>The cause of Right, Humanity, and Heaven.</l>
-               <l>-- Yes, plead the Negro's cause, plead for the Slave:</l>
-               <l>Your prayers with God, your importunities</l>
-               <l>With man -- they may, they must prevail,</l>
-               <l>To crown his righteous cause, and win his ransom.</l>
-               <l>Then shall his thanks bring blessings on your heads;</l>
-               <l>His free-born offspring, too, shall bless your children:</l>
-               <l>And all rejoicing, shall together raise</l>
-               <l>An everlasting monument, inscribed</l>
-               <l>With Negro gratitude and British fame.</l>
-               <signed>John Holland.</signed>
-               <dateline><date>*Sheffield Park*.</date></dateline>
+               <lg>
+                  <l>How beautiful -- how glorious is the sun,</l>
+                  <l>Shining and warming with meridian strength!</l>
+                  <l>I love to gaze upon him, he's a type</l>
+                  <l>Of Liberty -- how dear to him that's <hi rend="italic">Free</hi>!</l>
+                  <l>-- How proudly, how sublimely, do the waves</l>
+                  <l>Of the great ocean roll upon his surface,</l>
+                  <l>Dashing on rock and beach all uncontrolled!</l>
+                  <l>The waves of ocean in their loudest dash,</l>
+                  <l>But echo independence to the <hi rend="italic">Free</hi>.</l>
+                  <l>How loudly, and how swiftly do the winds</l>
+                  <l>Sweep through the heavens, and brush the verdured earth;</l>
+                  <l>And none but HE who holds them in his fist</l>
+                  <l>Can stay their blowing or compel their course:</l>
+                  <l>The winds, unmanacled in their career,</l>
+                  <l>Are but the type of freedom to the <hi rend="italic">Free</hi>.</l>
+               </lg>
+               
+               <lg>
+                  <l>Hail, happy, holy, heaven-favoured isle!</l>
+                  <l>Whose sons, entrusted with the rights of men,</l>
+                  <l>Shew to the world what men were made to be:</l>
+                  <l>Whose sons, entrusted with the gospel word,</l>
+                  <l>Preach to the world what Christians ought to do.</l>
+                  <l>To them, the sun not more unfettered moves</l>
+                  <l>In luminous glory on his mid-day track,</l>
+                  <l>Than they, in chartered rights, inviolate,</l>
+                  <l>Think, speak, and act, as Heaven ordained they should.</l>
+                  <l>To them, the waves that dash upon our shores</l>
+                  <l>Sound not more loudly the accordant anthem</l>
+                  <l>Of their unbridled and mysterious movement,</l>
+                  <l>Than do the sons of this illustrious isle,</l>
+                  <l>Chant the loud song of freedom -- and are free.</l>
+                  <l>Nor do the winds more unrestrained blow by,</l>
+                  <l>Than Britain's unimpoverished liberty</l>
+                  <l>Is echoed through the world, where'er her sons</l>
+                  <l>Can shew the passport of their birthright pure.</l>
+                  <l>-- I am a Briton, and my heart exults</l>
+                  <l>Whene'er I think upon these proud distinctions;</l>
+                  <l>I am a Christian, and my heart is humbled</l>
+                  <l>When I reflect on my ingratitude.</l>
+               </lg>
+               
+               <lg>
+                  <l>But, ah! (and this the sadness of my theme)</l>
+                  <l>There is a blot, a foul and sickening blot,</l>
+                  <l>On this fair picture of our reputation.</l>
+                  <l>Oh! there are those -- men like ourselves in form;</l>
+                  <l>Men like ourselves in physical exploit;</l>
+                  <l>Men like ourselves in nature and complaint;</l>
+                  <l>Men like ourselves in sin's primeval taint;</l>
+                  <l>And, oh! like us, born to the destinies</l>
+                  <l>Of endless life or death -- of Heaven or Hell:</l>
+                  <l>Oh! <hi rend="italic">there are such</hi> -- our brethren in humanity,</l>
+                  <l>Yea, and our fellow-subjects -- that are <hi rend="smallcaps">slaves</hi>!</l>
+                  <l>To them, the sun, if they dare look upon him,</l>
+                  <l>Is a forbidden emblem; or at best,</l>
+                  <l>The scorching symbol of their fiery trials.</l>
+                  <l>To them, the waves sound not Britannia's song</l>
+                  <l>Of rule and freedom; they but seem to roll</l>
+                  <l>Hither with groans of bondage to the West,</l>
+                  <l>Or back for other victims from afar.</l>
+                  <l>To him, the winds that whistle joy elsewhere</l>
+                  <l>Sound not the proud memento -- <hi rend="italic">thou</hi> art free.</l>
+               </lg>
+               
+               <lg>
+                  <l>What is the Slave? and what are Slavery's pangs?</l>
+                  <l>Think, if thou canst -- <hi rend="italic">think</hi> -- for thou canst not feel:</l>
+                  <l>Think upon slavery -- think upon thyself --</l>
+                  <l>Think on the slave -- think on his cruel wrongs --</l>
+                  <l>Think on thy state -- thy best, thy proudest rights;</l>
+                  <l>Then ask thyself -- Who hath the difference made?</l>
+                  <l>Wherefore his curse, and thy prerogative?</l>
+                  <l>And what canst thou, to bless, to make him free?</l>
+               </lg>
+               
+               <lg>
+                  <l>Art <hi rend="italic">thou</hi> a Man? Oh! think upon the Slave;</l>
+                  <l>And if there is a fibre of thy heart</l>
+                  <l>That vibrates in Humanity's best cause,</l>
+                  <l>Oh! never, never may its tremors cease,</l>
+                  <l>Till thou hast pleaded with sublime success,</l>
+                  <l>Or spent thy life in pleading for <hi rend="italic">his</hi> rights,</l>
+                  <l>Whom cursed gold and sordid avarice bribes,</l>
+                  <l>To brand with impotence and bind with chains.</l>
+               </lg>
+               
+               <lg>
+                  <l>Art <hi rend="italic">thou</hi> a Patriot? think, oh! think</l>
+                  <l>Upon that cruel and ungracious wrong,</l>
+                  <l>Which brings upon thy country from the West</l>
+                  <l>The blood of slavery and the bitter curse.</l>
+                  <l>The oppressed and the oppressor on one soil</l>
+                  <l>May live and hate -- and in one grave may lie:</l>
+                  <l>But both -- or living in their mutual hate,</l>
+                  <l>Or dead in their forgetfulness -- shall rise</l>
+                  <l>And speak a fearful language in our land,</l>
+                  <l>Blaming the patriot for this horrid crime.</l>
+               </lg>
+               
+               <lg>
+                  <l>Art <hi rend="italic">thou</hi> a Christian? dost thou claim to love</l>
+                  <l>The universal brotherhood of man?</l>
+                  <l>Oh! think upon the Slave -- what has he done,</l>
+                  <l>To be thus trampled on, despised, proscribed,</l>
+                  <l>Cast out from mercy, manacled, and bruised?</l>
+                  <l>What has he done, to forfeit thy good-will,</l>
+                  <l>To lose his interest in thy daily prayers,</l>
+                  <l>To be thy beast of burden -- to be less</l>
+                  <l>Than thy co-equal in the rights of life,</l>
+                  <l>To live, to die, to be esteemed <hi rend="smallcaps">a slave</hi>?</l>
+               </lg>
+               
+               <lg>
+                  <l>Oh! deign for once to honour thy estate,</l>
+                  <l>And weigh for one short hour the Negro's claims</l>
+                  <l>Upon thy thoughts, thy heart, thy influence:</l>
+                  <l>What canst thou do? Oh! thou canst plead his cause</l>
+                  <l>In argument with men -- in prayer with God --</l>
+                  <l>In conscience with thyself; -- nor ever cease</l>
+                  <l>To feel and plead, till Slavery and its guilt,</l>
+                  <l>In final consummation, shall be swept</l>
+                  <l>From every spot where British influence reigns;</l>
+                  <l>And every man, that feels himself a man,</l>
+                  <l>Scorn that worst degradation of his race,</l>
+                  <l>To buy, or sell, or own <hi rend="smallcaps">a man</hi> <hi rend="italic">his slave</hi>.</l>
+               </lg>
+               
+               <lg>
+                  <l>But not alone to man's imperious sex</l>
+                  <l>Belongs this argument of high import,</l>
+                  <l>As if forensic all its attributes.</l>
+                  <l>Oh! there are <hi rend="italic">female slaves</hi>! and thrice depressed --</l>
+                  <l>And in their degradation low indeed</l>
+                  <l>Are these, most dear and exquisitely formed</l>
+                  <l>Of all God's works on earth, sunk when enslaved.</l>
+                  <l>They live, they feel, they love, they think, they die:</l>
+                  <l>They live -- alas! what is their sum of life,</l>
+                  <l>But misery through existence deepliest wrought?</l>
+                  <l>They feel -- and, oh! how exquisite the pang,</l>
+                  <l>Allied to sensibilities which slaves --</l>
+                  <l>Which even <hi rend="italic">slaves</hi> themselves may often know.</l>
+                  <l>They love -- alas! that their affections free</l>
+                  <l>Should be outraged, beyond what privileged brutes,</l>
+                  <l>Enjoying nature's suffrage, e'er endure.</l>
+                  <l>They think -- nor deem their thoughts may not surpass</l>
+                  <l>(However stinted) their's, the maudlin souls,</l>
+                  <l>Which, loathsome as the slimy brood of earth,</l>
+                  <l>Crawl, feed, and fatten, on their human prey.</l>
+                  <l>They die -- and find that liberty in death</l>
+                  <l>Which Heaven alike grants to the slave and free:</l>
+                  <l>The only privilege which man from man,</l>
+                  <l>(As human misery's last desperate hope)</l>
+                  <l>Can neither change, arrest, nor filch away.</l>
+               </lg>
+               
+               <lg>
+                  <l>O ye of Womankind! of English birth,</l>
+                  <l>Fair partners in our bliss:-- by what dear names</l>
+                  <l>Soever ye be called this hour on earth:</l>
+                  <l>Wives, mothers, daughters, sisters, lovers, <hi rend="italic">think</hi>,</l>
+                  <l>Oh! think on those, the thousands of your sex,</l>
+                  <l>Who at this moment bear these generous titles,</l>
+                  <l>Each badged and branded with the blotch of slave!</l>
+                  <l>Oh! think on these, and plead their crying cause,</l>
+                  <l>The cause of Right, Humanity, and Heaven.</l>
+               </lg>
+               
+               <lg>
+                  <l>Yes, plead the Negro's cause, plead for the Slave:</l>
+                  <l>Your prayers with God, your importunities</l>
+                  <l>With man -- they may, they must prevail,</l>
+                  <l>To crown his righteous cause, and win his ransom.</l>
+                  <l>Then shall his thanks bring blessings on your heads;</l>
+                  <l>His free-born offspring, too, shall bless your children:</l>
+                  <l>And all rejoicing, shall together raise</l>
+                  <l>An everlasting monument, inscribed</l>
+                  <l>With Negro gratitude and British fame.</l>
+               </lg>
+               
+               <lg>
+                  <l>Hail, hail auspicious era! long foretold,</l>
+                  <l>By Holy Writ and man's prophetic hopes:</l>
+                  <l>When shall no sound be heard -- no song be sung,</l>
+                  <l>But sounds of freedom and salvation's songs:</l>
+                  <l>When man no more shall be the curse of man,</l>
+                  <l>But, blest by Heaven himself, shall bless his fellows</l>
+                  <l>With all the bounteous rights and charities</l>
+                  <l>Of that pure love which Christ hath taught to man.</l>
+                  <l>Then shall be heard no more the oppressor's vaunt,</l>
+                  <l>Nor its sad echo, the oppressed one's wail:</l>
+                  <l>The enslaved and the enslaver shall embrace, --</l>
+                  <l>Both shall be free: -- this, from the shackles dire</l>
+                  <l>Which bind his limbs and manacle his mind;</l>
+                  <l>That, from the guilty and still heavier chain,</l>
+                  <l>Which binds his soul to torment. Then shall men</l>
+                  <l>In one harmonious and fraternal league,</l>
+                  <l>Achieve the consummation of such bliss</l>
+                  <l>As earth hath yet to witness: when pure ends,</l>
+                  <l>By purest measures, all mankind shall move</l>
+                  <l>To Freedom, Friendship, Equity, and Love.</l>
+               </lg>
+               
+               <byline><hi rend="smallcaps">John Holland</hi>
+                  <placeName>Sheffield Park</placeName></byline>
             </div>
          </body>
       </text>
