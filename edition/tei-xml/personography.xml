@@ -272,6 +272,30 @@
                <note>John Holland (14 March 1794–28 December 1872) was an English poet, newspaper editor, and writer on mining, botany, geology, topography and metallurgy. Born on the grounds of the ancient Sheffield Manor, in Yorkshire, he published poems as a young man that caught the attention of James Montgomery.</note>
             </person>
             
+            <person xml:id="roscoe_j">
+               <name ref="http://viaf.org/viaf/74211865">
+                  <surname type="married">Hornblower</surname>
+                  <surname type="maiden">Roscoe</surname>
+                  <forename>Jane</forename>
+                  <forename type="middle">Elizabeth</forename> 
+               </name>
+               <birth>1797</birth>
+               <death>1853</death>
+               <sex>Female</sex>
+               <faith>Unitarian</faith>
+               <note>Jane E. Roscoe was a poet. She was the daughter of the abolitionist MP William Roscoe (1753–1831) and Jane Roscoe (née Griffies). In 1838 she married the Unitarian minister Francis Hornblower (1812–1853). Her <hi rend="italic">Poems by one of the Authors of Poems for Youth by a Family Circle</hi> were published in 1820, and her <hi rend="italic">Poems</hi> in 1843 Her hymns in common use are:—
+                  
+                  1. How rich the blessings, O my God. Gratitude. In the Liverpool Kenshaw Street Collection 1818.
+                  2. My Father, when around me spread. Peace in Affliction. Appeared in the Monthly Repository, Dec, 1828; and the Sacred Offering, 1832.
+                  3. O God, to Thee, Who first hast given. Self-Consecration. In Poems for Youth, 1820.
+                  4. Thy will be done, I will not fear. Resignation.
+                  [Rev. Valentine D. Davis, B.A.]
+                  
+                  (John Julian, Dictionary of Hymnology (1907).)
+                  
+                  Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe; Robert Roscoe; Thomas Roscoe; Richard Roscoe; Mary Anne Jevons and Henry Roscoe.</note>
+            </person>
+            
             <person xml:id="morpeth">
                <name ref="https://www.wikidata.org/wiki/Q2079517">
                   <surname>Howard</surname>
@@ -357,7 +381,7 @@
             
             
             <person xml:id="montgomery_j">
-               <name ref="http://viaf.org/viaf/183634">
+               <name ref="http://viaf.org/viaf/183634">r
                   <surname>Montgomery</surname>
                   <forename>James</forename>
                </name>
@@ -446,30 +470,6 @@
                <sex>Male</sex>
                <faith>Congregationalist</faith>
                <note>Thomas Rawson Taylor was a Congregationalist minister and hymn writer. He was the son of the Rev. Thomas Taylor, some time Congregational Minister at Bradford, Yorkshire, was born at Ossett, near Wakefield, May 9, 1807, and educated at the Free School, Bradford, and the Leaf Square Academy, Manchester. He died March 7, 1835. A volume of his Memoirs and Select Remains, by W. S. Matthews, in which were several poems and a few hymns, was published in 1836. His best known hymn is "I'm but a stranger here".</note>
-            </person>
-            
-            <person xml:id="roscoe_j">
-               <name ref="http://viaf.org/viaf/74211865">
-                  <surname type="married">Hornblower</surname>
-                  <surname type="maiden">Roscoe</surname>
-                  <forename type="middle">Elizabeth</forename>
-                  <forename>Jane</forename>
-               </name>
-               <birth>1797</birth>
-               <death>1853</death>
-               <sex>Female</sex>
-               <faith>Unitarian</faith>
-               <note>Jane E. Roscoe was a poet. She was the daughter of the abolitionist MP William Roscoe (1753–1831) and Jane Roscoe (née Griffies). In 1838 she married the Unitarian minister Francis Hornblower (1812–1853). Her <hi rend="italic">Poems by one of the Authors of Poems for Youth by a Family Circle</hi> were published in 1820, and her <hi rend="italic">Poems</hi> in 1843 Her hymns in common use are:—
-                  
-                  1. How rich the blessings, O my God. Gratitude. In the Liverpool Kenshaw Street Collection 1818.
-                  2. My Father, when around me spread. Peace in Affliction. Appeared in the Monthly Repository, Dec, 1828; and the Sacred Offering, 1832.
-                  3. O God, to Thee, Who first hast given. Self-Consecration. In Poems for Youth, 1820.
-                  4. Thy will be done, I will not fear. Resignation.
-                  [Rev. Valentine D. Davis, B.A.]
-                  
-                  (John Julian, Dictionary of Hymnology (1907).)
-                  
-Sister of William Stanley Roscoe; Elizabeth Roscoe; Edward Roscoe; James Roscoe; Robert Roscoe; Thomas Roscoe; Richard Roscoe; Mary Anne Jevons and Henry Roscoe.</note>
             </person>
             
             <person xml:id="pye-smith_j">
