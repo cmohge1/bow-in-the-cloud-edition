@@ -224,8 +224,8 @@
                   <l>To Freedom, Friendship, Equity, and Love.</l>
                </lg>
                
-               <byline><hi rend="smallcaps">John Holland</hi>
-                  <placeName>Sheffield Park</placeName></byline>
+               <byline><hi rend="smallcaps"><persName ref="../personography.xml#holland_j">John Holland</persName></hi>
+                  <placeName><hi rend="italic">Sheffield Park</hi></placeName></byline>
             </div>
          </body>
       </text>
