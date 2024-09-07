@@ -6,24 +6,24 @@
             <author>Richard Hill</author>
          </titleStmt>
          <publicationStmt>
-            <p>Published in the 19th century</p>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Printed Text</p>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolition in the British Colonies. London: Jackson &amp; Walford, 1834, pp. 212-215</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="prose">
-            <head>A Fondness for Flowers Among the Coloured Creoles of the Spanish Colonies</head>
+         <div type="prose-headnote">
+            
             <p>
                A fondness for flowers is characteristic of the coloured Creoles of the Spanish colonies. On holidays, the groups of young people who seek in the evening the savannahs for recreation, among other devices for pastime employ themselves in weaving garlands and singing improvisatore songs. When in Haiti, I never visited the savannahs of St. Jago de los Cavalleros, on such occasions, without observing, in the sort of natural bowers with which the lawns are interspersed, some company of young persons gathered together, and amusing themselves in this way. In addition to this characteristic affection for the blossoms of the field and the forest, the Hispaniolian females make use of natural flowers, (particularly those that expand in the evening,) as ornaments for the head. The assertion made by persons who have visited those colonies, that these chaplets are not unfrequently intermingled with fire-flies confined in gauze bandages as a substitute for brilliants, is not to be charged as a traveller's tale. The following little effusion is an attempt to embody some of these traits, in the supposed chant of a Hispaniolian or Haitian girl, sent to gather a garland for her sister, but who purposely spares the night-blooming Marvel of Peru, a plant whose pretty, rough, oval seeds, supplying children with materials for necklaces, is particularly cherished by them.
             </p>
          </div>
          
          <div type="poem">
-            <head>The Creole Maiden's Song to the Marvel of Peru</head>
+            
             <lg>
                <l n="1">Wake up from thy sunset bower,</l>
                <l n="2">Spread thy leaves my pretty flower;</l>
@@ -40,6 +40,7 @@
                <l n="13">Whispering to each flower he sees,</l>
                <l n="14">What a night, without a breeze!</l>
             </lg>
+            <byline><persName ref="../personography.xml#hill_r">Richard Hill</persName></byline>
          </div>
       </body>
    </text>

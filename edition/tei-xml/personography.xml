@@ -249,7 +249,7 @@
                <birth>1795</birth>
                <death>1872</death>
                <sex>Male</sex>
-               <note>Richard Hill (1795-1872) was a Jamaican lawyer, zoologist, politician, and poet, as well as leader of the free people of colour, which campaigned for equal rights in the early nineteenth century.e</note>
+               <note>Richard Hill (1795-1872) was a Jamaican lawyer, zoologist, politician, and poet, as well as leader of the free people of colour, which campaigned for equal rights in the early nineteenth century.</note>
             </person>
             <!-- needs more investigation -->
             <person xml:id="hill_th">
@@ -258,6 +258,7 @@
                   <forename>Thomas</forename>
                </name>
                <death>1875</death>
+               <sex>Male</sex>
                <note>The Reverend Thomas Hill was the deacon of Chesterfield when the Bow in the Cloud was published. From 1847 to 1873 he was Archdeacon of Derby.</note>
             </person>
             

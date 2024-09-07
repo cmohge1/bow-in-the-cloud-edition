@@ -1,0 +1,31 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Insurrection in Jamaica</title>
+            <author>Eustace Carey</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolition in the British Colonies. London: Jackson &amp; Walford, 1834, pp. 206-.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="prose">
+            <p><hi rend="small-caps">It</hi> is presumed there will be few amongst the readers of these brief memorials unacquainted with the fact and with the principal causes of the late insurrection in Jamaica. When the origin and practical details of Colonial Slavery are duly considered, no reflecting persons will be surprised at any violent sallies of misguided passion into which the oppressed may be betrayed on the one hand; nor at the atrocious efforts of tyrannous power, on the other, to repress the rising hope of freedom, and reduce its vassals to absolute and hopeless subjection. The history of Slavery, in all ages and in every country, is one of equal crime and suffering: -- a history, from the contemplation of which the just and the good instinctively recoil, and the termination of which, all who believe in a just and retributive providence must forebode as pregnant with desolation and sorrow.</p>
+            
+            <p>Within the last fifteen years, some progress has been made in the general enlightenment of the Slaves. By the labours of missionaries many children, and some of the adults, had received a rudimental education. By their evangelical ministrations many were brought to the <q>"love of the Truth,"</q> became holy in their lives, and fearlessly resigned themselves to all the consequences of a devout and conscientious deportment. The transformation of negro character which was thus effected, the solicitous attention evinced to religious duties, and the necessary sanctity of character, and regularity of conduct which a Christian profession involved, offered too severe and too frequent a rebuke to the managers of Slave-properties to be endured with patience, and too often thwarted their unbridled passions to be long tolerated.</p>
+            
+            <p>It cannot be denied that the truly religious Slaves had far surpassed their brother bondsmen in mental culture, nor that they had a clearer perception of their natural rights, and an equally intense desire for their personal freedom: but they, nevertheless, reined in their convictions and natural propensities by a filial trust in God's providential superintendence; and disciplined their souls to the habit of patient endurance, by the example of their suffering Redeemer, and by the assured hope of <q>"Eternal Life,"</q> the ultimate solace of the weary and oppressed. The chain of slavery, always heavy, was to them made thrice more galling, from their professed subjection to the Holy Jesus; and stripes were inflicted upon them <q>"beyond measure,"</q> for no reason but that they would not <q>"cast away their confidence, which hath great recompense of reward."</q></p>
+            
+            <p>If the hapless, defenceless Slaves thus suffered for their <q>"obedience to the Truth,"</q> it will be naturally concluded, that the instruments of their illumination and conversion were not allowed to pass with impunity. It is known to have escaped the lips of some of the colonists, that the next or coming insurrection would be charged to the account of the missionaries. By this and other inuendoes it has been clearly perceived, that the planters themselves designed to create some commotion, whatever were the precise character they wished it to assume, or whatever might be the exact limits to which they might deem it expedient it should be urged. Their own violent proceedings in the legislative assembly, in which they impugned the wisdom, and condemned the authority of the parent government, recklessly denouncing and rejecting every meliorative decision of His Majesty in Council, or studiously rendering it nugatory: -- by peremptorily refusing to make a provision for the manumission of the Slaves, when they themselves could present the price of their freedom, and their refusing to consider the expediency of abolishing the custom of publicly flogging women with the cart-whip; -- the intemperate manner in which many of the planters expressed themselves at public meetings, reprobating His Majesty's Government, and all the designs of the benevolent public in Britain; -- the extreme incaution and bitterness with which the Attorneys and Overseers expressed themselves at their own tables, in the hearing of the Slaves, upon the subjects of emancipation and religion; -- the cutting gibes and sarcasms with which they uttered themselves upon these subjects, when they put the slaves down for punishment, together with some other arbitrary proceedings at Christmas, 1831, were the true causes of the insurrection. The Planters, however, were true to their purpose of implicating the Missionaries, and the writer of the following paper, the Rev. W. Knibb, was one of the victims of their lawless violence.</p>
+            
+            <p><hi rend="small-caps"><persName ref="../personography.xml#carey_e">Eustace Carey</persName></hi>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
