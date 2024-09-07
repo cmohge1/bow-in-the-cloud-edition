@@ -21,10 +21,10 @@
          <body>
             <div type="poem">
                <head>A South-African Scene</head>
-               <p>[The result of the war of 1819, between the Colonial Government of the Cape and the Caffer tribes, was the annexation to the Colony of a large tract of the Amakosa country. This was effected by a compulsory convention with the native chiefs, who, with their followers, were dislodged and expelled beyond the Keisi and Chumi rivers. The whole of the evacuated territory, under the appellation of the Neutral Ground, remained unoccupied for several years, and a large portion of it remains so still. I made an excursion through part of it, from the Winterberg mountain down the river Koonap, in 1822, and again in 1825, in another direction. The aspect of the country, though wild, was beautiful and impressive. It was finely diversified with lofty mountains and winding glens, with picturesque rocks and forests, open upland pastures, and level savannahs along the rivers, sprinkled with mimosa trees; and herds of wild animals, quaggas, elands, hartebeests, gnoos, koodoos, with several varieties of the smaller antelopes, were scattered over the verdant pastures; while troops of elephants were browsing undisturbed among the wooded kloofs and jungles of evergreens. But the remains of Caffer hamlets, scattered through every grassy nook and dell, and now long deserted and fast crumbling to decay, excited reflections of no gratifying character, and occasionally increased, even to a painful degree, the feeling of melancholy *lonesomeness* which a country void of human inhabitants never fails to inspire. Before the Caffers and Ghonaquas were expelled from this territory, a few of them had acquired some knowledge of Christianity, partly from the instructions of that singular but most meritorious man, Doctor Vanderkemp, and more especially from the missionary Williams, who resided about two years among them at the Kat River, previous to his death in 1818. The following Stanzas are an attempt to give a Sketch of a remote Vale in this wild country, after the first missionary station had been left desolate, and previous to its occupation by the Emancipated Hottentots and their Christian Pastors, in 1829. T. P.]</p>
+               <p>[<hi rend="smallcaps">The</hi> result of the war of 1819, between the Colonial Government of the Cape and the Caffer tribes, was the annexation to the Colony of a large tract of the Amakosa country. This was effected by a compulsory convention with the native chiefs, who, with their followers, were dislodged and expelled beyond the Keisi and Chumi rivers. The whole of the evacuated territory, under the appellation of the Neutral Ground, remained unoccupied for several years, and a large portion of it remains so still. I made an excursion through part of it, from the Winterberg mountain down the river Koonap, in 1822, and again in 1825, in another direction. The aspect of the country, though wild, was beautiful and impressive. It was finely diversified with lofty mountains and winding glens, with picturesque rocks and forests, open upland pastures, and level savannahs along the rivers, sprinkled with mimosa trees; and herds of wild animals, quaggas, elands, hartebeests, gnoos, koodoos, with several varieties of the smaller antelopes, were scattered over the verdant pastures; while troops of elephants were browsing undisturbed among the wooded kloofs and jungles of evergreens. But the remains of Caffer hamlets, scattered through every grassy nook and dell, and now long deserted and fast crumbling to decay, excited reflections of no gratifying character, and occasionally increased, even to a painful degree, the feeling of melancholy *lonesomeness* which a country void of human inhabitants never fails to inspire. Before the Caffers and Ghonaquas were expelled from this territory, a few of them had acquired some knowledge of Christianity, partly from the instructions of that singular but most meritorious man, Doctor Vanderkemp, and more especially from the missionary Williams, who resided about two years among them at the Kat River, previous to his death in 1818. The following Stanzas are an attempt to give a Sketch of a remote Vale in this wild country, after the first missionary station had been left desolate, and previous to its occupation by the Emancipated Hottentots and their Christian Pastors, in 1829. T. P.]</p>
                <lg>
                   <label type="stanza-num" n="1">I.</label>
-                  <l>Far up among the forest-belted mountains,</l>
+                  <l><hi rend="smallcaps">Far</hi> up among the forest-belted mountains,</l>
                   <l>Where Winterberg, stern giant old and grey,</l>
                   <l>Looks down the subject dells, whose gleaming fountains</l>
                   <l>To wizard Kat their virgin tribute pay,</l>
@@ -62,7 +62,7 @@
                   <label type="stanza-num" n="4">IV.</label>
                   <l>Then, couched at night in hunter's wattled shieling,</l>
                   <l>How wildly beautiful it was to hear</l>
-                  <l>The elephant his shrill reveillé pealing,</l>
+                  <l>The elephant his shrill <hi rend="italic">reveillé</hi> pealing,</l>
                   <l>Like some far signal-trumpet on the ear:</l>
                   <l>While the broad midnight moon was shining clear,</l>
                   <l>How fearful to look forth upon the woods,</l>
@@ -92,7 +92,7 @@
                   <l>Tells where the decent Mission-chapel stood:</l>
                   <l>While the baboon with jabbering cry doth mock</l>
                   <l>The pilgrim, pausing, in his pensive mood,</l>
-                  <l>To ask -- "Why is it thus? Shall EVIL baffle GOOD?"</l>
+                  <l>To ask -- "Why is it thus? Shall <hi rend="smallcaps">evil</hi> baffle <hi rend="smallcaps">good</hi>?"</l>
                </lg>
                <lg>
                   <label type="stanza-num" n="7">VII.</label>
