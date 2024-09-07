@@ -1,4 +1,4 @@
-<TEI xmlns=http://www.tei-c.org/ns/1.0>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -9,13 +9,13 @@
             <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolition in the British Colonies. London: Jackson &amp; Walford, 1834, pp. 206-.</p>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolition in the British Colonies. London: Jackson &amp; Walford, 1834, pp. 216-219.</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type=prose>
+         <div type="prose">
             <p><hi rend="small-caps">It</hi> is presumed there will be few amongst the readers of these brief memorials unacquainted with the fact and with the principal causes of the late insurrection in Jamaica. When the origin and practical details of Colonial Slavery are duly considered, no reflecting persons will be surprised at any violent sallies of misguided passion into which the oppressed may be betrayed on the one hand; nor at the atrocious efforts of tyrannous power, on the other, to repress the rising hope of freedom, and reduce its vassals to absolute and hopeless subjection. The history of Slavery, in all ages and in every country, is one of equal crime and suffering: -- a history, from the contemplation of which the just and the good instinctively recoil, and the termination of which, all who believe in a just and retributive providence must forebode as pregnant with desolation and sorrow.</p>
             
             <p>Within the last fifteen years, some progress has been made in the general enlightenment of the Slaves. By the labours of missionaries many children, and some of the adults, had received a rudimental education. By their evangelical ministrations many were brought to the <q>love of the Truth,</q> became holy in their lives, and fearlessly resigned themselves to all the consequences of a devout and conscientious deportment. The transformation of negro character which was thus effected, the solicitous attention evinced to religious duties, and the necessary sanctity of character, and regularity of conduct which a Christian profession involved, offered too severe and too frequent a rebuke to the managers of Slave-properties to be endured with patience, and too often thwarted their unbridled passions to be long tolerated.</p>
