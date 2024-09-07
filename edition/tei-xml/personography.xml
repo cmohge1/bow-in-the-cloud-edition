@@ -413,7 +413,7 @@
                <note>George Pilkington was born in Dublin, in 1785, and finished his education at Trinity College, where he probably was of some mark in mathematics, as he quitted the University to accept a commission in the Royal Engineers. He eventually became Captain. In 1848, he was appointed by Earl Grey to be Colonial Engineer of the Cape of Good Hope, where he died in 1858. He was known among anti-slavery activists for his lectures and for his reports on slavery in Brazil for the British and Foreign Anti-Slavery Society (An Address to the English Residents of the Brazilian Empire, published in 1841).</note>
             </person>
             
-            <person xml:id="pringle-t">
+            <person xml:id="pringle_t">
                <name ref="https://www.wikidata.org/wiki/Q380383">
                   <surname>Pringle</surname>
                   <forename>Thomas</forename>
@@ -421,7 +421,7 @@
                <birth when="1789-01-05">1789</birth>
                <death when="1834-12-05">1834</death>
                <faith>Presbyterian</faith>
-               <note>Thomas Pringle was a Scottish writer, poet, and abolitionist. A friend of Sir W. Scott, and for a short time editor of the Edinburgh Monthly Magazine, he published his first volume of poems in 1809, which included ‘The Emigrant's Farewell’. He emigrated to South Africa, and he is remembered chiefly as a poet of that country. His Ephemerides (1828) and African Sketches (1834) reveal his sympathetic interest in the native races and the wildlife of Africa. He became the secretary of the London Anti-slavery Society in 1827. In 1834, the year the Slavery Abolition Act was passed, he died of consumption.</note>
+               <note>Thomas Pringle was a Scottish writer, poet, and abolitionist. A friend of Sir Walter Scott, and for a short time editor of the Edinburgh Monthly Magazine, he published his first volume of poems in 1809, which included ‘The Emigrant's Farewell’. He emigrated to South Africa, and he is remembered chiefly as a poet of that country. His Ephemerides (1828) and African Sketches (1834) reveal his sympathetic interest in the native races and the wildlife of Africa. He became the secretary of the London Anti-slavery Society in 1827. In 1834, the year the Slavery Abolition Act was passed, he died of consumption.</note>
             </person>
             
             <person xml:id="pritchard_jwh">
