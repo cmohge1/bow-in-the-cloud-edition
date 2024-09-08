@@ -2,29 +2,29 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Poem by Samuel Carter Hall</title>
-            <author>S. C. Hall</author>
+            <title>The Cup of Gold</title>
+            <author>Samuel Carter Hall</author>
          </titleStmt>
          <publicationStmt>
-            <p>Published in the 19th century</p>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Printed text</p>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolition in the British Colonies. London: Jackson &amp; Walford, 1834, p. 232.</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
-         <div type="poem">
-            <p>----</p>
+         
+            <div type="headnote"><p>----</p>
             <p>The Committee of West-Indian Proprietors have agreed to present to the 
                <ref target="https://www.ucl.ac.uk/lbs/person/view/2146638733">Marquis of Chandos</ref>, 
                their Chairman, a splendid <hi rend="small-caps">Gold Cup</hi>, in token of gratitude for his exertions in retarding the progress of Slave-Emancipation. 
                The following is respectfully submitted as an appropriate <hi rend="small-caps">Inscription</hi> for the same, by <hi rend="small-caps"><persName ref="hall_sc">S. C. Hall</persName></hi>.
             </p>
-            <p>----</p>
+            <p>----</p></div>
             
-            <lg>
+         <div type="poem"><lg>
                <l><hi rend="small-caps">Behold</hi> this Cup! -- this Cup of Gold!</l>
                <l>  That freemen to a freeman gave!</l>
                <l>Formed at rich cost, -- a price untold!</l>
