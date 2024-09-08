@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poem by Samuel Carter Hall</title>
+            <author>S. C. Hall</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published in the 19th century</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Printed text</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <p>----</p>
+            <p>The Committee of West-Indian Proprietors have agreed to present to the 
+               <ref target="https://www.ucl.ac.uk/lbs/person/view/2146638733">Marquis of Chandos</ref>, 
+               their Chairman, a splendid <hi rend="small-caps">Gold Cup</hi>, in token of gratitude for his exertions in retarding the progress of Slave-Emancipation. 
+               The following is respectfully submitted as an appropriate <hi rend="small-caps">Inscription</hi> for the same, by <hi rend="small-caps"><persName ref="hall_sc">S. C. Hall</persName></hi>.
+            </p>
+            <p>----</p>
+            
+            <lg>
+               <l><hi rend="small-caps">Behold</hi> this Cup! -- this Cup of Gold!</l>
+               <l>  That freemen to a freeman gave!</l>
+               <l>Formed at rich cost, -- a price untold!</l>
+               <l>    The sinews of the Slave!</l>
+            </lg>
+            
+            <lg>
+               <l>Drink, Chandos! 'Tis a noble draught,</l>
+               <l>A richly-crimsoned flood!</l>
+               <l>Nay, start not ere the stream be quaff'd,</l>
+               <l><hi rend="small-caps">Drink</hi>! -- <hi rend="italic">’tis a Brother's blood</hi>!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

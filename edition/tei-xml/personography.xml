@@ -239,6 +239,19 @@
                <!-- complete -->
             </person>
             
+            <person xml:id="hall_sc">
+               <name ref="https://www.wikidata.org/wiki/Q2218070">
+                  <surname>Hall</surname>
+                  <forename>Samuel</forename>
+                  <forename type="middle">Carter</forename>
+               </name>
+               <birth>1800</birth>
+               <death>1889</death>
+               <faith>Spiritualist</faith>
+               <note>Samuel Carter Hall (9 May 1800 – 11 March 1889) was an Irish-born Victorian journalist who is best known for his editorship of The Art Journal and for his much-satirised personality; he is regularly cited as the model for the character of Pecksniff in Charles Dickens's novel <hi rend="italic">Martin Chuzzlewit</hi> (1843/44).</note>
+            </person>
+            
+            
             <person xml:id="hamilton_rw">
                <name ref="https://viaf.org/viaf/27156859/">
                   <surname>Hamilton</surname> 
