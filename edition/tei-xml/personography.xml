@@ -230,6 +230,32 @@
                <note>John Ely (1793–1847) was a minister from Leeds. He was educated at Hoxton Academy (London), which was a training institution for dissenting Congregational ministers. Ely served as a pastor in various locations, including Rochdale before moving to Leeds. His work and influence were significant in the religious life of Leeds, particularly in the context of the Congregational movement, which emphasized independent, self-governing congregations outside the established Church of England​ (source: <ref target="https://www.genuki.org.uk/big/eng/YKS/WRY/Leeds/Leeds-SalemChapelCongChurch">https://www.genuki.org.uk/big/eng/YKS/WRY/Leeds/Leeds-SalemChapelCongChurch</ref>)​.</note>
                <!-- need to find more info -->
             </person>
+            
+            <person xml:id="taylor_a">
+               <name ref="http://viaf.org/viaf/10688233">
+                  <surname>Gilbert</surname>
+                  <surname type="maiden">Taylor</surname>
+                  <forename>Ann</forename>
+               </name>
+               <birth when="1782">1782</birth>
+               <death when="1866">1866</death>
+               <sex>Female</sex>
+               <faith>Congregationalist</faith>
+               <note>Ann Gilbert (née Taylor) was an English poet and literary critic. She was the daughter of the noncomformist pastor, author, and engraver Isaac Taylor (1759–1829), and second wife of Joseph Gilbert, a Congregationalist minister. She gained lasting popularity in her youth as a writer of verse for children. In the years up to her marriage, she became an astringent literary critic. However, she is best remembered as the elder sister and collaborator of Jane Taylor.</note>
+            </person>
+            
+            <person xml:id="gilbert_j">
+               <name ref="https://www.wikidata.org/wiki/Q6283438">
+                  <surname>Gilbert</surname>
+                  <forename>Joseph</forename>
+               </name>
+               <birth>1779</birth>
+               <death>1852</death>
+               <sex>Male</sex>
+               <faith>Congregationalist</faith>
+               <note>Joseph Gilbert (1779–1852) was an Independent then Congregational minister who in 1813 married the renowned children's author Ann Taylor (who also contributed to The Bow in the Cloud).</note>
+            </person>
+            
             <person xml:id="gurney_jj">
                <name ref="https://www.wikidata.org/wiki/Q6284410">
                   <surname>Gurney</surname>
@@ -488,18 +514,7 @@
                <note>Mary Anne Rawson was an abolitionist and activist. She campaigned with the Tract Society and the British and Foreign Bible Society, for Italian nationalism, and against child labour. She was first involved as a founding member of the Sheffield Ladies Anti-Slavery group, which successfully campaigned for people to boycott sugar from the West Indies, as it was produced by slave labour.</note>
             </person>
             
-            <person xml:id="taylor_tr">
-               <name ref="http://viaf.org/viaf/26896473">
-                  <surname>Taylor</surname>
-                  <forename>Thomas</forename>
-                  <forename type="middle">Rawson</forename>
-               </name>
-               <birth>1807</birth>
-               <death>1835</death>
-               <sex>Male</sex>
-               <faith>Congregationalist</faith>
-               <note>Thomas Rawson Taylor was a Congregationalist minister and hymn writer. He was the son of the Rev. Thomas Taylor, some time Congregational Minister at Bradford, Yorkshire, was born at Ossett, near Wakefield, May 9, 1807, and educated at the Free School, Bradford, and the Leaf Square Academy, Manchester. He became influenced by the preaching of the Reverend Richard Cecil of St. John’s Street, Nottingham, and in early December 1824 he was proposed for admission to the church.  He died March 7, 1835. A volume of his Memoirs and Select Remains, by W. S. Matthews, in which were several poems and a few hymns, was published in 1836. His best known hymn is "I'm but a stranger here".</note>
-            </person>
+            
             
             <person xml:id="pye-smith_j">
                <name ref="https://www.wikidata.org/wiki/Q6058440">
@@ -525,30 +540,7 @@
                <note>Born in Derbyshire, Mary Handley Sterndale was a poet, novelist, and travel writer known particularly for children's literature.
                   She became friends with the poet Anna Seward (1742–1809; ODNB). See more at <ref target="https://btw.wlv.ac.uk/authors/1138">https://btw.wlv.ac.uk/authors/1138</ref>.</note>
             </person>
-            <person xml:id="taylor_a">
-               <name ref="http://viaf.org/viaf/10688233">
-                  <surname>Gilbert</surname>
-                  <surname type="maiden">Taylor</surname>
-                  <forename>Ann</forename>
-               </name>
-               <birth when="1782">1782</birth>
-               <death when="1866">1866</death>
-               <sex>Female</sex>
-               <faith>Congregationalist</faith>
-               <note>Ann Gilbert (née Taylor) was an English poet and literary critic. She was the daughter of the noncomformist pastor, author, and engraver Isaac Taylor (1759–1829), and second wife of Joseph Gilbert, a Congregationalist minister. She gained lasting popularity in her youth as a writer of verse for children. In the years up to her marriage, she became an astringent literary critic. However, she is best remembered as the elder sister and collaborator of Jane Taylor.</note>
-            </person>
             
-            <person xml:id="gilbert_j">
-               <name ref="https://www.wikidata.org/wiki/Q6283438">
-                  <surname>Gilbert</surname>
-                  <forename>Joseph</forename>
-               </name>
-               <birth>1779</birth>
-               <death>1852</death>
-               <sex>Male</sex>
-               <faith>Congregationalist</faith>
-               <note>Joseph Gilbert (1779–1852) was an Independent then Congregational minister who in 1813 married the renowned children's author Ann Taylor (who also contributed to The Bow in the Cloud).</note>
-            </person>
             
             <!-- no info on this one... -->
             <person xml:id="smith_ah">
@@ -568,6 +560,19 @@
                <sex>Male</sex>
                <faith>Congregationalist</faith>
                <note>English philosopher, writer, artist, and inventor. Brother of Jane and Ann Taylor. He was trained as draughtsman and engraver, executing designs for his father, the engraver and children's writer Isaac (1759–1829), and for the books issued by his sister Jane Taylor. He also executed anatomical drawings for a surgeon, and painted miniatures, one a portrait of his sister, another of himself in 1817. Some of his designs for John Boydell's 'Illustrations of Holy Writ' (1820), were admired by Dante Gabriel Rossetti, and compared by Alexander Gilchrist with some of the plates of William Blake (Life of Blake, 1863). He was friends with Josiah Conder, who in 1818 invited him to join the regular staff of the Eclectic Review. As deacon of an Independent congregation in Lavenham, Suffolk, Taylor founded a Sunday School, where his ‘successive workrooms doubled as schoolrooms for his own children and later for those of neighbours too, Taylor giving instruction from his engraving stool as he worked’. His best known anti-slavery works are <hi rend="italic">Scenes in Africa</hi> (London, 1820) and <hi rend="italic">Scenes in America: for the Amusement and Instruction of Little Tarry-at-Home Travellers</hi> (London, 1821).</note>
+            </person>
+            
+            <person xml:id="taylor_tr">
+               <name ref="http://viaf.org/viaf/26896473">
+                  <surname>Taylor</surname>
+                  <forename>Thomas</forename>
+                  <forename type="middle">Rawson</forename>
+               </name>
+               <birth>1807</birth>
+               <death>1835</death>
+               <sex>Male</sex>
+               <faith>Congregationalist</faith>
+               <note>Thomas Rawson Taylor was a Congregationalist minister and hymn writer. He was the son of the Rev. Thomas Taylor, some time Congregational Minister at Bradford, Yorkshire, was born at Ossett, near Wakefield, May 9, 1807, and educated at the Free School, Bradford, and the Leaf Square Academy, Manchester. He became influenced by the preaching of the Reverend Richard Cecil of St. John’s Street, Nottingham, and in early December 1824 he was proposed for admission to the church.  He died March 7, 1835. A volume of his Memoirs and Select Remains, by W. S. Matthews, in which were several poems and a few hymns, was published in 1836. His best known hymn is "I'm but a stranger here".</note>
             </person>
             
             <person xml:id="thompson_g">
