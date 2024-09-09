@@ -40,8 +40,8 @@
             <closer>
                <salute>With much respect,</salute>
                <signed>I am, Yours very affectionately,</signed>
-               <signed>William Knibb</signed>
-               <address><persName ref="#rawson_ma">Ms. M.A. Rawson</persName></address>
+               <signed><persName ref="../personography.xml#knibb_w">William Knibb</persName></signed>
+               <address><persName ref="../personography.xml#rawson_ma">Ms. M.A. Rawson</persName></address>
             </closer>
          </div>
       </body>
