@@ -169,6 +169,10 @@
                   <surname>Conder</surname>
                   <forename>Eliza</forename>
                </name>
+               <birth>1785</birth>
+               <death>1877</death>
+               <faith>Congregationalist</faith>
+               <note>Joan Elizabeth Thomas (Eliza Thomas) was born on 6 April 1785, in Hammersmith, Lodon. She was the daughter of Roger Thomas and granddaughter of the sculptor, L. F. Roubiliac. She married Josiah Conder on 8 February 1815, in Battersea. They were the parents of at least 4 sons and 1 daughter. Conder contributed poems to The Associate Minstrels, 1810, under the signature "E."; to her husband's work, The Star in the East, 1824, anonymously; to the Congregational Hymn Book, 1836, in her own name; and to The Choir and Oratory, 1837, with an asterisk (John Julian, Dictionary of Hymnology (1907)). She died in 1877, in Lewisham, London, England, at the age of 92.</note>
             </person>
             
             <person xml:id="conder_j">
@@ -179,7 +183,7 @@
                <birth>1789</birth>
                <death>1855</death>
                <faith>Congregationalist</faith>
-               <note>Josiah Conder (17 September 1789–27 December 1855) was an bookseller, abolitionist, author, hymn-writer and close associate of Romantic authors, and kept up a correspondence with James Montgomery, Ann Gilbert (née Taylor), Robert Southey, Rev. Robert Hall, Rev. John Foster, and other writers of the day. He had become proprietor of the 'Eclectic Review' in 1814, and he retained the management of this periodical until 1837, when be transferred it to Dr. Thomas Price, having during his editorship rendered much service to dissenting Christians. He was also active in the Congregational Union and in 1836 he edited The Congregational Hymn Book: a Supplement to Dr. Watts’s Psalms and Hymns (2nd ed. 1844).</note>
+               <note>Josiah Conder (17 September 1789–27 December 1855) was an bookseller, abolitionist, author, hymn-writer and close associate of Romantic authors, and kept up a correspondence with James Montgomery, Ann Gilbert (née Taylor), Robert Southey, Rev. Robert Hall, Rev. John Foster, and other writers of the day. Conder's first book was The associate minstrels (1810); several of his early poems also appeared in a children's annual, the Minor's pocket book, for 1807, which was edited by Ann Taylor, daughter of Isaac Taylor. He had become proprietor of the 'Eclectic Review' in 1814, and he retained the management of this periodical until 1837, when be transferred it to Dr. Thomas Price, having during his editorship rendered much service to dissenting Christians. He was also active in the Congregational Union and in 1836 he edited The Congregational Hymn Book: a Supplement to Dr. Watts’s Psalms and Hymns (2nd ed. 1844).</note>
             </person>
             
             <person xml:id="cunningham_a">
@@ -252,7 +256,7 @@
             </person>
             
             
-            <person xml:id="hamilton_rw">
+c            <person xml:id="hamilton_rw">
                <name ref="https://viaf.org/viaf/27156859/">
                   <surname>Hamilton</surname> 
                   <forename>Richard</forename> 
