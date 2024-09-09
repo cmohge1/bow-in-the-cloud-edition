@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from William Knibb to Mary Anne Rawson (English MS 414/58)
+            </title>
+            <author>William Knibb</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Unpublished Manuscript</publisher>
+            <date when="1826-06-11">June 11th, 1826</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>John Rylands Library</repository>
+                  <collection>Rawson/Wilson Collection</collection>
+                  <idno>English MS 414/58</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <dateline>
+                  <placeName>London</placeName>,
+                  <date when="1826-06-11">June 11th, 1826</date>
+               </dateline>
+               <salute>My dear friend,</salute>
+            </opener>
+            <p>
+               I received with much pleasure your letter this month and hasten to reply. The appropriation of the 50 pounds so kindly given by the friends to whom you refer shall be after left to their decision after you have stated to them my proposal. I shall feel a pleasure in calling it by the name of <name type="person">[?] Thompson</name>, and I have already engaged a young lady to take charge of the School, hoping that should I not be permitted to appropriate this sum, I shall not fail of assistance in a cause in which the future welfare both of <placeName>Jamaica</placeName> and of <placeName>Africa</placeName> are so nearly associated.
+            </p>
+            <p>
+               As I hope to have the pleasure of an interview with the kind donors ere I leave for <placeName>Jamaica</placeName>, I shall not now enter more fully into particulars. With the assistance I could obtain from <placeName>Jamaica</placeName> I would like to conduct such a School as I desire to see established, including the maintenance of a few rescued Africans for 100 pounds per annum and without any maintenance for 40.
+            </p>
+            <closer>
+               <salute>With much respect,</salute>
+               <signed>I am, Yours very affectionately,</signed>
+               <signed>William Knibb</signed>
+               <address><persName ref="#rawson_ma">Ms. M.A. Rawson</persName></address>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

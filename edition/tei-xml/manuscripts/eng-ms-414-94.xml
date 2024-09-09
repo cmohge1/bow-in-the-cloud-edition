@@ -78,10 +78,10 @@
             <salute>My dear Madam,
                Yours, Truly &amp; affectionately
                </salute>
-            <signed>Eustace Carey</signed>
+            <signed><persName ref="../personography.xml#carey_e">Eustace Carey</persName></signed>
          </closer>
          </div>
-         <div type="envelope">
+         <div type="addressed">
             <ab>
             Mrs Rawson<lb/>
             Wincobonk Hall<lb/>
