@@ -623,7 +623,7 @@
             </person>
             
             <person xml:id="townshend_c">
-               <name>
+               <name ref="https://www.wikidata.org/wiki/Q5088270">
                   <surname>Townshend</surname>
                   <forename type="first">Chauncey</forename>el
                   <forename type="middle">Hare</forename>
