@@ -9,7 +9,7 @@
             <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies . London: Jackson &amp; Walford, 1834, pp. 239-240</p>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies . London: Jackson &amp; Walford, 1834, p. 264</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -17,7 +17,7 @@
       <body>
          <div type="poem">
             <lg>
-               <l><span style="small-caps">What</span> can resist a people's virtuous will?</l>
+               <l><hi rend="small-caps">What</hi> can resist a people's virtuous will?</l>
                <l>Go, ask departed Ages -- they reply,</l>
                <l>"Not all the banded might of Tyranny!"</l>
                <l>Then, Britain, with undaunted heart, fulfil</l>
@@ -32,7 +32,7 @@
                <l>The righteous debt, Heaven summons thee to pay,</l>
                <l>Be meted out with slow and sordid fear.</l>
             </lg>
-            <signed><span style="small-caps">Chauncey Hare Townshend</span>.</signed>
+            <signed><hi rend="small-caps"><persName ref="../personography.xml#townshend_c">Chauncey Hare Townshend</persName></hi>.</signed>
             <note place="bottom">
                <p><hi rend="italic"><placeName>Skiddaw-Lodge, Keswick</placeName></hi>.</p>
                <p><date when="1833-06"><hi rend="italic">June</hi>, 1833</date>.</p>
