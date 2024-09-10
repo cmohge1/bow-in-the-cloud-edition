@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sonnet On the Present Crisis of Affairs, as Regards the Emancipation of the Negroes</title>
+            <author>Chauncey Hare Townshend</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Unpublished Manuscript</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Unknown Repository</repository>
+                  <idno>English MS</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <lg>
+               <l><span style="small-caps">What</span> can resist a people's virtuous will?</l>
+               <l>Go, ask departed Ages -- they reply,</l>
+               <l>"Not all the banded might of Tyranny!"</l>
+               <l>Then, Britain, with undaunted heart, fulfil</l>
+               <l>Thy glorious lot -- to break the bonds of ill,</l>
+               <l>And cleanse the world from base Captivity!</l>
+               <l>Lo! Freedom watches thee with anxious eye,</l>
+               <l>While the poor negro's fettered hands are still</l>
+               <l>Held out to thee for aid! Oh scorn delay,</l>
+               <l>And wavering counsels planned by selfish men!</l>
+               <l>Good deeds should be to noble thoughts as near</l>
+               <l>As thunder to its lightning. Let not then</l>
+               <l>The righteous debt, Heaven summons thee to pay,</l>
+               <l>Be meted out with slow and sordid fear.</l>
+            </lg>
+            <signed><span style="small-caps">Chauncey Hare Townshend</span>.</signed>
+            <note place="bottom">
+               <p><hi rend="italic"><placeName>Skiddaw-Lodge, Keswick</placeName></hi>.</p>
+               <p><date when="1833-06"><hi rend="italic">June</hi>, 1833</date>.</p>
+            </note>
+         </div>
+      </body>
+   </text>
+</TEI>
