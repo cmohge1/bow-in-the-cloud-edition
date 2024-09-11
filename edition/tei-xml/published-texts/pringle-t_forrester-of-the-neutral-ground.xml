@@ -56,13 +56,13 @@
             <lg type="stanza">
                <l>"When we had grown up to man’s estate,</l>
                <l>Our father bade each of us choose a mate,</l>
-               <l>Of Fatherland blood, from the <em>black</em> taint free,</l>
+               <l>Of Fatherland blood, from the <hi rend="italic">black</hi> taint free,</l>
                <l>As became a Dutch burgher’s proud degree.</l>
             </lg>
             <lg type="stanza">
                <l>"My brothers they rode to the Bovenland,</l>
                <l>And each came with a fair bride back in his hand;</l>
-               <l>But <em>I</em> brought the handsomest bride of them all --</l>
+               <l>But <hi rend="italic">I</hi> brought the handsomest bride of them all --</l>
                <l>Brown Dinah, the bondmaid who sat in our hall.</l>
             </lg>
             <lg type="stanza">
@@ -87,13 +87,13 @@
                <l>"Her ebon eyelashes were moistened with tears,</l>
                <l>As she shrunk abashed from their venomous jeers;</l>
                <l>But I bade her look up like a burgher’s wife --</l>
-               <l>Next day to be <em>mine</em>, if God granted life.</l>
+               <l>Next day to be <hi rend="italic">mine</hi>, if God granted life.</l>
             </lg>
             <lg type="stanza">
                <l>"At dawn brother Roelof came galloping home</l>
                <l>From the pastures -- his courser all covered with foam;</l>
                <l>‘Tis the Bushmen!’ he shouted; ‘haste, friends, to the spoor!</l>
-               <l>Bold Arend! come help with your long-barrelled <em><note type="authorial" target="forester-authorial-note-3">roer</note></em>.</l>
+               <l>Bold Arend! come help with your long-barrelled <hi rend="italic"><note type="authorial" target="forester-authorial-note-3">roer</note></hi>.</l>
             </lg>
             <lg type="stanza">
                <l>"Far o’er Bruintjes-hoogtè we followed -- in vain:</l>
@@ -129,7 +129,7 @@
                <l>"I fear not the leopard that lurks in the wood,</l>
                <l>The lion I dread not, though raging for blood:</l>
                <l>My hand it is steady -- my aim it is sure --</l>
-               <l>And the boldest must bend to my long-barrelled <em>roer</em>.</l>
+               <l>And the boldest must bend to my long-barrelled <hi rend="italic">roer</hi>.</l>
             </lg>
             <lg type="stanza">
                <l>"The elephant’s buff-coat my bullet can pierce;</l>
@@ -156,7 +156,7 @@
                <l>To break the harsh fetters of Colour and Caste?”</l>
             </lg>
             <byline>
-               <persName>Thomas Pringle.</persName>
+               <persName ref="../personography.xml#pringle_t">Thomas Pringle</persName>.
             </byline>
          </div>
       </body>
