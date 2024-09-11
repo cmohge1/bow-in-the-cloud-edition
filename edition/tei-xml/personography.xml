@@ -233,7 +233,7 @@
             </person>
             
             <person xml:id="elliot_c">
-               <name>
+               <name ref="https://www.wikidata.org/wiki/Q4946512">
                   <surname>Elliot</surname>
                   <forename>Charlotte</forename>
                </name>
@@ -241,7 +241,7 @@
                <death>1871</death>
                <faith>Anglican</faith>
                <sex>Female</sex>
-               <note>Charlotte Elliott (18 March 1789–22 September 1871) was primarily known as an Anglican hymn writer and even to this day does not appear associated with anti-slavery activism, which is possibly why she did not want her name included, but she was (until 1834) a member of the Clapham Group, a group of Anglican evangelicals (including Hannah More and William Wilberforce) who campaigned against slavery.</note>
+               <note>Charlotte Elliott (18 March 1789–22 September 1871) was primarily known as an Anglican hymn writer and even to this day is not associated with anti-slavery activism, which is possibly why she did not want her name included in the volume, but she was (until 1834) a member of the Clapham Group, a group of Anglican evangelicals (including Hannah More and William Wilberforce) who campaigned against slavery.</note>
             </person>
             
             <person xml:id="ely_j">
@@ -561,6 +561,18 @@
                <death>1851</death>
                <faith>Congregationalist</faith>
                <note>John Pye-Smith (1774-1851) was Theological Tutor, effectively Principal, of Homerton Academy from 1806-1850. Born to a Sheffield bookseller John Smith and his wife Mary, John Pye Smith had little formal education, instead teaching himself using the many books available to him in his father’s shop. In 1800, after completing his studies at the Rotherham Academy, Pye Smith was appointed Resident Classical Tutor at Homerton Academy, and became Theological Tutor in 1806. Was friends with James Montgomery.</note>
+            </person>
+            
+            <person xml:id="sheppard_j">
+               <name ref="https://www.wikidata.org/wiki/Q18009203">
+                  <surname>Sheppard
+                  </surname>
+                  <forename>John</forename>
+               </name>
+               <birth>1785</birth>
+               <death>1879</death>
+               <faith>Baptist</faith>
+               <note>John Sheppard (15 October 1785 – 30 April 1879) was an English religious writer. He was born in Frome into a family that dominated cloth manufacture in the city since the Restoration. He undertook active involvement in the affairs of the Particular Baptists, a group that holds to a Calvinist soteriology (salvation belief). In 1837 he published An Autumn Dream, a Calvinistic version of Dante's Paradiso, in blank verse, of over 150 pages, that went into three editions.</note>
             </person>
             
             <person xml:id="sterndale_mh">
