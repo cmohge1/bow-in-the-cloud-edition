@@ -6,10 +6,10 @@
             <author>Thomas Pringle</author>
          </titleStmt>
          <publicationStmt>
-            <p>Encoded for demonstration purposes.</p>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Original poem text encoded in TEI XML.</p>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies. London: Jackson &amp; Walford, 1834, pp. 362-366.</p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
@@ -156,7 +156,7 @@
                <l>To break the harsh fetters of Colour and Caste?”</l>
             </lg>
             <byline>
-               <persName ref="../personography.xml#pringle_t">Thomas Pringle</persName>.
+               <hi rend="small-caps"><persName ref="../personography.xml#pringle_t">Thomas Pringle</persName></hi>.
             </byline>
          </div>
       </body>
