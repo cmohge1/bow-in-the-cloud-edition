@@ -462,6 +462,18 @@
                <note>William Knibb was a Baptist minister and missionary in Jamaica.</note>
             </person>
             
+            <person xml:id="marsh_w">
+               <name ref="https://www.wikidata.org/wiki/Q8015149">
+                  <surname>Marsh</surname>
+                  <forename>William</forename>
+               </name>
+               <birth>1775</birth>
+               <death>1864</death>
+               <faith>Anglican</faith>
+               <sex>Male</sex>
+               <note>William Marsh (1775–1864) was a British priest in the Church of England and a writer of theological publications, in the 19th century. He was the vicar in St Peters, Colchester where his daughter, Catherine Marsh, the writer was born. He matriculated from St Edmund Hall, Oxford on 10 October 1797, graduated B.A. 1801, M.A. 1807, and B.D. and D.D. 1839. At Christmas 1800 he was ordained to the curacy of St. Lawrence, Reading, and was soon known as an impressive preacher of evangelical doctrines. Ill-health obliged him in 1829 to leave Colchester, and in October of the same year he accepted the rectory of St. Thomas, Birmingham, where from the frequent subject of his sermons he came to be known as 'Millennial Marsh'.</note>
+            </person>
+            
             <!-- Not sure about this one. There was a Revd Richard Miles who was associated with the London Missionary Society and worked in South Africa in the 1820s. -->
             <person xml:id="miles_r">
                <name ref="https://www.wikidata.org/wiki/Q7327809">
