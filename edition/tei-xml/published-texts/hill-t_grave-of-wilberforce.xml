@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Grave of Wilberforce</title>
+            <author>Thomas Hill</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>OpenAI</publisher>
+            <pubPlace>Online</pubPlace>
+            <date>2024-09-09</date>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>This document was encoded following TEI (Text Encoding Initiative) guidelines to capture the structure and style of the original text, including its use of small caps, line breaks, and additional notes.</p>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2024-09-09">Initial encoding of the poem "The Grave of Wilberforce" by Thomas Hill.</change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <div type="poem">
+            <head>The Grave of Wilberforce</head>
+            <byline>By Thomas Hill</byline>
+            
+            <lg>
+               <l>&#8212;&#8212;&#8212;&#8212; Extinctus amabitur idem. &#8212;&#8212;<hi rend="small-caps">Hor</hi>.</l>
+               <l></l>
+               <l><hi rend="small-caps">Though</hi> least in fame, and last in time,</l>
+               <l>Of all, whose tributary rhyme</l>
+               <l>In Freedom's cause you crave;&nbsp;</l>
+               <l>Yet, for my subject's sake, excuse&nbsp;</l>
+               <l>The long delay, and lowly muse:&shy;</l>
+               <l>'Tis Wilberforce's Grave.</l>
+            </lg>
+            
+            <lg>
+               <l>Auspicious year! in whose short span&nbsp;</l>
+               <l>To saints on high and captive man</l>
+               <l>Two choicest boons were given:</l>
+               <l>While Freedom wings her speediest flight&nbsp;</l>
+               <l>To tribes immured in Slavery's night,</l>
+               <l>Her champion soars to Heaven.</l>
+            </lg>
+            
+            <lg>
+               <l>How glowed that breast, now cold in death,&shy;&nbsp;</l>
+               <l>How from those lips once flowed a breath</l>
+               <l>Could listening senates move,</l>
+               <l>Could still each sneer, could quell each strife&shy;&nbsp;</l>
+               <l>Speak ye, who prized him in his life,</l>
+               <l>And still his ashes love!</l>
+            </lg>
+            
+            <lg>
+               <l>For lo! his obsequies to grace,&nbsp;</l>
+               <l>The noblest of the British race</l>
+               <l>At Britain's call appear;</l>
+               <l>Hushed are the storms of loud debate,&nbsp;</l>
+               <l>While, midst the ashes of the Great,</l>
+               <l>Descends a Patriot's <note>bier</note>.</l>
+            </lg>
+            
+            <lg>
+               <l>The Throne, the Church, their tribute yield;</l>
+               <l>The Bar, the Senate, and the Field,</l>
+               <l>Their varied honours blend;</l>
+               <l>See <hi rend="small-caps">Howley's</hi> meekness, <hi rend="small-caps">Wellesley's</hi> might,</l>
+               <l><hi rend="small-caps">Eldon</hi>, the prop of ancient right,</l>
+               <l>And <hi rend="small-caps">Brougham</hi>, sweet Freedom's friend.</l>
+            </lg>
+            
+            <lg>
+               <l>Conspicuous, on his native coast,&nbsp;</l>
+               <l>The storied obelisk shall boast</l>
+               <l>The first-fruits of his <note>fame</note>;</l>
+               <l>And shew to each adventurous youth,&nbsp;</l>
+               <l>That glory crowns the paths of truth,&nbsp;</l>
+               <l>And guards the Patriot's name.</l>
+            </lg>
+            
+            <lg>
+               <l>Yet has he won a nobler prize!&nbsp;</l>
+               <l>A ransomed native of the skies,&nbsp;</l>
+               <l>He lays his laurels down,</l>
+               <l>Where, robed in Heaven's immortal dress,&nbsp;</l>
+               <l>He boasts a Saviour's righteousness,</l>
+               <l>And wears a blood-bought crown.</l>
+            </lg>
+            
+            <byline><persName>Thomas Hill</persName></byline>
+            <placeName>Chesterfield Vicarage</placeName>
+         </div>
+      </body>
+   </text>
+</TEI>
