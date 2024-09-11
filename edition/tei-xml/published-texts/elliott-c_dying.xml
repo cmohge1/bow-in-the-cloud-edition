@@ -200,9 +200,9 @@
             <l>&#xA0;&#xA0;Christ has freed the Negro-slave!</l>
          </lg>
          
-         <signed>
-            <hi rend="smallcaps"><persName>Charlotte Elliott</persName>.</hi>
-         </signed>
+         <byline>
+            <hi rend="smallcaps"><persName ref="../personography.xml#elliot_c">Charlotte Elliott</persName>.</hi>
+         </byline>
          <dateline>
             <hi rend="italic">Westfield Lodge,
                <lb/><placeName>Brighton</placeName></hi>.</dateline>

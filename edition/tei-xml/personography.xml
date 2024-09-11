@@ -228,7 +228,20 @@
                <birth>1791</birth>
                <death>1867</death>
                <faith>Anglican</faith>
+               <sex>Male</sex>
                <note>James Edmeston was a British architect, surveyor, and well-known hymnwriter. Edmeston published <hi rend="italic">The Search, and other Poems</hi> in 1817.</note>
+            </person>
+            
+            <person xml:id="elliot_c">
+               <name>
+                  <surname>Elliot</surname>
+                  <forename>Charlotte</forename>
+               </name>
+               <birth>1789</birth>
+               <death>1871</death>
+               <faith>Anglican</faith>
+               <sex>Female</sex>
+               <note>Charlotte Elliott (18 March 1789–22 September 1871) was primarily known as an Anglican hymn writer and even to this day does not appear associated with anti-slavery activism, which is possibly why she did not want her name included, but she was (until 1834) a member of the Clapham Group, a group of Anglican evangelicals (including Hannah More and William Wilberforce) who campaigned against slavery.</note>
             </person>
             
             <person xml:id="ely_j">
