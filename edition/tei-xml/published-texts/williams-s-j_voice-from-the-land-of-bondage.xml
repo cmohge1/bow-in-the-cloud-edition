@@ -99,9 +99,9 @@
             <l>Late, tyrants claimed its people as their own,</l>
             <l>Now, may they be our God's, and His alone!</l>
          </lg>
-         <signed>
-            <l>S. J. W.</l>
-         </signed>
+         <byline>
+            <persName ref="../personography.xml#williams_sj">S. J. W.</persName>
+         </byline>
       </body>
    </text>
 </TEI>
