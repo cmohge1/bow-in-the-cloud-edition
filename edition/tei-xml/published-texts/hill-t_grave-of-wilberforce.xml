@@ -6,12 +6,11 @@
             <author>Thomas Hill</author>
          </titleStmt>
          <publicationStmt>
-            <publisher>OpenAI</publisher>
-            <pubPlace>Online</pubPlace>
-            <date>2024-09-09</date>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
+            
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies . London: Jackson &amp; Walford, 1834, pp. 300-302</p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -38,35 +37,35 @@
                <l></l>
                <l><hi rend="small-caps">Though</hi> least in fame, and last in time,</l>
                <l>Of all, whose tributary rhyme</l>
-               <l>In Freedom's cause you crave;&nbsp;</l>
-               <l>Yet, for my subject's sake, excuse&nbsp;</l>
-               <l>The long delay, and lowly muse:&shy;</l>
+               <l>In Freedom's cause you crave;</l>
+               <l>Yet, for my subject's sake, excuse</l>
+               <l>The long delay, and lowly muse:</l>
                <l>'Tis Wilberforce's Grave.</l>
             </lg>
             
             <lg>
-               <l>Auspicious year! in whose short span&nbsp;</l>
+               <l>Auspicious year! in whose short span</l>
                <l>To saints on high and captive man</l>
                <l>Two choicest boons were given:</l>
-               <l>While Freedom wings her speediest flight&nbsp;</l>
+               <l>While Freedom wings her speediest flight</l>
                <l>To tribes immured in Slavery's night,</l>
                <l>Her champion soars to Heaven.</l>
             </lg>
             
             <lg>
-               <l>How glowed that breast, now cold in death,&shy;&nbsp;</l>
+               <l>How glowed that breast, now cold in death,</l>
                <l>How from those lips once flowed a breath</l>
                <l>Could listening senates move,</l>
-               <l>Could still each sneer, could quell each strife&shy;&nbsp;</l>
+               <l>Could still each sneer, could quell each strife</l>
                <l>Speak ye, who prized him in his life,</l>
                <l>And still his ashes love!</l>
             </lg>
             
             <lg>
-               <l>For lo! his obsequies to grace,&nbsp;</l>
+               <l>For lo! his obsequies to grace,</l>
                <l>The noblest of the British race</l>
                <l>At Britain's call appear;</l>
-               <l>Hushed are the storms of loud debate,&nbsp;</l>
+               <l>Hushed are the storms of loud debate,</l>
                <l>While, midst the ashes of the Great,</l>
                <l>Descends a Patriot's <note>bier</note>.</l>
             </lg>
@@ -81,25 +80,25 @@
             </lg>
             
             <lg>
-               <l>Conspicuous, on his native coast,&nbsp;</l>
+               <l>Conspicuous, on his native coast,</l>
                <l>The storied obelisk shall boast</l>
                <l>The first-fruits of his <note>fame</note>;</l>
-               <l>And shew to each adventurous youth,&nbsp;</l>
-               <l>That glory crowns the paths of truth,&nbsp;</l>
+               <l>And shew to each adventurous youth,</l>
+               <l>That glory crowns the paths of truth,</l>
                <l>And guards the Patriot's name.</l>
             </lg>
             
             <lg>
-               <l>Yet has he won a nobler prize!&nbsp;</l>
-               <l>A ransomed native of the skies,&nbsp;</l>
+               <l>Yet has he won a nobler prize!</l>
+               <l>A ransomed native of the skies,</l>
                <l>He lays his laurels down,</l>
-               <l>Where, robed in Heaven's immortal dress,&nbsp;</l>
+               <l>Where, robed in Heaven's immortal dress,</l>
                <l>He boasts a Saviour's righteousness,</l>
                <l>And wears a blood-bought crown.</l>
             </lg>
             
-            <byline><persName>Thomas Hill</persName></byline>
-            <placeName>Chesterfield Vicarage</placeName>
+            <byline><persName ref="../personography.xml#hill_th">Thomas Hill</persName>
+               <placeName>Chesterfield Vicarage</placeName></byline>
          </div>
       </body>
    </text>
