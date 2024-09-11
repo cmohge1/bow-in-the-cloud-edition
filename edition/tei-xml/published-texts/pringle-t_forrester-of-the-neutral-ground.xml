@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Forester of the Neutral Ground</title>
+            <author>Thomas Pringle</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for demonstration purposes.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Original poem text encoded in TEI XML.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <head>A South-African Border Ballad</head>
+            <lg type="stanza">
+               <l>We met in the midst of the Neutral Ground,</l>
+               <l>‘Mong the hills where the buffalo’s haunts are found;</l>
+               <l>And we joined in the chase of the noble game,</l>
+               <l>Nor asked each other of nation or name.</l>
+            </lg>
+            <lg type="stanza">
+               <l>The buffalo bull wheeled suddenly round,</l>
+               <l>When first from my rifle he felt a wound;</l>
+               <l>And, before I could gain the <note type="authorial" target="forester-authorial-note-2">Umtoka’s</note> bank,</l>
+               <l>His horns were tearing my courser’s flank.</l>
+            </lg>
+            <lg type="stanza">
+               <l>That instant a ball whizzed past my ear,</l>
+               <l>Which smote the <note type="narrative" target="revision-narrative-smote-the-beast">beast</note> in his fierce career;</l>
+               <l>And the turf was drenched with his purple gore,</l>
+               <l>As he fell at my feet with a bellowing roar.</l>
+            </lg>
+            <lg type="stanza">
+               <l>The stranger came galloping up to my side,</l>
+               <l>And greeted me with a bold huntsman’s pride;</l>
+               <l>Full blithely we feasted beneath a tree; --</l>
+               <l>Then out spoke the forester, Arend Plessie.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"Stranger! we now are true comrades sworn;</l>
+               <l>Come pledge me thy hand while we quaff the horn;</l>
+               <l>Thou ’rt an Englishman good, and thy heart is free,</l>
+               <l>And ’tis therefore I’ll tell my story to thee.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"A Heemraad of Camdebóo was my sire;</l>
+               <l>He had flocks and herds to his heart’s desire,</l>
+               <l>And bondmen and maidens to run at his call,</l>
+               <l>And seven stout sons to be heirs of all.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"When we had grown up to man’s estate,</l>
+               <l>Our father bade each of us choose a mate,</l>
+               <l>Of Fatherland blood, from the <em>black</em> taint free,</l>
+               <l>As became a Dutch burgher’s proud degree.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"My brothers they rode to the Bovenland,</l>
+               <l>And each came with a fair bride back in his hand;</l>
+               <l>But <em>I</em> brought the handsomest bride of them all --</l>
+               <l>Brown Dinah, the bondmaid who sat in our hall.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"My father’s displeasure was stern and still;</l>
+               <l>My brothers’ flamed forth like a fire on the hill;</l>
+               <l>And they said that my spirit was mean and base,</l>
+               <l>To lower myself to the African race.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"I bade them rejoice in their herds and flocks,</l>
+               <l>And their pale-faced spouses with flaxen locks;</l>
+               <l>While I claimed for my share, as the youngest son,</l>
+               <l>Brown Dinah alone with my horse and gun.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"My father looked black as a thunder-cloud,</l>
+               <l>My brothers reviled me and railed aloud,</l>
+               <l>And their young wives laughed with disdainful pride,</l>
+               <l>While Dinah in terror clung close to my side.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"Her ebon eyelashes were moistened with tears,</l>
+               <l>As she shrunk abashed from their venomous jeers;</l>
+               <l>But I bade her look up like a burgher’s wife --</l>
+               <l>Next day to be <em>mine</em>, if God granted life.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"At dawn brother Roelof came galloping home</l>
+               <l>From the pastures -- his courser all covered with foam;</l>
+               <l>‘Tis the Bushmen!’ he shouted; ‘haste, friends, to the spoor!</l>
+               <l>Bold Arend! come help with your long-barrelled <em><note type="authorial" target="forester-authorial-note-3">roer</note></em>.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"Far o’er Bruintjes-hoogtè we followed -- in vain:</l>
+               <l>At length surly Roelof cried, ‘Slacken your rein;</l>
+               <l>We have quite lost the track.’ -- Hans replied with a smile. --</l>
+               <l>Then my dark-boding spirit suspected their guile.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"I flew to our father’s. Brown Dinah was sold!</l>
+               <l>And they laughed at my rage as they counted the gold.</l>
+               <l>But I leaped on my horse, with my gun in my hand,</l>
+               <l>And sought my lost love in the far Bovenland.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"I found her; I bore her from Gauritz’ fair glen,</l>
+               <l>Through lone Zitzikamma, by forest and fen.</l>
+               <l>To these mountains at last like wild-pigeons we flew,</l>
+               <l>Far, far from the cold hearts of proud Camdebóo.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"I’ve reared our rude shieling by Gola’s green wood,</l>
+               <l>Where the chase of the deer yields me pastime and food:</l>
+               <l>With my Dinah and children I dwell here alone,</l>
+               <l>Without other comrades -- and wishing for none.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"I fear not the Bushman from Winterberg’s fell,</l>
+               <l>Nor dread I the Caffer from Kat-River’s dell:</l>
+               <l>By justice and kindness I’ve conquered them both,</l>
+               <l>And the sons of the desert have pledged me their troth.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"I fear not the leopard that lurks in the wood,</l>
+               <l>The lion I dread not, though raging for blood:</l>
+               <l>My hand it is steady -- my aim it is sure --</l>
+               <l>And the boldest must bend to my long-barrelled <em>roer</em>.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"The elephant’s buff-coat my bullet can pierce;</l>
+               <l>And the giant rhinoceros, headlong and fierce,</l>
+               <l>Gnu, eland, and buffalo furnish my board,</l>
+               <l>When I feast my allies like an African lord.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"And thus from my kindred and colour exiled,</l>
+               <l>I live like old Ismael, Lord of the Wild --</l>
+               <l>And follow the chase with my hounds and my gun;</l>
+               <l>Nor ever regret the bold course I have run.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"But sometimes there sinks on my spirit a dread</l>
+               <l>Of what may befall when the turf’s on my head;</l>
+               <l>I fear for poor Dinah -- for brown Rodomond</l>
+               <l>And dimpled-faced Karel, the sons of the <note type="authorial" target="forester-authorial-note-4">bond</note>.</l>
+            </lg>
+            <lg type="stanza">
+               <l>"Then tell me, dear stranger, from England the free,</l>
+               <l>What good tidings bring’st thou for Arend Plessie?</l>
+               <l>Shall the Edict of Mercy be sent forth at last,</l>
+               <l>To break the harsh fetters of Colour and Caste?”</l>
+            </lg>
+            <byline>
+               <persName>Thomas Pringle.</persName>
+            </byline>
+         </div>
+      </body>
+   </text>
+</TEI>
