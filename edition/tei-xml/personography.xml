@@ -322,9 +322,11 @@
                   <surname>Hill</surname>
                   <forename>Thomas</forename>
                </name>
+               <birth>1788</birth> <!-- according to burial at St Paul's in Derbyshire... see https://www.findagrave.com/memorial/166168019/thomas-hill#view-photo=148774153 -->
                <death>1875</death>
+               <faith>Anglican</faith>
                <sex>Male</sex>
-               <note>The Reverend Thomas Hill was the deacon of Chesterfield when the Bow in the Cloud was published. From 1847 to 1873 he was Archdeacon of Derby.</note>
+               <note>The Reverend Thomas Hill was the deacon of Chesterfield when the Bow in the Cloud was published. Hill was educated at Trinity College, Cambridge. He was ordained deacon in 1811 and priest in 1812. He was vicar of Badgeworth from 1821 to 1847 (Crockford's Clerical Directory, 1865 edition). From 1847 to 1873 he was Archdeacon of Derby.</note>
             </person>
             
             <person xml:id="holland_j">
