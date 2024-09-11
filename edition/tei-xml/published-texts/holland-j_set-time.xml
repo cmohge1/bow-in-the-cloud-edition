@@ -19,7 +19,7 @@
     <body>
       <div type="poem">
         <lg>
-          <l>At length -- O glorious hope! the time is set,</l>
+          <l><hi rend="small-caps">At</hi> length -- O glorious hope! the time is set,</l>
           <l>When the longshackled slave shall go forth Free;</l>
           <l>When the great year of Negro Jubilee</l>
           <l>Shall cancel -- and for ever, that foul debt,</l>
@@ -34,12 +34,10 @@
           <l>Desired so long: how bright the glimpse appears,</l>
           <l>To saints' and patriots' eye through intervening years!</l>
         </lg>
-        <lg>
-          <l>John Holland.</l>
-        </lg>
-        <lg>
-          <l>Sheffield.</l>
-        </lg>
+        <byline>
+          <hi rend="small-caps"><persName ref="../personography.xml#holland_j">John Holland.</persName></hi>
+          <hi rend="italic"><placeName>Sheffield</placeName></hi>.
+        </byline>
       </div>
     </body>
   </text>
