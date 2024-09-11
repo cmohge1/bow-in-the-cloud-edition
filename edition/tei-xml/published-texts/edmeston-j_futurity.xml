@@ -1,24 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Futurity</title>
+            <author>James Edmeston</author>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolitionin the British Colonies. London: Jackson &amp; Walford, 1834, pp. 367-369.</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+   </teiHeader>
+   <text>
       <body>
-         <p>Some text here.</p>
+         <div type="poem">
+            <lg type="quatrain">
+               <l>Over Afric's golden plains,</l>
+               <l>Golden visions seem to rise;</l>
+               <l>There, where now Oppression reigns,</l>
+               <l>Freedom's sun shall light the skies!</l>
+            </lg>
+            <lg type="quatrain">
+               <l>Had I the enchanted lyre,</l>
+               <l>Tun'd to touch the inmost soul,</l>
+               <l>Speaking passion, flashing fire,</l>
+               <l>Holding hearts in its control, --</l>
+            </lg>
+            <lg type="quatrain">
+               <l>Oh! methinks I could detail,</l>
+               <l>Scenes all beauteous and sublime;</l>
+               <l>But these feeble harp-notes fail</l>
+               <l>To express the deeds of Time.</l>
+            </lg>
+            <lg type="quatrain">
+               <l>When thy villages shall shine,</l>
+               <l>Glorious with a Saviour's name,</l>
+               <l>And his Spirit all divine,</l>
+               <l>Kindle there a heavenly flame;</l>
+            </lg>
+            <lg type="quatrain">
+               <l>When beneath the palm-tree's shade,</l>
+               <l>And the tropic free-bird's song,</l>
+               <l>As the rapid evenings fade,</l>
+               <l>In swift coming night along;</l>
+            </lg>
+            <lg type="quatrain">
+               <l>Where the lion now awaits,</l>
+               <l>And the murderer lurks to slay,</l>
+               <l>Praise shall dwell in all thy gates,</l>
+               <l>And thy children kneel to pray.</l>
+            </lg>
+            <lg type="quatrain">
+               <l>Sable Queen of injured men,</l>
+               <l>God shall come and dwell in thee;</l>
+               <l>Where is now the robber's den,</l>
+               <l>Shall His holy Temple be.</l>
+            </lg>
+            <lg type="quatrain">
+               <l>Nor thine earthly greatness less,</l>
+               <l>Come it will -- it is decreed --</l>
+               <l>God will deign thy land to bless,</l>
+               <l>And thou shalt be blest indeed.</l>
+            </lg>
+            <lg type="quatrain">
+               <l>Armies through thy realms shall rise,</l>
+               <l>Navies ride upon thy seas,</l>
+               <l>Senates, virtuous and wise, --</l>
+               <l>Thine, thou Sable Queen, are these.</l>
+            </lg>
+            <lg type="quatrain">
+               <l>Then, perchance, along thy roads,</l>
+               <l>Shall the tyrant's children roam,</l>
+               <l>(He who now thine exile goads)</l>
+               <l>Friendless and without a home.</l>
+            </lg>
+            <lg type="quatrain">
+               <l>Then be mindful of the land</l>
+               <l>Who was first to set thee free;</l>
+               <l>She, who burst thine iron band,</l>
+               <l><hi rend="small-caps">Britain, Nurse of Liberty</hi>.</l>
+            </lg>
+            <lg type="quatrain">
+               <l>When each heart now beating rests,</l>
+               <l>And each hand can do no more,</l>
+               <l>Give back into our children's breasts,</l>
+               <l>The boon their fathers gave before.</l>
+            </lg>
+            <byline>
+               <hi rend="small-caps"><persName ref="../personography.xml#edmeston_j">James Edmeston</persName></hi>.
+            </byline>
+         </div>
       </body>
-  </text>
+   </text>
 </TEI>
