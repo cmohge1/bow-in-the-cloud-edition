@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Abolition of Slavery</title>
+            <author>James Townley</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolition in the British Colonies. London: Jackson &amp; Walford, 1834, pp. 305-315.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="prose">
+            <head>Slavery</head>
+            <p><hi rend="smallcaps">Slavery</hi>, in various forms, has existed from the earliest periods of historical record. It appears to have originated in the brutal selfishness of lawless power; and though occasionally, and temporarily modified by the influence of civilization, or the impulse of humanity, yet it never received effectual and permanent resistance, except from the authoritative precepts of Divine Revelation, and the mild but energetic principles of the gospel of Christ. The institutes of Moses inculcated kindness and beneficence to those that were in bondage; and taught the Israelites to soften the rigours of servitude by the recollection of their own sufferings in the land of Egypt. Maimonides, one of the most learned and admired of Jewish writers, says, &quot;Our pious ancestors made it a rule to give their slaves a portion of every dish prepared for their own use: nor would they sit down to their meals before they had seen that their servants were properly provided for; considering themselves their natural protectors: remembering what King David said, &#39;Behold, as the eyes of slaves are directed towards their masters, and as the eyes of the handmaid towards her mistress,&#39;&quot; &amp;c. Cruelty and violence characterise heathen idolaters; but the sons of Abraham, the Israelites, whom the <hi>Holy</hi> (blessed be His name!) has so eminently distinguished by wise and just laws, ought to be kind and compassionate, and as merciful as <hi rend="italic">He</hi> of whom it is said, &#39;He is good to all, and His mercy extends over all His works.&#39;&quot;</p>
+            
+            <p>On the promulgation of the gospel, the barbarous traffic in human beings was utterly condemned; and in many instances severely prohibited, both by Councils and Christian Sovereigns. The &quot;Ecclesiastical Laws&quot; of Ina, king of the West-Saxons, passed in the year 693, enjoined that, &quot;If a slave work on the Sunday by his lord&#39;s command, he shall become a <hi rend="italic">freeman</hi>, and the lord pay thirty shillings for a mulct.&quot;</p>
+            
+            <p>Withred, king of Kent, ordained in 696, that, &quot;If a man give freedom to a slave at the altar, his family shall be free; he shall take his liberty and have his goods:&quot; which proves that slaves were allowed to possess property of their own, and were protected in the possession of it, by the highest authority.</p>
+            
+            <p>By the canons of Wulfred, archbishop of Canterbury, made at a Synod in 816, it was ordered that, at the death of a Bishop, &quot;Every Englishman of his, who had been made a slave in his days, should be set at liberty;&quot; -- and that &quot;Every Prelate and Abbot should set at liberty three slaves, and <hi rend="italic">give three shillings</hi> to every one of them;&quot; (a sum equivalent to the purchase of three sheep.)</p>
+            
+            <p>The &quot;Ecclesiastical Laws&quot; of Alfred, in 877, provided that, &quot;The four Wednesdays in the four Ember-weeks, should be indulged to all slaves, to bestow what time is given to them in God&#39;s name, to such as are most beloved by them, or they might on any of these intervals earn by their labour;&quot; and thus acquire property of their own. And in 878 it was added that, &quot;If a lord forced his servant to work on a festival he shall pay a mulct.&quot;</p>
+            
+            <p>In 925, King Athelstan, by the advice of the Archbishop and other functionaries, required that, &quot;Some one should be set at liberty, who for his crimes had been condemned to slavery,&quot; and that this should be done &quot;for the mercies of Christ.&quot; These laws conclude with the following just and benevolent sentiments: &quot;It is necessary, that every master be compassionate and condescending to his servants, in the most indulgent manner that is possible. The slave and the freeman are equally dear to the Lord God who bought them, and bought them all with the same price: and we are all of necessity servants to God, and He will judge us in the same manner that we on the earth judged them over whom we had a judicial power.&quot;</p>
+            
+            <p>By the canons of Archbishop Anselm, framed at Winchester in the year 1102, the slave-trade was expressly prohibited in the following terms: &quot;That none exercise that wicked Trade, which has hitherto been practised in England, of selling men like beasts.&quot;</p>
+            
+            <p>Several other countries exhibited a similar influence on the minds of the clergy, and other enlightened characters. Eligius, bishop of Noyon in France, who is frequently regarded as the Apostle of Flanders, for his missionary labours during the seventh century, is said to have &quot;often bought twenty, thirty, fifty, nay, whole ship loads of slaves, consisting of men, women, and children, from Germany, Britain, Italy, and the Levant;&quot; and used &quot;to exhort all&quot; who sought instruction from him, &quot;to set their slaves at liberty.&quot; His generous zeal was supported by the approbation and piety of Bathildes, consort of Clovis II., an Englishwoman by birth, who had been carried over to France, when young, and sold for a slave, but who, by her virtuous and prudent conduct, had gained universal esteem, and had been raised to royalty, with the approbation of the princes and of the whole kingdom. Louis X., who was crowned in 1315, abolished slavery in France, declaring &quot;all free who lived in that kingdom, according to the spirit of Christianity, which teaches us to treat all men as brethren.&quot;</p>
+            
+            <p>In the year 779, Charlemagne had passed a law, that no slaves should be exported out of his dominions. The enactments of Charlemagne, and the decrees of various Synods on the same subject, expressive of serious disapprobation of slavery, were followed by other princes and ecclesiastical dignitaries; so that Hildebrand, in his <hi rend="italic">Historia</hi> <hi rend="italic">Conciliorum</hi>, is led to remark that &quot;there was no Council held where the abolition of the slave-trade had not been a serious subject.&quot;</p>
+            
+            <p>To render the manumissions of slaves more impressive and influential, they were sometimes accompanied with ceremonies indicative of emancipation being a religious obligation, enforced by Revelation. In Norway, the law called, &quot;Gulethings Law,&quot; enacted that, &quot;The slave should be brought into the church, and the Holy Bible be laid upon his head; which being done he shall be free.&quot; &quot;Among our Saxon ancestors, these manumissions, whether procured by themselves or others, were usually recorded,&quot; says the Rev. Dr. A. Clarke, &quot;in some <hi rend="italic">holy book</hi>, especially in copies of the <hi rend="italic">four Evangelists</hi>, which being preserved in the libraries of abbeys, &amp;c. were a continual record; and might at all convenient times be consulted. Several entries of these manumissions exist in a MS. of the four evangelists in the library of Corpus Christi, or Bennet College, Cambridge.&quot; Of these he has given several specimens, with verbal translations; it may suffice to copy one of the translations, as an example. &quot;<hi rend="italic">The certificate of a man&#39;s having purchased his own freedom</hi>. -- Here is witnessed, in this book of Christ, that <hi rend="italic">Aelfwig the Red</hi> hath redeemed himself from Abbot Aelfsig, and the whole convent, with one pound. And this is witnessed by the whole convent of Bath.</p>
+            
+            <p>May Christ strike him blind,<lb/>
+               Who this writing perverts.&quot;</p>
+            
+            <p>This was a usual execration at the end of these forms; and was in rhyme in the original Anglo-Saxon.</p>
+            
+            <p>The Venetians were induced by their maritime situation, and love of gain, to enter extensively into the traffic in slaves, and long continued in the nefarious commerce. At length, by the interference of the Doge, the trade was controlled, and ultimately abolished. In Norway, king Magnus, called the <hi rend="italic">Reformer of the Law</hi>, totally abolished slavery in 1270. In Sweden, King Byrger abrogated <hi rend="italic">servitude</hi> in the province of Upland, in the year 1295; and in 1335, King Eric Magnusen extended the blessing of liberty to the rest of that kingdom, for the purpose, as he said, of &quot;following God, who has rescued the whole of mankind from slavery.&quot;</p>
+            
+            <p>The adoption of these and other measures of a liberal nature were powerfully sanctioned by the doctrine inculcated by the Redeemer and his apostles. Christ came to make all mankind free, both temporally and spiritually; to &quot;preach deliverance to the captives;&quot; to establish on earth a &quot;kingdom of liberty&quot;; and to destroy all the works of the devil, whose object it was, and ever will be, to degrade and enslave mankind. So, our Lord has declared it to be the spirit and the object of his gospel to raise men to happiness, knowledge, and freedom; and this not as the birthright of a few, but as the <hi rend="italic">inalienable privilege of every individual in the universe.</hi> And whenever the principles of the gospel shall be universally acknowledged, the sun shall rise on a world where slavery shall be no more!</p>
+         </div>
+      </body>
+  </text>
+</TEI>
