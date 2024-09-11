@@ -69,6 +69,18 @@
                <note>Maria Benson was a British writer. She was the author of the novel The Wife (1810) and the pedagocial essay 'Thoughts on Education'. She was the daughter of Edward Benson, a wine merchant from York, and sister of Anna Dorothea Montagu (1773/4–1856) -- a friend of Robert Burns and the third wife of reformer and author Basil Montagu (1770–1851) (source: ODBNB, https://doi.org/10.1093/ref:odnb/19003). See also <ref target="https://womensprinthistoryproject.com/person/2769">https://womensprinthistoryproject.com/person/2769</ref>.</note>
             </person>
             
+            <person xml:id="best_t">
+               <name>
+                  <surname>Best</surname>
+                  <forename>Thomas</forename>
+               </name>
+               <birth>1787</birth>
+               <death>1865</death>
+               <faith>Anglican</faith>
+               <note>The Rev. Thomas Best, 'father of the Sheffield clergy', was for forty-eight years the Incumbent of St. James's Church, long the fashionable church of the town. He was also a rare 'conformist' in the Bow in the Cloud, having moved from the Congregationalist to the Anglican Church before he moved to Sheffield. He was also known as a critic of the theatre, believing that actors and theater-goers would go to hell. He delivered his first sermon against the theater in 1817. He continued to deliver annual sermons on the subject from the pulpit of St. James's for 47 years, except for one year when he was ill (see Richard Foulkes's <hi rend="italic">Church and Stage in Victorian England</hi>. Cambridge: Cambridge University Press, 1997).
+               </note>
+            </person>
+            
             <person xml:id="bowring_j">
                <name ref="https://www.wikidata.org/wiki/Q332508">
                   <surname>Bowring</surname>
