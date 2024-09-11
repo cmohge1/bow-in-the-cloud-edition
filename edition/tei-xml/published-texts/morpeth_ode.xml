@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ode on the Abolition of Slavery</title>
+        <author>Lord Morpeth</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        
+        <lg>
+          <l><hi rend="small-caps">Proudly</hi> on Cressy's tented wold</l>
+          <l>The Lion-flag of England flew;</l>
+          <l>As proudly gleamed its crimson fold</l>
+          <l>O'er the dun heights of Waterloo:</l>
+          <l>But other lyres shall greet the brave;</l>
+          <l>Sing now, that we have Freed the Slave.</l>
+        </lg>
+        <lg>
+          <l>The Ocean plain, where Nelson bled,</l>
+          <l>Fair Commerce plies with peaceful oar,</l>
+          <l>Duteous o'er Britain's clime to shed</l>
+          <l>The gathered spoil of every shore:</l>
+          <l>To-day across th' Atlantic sea</l>
+          <l>Shout -- shout ye, that the Slave is Free.</l>
+        </lg>
+        <lg>
+          <l>And Eloquence in rushing streams</l>
+          <l>Has flowed our halls and courts along,</l>
+          <l>Or kindled mid yet loftier dreams</l>
+          <l>The glowing bursts of glorious Song:</l>
+          <l>Let both their noblest burthen pour,</l>
+          <l>To tell that Slavery is no more.</l>
+        </lg>
+        <lg>
+          <l>Bright Science through each field of space</l>
+          <l>Has urged her mist-dispelling car,</l>
+          <l>Coy Nature's hidden reign to trace,</l>
+          <l>To weigh each wind, and count each star:</l>
+          <l>Yet stay, thou proud Philosophy,</l>
+          <l>First stoop to bid Mankind be Free.</l>
+        </lg>
+        <lg>
+          <l>And Freedom has been long our own,</l>
+          <l>With all her soft and generous train,</l>
+          <l>To gild the lustre of the throne,</l>
+          <l>And guard the labour of the plain:</l>
+          <l>Ye heirs of ancient Runnymede!</l>
+          <l>*Your* Slaves -- oh! could it be? -- are Freed.</l>
+        </lg>
+        <lg>
+          <l>Ah! for the tale the Slave could speak,</l>
+          <l>Ah! for the shame of Britain's sway,</l>
+          <l>On Afric sands the maddened shriek,</l>
+          <l>'Neath Indian suns the burning day:</l>
+          <l>Ye sounds of guilt -- ye sights of gore --</l>
+          <l>Away! for Slavery is no more.</l>
+        </lg>
+        <lg>
+          <l>Mid the drear haunts of Force and Strife,</l>
+          <l>The Ministers of Peace shall stand,</l>
+          <l>And pour the welling words of Life</l>
+          <l>Around a parched and thirsty land;</l>
+          <l>While, spread beneath the tamarind tree,</l>
+          <l>Rise &quot;happy homes, and altars Free.&quot;</l>
+        </lg>
+        <lg>
+          <l>Ye isles, that court the tropic rays,</l>
+          <l>Clustered on Ocean's sapphire breast,</l>
+          <l>Ye feathery bowers, ye fairy bays,</l>
+          <l>In more than fable now -- &quot;the Blest:&quot;</l>
+          <l>Waft on each gale your choral strain,</l>
+          <l>Till every land has rent the chain.</l>
+        </lg>
+        <lg>
+          <l>Oh! England, empire's home and head,</l>
+          <l>First in each art of peace and power,</l>
+          <l>Mighty the billow crest to tread,</l>
+          <l>Mighty to rule the battle hour, --</l>
+          <l>But mightiest to relieve and save,</l>
+          <l>Rejoice, that thou has Freed the Slave!</l>
+        </lg>
+        <byline>
+          <hi rend="small-caps"><persName ref="../personography.xml#morpeth">Morpeth</persName></hi>.
+        </byline>
+      </div>
+    </body>
+  </text>
+</TEI>
