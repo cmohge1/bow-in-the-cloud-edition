@@ -608,6 +608,17 @@
                </name>
             </person><!-- no info on this one... -->
             
+            <person xml:id="stevens_m">
+               <name>
+                  <surname>Stevens</surname>
+                  <forename>Maria</forename>
+               </name>
+               
+               <death>1840</death>
+               <note>Maria Stevens was known for religious writings, instruction, and community work. In 1840 Stevens left an endowment to the school to provide bibles for an annual prize. She was the carver Samuel Fisher's second daughter. She was married to Lawrence Stevens of Swaffham and Knaresborough (son of Admiral Stevens); they had two children, who both died young. Her sister, Elizabeth, was married to the Rev. Andrew Cheap, Rector of Elvington and Knaresborough; he was probably responsible for the fact that the Fisher workshop produced so many monuments for Christ Church in Harrogate (Poppy Corita Myerscough, 'The Fishers of York'. PhD Dissertation, University of York, 1996). She belonged to St John the Baptist Church, Knaresborough. She died in 1840 and, according to her memorial in the Parish Church, 'laboured with unwearied zeal and love for the spiritual benefit of the people of this place'. William Stubbs, bishop of Oxford, recalled, 'Mrs. Stevens, a name deeply beloved in the town, gave Bible lessons in a little room off Kirkgate, near the station, and there he constantly attended. "I do not suppose any one was ever more beloved than she", he said in after years; and when he preached in 1872 at the parish church after its restoration, he recalled the "most gracious presence, inseparable from the history of this place, not to be forgotten the commanding eye, and noble figure; the sweet and most eloquent voice; the wonderful hold on Scripture in the spirit and the letter; the marvellous industry that poured forth book after book, illustration after illustration, all the time teaching continuously and continually; nursing the sick, comforting the dying and the sinner, guiding the little ones, foremost in every good work; all with a zeal, a power, an energy that made her a very exception to all the rules that bind the life of Englishwomen, and withal the most sympathetic, the most kindly, the wisest counsellor we ever knew."' (William Stubbs, bishop of Oxford, 1825-1901 : (From the letters of William Stubbs). London : Archibald Constable, 1908).
+               </note>
+            </person>
+            
             <person xml:id="taylor_i">
                <name>
                   <surname>Taylor</surname>
