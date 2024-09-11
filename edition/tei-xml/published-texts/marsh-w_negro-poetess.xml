@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Negro Poetess</title>
+            <author>William Marsh</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Birmingham</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Text from a work by William Marsh, discussing the capacity of Africans for intellectual and moral achievements, including a discussion of Phillis Wheatley's poetry.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="prose">
+            <p><hi rend="small-caps">No</hi> man can be reduced to the situation of a slave, but he instantly becomes as a brute. He is reduced to the value of those things which were made for man's use and convenience; and he ceases to be accountable for his actions. Does not this annihilate an essential prerogative of a reasonable being, -- that of determining his actions in every instance in which they are not injurious to others? The right improvement of this prerogative is a source of virtue and happiness to the human race; but knowledge and virtue are foreign to the state of a slave. Ignorance the most gross, and dispositions the most depraved, are requisite to reduce him to a level with his condition. Hence, from these effects of slavery, some thought or pretended to think, that the Africans were not human beings, or certainly were not of the same origin with the whites, but made of an inferior link in creation for the express purpose of being thus employed. Incorrect and short-sighted philosophy! Incorrect, -- because, if the testimony of Holy Writ be rejected, that "God made of one blood all nations of men for to dwell on all the face of the earth;" yet it must be admitted that customs and climate, north and south of the equator, have an evident tendency to produce such effects on the <hi rend="italic">mucosum corpus</hi> between the skins, as to account for extraordinary differences in appearance and colour. And shortsighted; -- because, if they were not of the same origin, it would give no right of this description, to the whites over the blacks, till it had been satisfactorily proved that the latter could not be raised above the brutes that perish. But we want not proof upon proof that they are human. It is because they have been treated as brutes, that they have appeared in too many things like them. Nevertheless, distinguished as we are, by climate and complexion, from the people of Africa, we shall find no difference between their capacities and our own, when liberty is enjoyed, and education is afforded. They are as capable of reasoning as any Europeans, and as capable of high intellectual attainments. Let them be equally cultivated, and they will afford specimens of as fine productions. Many inhabitants of Africa are good mechanics, and execute their work with great ingenuity and taste. Even in poetry, there are some not far behind us. Take for instance the lines of <note target="#phillis-wheatley-note">Phillis</note>, the slave of the late Mr. Wheatley of Boston:</p>
+            
+            <lg>
+               <l>Filled with the praise of Him who gives the light,</l>
+               <l>And draws the sable curtains of the night,</l>
+               <l>Let placid slumbers soothe each weary mind,</l>
+               <l>At morn to wake more heavenly and refined:</l>
+               <l>So shall the labours of the day begin</l>
+               <l>More pure and guarded from the snares of sin.</l>
+            </lg>
+            
+            <p>The above are from a "Hymn to the Evening;" the following from "Thoughts on Imagination":</p>
+            
+            <lg>
+               <l>Imagination! who can sing thy force;</l>
+               <l>Or who describe the swiftness of thy course?</l>
+               <l>Soaring through air to find the bright abode,</l>
+               <l>The empyreal palace of the thundering God:</l>
+               <l>We on thy pinions can surpass the wind,</l>
+               <l>And leave the rolling universe behind;</l>
+               <l>From star to star, the mental optics rove,</l>
+               <l>Measure the skies and range the realms above;</l>
+               <l>There in one view we grasp the mighty whole,</l>
+               <l>Or with new worlds amaze the unbounded soul.</l>
+            </lg>
+            
+            <p>Are <hi rend="italic">blacks</hi> only connecting links between <hi rend="italic">whites</hi> and <hi rend="italic">brutes</hi>? Far from Britons and far from Americans be the thought, that justice and humanity have geographical limits; or that a few darker shades of colour constitute or incapacitate for mental attainments, still less for the highest of all privileges and services, the knowledge and love and service of God our Saviour. Let them evermore be treated as fellow-men, and believers among them as fellow-christians. With the latter we must sit down in the kingdom of God, or be excluded ourselves. And can it be true, that in America, of all places, they are a proscribed race, and that no man will unite with them even in an act of worship? This philosophy, this christianity, is indeed only <hi rend="italic">skin-deep</hi>; but perhaps it will in innumerable instances be found, that the most christian heart lies under the darkest skin. God grant that such prejudices may speedily be banished, and men of every colour know the truth and live as brethren!</p>
+            
+            <p><hi rend="small-caps">William Marsh</hi>.</p>
+            <p><hi rend="italic">Birmingham</hi>.</p>
+            <figure>
+               <graphic url="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00415-00123-A?iiif-manifest=1" n="portrait-of-william-marsh" />
+            </figure>
+         </div>
+      </body>
+   </text>
+</TEI>
