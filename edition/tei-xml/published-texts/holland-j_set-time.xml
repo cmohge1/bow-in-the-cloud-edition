@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Set Time</title>
+        <author>John Holland</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Published in The Bow in the Cloud; or, The Negro's Memorial. A Collection of Original Contributions in Prose and Verse, Illustrative of the Evils of Slavery, and Commemorative of its Abolition in the British Colonies. London: Jackson &amp; Walford, 1834, p. 232.
+        </p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem">
+        <lg>
+          <l>At length -- O glorious hope! the time is set,</l>
+          <l>When the longshackled slave shall go forth Free;</l>
+          <l>When the great year of Negro Jubilee</l>
+          <l>Shall cancel -- and for ever, that foul debt,</l>
+          <l>Of which, O shame! shame! shame! Britannia held --</l>
+          <l>For centuries held, the bloody mortgage deeds:</l>
+          <l>Haste Freedom's year, for Mercy's bosom bleeds,</l>
+          <l>Till this unrighteous strife with Heaven be quelled.</l>
+          <l>The time is set -- Philanthropy unites</l>
+          <l>With Piety, that coming day to greet,</l>
+          <l>When the freed Black, at his Redeemer's feet,</l>
+          <l>Shall with the white man kneel: sight of all sights</l>
+          <l>Desired so long: how bright the glimpse appears,</l>
+          <l>To saints' and patriots' eye through intervening years!</l>
+        </lg>
+        <lg>
+          <l>John Holland.</l>
+        </lg>
+        <lg>
+          <l>Sheffield.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
