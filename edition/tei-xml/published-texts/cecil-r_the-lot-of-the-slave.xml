@@ -6,16 +6,18 @@
             <author>Richard Cecil</author>
          </titleStmt>
          <publicationStmt>
-            <publisher>Unpublished Manuscript</publisher>
+            <p>Mary Anne Rawson's The Bow in the Cloud (1834): A Scholarly Edition</p>
          </publicationStmt>
          <sourceDesc>
-            <p>[The following, though not, strictly speaking, "a true story," is founded on statements not to be disproved; and narratives well authenticated would furnish many other particulars, of at least as dark a character.]</p>
+            <p></p>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
       <body>
          <div type="poem">
+            <head type="headnote">[The following, though not, strictly speaking, "a true story," is founded on statements not to be disproved; and narratives well authenticated would furnish many other particulars, of at least as dark a character.]</head>
+            
             <lg>
                <l><span style="small-caps">Loved</span>, as a mother loves the babe she bore,</l>
                <l>Watches, toils, sighs, and loves it but the more,</l>
@@ -156,6 +158,8 @@
                <l>For such events have happened! strange to say,</l>
                <l>Some owners have released their slaves, one day!</l>
             </lg>
+            <byline><persName ref="../personography.xml#cecil_r">C.</persName>
+            <placeName><abbr>N</abbr><expan>Nottingham</expan>.</placeName></byline>
          </div>
       </body>
    </text>
