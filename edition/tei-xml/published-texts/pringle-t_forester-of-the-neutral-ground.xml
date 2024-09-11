@@ -26,18 +26,18 @@
             <lg type="stanza">
                <l>The buffalo bull wheeled suddenly round,</l>
                <l>When first from my rifle he felt a wound;</l>
-               <l>And, before I could gain the <note type="authorial" target="forester-authorial-note-2">Umtoka’s</note> bank,</l>
+               <l>And, before I could gain the Umtoka’s <note type="authorial" target="forester-authorial-note-2">A branch of the Kat River, on the frontier of Cafferland.</note> bank,</l>
                <l>His horns were tearing my courser’s flank.</l>
             </lg>
             <lg type="stanza">
                <l>That instant a ball whizzed past my ear,</l>
-               <l>Which smote the <note type="narrative" target="revision-narrative-smote-the-beast">beast</note> in his fierce career;</l>
+               <l>Which smote the beast<note type="editorial" target="revision-narrative-smote-the-beast">In Pringle's original manuscript (English MS 415/146) he wrote 'smote the pale savage'. He then deleted 'pale' and and added 'fierce' above the line. It is not clear if Rawson or pringle revised further substitute 'beast' for 'savage', but Rawson's fair copy reads 'beast'.</note> in his fierce career;</l>
                <l>And the turf was drenched with his purple gore,</l>
                <l>As he fell at my feet with a bellowing roar.</l>
             </lg>
             <lg type="stanza">
                <l>The stranger came galloping up to my side,</l>
-               <l>And greeted me with a bold huntsman’s pride;</l>
+               <l>And greeted me with a bold huntsman’s pride;</l><note type="editorial" target="https://antislavery-anthologies.org/books/bow-in-the-cloud/revision-narrative-on-the-huntsman-of-the-wild-forester-of-winterberg-english-ms-415146">In Pringle's original manuscript, he began his description of the huntsman this way, in the fourth stanza: 'Then bounded that huntsman blithe to my side, | And shook my hand with a forester's pride. | Full jocund we feasted beneath a tree -- | Then thus spoke the'. He then deleted the entire stanza and wrote the new description, which is closer to the published version: 'The stranger came galloping up to my side, | And greeted me then with a forester's pride: | Full blithely we feasted beneath a tree; | Then thus spoke the huntsman, bold Arend Plessie'. Rawson made a minor change to the last line in her fair copy: 'And thus spoke the huntsman, bold Arend Plessie', which was further modified for the published version into 'Then out spoke the forester, Arend Plessie'.</note>
                <l>Full blithely we feasted beneath a tree; --</l>
                <l>Then out spoke the forester, Arend Plessie.</l>
             </lg>
@@ -93,7 +93,7 @@
                <l>"At dawn brother Roelof came galloping home</l>
                <l>From the pastures -- his courser all covered with foam;</l>
                <l>‘Tis the Bushmen!’ he shouted; ‘haste, friends, to the spoor!</l>
-               <l>Bold Arend! come help with your long-barrelled <hi rend="italic"><note type="authorial" target="forester-authorial-note-3">roer</note></hi>.</l>
+               <l>Bold Arend! come help with your long-barrelled <hi rend="italic">roer</hi><note type="authorial" target="forester-authorial-note-3">Roer, a large gun much used by the Dutch-African Colonists.</note>.</l>
             </lg>
             <lg type="stanza">
                <l>"Far o’er Bruintjes-hoogtè we followed -- in vain:</l>
@@ -147,7 +147,7 @@
                <l>"But sometimes there sinks on my spirit a dread</l>
                <l>Of what may befall when the turf’s on my head;</l>
                <l>I fear for poor Dinah -- for brown Rodomond</l>
-               <l>And dimpled-faced Karel, the sons of the <note type="authorial" target="forester-authorial-note-4">bond</note>.</l>
+               <l>And dimpled-faced Karel, the sons of the bond<note type="authorial" target="forester-authorial-note-4">The children of a slave woman, by colonial law, are always considered slaves, unless she has been regularly manumitted before their birth.</note>.</l>
             </lg>
             <lg type="stanza">
                <l>"Then tell me, dear stranger, from England the free,</l>
