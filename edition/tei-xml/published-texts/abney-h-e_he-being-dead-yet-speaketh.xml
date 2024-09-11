@@ -81,7 +81,7 @@
                <l>No more may man his fellow-man oppress,</l>
                <l>Give Liberty -- give Light -- give Holiness!</l>
             </lg>
-            <signed><hi rend="smallcaps">Edward Henry Abney</hi>.</signed>
+            <signed><hi rend="smallcaps"><persName ref="../personography.xml#abney_e">Edward Henry Abney</persName></hi>.</signed>
          </body>
       </text>
    </TEI>
