@@ -620,7 +620,7 @@
             </person>
             
             <person xml:id="taylor_i">
-               <name>
+               <name ref="https://www.wikidata.org/wiki/Q4453749">
                   <surname>Taylor</surname>
                   <forename>Isaac</forename>
                </name>
