@@ -440,15 +440,17 @@
                <note>rPaul Moon James was a British poet, banker, and lawyer, who also served for a time as magistrate of Worcestershire and later as High Bailiff of Birmingham, England.</note>
                
             </person>
-            <!-- ... -->
             
-            <person xml:id="jones_e">
+            <!-- too uncertain to release this as of yet
+               <person xml:id="jones_e">
                <name>
                   <surname>Jones</surname>
                   <forename>Elizabeth</forename>
                </name>
-               <!-- cannot find any info on this one -->
+               <note>Possibly the author and printer. See A sketch of the life and character of ... Elizabeth Jones, of Manchester, C.A. Wilson and Co, printer (1844). Possibly also The Fundamental Doctrines of the Christian Religion; being a Correspondence between Miss Elizabeth Jones and the Rev. J. Johnson (published by the Manchester Printing Society, 1862).                    
+               </note>
             </person>
+            --> 
             
             <person xml:id="knibb_w">
                <name ref="https://www.wikidata.org/wiki/Q8014079">
