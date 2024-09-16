@@ -31,3 +31,6 @@ plot(bow_scaled$x,
      main = "Sentiment Values in the Bow in the Cloud (published text, 1834), with Rolling Means"
 )
 
+write.csv(bow_sentences_v, "~/Desktop/GitHub/bow-in-the-cloud-edition/edition/text-analysis/bow-sentences.csv")
+write.csv(bow_sentiments_v, "~/Desktop/GitHub/bow-in-the-cloud-edition/edition/text-analysis/bow-sentiments.csv")
+
