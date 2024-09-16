@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Toussaint Louverture</title>
+            <author>Dinah Ball</author>
+            <respStmt>
+               <resp>Digital text edited by</resp><persName>Christopher Ohge</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>This poem was submitted to Mary Anne Rawson's anti-slavery anthology <hi rend="italic">The Bow in the Cloud</hi>, but it was not published.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <institution>University of Manchester.</institution>
+                  <repository>John Rylands Library</repository>
+                  <collection>Rawson/Wilson Anti-Slavery Collection.</collection>
+                  <idno>English MS 414-1</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem">
+            <head type="title">Toussaint Louverture.</head>
+            <lg type="quatrain" n="1">
+               <l>Cast a reflective glance athwart the flood</l>
+               <l>To that bold Isle where prowess and renown</l>
+               <l>Have urged their course through deluges of blood,</l>
+               <l>And snapped the Tyrant's yoke, and scorned his frown.</l>
+            </lg>
+            <lg type="quatrain" n="2">
+               <l n="5">When Europe's unrelenting hand had swayed,</l>
+               <l>With scorpion rod, Domingo's land of slaves,</l>
+               <l>And Negro-vengeance had her deeds repaid</l>
+               <l>By massacres that died the circling waves,</l>
+            </lg>
+            <lg type="quatrain" n="3">
+               <l>Benignant Heaven, in mercy to the oppressed,</l>
+               <l>Nurtured a Hero of the jitty race,</l>
+               <l>This mighty soul with ample views possessed,</l>
+               <l>And stamped with moral dignity his face.</l>
+            </lg>
+            <lg type="stanza" n="4">
+               <l>'Midst anarchy and war, with calm survey,</l>
+               <l>He traced a path to greatness and repose;</l>
+               <l><unclear cert="medium">Laid</unclear> his deep counsels for a future day,</l>
+               <l>And watched the crisis of this Brethren's woes:</l>
+            </lg>
+            <lg type="quatrain" n="5">
+               <l>Then, as when a fierce Tornado's core of death</l>
+               <l>Has threatened every <unclear cert="low">hope</unclear>, in darkness driven,</l>
+               <l>And beaming beauty comes on morning breath,</l>
+               <l>The mild, assuaging Messenger of Heaven,</l>
+            </lg>
+            <lg type="quatrain" n="6">
+               <l>So dawning on despair, his plans desplayed</l>
+               <l>Sublimist views of morals, laws, defence;</l>
+               <l>While opposition vanished into shade,</l>
+               <l>And left him single in a scheme immense.</l>
+            </lg>
+            <lg type="quatrain" n="7">
+               <l>He seemed the Evagoras
+                  <note type="authorial">See Isocrates' Character of Evagoras in the History of the Grecians and Persians--</note> 
+                  of modern fame:--</l>
+               <l>With Cyprian Capitol, renowned for bliss,</l>
+               <l>Had Cape Francois compared its envied name,</l>
+               <l>And stood the world's delight, as <hi rend="italic">Salamis!</hi> </l>
+            </lg>
+            <lg type="quatrain" n="8">
+               <l>In virtue's eye beamed this prophetic ray!</l>
+               <l>It was too pure a soul that triumphed there,</l>
+               <l>For <unclear cert="low">answering</unclear> beams across the flood to stray;</l>
+               <l>No Gallic policy such views could share.</l>
+            </lg>
+            <lg type="quatrain" n="9">
+               <l>New subjugation and the lash of pain</l>
+               <l>Vowed envious France: but, only art refined</l>
+               <l>Might hope concurrence in Toussaint to gain,</l>
+               <l>So firm, so true, so politic his mind.</l>
+            </lg>
+            <lg type="quatrain" n="10">
+               <l>He owned a Father's love, a father's care:--</l>
+               <l>Two sons, the growing objects of delight,</l>
+               <l>To Gallia's court had borne his ardent prayer</l>
+               <l>For literary, and for sacred light.</l>
+            </lg>
+            <lg type="quatrain" n="11">
+               <l>Eight years of absence hasten to their close,</l>
+               <l>Where, as they deem, a fleet to guard their coast,</l>
+               <l>Bears those to share their valiant Sire's repose,</l>
+               <l>Their mother's tenderness, their country's boast.</l>
+            </lg>
+            <lg type="quatrain" n="12">
+               <l>With flags of amity the Barks
+                  <note type="editorial">A barque, barc, or bark is a type of sailing vessel with three or more masts having the fore- and mainmasts rigged square and only the mizzen (the aftmost mast) rigged fore and aft (Wikipedia, "Barque").</note> 
+                  drew near:</l>
+               <l>At Port Dauphin is heard the friendly hail:</l>
+               <l>Yet ranged in sight embattled ranks appear,</l>
+               <l>And slaughtering blades the peaceful crowds assail!</l>
+            </lg>
+            <lg type="quatrain" n="13">
+               <l>Near Cape Francois the mooring transports lay</l>
+               <l>Troop lands on Troop, while Gallic thunders roar;</l>
+               <l>The strand is <unclear>[?]</unclear> in a dread <unclear cert="low">effray</unclear></l>
+               <l>And rising flames within defend the shore.</l>
+            </lg>
+            <lg type="quatrain" n="14">
+               <l>The unsuspecting Chief, in toils of peace,</l>
+               <l>Is distant far; while, 'midst encroaching fire,</l>
+               <l>Coisnon
+                  <note type="authorial">The Tutor of the youths.</note>
+                  obtains a passport and release,</l>
+               <l>To bear the anxious youths to greet their Sire.</l>
+            </lg>
+            <lg type="quatrain" n="15">
+               <l>They join:-- Let feeling's language paint the bliss,</l>
+               <l>(If bliss so pure can earthly phrase approve,)</l>
+               <l>The joy-- <unclear>[?]</unclear> <unclear cert="medium">tear</unclear>, the soul <unclear cert="medium">pressed</unclear> kiss,</l>
+               <l>The speechless sympathies of meeting love.</l>
+            </lg>
+            <lg type="quatrain" n="16">
+               <l>Soon to their guide the grateful Chief draws near:--</l>
+               <l>"Preceptor of my sons, revered, beloved"--</l>
+               <l>With arms outstretched to embrace, &amp; starting <unclear>tear</unclear></l>
+               <l>Toussaint exclaims:-- Coisnon draws back unmoved:--</l>
+            </lg>
+            <lg type="quatrain" n="17">
+               <l>And rises abruptly, and with haughty air,</l>
+               <l>He speaks:-- "Armed with the Consul's power,"</l>
+               <l>"At Cape Francois, demands the august Le Clerc
+                  <note type="authorial">The french General--related to Buonaparte.</note>
+               </l>
+               <l>"Your prompt submission, and your army's flower</l>
+            </lg>
+            <lg type="quatrain" n="18">
+               <l>"These yielded, he bestows the Consul's praise</l>
+               <l>"Wealth, honor, office, or a calm retreat,</l>
+               <l>"All that a Nation's gratitude conveys,</l>
+               <l>All that ambition's highest views meet.</l>
+            </lg>
+            <lg type="quatrain" n="19">
+               <l>Refusal ventured, he defies the place,</l>
+               <l>And vows revenge implacable and deep,</l>
+               <l>Extermination of your name, and race,</l>
+               <l>And ruin that shall leave no eye to weep.</l>
+            </lg>
+            <lg type="quatrain" n="20">
+               <l>Those darling objects you so closely <unclear cert="low">fold</unclear></l>
+               <l>Must be resigned:-- I lead those to Le Clerc:--</l>
+               <l>A passport all conditional I hold;</l>
+               <l>That passport's faith betrayed you will not spare[?]."</l>
+            </lg>
+            <lg type="quatrain" n="21">
+               <l>Their mother's ardent eye, their whispered love,</l>
+               <l>Affection's dark and realising fears</l>
+               <l>The Hero's bosom and his features move,</l>
+               <l>And hold a moment's triumph in his tears.</l>
+            </lg>
+            <lg type="quatrain" n="22">
+               <l>Now, as from dream aroused, his piercing views,</l>
+               <l>Beneath the alluring snare, perceives the chain;</l>
+               <l>Valour and duty urge him to subdue,</l>
+               <l>To fall a Martyr, or a Prince to reign.</l>
+            </lg>
+            <lg type="quatrain" n="23">
+               <l>Coisnon he calls. "Bear then my sons from sight"--</l>
+               <l>(His front announces Deity within!)</l>
+               <l>True to my God, and to my Brethren's right,</l>
+               <l>I dare to suffer, but I scorn to sin."</l>
+            </lg>
+            <lg type="quatrain" n="24">
+               <l>The ? is awful. Grief's <unclear>load</unclear> <unclear>burst</unclear> succeeds:--</l>
+               <l>The mother clasps her sons in wild despair:--</l>
+               <l>Through weeping crowds Coisnon his victims lead:--</l>
+               <l>With hands upraised, the Father kneels in prayer.</l>
+            </lg>
+            <lg type="quatrain" n="25">
+               <l>And walk they forth <unclear cert="medium">defenseless</unclear> to their foes--</l>
+               <l>Lambs torn from shelter for the sacrifice?</l>
+               <l>Or round their guiltless heads do pinions chase</l>
+               <l>That, spreading soon, shall hear them to the skies?</l>
+            </lg>
+            <lg type="quatrain" n="26">
+               <l>Rowed from the shore, they traverse for the deep;</l>
+               <l>Till evening shades, the signals of the doom,</l>
+               <l>Find them embracing in their last, long sleep,</l>
+               <l>Beneath the engulphing billow, now their Tomb.</l>
+            </lg>
+            <lg type="quatrain" n="27">
+               <l>Great, though distressed, Toussaint's intrepid soul</l>
+               <l>Rallies men its energy sublime:</l>
+               <l>But, how shall truth and valour hold control</l>
+               <l>Betrayed by perfidy, and matched with crime?</l>
+            </lg>
+            <lg type="quatrain" n="28">
+               <l>More vile, more treacherous than death concealed</l>
+               <l>In reptile fang, the baseness of his foes</l>
+               <l>Intrudes, in silence, where his sorrows yield</l>
+               <l>To virtue's ready balm, serene repose:</l>
+            </lg>
+            <lg type="quatrain" n="29">
+               <l>A consecrated spot;-- for there he knelt</l>
+               <l>Each morn and eve, with his whose kindred mind</l>
+               <l>Had learned with his to trust, or <unclear>[?]</unclear> melt</l>
+               <l>In grateful praise, as each want inclined.</l>
+            </lg>
+            <lg type="quatrain" n="30">
+               <l>Surprised with shackles in the midnight gloom,</l>
+               <l>To a far distant shore in secret borne,</l>
+               <l>From purjured tongues, he listens to his doom,</l>
+               <l>Tongues that fidelity and peace had sworn.</l>
+            </lg>
+            <lg type="quatrain" n="31">
+               <l>And has the Avenger heard the Hero's plaint</l>
+               <l>From Gallic Dungeon, watery, dark, and deep?</l>
+               <l>Yes--Heaven has burst upon the imprisoned Saint!</l>
+               <l>Yes--France on fields of blood has learned to weep!</l>
+            </lg>
+            <lg type="quatrain" n="32">
+               <l>When the dark story blots the record's page,</l>
+               <l>The sons of Gaul will blush his face to claim:</l>
+               <l>Toussaint's renown shall reach the latest age,</l>
+               <l>And marbles bear his venerated name.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
