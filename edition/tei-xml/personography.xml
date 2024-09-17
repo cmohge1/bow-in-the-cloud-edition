@@ -30,8 +30,13 @@
                <birth>1811</birth>
                <death>1892</death>
                <sex>Male</sex>
-               <faith>Anglican</faith>
+               <faith ref="#anglican">Anglican</faith>
                <note>Edward Henry Abney (1811-1892), domestic chaplain to 1st Baron Belper, was vicar of St. Alkmund's, Derby, afterwards prebendary of Lichfield.</note>
+            </person>
+            
+            <person xml:id="anon">
+               <name>Anonymous</name>
+               <note>Unidentified authors.</note>
             </person>
             
             <person xml:id="barnard_ew">
@@ -43,7 +48,7 @@
                <birth>1791</birth>
                <death>1828</death>
                <sex>Male</sex>
-               <faith>Anglican</faith>
+               <faith ref="#anglican">Anglican</faith>
                <note>Edward William Barnard was a divine, poet and scholar. Nephew of fellow abolitionist, the Archdeacon Francis Wrangham. 'He was educated at Harrow and Trinity College, owing to his distaste for mathematics. In 1817 he published anonymously, 'Poems, founded upon the Poems of Meleager,' which were re-edited in 1818 under the title of 'Trifles, imitative of the Chaster Style of Meleager.' The latter volume was dedicated to Thomas Moore, who tells us in his journal that he had the manuscript to look over, and describes the poems as 'done with much elegance.' Barnard was presented to the living of Brantingthorp, Yorkshire, from which is dated his next publication, 'The Protestant Beadsman' (1822), This is described by a writer in 'Notes and Queries' as a 'delightful little volume on the saints and martyrs commemorated by the English church, containing biographical notices of them, and hymns upon each of them.’ Barnard died prematurely on 10 Jan. 1828' (Source: ODNB, <ref target="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Barnard,_Edward_William">https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Barnard,_Edward_William</ref>.</note>
             </person>
             
@@ -54,7 +59,7 @@
                </name>
                <birth>1784</birth>
                <death>1849</death>
-               <faith>Quaker</faith>
+               <faith ref="#quaker">Quaker</faith>
                <sex>Male</sex>
                <note>Bernard Barton was a Quaker poet who was best known for 'The Convict's Appeal' (1818), in which he protested against the death penalty and the severity of the criminal code.</note>
             </person>
@@ -76,7 +81,8 @@
                </name>
                <birth>1787</birth>
                <death>1865</death>
-               <faith>Anglican</faith>
+               <faith ref="#anglican">Anglican</faith>
+               <sex>Male</sex>
                <note>The Rev. Thomas Best, 'father of the Sheffield clergy', was for forty-eight years the Incumbent of St. James's Church, long the fashionable church of the town. He was also a rare 'conformist' in the Bow in the Cloud, having moved from the Congregationalist to the Anglican Church before he moved to Sheffield. He was also known as a critic of the theatre, believing that actors and theater-goers would go to hell. He delivered his first sermon against the theater in 1817. He continued to deliver annual sermons on the subject from the pulpit of St. James's for 47 years, except for one year when he was ill (see Richard Foulkes's <hi rend="italic">Church and Stage in Victorian England</hi>. Cambridge: Cambridge University Press, 1997).
                </note>
             </person>
@@ -88,7 +94,8 @@
                </name>
                <birth>1792</birth>
                <death>1872</death>
-               <faith>Unitarian</faith> <!-- ref:odnb/3087 -->
+               <faith ref="#unitarian">Unitarian</faith> <!-- ref:odnb/3087 -->
+               <sex>Male</sex>
                <note>Sir John Bowring was the 4th Governor of Hong Kong and a hymnwriter and translator.
                </note>
             </person>
@@ -100,9 +107,11 @@
                </name>
                <birth>1800</birth>
                <death>1894</death>
-               <faith>Anglican</faith> <!-- He converted to Roman Catholicism in 1848, but in 1834 was still CoE -->
+               <faith ref="#anglican">Anglican</faith> <!-- He converted to Roman Catholicism in 1848, but in 1834 was still CoE -->
+               <sex>Male</sex>
                <note>Matthew Bridges was a British-Canadian hymnodist.</note>
             </person>
+            
             <person xml:id="brown_jb">
                <name ref="http://viaf.org/viaf/61925237">
                   <surname>Brown</surname>
@@ -111,10 +120,12 @@
                </name>
                <birth>1785</birth>
                <death>1843</death>
-               <faith>Congregationalist</faith> <!-- less cetainty about this: he was baptised in CoE but became a known noncomformist. He married the sister of Raffles, a Congregationalist, and his son became a Congregationalist minister... -->
+               <faith ref="#congregationalist">Congregationalist</faith> <!-- less cetainty about this: he was baptised in CoE but became a known noncomformist. He married the sister of Raffles, a Congregationalist, and his son became a Congregationalist minister... -->
+               <sex>Male</sex>
                <note><p>James Baldwin Brown (1785-1843) was a miscellaneous writer, was called to the bar at the Inner Temple in 1816, and practised on the northern circuit and at the Lancashire quarter sessions. He was appointed judge of the Oldham court of requests in 1840, and died in November 1843. Brown married a sister of the <ref target="#raffles_t">Rev. Thomas Raffles</ref>, D.D., and was father of the Congregationalist minister James Baldwin Brown (1820–1884).</p>
                   </note>
             </person>
+            
             <person xml:id="bulmer_a">
                <name ref="https://viaf.org/viaf/306133896/">
                   <surname>Bulmer</surname>
@@ -124,7 +135,8 @@
                <birth><date when="1775">1775</date>
                <placeName>London</placeName></birth>
                <death><date when="1836">1836</date></death>
-               <faith>Methodist</faith>
+               <faith ref="#methodist">Methodist</faith>
+               <sex>Female</sex>
                <note>Born in London, Bulmer was a poet who belonged to the Wesleyan community, having been admitted by <ref target="https://www.wikidata.org/wiki/Q349070">Charles Wesley</ref> himself. Her major publications include <hi rend="italic">Memoirs of Mrs. Mortimer</hi> and a 12-book epic poem entitled <hi rend="italic">Messiah's Kingdom</hi> (1833). This poem, consisting of nearly fourteen thousand verses, is one of the longest works of poetry composed by a woman. See also the <ref target="https://www.wikidata.org/wiki/Q16147344">Wikidata item</ref> and Andrew O. Winckles' 'The Book of Nature and the Methodist Epic: Agnes Bulmer's Analogic Poetics and the End(s) of Romanticism' <hi rend="italic">Womens Writing</hi> 22:2 (2015), pp. 209–28,
                    (<ref target="https://doi.org/10.1080/09699082.2015.1011841">https://doi.org/10.1080/09699082.2015.1011841</ref>).</note>
             </person>
@@ -136,7 +148,8 @@
                </name>
                <birth>1799</birth>
                <death>1846</death>
-               <faith>Baptist</faith>
+               <faith ref="#baptist">Baptist</faith>
+               <sex>Male</sex>
                <note>
                   Thomas Burchell was a leading Baptist missionary and slavery abolitionist in Montego Bay, Jamaica, in the early nineteenth century.
                </note>
@@ -150,7 +163,8 @@
                </name>
                <birth when="1786">1786</birth>
                <death when="1845">1845</death>
-               <faith>Quaker</faith>
+               <faith ref="#quaker">Quaker</faith>
+               <sex>Male</sex>
                <note>Sir Thomas Fowell Buxton, 1st Baronet Buxton of Belfield and Runton (1 April 1786 – 19 February 1845) was an English Member of Parliament, brewer, abolitionist and social reformer. In 1822 he succeeded William Wilberforce as leader of the campaign in the House of Commons for the abolition of slavery in the British colonies and thus was partly responsible for the Abolition Act of 28 August 1833.</note>
             </person>
             
@@ -161,7 +175,8 @@
                </name>
                <birth>1791</birth>
                <death>1855</death>
-               <faith>Baptist</faith>
+               <faith ref="#baptist">Baptist</faith>
+               <sex>Male</sex>
                <note>Eustace Carey was a missionary to India and religious campaigner. He was the son of Thomas Carey, a non-commissioned officer in the army, and the nephew of Dr. William Carey, Indian missionary. He was born 22 March 1791 at Paulerspury, Northamptonshire. He began his preparatory studies for the baptist ministry under the Rev. Mr. Sutcliff at Olney, and in 1812 went to Bristol College; as he set out in the beginning of 1814 as a missionary to India, arriving at Serampore on 1 Aug. On account of failing health he was compelled to leave India, and, arriving in England in September 1825, he in the following year began to advocate the claims of missions throughout the home counties, subsequently extending his visits to Scotland and Ireland. In 1828 be published 'Vindication of the Calcutta Baptist Missionaries,' and in 1831 'Supplement to the Vindication.' In the latter year he published the 'Memoir' of his relative William Carey, D.D. He took a prominent part in the agitation against slavery in Jamaica, and in 1840 was appointed a delegate to the churches there (source: <ref target="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Carey,_Eustace"> https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Carey,_Eustace</ref>).</note>
             </person>
             
@@ -172,6 +187,7 @@
                </name>
                <birth>1799</birth>
                <death>1863</death>
+               <faith ref="#congregationalist">Congregationalist</faith>
                <sex>Male</sex>
                <note>The Rev. Richard Cecil was a Congregationalist minister. He was born in London on 13 Jan. 1799. At the age of fourteen he was converted, and at sixteen entered Rotherham College. He began his ministerial work at Whitehaven, and afterwards removed to Harpenden, near St. Alban's. In 1824 he became pastor of St. James Street Chapel, Nottingham. After remaining there five years, he spent nine years at Turvey as preacher, and as tutor for the London Missionary Society. He was pastor of Chipping Ongar (Essex) from about 1838 to 1847. While at Ongar he directed a small training school for intending missionaries. Among his students, in 1838-9, was David Livingstone (1813-1873), the missionary and explorer. He then returned to Turvey, and died there 30 Jan. 1863.</note>
             </person>
@@ -183,7 +199,8 @@
                </name>
                <birth>1785</birth>
                <death>1877</death>
-               <faith>Congregationalist</faith>
+               <faith ref="#congregationalist">Congregationalist</faith>
+               <sex>Female</sex>
                <note>Joan Elizabeth Thomas (Eliza Thomas) was born on 6 April 1785, in Hammersmith, Lodon. She was the daughter of Roger Thomas and granddaughter of the sculptor, L. F. Roubiliac. She married Josiah Conder on 8 February 1815, in Battersea. They were the parents of at least 4 sons and 1 daughter. Conder contributed poems to The Associate Minstrels, 1810, under the signature "E."; to her husband's work, The Star in the East, 1824, anonymously; to the Congregational Hymn Book, 1836, in her own name; and to The Choir and Oratory, 1837, with an asterisk (John Julian, Dictionary of Hymnology (1907)). She died in 1877, in Lewisham, London, England, at the age of 92.</note>
             </person>
             
@@ -194,7 +211,8 @@
                </name>
                <birth>1789</birth>
                <death>1855</death>
-               <faith>Congregationalist</faith>
+               <faith ref="#congregationalist">Congregationalist</faith>
+               <sex>Male</sex>
                <note>Josiah Conder (17 September 1789–27 December 1855) was an bookseller, abolitionist, author, hymn-writer and close associate of Romantic authors, and kept up a correspondence with James Montgomery, Ann Gilbert (née Taylor), Robert Southey, Rev. Robert Hall, Rev. John Foster, and other writers of the day. Conder's first book was The associate minstrels (1810); several of his early poems also appeared in a children's annual, the Minor's pocket book, for 1807, which was edited by Ann Taylor, daughter of Isaac Taylor. He had become proprietor of the 'Eclectic Review' in 1814, and he retained the management of this periodical until 1837, when be transferred it to Dr. Thomas Price, having during his editorship rendered much service to dissenting Christians. He was also active in the Congregational Union and in 1836 he edited The Congregational Hymn Book: a Supplement to Dr. Watts’s Psalms and Hymns (2nd ed. 1844).</note>
             </person>
             
@@ -205,7 +223,8 @@
                </name>
                <birth>1784</birth>
                <death>1842</death>
-               <faith>Presbyterian</faith> <!-- In an 1835 letter to his mother in Hogg's Life of Allan Cunningham, p. 331 (1875), he says that he is among the 'Dissenters of England' -->
+               <faith ref="#presbyterian">Presbyterian</faith> <!-- In an 1835 letter to his mother in Hogg's Life of Allan Cunningham, p. 331 (1875), he says that he is among the 'Dissenters of England' -->
+               <sex>Male</sex>
                <note>Allan Cunngingham was born in Dumfriesshire, Scotland. He was a poet and well connected to the circle of Romantic writers that included Thomas De Quincey, Charles Lamb, William Hazlitt, John Keats, and Thomas Hood -- all of whom who were contributors to the London Magazine in the early 1820s. His father was a neighbor of Robert Burns. After publishing some poems disguised as old ballads in Remains of Nithsdale and Galloway Songs (1810), he went to London where he became assistant (1814–41) to the sculptor Sir Francis Chantrey. In his spare time he was a hard-working writer and editor. He collected old ballads and stories, published as Traditional Tales of the English and Scottish Peasantry (1822) and The Songs of Scotland, Ancient and Modern (1825). He wrote The Lives of the Most Eminent British Painters, Sculptors, and Architects, 6 vol. (1829–33). He edited The Works of Robert Burns (1834), prefacing it with a biography of Burns that contained much valuable new material.</note>
             </person>
             
@@ -216,7 +235,8 @@
                </name>
                <birth>1790</birth>
                <death>1861</death>
-               <faith>Congregationalist</faith>
+               <faith ref="#congregationalist">Congregationalist</faith>
+               <sex>Male</sex>
                <note>James Douglas, of Cavers, Scotland, came from a long line of Scottish nobles dating back to Sir James Douglas, who fought with Robert the Bruce during the Scottish Wars of Independence. Douglas was the eighteenth in descent from Archibald, second son of James, second Earl of Douglas, who was killed at the battle of Otterburn, 21st July, 1388. He was born on 9 October 1790 at Cavers, near Hawick, Roxburghshire, and died there on 17 August 1861. He became laird of Cavers on the death of his father in 1815. He published on philosophy, religion, politics and history, and was a staunch opponent of slavery. In 1833 he published his 'Address on Slavery' (Edinburgh: Adam and Charles Black; and London: Longman, Rees, Orme, Brown, Green and Longman, 1833), which argued for the economic costs of slavery and empire. His intention was to broaden the appeal to those who could oppose slavery on utilitarian rather than moral principles.</note>
             </person>
             
@@ -227,7 +247,7 @@
                </name>
                <birth>1791</birth>
                <death>1867</death>
-               <faith>Anglican</faith>
+               <faith ref="#anglican">Anglican</faith>
                <sex>Male</sex>
                <note>James Edmeston was a British architect, surveyor, and well-known hymnwriter. Edmeston published <hi rend="italic">The Search, and other Poems</hi> in 1817.</note>
             </person>
@@ -239,7 +259,7 @@
                </name>
                <birth>1789</birth>
                <death>1871</death>
-               <faith>Anglican</faith>
+               <faith ref="#anglican">Anglican</faith>
                <sex>Female</sex>
                <note>Charlotte Elliott (18 March 1789–22 September 1871) was primarily known as an Anglican hymn writer and even to this day is not associated with anti-slavery activism, which is possibly why she did not want her name included in the volume, but she was (until 1834) a member of the Clapham Group, a group of Anglican evangelicals (including Hannah More and William Wilberforce) who campaigned against slavery.</note>
             </person>
@@ -251,7 +271,8 @@
                </name>
                <birth when="1793">1793</birth>
                <death when="1847">1847</death>
-               <faith>Congregationalist</faith>
+               <faith ref="#congregationalist">Congregationalist</faith>
+               <sex>Male</sex>
                <note>John Ely (1793–1847) was a minister from Leeds. He was educated at Hoxton Academy (London), which was a training institution for dissenting Congregational ministers. Ely served as a pastor in various locations, including Rochdale before moving to Leeds. His work and influence were significant in the religious life of Leeds, particularly in the context of the Congregational movement, which emphasized independent, self-governing congregations outside the established Church of England​ (source: <ref target="https://www.genuki.org.uk/big/eng/YKS/WRY/Leeds/Leeds-SalemChapelCongChurch">https://www.genuki.org.uk/big/eng/YKS/WRY/Leeds/Leeds-SalemChapelCongChurch</ref>)​.</note>
                <!-- need to find more info -->
             </person>
@@ -263,7 +284,8 @@
                </name>
                <birth>1784</birth>
                <death>1872</death>
-               <faith>Methodist</faith>
+               <faith ref="#methodist">Methodist</faith>
+               <sex>Male</sex>
                <note>The Reverend James Everett (1784-1872) was a Methodist minister and writer from Manchester. He was born in 1784 at Alnwick in Northumberland. At an early period he formed the habit of taking careful notes of the celebrated characters whom he met, and thus preserved recollections of Robert Southey, poet laureate, James Montgomery, William Dawson, and many others. He was subject to criticism and eventual expulsion from the Methodist Conference (the highest legislative authority in the Methodist Church) in 1849. Expelled because he wrote critical pamphlets against the hierarchy, Everett continued his agitation, and became a prolific author and prime mover in the formation of a new sect in 1857, ‘The United Methodist Free Church’.</note>
             </person>
             
@@ -276,7 +298,7 @@
                <birth when="1782">1782</birth>
                <death when="1866">1866</death>
                <sex>Female</sex>
-               <faith>Congregationalist</faith>
+               <faith ref="#congregationalist">Congregationalist</faith>
                <note>Ann Gilbert (née Taylor) was an English poet and literary critic. She was the daughter of the noncomformist pastor, author, and engraver Isaac Taylor (1759–1829), and second wife of Joseph Gilbert, a Congregationalist minister. She gained lasting popularity in her youth as a writer of verse for children. In the years up to her marriage, she became an astringent literary critic. However, she is best remembered as the elder sister and collaborator of Jane Taylor.</note>
             </person>
             
@@ -288,7 +310,7 @@
                <birth>1779</birth>
                <death>1852</death>
                <sex>Male</sex>
-               <faith>Congregationalist</faith>
+               <faith ref="#congregationalist">Congregationalist</faith>
                <note>Joseph Gilbert (1779–1852) was an Independent then Congregational minister who in 1813 married the renowned children's author Ann Taylor (who also contributed to The Bow in the Cloud).</note>
             </person>
             
@@ -300,7 +322,8 @@
                </name>
                <birth>1788</birth>
                <death>1847</death>
-               <faith>Quaker</faith>
+               <faith ref="#quaker">Quaker</faith>
+               <sex>Male</sex>
                <note>Joseph John Gurney (1788–1847) was a philanthropist and religious writer, born at Earlham Hall, near Norwich, on 2 Aug. 1788, was the tenth child and third son of John Gurney, a member of a well-known quaker family, and a successful banker in Norwich, who was descended from Joseph, younger brother of John Gurney (1689–1741).</note>
                <!-- complete -->
             </person>
@@ -313,7 +336,8 @@
                </name>
                <birth>1800</birth>
                <death>1889</death>
-               <faith>Spiritualist</faith>
+               <faith ref="#spiritualist">Spiritualist</faith>
+               <sex>Male</sex>
                <note>Samuel Carter Hall (9 May 1800 – 11 March 1889) was an Irish-born Victorian journalist who is best known for his editorship of The Art Journal and for his much-satirised personality; he is regularly cited as the model for the character of Pecksniff in Charles Dickens's novel <hi rend="italic">Martin Chuzzlewit</hi> (1843/44).</note>
             </person>
             
@@ -327,7 +351,7 @@
                <birth>1794</birth>
                <death>1848</death>
                <sex>Male</sex>
-               <faith>Congregationalist</faith>
+               <faith ref="#congregationalist">Congregationalist</faith>
                <note>Richard Winter Hamilton was an English Congregational minister and writer. He was born at Pentonville, London, on 6 July 1794. In 1810 he entered Hoxton Academy to study for the ministry and began to preach early. In January 1815 he was chosen to be minister of Albion Independent Chapel, Leeds, where he became a popular preacher. He was an original member, and sometime president, of the Leeds Philosophical and Literary Society (established 1821), to which he presented several papers.</note>
             </person>
             
@@ -349,7 +373,7 @@
                </name>
                <birth>1788</birth> <!-- according to burial at St Paul's in Derbyshire... see https://www.findagrave.com/memorial/166168019/thomas-hill#view-photo=148774153 -->
                <death>1875</death>
-               <faith>Anglican</faith>
+               <faith ref="#anglican">Anglican</faith>
                <sex>Male</sex>
                <note>The Reverend Thomas Hill was the deacon of Chesterfield when the Bow in the Cloud was published. Hill was educated at Trinity College, Cambridge. He was ordained deacon in 1811 and priest in 1812. He was vicar of Badgeworth from 1821 to 1847 (Crockford's Clerical Directory, 1865 edition). From 1847 to 1873 he was Archdeacon of Derby.</note>
             </person>
@@ -361,7 +385,8 @@
                </name>
                <birth>1794</birth>
                <death>1872</death>
-               <faith>Methodist</faith>
+               <faith ref="#methodist">Methodist</faith>
+               <sex>Male</sex>
                <note>John Holland (14 March 1794–28 December 1872) was an English poet, newspaper editor, and writer on mining, botany, geology, topography and metallurgy. Born on the grounds of the ancient Sheffield Manor, in Yorkshire, he published poems as a young man that caught the attention of James Montgomery.</note>
             </person>
             
@@ -375,7 +400,7 @@
                <birth>1797</birth>
                <death>1853</death>
                <sex>Female</sex>
-               <faith>Unitarian</faith>
+               <faith ref="#unitarian">Unitarian</faith>
                <note>Jane E. Roscoe was a poet. She was the daughter of the abolitionist MP William Roscoe (1753–1831) and Jane Roscoe (née Griffies). In 1838 she married the Unitarian minister Francis Hornblower (1812–1853). Her <hi rend="italic">Poems by one of the Authors of Poems for Youth by a Family Circle</hi> were published in 1820, and her <hi rend="italic">Poems</hi> in 1843 Her hymns in common use are:—
                   
                   1. How rich the blessings, O my God. Gratitude. In the Liverpool Kenshaw Street Collection 1818.
@@ -398,7 +423,8 @@
                </name>
                <birth>1802</birth>
                <death>1865</death>
-               <faith>Anglican</faith>
+               <faith ref="#anglican">Anglican</faith>
+               <sex>Male</sex>
                <note>George Howard, 7th Earl of Carlisle (1802-1865), known as Lord or Viscount Morpeth in the Bow in the Cloud, was a Whig politician, orator, and writer. He was closely associated with a group of Whig Liberal Anglicans who opposed the Evangelical movement. He also exchanged sonnets with William Wordsworth.</note>
             </person>
             
@@ -410,7 +436,7 @@
                </name>
                <birth>1799</birth>
                <death>1888</death>
-               <faith>Quaker</faith>
+               <faith ref="#quaker">Quaker</faith>
                <sex>Female</sex>
                <note>Best known for her children's poem 'The Spider and the Fly' (1829), Howitt also painted and translated Hans Christian Anderson.</note>
                <!-- complete -->
@@ -422,7 +448,7 @@
                </name>
                <birth>1792</birth>
                <death>1879</death>
-               <faith>Quaker</faith>
+               <faith ref="#quaker">Quaker</faith>
                <sex>Male</sex>
                <note>William Howitt was a Quaker writer and activist. In 1821 he married Mary Botham.</note>
             </person>
@@ -435,23 +461,24 @@
                </name>
                <birth>1780</birth>
                <death>1854</death>
-               <faith>Quaker</faith>
+               <faith ref="#quaker">Quaker</faith>
                <sex>Male</sex>
-               <note>rPaul Moon James was a British poet, banker, and lawyer, who also served for a time as magistrate of Worcestershire and later as High Bailiff of Birmingham, England.</note>
+               <note>Paul Moon James was a British poet, banker, and lawyer, who also served for a time as magistrate of Worcestershire and later as High Bailiff of Birmingham, England.</note>
                
             </person>
             
-            <!-- too uncertain to release this as of yet
+            
                <person xml:id="jones_e">
                <name>
                   <surname>Jones</surname>
                   <forename>Elizabeth</forename>
                </name>
+                  <sex>Female</sex>
                <note>Possibly the author and printer. See A sketch of the life and character of ... Elizabeth Jones, of Manchester, C.A. Wilson and Co, printer (1844). Possibly also The Fundamental Doctrines of the Christian Religion; being a Correspondence between Miss Elizabeth Jones and the Rev. J. Johnson (published by the Manchester Printing Society, 1862).  
                There was also an American poet called Elizabeth C. Jones who published collections around this time, but it seems unlikely.
                </note>
             </person>
-            --> 
+            
             
             <person xml:id="knibb_w">
                <name ref="https://www.wikidata.org/wiki/Q8014079">
@@ -460,7 +487,7 @@
                </name>
                <birth>1803</birth>
                <death>1845</death>
-               <faith>Baptist</faith>
+               <faith ref="#baptist">Baptist</faith>
                <sex>Male</sex>
                <note>William Knibb was a Baptist minister and missionary in Jamaica.</note>
             </person>
@@ -472,7 +499,7 @@
                </name>
                <birth>1775</birth>
                <death>1864</death>
-               <faith>Anglican</faith>
+               <faith ref="#anglican">Anglican</faith>
                <sex>Male</sex>
                <note>William Marsh (1775–1864) was a British priest in the Church of England and a writer of theological publications, in the 19th century. He was the vicar in St Peters, Colchester where his daughter, Catherine Marsh, the writer was born. He matriculated from St Edmund Hall, Oxford on 10 October 1797, graduated B.A. 1801, M.A. 1807, and B.D. and D.D. 1839. At Christmas 1800 he was ordained to the curacy of St. Lawrence, Reading, and was soon known as an impressive preacher of evangelical doctrines. Ill-health obliged him in 1829 to leave Colchester, and in October of the same year he accepted the rectory of St. Thomas, Birmingham, where from the frequent subject of his sermons he came to be known as 'Millennial Marsh'.</note>
             </person>
@@ -495,7 +522,8 @@
                </name>
                <birth when="1771">1771</birth>
                <death when="1854">1854</death>
-               <faith>Moravian</faith>
+               <faith ref="#moravian">Moravian</faith>
+               <sex>Male</sex>
                <note>James Montgomery was a Scottish-born hymn writer, poet, editor, and activist who eventually settled in Sheffield. He was the eldest son of a Moravian clergyman, and was born at Irvine, Scotland, on 4 November 1771. His father was a Moravian pastor and missionary and Montgomery was educated at the Moravian school at Fulneck, near Leeds. He was the editor of the Sheffield Iris newspaper from 1794 to 1825, and was twice imprisoned in the 1790s for publishing articles critical of the authorities. He authored The Wanderer of Switzerland (1807), a poem severely criticised in the Edinburgh Review (Southey sympathised). He also wrote the anti-slavery poem The West Indies (1809) and a series of long historical epics, including Greenland (1819). Southey admired much about Montgomery’s verse (a feeling he shared with Byron), and Southey and Montgomery were occasional correspondents.</note>
             </person>
             
@@ -506,7 +534,8 @@
                </name>
                <birth>1799</birth>
                <death>1881</death>
-               <faith>Anglican</faith>
+               <faith ref="#anglican">Anglican</faith>
+               <sex>Male</sex>
                <note>John Parker (21 October 1799 – 5 September 1881) was an English Whig politician and barrister. He was instrumental in the enfranchisement of Sheffield, petitioning Parliament in 1817 and 1822, and creating a pamphlet stating the case for Sheffield in 1830. When the Sheffield constituency was finally created as a Parliamentary borough in 1832 he was elected alongside James Silk Buckingham as its first MPs. He served as MP for Sheffield until 1852, becoming Lord of the Treasury (1839–1840), First Secretary of the Admiralty, joint Secretary to the Treasury (1846–1849), and a Member of the Privy council (1853).</note>
             </person>
             
@@ -528,7 +557,8 @@
                </name>
                <birth when="1789-01-05">1789</birth>
                <death when="1834-12-05">1834</death>
-               <faith>Presbyterian</faith>
+               <faith ref="#presbyterian">Presbyterian</faith>
+               <sex>Male</sex>
                <note>Thomas Pringle was a Scottish writer, poet, and abolitionist. A friend of Sir Walter Scott, and for a short time editor of the Edinburgh Monthly Magazine, he published his first volume of poems in 1809, which included ‘The Emigrant's Farewell’. He emigrated to South Africa, and he is remembered chiefly as a poet of that country. His Ephemerides (1828) and African Sketches (1834) reveal his sympathetic interest in the native races and the wildlife of Africa. He became the secretary of the London Anti-slavery Society in 1827. In 1834, the year the Slavery Abolition Act was passed, he died of consumption.</note>
             </person>
             
@@ -539,7 +569,8 @@
                </name>
                <birth>1804?</birth>
                <death>1836</death>
-               <faith>Congregationalist</faith>
+               <faith ref="#congregationalist">Congregationalist</faith>
+               <sex>Male</sex>
                <note>Reverend J. W. H. Pritchard was a congregationalist minister. In 1826 he published a life of his predecessor. He died 14th July, 1836, at 32.</note>
             </person>
             
@@ -551,7 +582,7 @@
                <birth>1788</birth>
                <death>1863</death>
                <sex>Male</sex>
-               <faith>Congregationalist</faith>
+               <faith ref="#congregationalist">Congregationalist</faith>
                <note>Thomas Raffles was a Congregational minister. was born in Princes Street, Spitalfields, London , on 17 May 1788 , the only son of William Raffles ( 1753–1825 ), a Baptist and a solicitor ( d. 1825), and his wife, Rachel, née Dunsby ( 1755–1832 ). Thomas's sister, Mary ( d. 1858) , later married the judge James Baldwin Brown (1790–1843). Between 1805 and 1809 he studied at Homerton College under Dr John Pye Smith. He declined a call to Hanover Street, Long Acre, but settled at George Yard Chapel, Hammersmith, and was ordained on 22 June 1809. On the sudden death of Thomas Spencer of Newington Chapel, Liverpool, Raffles was invited to succeed him. He began his Liverpool ministry on 19 April 1812, and moved on 27 May to the new Great George Street Chapel which had been built to accommodate Spencer's swelling congregation... Besides his verse compositions and his translation of Klopstock's Messiah (1814), Raffles published his Memoirs of Thomas Spencer (1813), Letters during a Tour through France, Savoy, etc. (1818), Lectures on Practical Religion (1820), Lectures on the Doctrines of the Gospel (1822), Hear the Church! A Word for All. By a Doctor of Divinity, but not of Oxford (1839—a riposte to Pusey), The Divine Command: a Jubilee Sermon to the London Missionary Society (1844—interesting in that it produced a premillennialist backlash), Internal Evidence of the Inspiration of Scripture (1849), and Independency at St Helens (1856). He edited a new edition of John Brown's Self-Interpreting Bible (1815).  (source: ODNB)</note>
             </person>
             
@@ -563,7 +594,7 @@
                <birth>1801</birth>
                <death>1887</death>
                <sex>Female</sex>
-               <faith>Congregationalist</faith>
+               <faith ref="#congregationalist">Congregationalist</faith>
                <note>Mary Anne Rawson was an abolitionist and activist. She campaigned with the Tract Society and the British and Foreign Bible Society, for Italian nationalism, and against child labour. She was first involved as a founding member of the Sheffield Ladies Anti-Slavery group, which successfully campaigned for people to boycott sugar from the West Indies, as it was produced by slave labour.</note>
             </person>
             
@@ -574,7 +605,8 @@
                </name>
                <birth>1774</birth>
                <death>1851</death>
-               <faith>Congregationalist</faith>
+               <sex>Male</sex>
+               <faith ref="#congregationalist">Congregationalist</faith>
                <note>John Pye-Smith (1774-1851) was Theological Tutor, effectively Principal, of Homerton Academy from 1806-1850. Born to a Sheffield bookseller John Smith and his wife Mary, John Pye Smith had little formal education, instead teaching himself using the many books available to him in his father’s shop. In 1800, after completing his studies at the Rotherham Academy, Pye Smith was appointed Resident Classical Tutor at Homerton Academy, and became Theological Tutor in 1806. Was friends with James Montgomery.</note>
             </person>
             
@@ -586,7 +618,8 @@
                </name>
                <birth>1785</birth>
                <death>1879</death>
-               <faith>Baptist</faith>
+               <sex>Male</sex>
+               <faith ref="#baptist">Baptist</faith>
                <note>John Sheppard (15 October 1785 – 30 April 1879) was an English religious writer. He was born in Frome into a family that dominated cloth manufacture in the city since the Restoration. He undertook active involvement in the affairs of the Particular Baptists, a group that holds to a Calvinist soteriology (salvation belief). In 1837 he published An Autumn Dream, a Calvinistic version of Dante's Paradiso, in blank verse, of over 150 pages, that went into three editions.</note>
             </person>
             
@@ -596,10 +629,10 @@
                <forename type="first">Mary</forename>
                <forename type="nee">Handley</forename>
             </name>
-              <faith>Anglican</faith> <!-- This is tenuous, but she alludes to CoE services in her memoirs; her friend Anna was prominent CoF and she; and her husband were buried in Sheffield Cathedral (CoE) -->
                <birth>1766</birth>
                <death>1840</death>
                <sex>Female</sex>
+               <faith ref="#anglican">Anglican</faith> <!-- This is tenuous, but she alludes to CoE services in her memoirs; her friend Anna was prominent CoF and she; and her husband were buried in Sheffield Cathedral (CoE) -->
                <note>Born in Derbyshire, Mary Handley Sterndale was a poet, novelist, and travel writer known particularly for children's literature.
                   She became friends with the poet Anna Seward (1742–1809; ODNB). See more at <ref target="https://btw.wlv.ac.uk/authors/1138">https://btw.wlv.ac.uk/authors/1138</ref>.</note>
             </person>
@@ -616,8 +649,8 @@
                   <surname>Stevens</surname>
                   <forename>Maria</forename>
                </name>
-               
                <death>1840</death>
+               <sex>Male</sex>
                <note>Maria Stevens was known for religious writings, instruction, and community work. In 1840 Stevens left an endowment to the school to provide bibles for an annual prize. She was the carver Samuel Fisher's second daughter. She was married to Lawrence Stevens of Swaffham and Knaresborough (son of Admiral Stevens); they had two children, who both died young. Her sister, Elizabeth, was married to the Rev. Andrew Cheap, Rector of Elvington and Knaresborough; he was probably responsible for the fact that the Fisher workshop produced so many monuments for Christ Church in Harrogate (Poppy Corita Myerscough, 'The Fishers of York'. PhD Dissertation, University of York, 1996). She belonged to St John the Baptist Church, Knaresborough. She died in 1840 and, according to her memorial in the Parish Church, 'laboured with unwearied zeal and love for the spiritual benefit of the people of this place'. William Stubbs, bishop of Oxford, recalled, 'Mrs. Stevens, a name deeply beloved in the town, gave Bible lessons in a little room off Kirkgate, near the station, and there he constantly attended. "I do not suppose any one was ever more beloved than she", he said in after years; and when he preached in 1872 at the parish church after its restoration, he recalled the "most gracious presence, inseparable from the history of this place, not to be forgotten the commanding eye, and noble figure; the sweet and most eloquent voice; the wonderful hold on Scripture in the spirit and the letter; the marvellous industry that poured forth book after book, illustration after illustration, all the time teaching continuously and continually; nursing the sick, comforting the dying and the sinner, guiding the little ones, foremost in every good work; all with a zeal, a power, an energy that made her a very exception to all the rules that bind the life of Englishwomen, and withal the most sympathetic, the most kindly, the wisest counsellor we ever knew."' (William Stubbs, bishop of Oxford, 1825-1901 : (From the letters of William Stubbs). London : Archibald Constable, 1908).
                </note>
             </person>
@@ -630,7 +663,7 @@
                <birth>1787</birth>
                <death>1865</death>
                <sex>Male</sex>
-               <faith>Congregationalist</faith>
+               <faith ref="#congregationalist">Congregationalist</faith>
                <note>English philosopher, writer, artist, and inventor. Brother of Jane and Ann Taylor. He was trained as draughtsman and engraver, executing designs for his father, the engraver and children's writer Isaac (1759–1829), and for the books issued by his sister Jane Taylor. He also executed anatomical drawings for a surgeon, and painted miniatures, one a portrait of his sister, another of himself in 1817. Some of his designs for John Boydell's 'Illustrations of Holy Writ' (1820), were admired by Dante Gabriel Rossetti, and compared by Alexander Gilchrist with some of the plates of William Blake (Life of Blake, 1863). He was friends with Josiah Conder, who in 1818 invited him to join the regular staff of the Eclectic Review. As deacon of an Independent congregation in Lavenham, Suffolk, Taylor founded a Sunday School, where his ‘successive workrooms doubled as schoolrooms for his own children and later for those of neighbours too, Taylor giving instruction from his engraving stool as he worked’. His best known anti-slavery works are <hi rend="italic">Scenes in Africa</hi> (London, 1820) and <hi rend="italic">Scenes in America: for the Amusement and Instruction of Little Tarry-at-Home Travellers</hi> (London, 1821).</note>
             </person>
             
@@ -643,7 +676,7 @@
                <birth>1807</birth>
                <death>1835</death>
                <sex>Male</sex>
-               <faith>Congregationalist</faith>
+               <faith ref="#congregationalist">Congregationalist</faith>
                <note>Thomas Rawson Taylor was a Congregationalist minister and hymn writer. He was the son of the Rev. Thomas Taylor, some time Congregational Minister at Bradford, Yorkshire, was born at Ossett, near Wakefield, May 9, 1807, and educated at the Free School, Bradford, and the Leaf Square Academy, Manchester. He became influenced by the preaching of the Reverend Richard Cecil of St. John’s Street, Nottingham, and in early December 1824 he was proposed for admission to the church.  He died March 7, 1835. A volume of his Memoirs and Select Remains, by W. S. Matthews, in which were several poems and a few hymns, was published in 1836. His best known hymn is "I'm but a stranger here".</note>
             </person>
             
@@ -654,7 +687,8 @@
                </name>
                <birth>1804</birth>
                <death>1878</death>
-               <!-- <faith>Presbyterian</faith> note sure... see Harwood, Thomas F. “British Evangelical Abolitionism and American Churches in the 1830’s.” The Journal of Southern History 28, no. 3 (1962): 287–306. https://doi.org/10.2307/2205310. But could also have been Methodist. -->
+               <sex>Male</sex>
+               <!-- <faith ref="#presbyterian">Presbyterian</faith> note sure... see Harwood, Thomas F. “British Evangelical Abolitionism and American Churches in the 1830’s.” The Journal of Southern History 28, no. 3 (1962): 287–306. https://doi.org/10.2307/2205310. But could also have been Methodist. -->
                <note>George Thompson (18 June 1804 – 7 October 1878) was a British anti-slavery orator and activist who toured giving lectures and worked for legislation while serving as a Member of Parliament. He also became closely connected to American abolitionist William Lloyd Garrison in 1833 and later Wendell Phillips. In 1831, his inaugural year as an anti-slavery lecturer, Thompson met with Nathaniel Paul, an African American who was touring Britain to raise money for a fugitive slave colony in Ontario. In the following decades, Thompson collaborated with dozens of black visitors, including Frederick Douglass, with whom he publicly shamed the Free Church of Scotland for accepting a large donation from American slaveholders in 1840. Favoring a quick and decisive emancipation of all slaves, he was ultimately unsatisfied with the British Emancipation Act of 1833, because it forced slaves to work as apprentices for six years after, and used his position in Parliament to push for additional legislation.</note>
             </person>
             
@@ -666,6 +700,8 @@
                </name>
                <birth>1776</birth>
                <death>1859</death> <!-- from https://www.ancestry.co.uk/genealogy/records/rev-james-townley-24-10ygswg?geo_a=r&o_iid=41013&o_lid=41013&o_sch=Web+Property -->
+               <sex>Female</sex>
+               <faith ref="#methodist">Methodist</faith>
                <note>Dinah Townley (née Ball) was Mary Anne Rawson's governess and a published poet. She had previously been a teacher at
                   a private school in west London, where she had received 16-year old Mary-Anne in 1817, and arrived at Wincobank following
                   a rather dramatic recalling of the wilful elder daughter a few
@@ -679,7 +715,8 @@
                </name>
                <birth>1774</birth>
                <death>1833</death>
-               <faith>Methodist</faith>
+               <sex>Male</sex>
+               <faith ref="#methodist">Methodist</faith>
                <note>'Wesleyan divine, son of Thomas Townley, a Manchester tradesman, was born at that town on 11 May 1774, and educated by the Rev. David Simpson [q. v.] of Macclesfield. He became a member of the Wesleyan methodist body in 1790, and a minister in 1796. In 1822 he received the degree of D.D. from the college of Princeton, New Jersey, in recognition of his literary work. From 1827 to 1832 he acted as general secretary of the Wesleyan Methodist Missionary Society, and in 1829 was elected president of the Wesleyan conference, and presided at the Dublin and Leeds conferences. While in Manchester he was a member of a philological society founded by Dr. Adam Clarke. He died at Ramsgate on 12 Dec. 1833. He was twice married—to Mary Marsden and Dinah Ball, both of London—and had seven children by his first wife' (Dictionary of National Biography, 1885-1900/Townley, James (1774-1833)).</note>
             </person>
             
@@ -690,19 +727,21 @@
                </name>
                <birth>25 July 1781</birth>
                <death>20 April 1847</death>
-               <faith>Anglican</faith>
+               <sex>Female</sex>
+               <faith ref="#anglican">Anglican</faith>
                <note>Lucy Townsend (née Jesse) was a British abolitionist. Born in West Bromwich July 1781, Lucy Jesse was the daughter of Reverend William Jesse, incumbent at All Saints Church from 1790 to 1814. She married Rev. Charles Townsend, curate of West Bromwich, in 1807. He became vicar in 1815 until 1836. She started the first Ladies' Anti-Slavery Society in Birmingham, called the Birmingham Ladies Society for the Relief of Negro Slaves. Townsend's organisation was not affiliated to any national organisation, nor was it a partner organisation for Birmingham's male Anti-Slavery Organisation. Rawson's Sheffield organisation was the first Anti-Slavery organisation in Britain to propose an immediate end to slavery. Townsend's organisation took a more conservative view in 1839 when they followed the British and Foreign Anti-Slavery Society's policy of supporting a more gradual move.</note> <!-- see https://www.westbromwichhistory.com/people-places/lucy-townsend-abolitionist/ -->
             </person>
             
             <person xml:id="townshend_c">
                <name ref="https://www.wikidata.org/wiki/Q5088270">
                   <surname>Townshend</surname>
-                  <forename type="first">Chauncey</forename>el
+                  <forename type="first">Chauncey</forename>
                   <forename type="middle">Hare</forename>
                </name>
                <birth>1798</birth>
                <death>1868</death>
-               <faith>Anglican</faith>
+               <sex>Male</sex>
+               <faith ref="#anglican">Anglican</faith>
                <note>Chauncey Hare Townshend (1798–1868) was a poet and collector. He took holy orders in the Church of England as a young man, but was disabled by illness from the active duties of his profession. Early in life he made the acquaintance of Robert Southey, and received an invitation to Greta Hall, Southey's residence in the vale of Keswick. Encouraged by the laureate's approbation, he published a volume of ‘Poems’ in 1821 (London, 8vo) which were generally praised. He also became friends with Charles Dickens, owing to his interest in mesmerism.</note>
             </person>
             
@@ -714,7 +753,8 @@
                </name>
                <birth>1782</birth>
                <death>1850</death>
-               <faith>Congregationalist</faith> <!-- https://www.findagrave.com/memorial/215837496/elizabeth-walker -->
+               <sex>Female</sex>
+               <faith ref="#congregationalist">Congregationalist</faith> <!-- https://www.findagrave.com/memorial/215837496/elizabeth-walker -->
                <note>Elizabeth Walker was a poet and activist and wife of Henry Walker (1785-1860), an iron and steel businessman from Rotherham (see <ref target="https://www.cliftonpark.org.uk/homepage/29/the-walkers-of-clifton-house">https://www.cliftonpark.org.uk/homepage/29/the-walkers-of-clifton-house</ref>).</note>
             </person>
             
@@ -725,7 +765,8 @@
                </name>
                <birth>1779</birth>
                <death>1853</death>
-               <faith>Congregationalist</faith>
+               <sex>Male</sex>
+               <faith ref="#congregationalist">Congregationalist</faith>
                <note>Ralph Wardlaw was a Congregationalist minister and theologian. Born in Dalkeith, Scotland, in 1779, Wardlaw matriculated at the University of Glasgow in 1790. He then trained to become a minister in the Secession Church in which his grandfather and great grandfather had been prominent, but became instead a minister at the Scottish Congregationalist Church's chapel in North Albion Street in 1803. 
                </note>
             </person>
@@ -738,7 +779,7 @@
                <birth>1807</birth>
                <death>1874</death>
                <sex>Male</sex>
-               <faith>Quaker</faith>
+               <faith ref="#quaker">Quaker</faith>
                <note>The son of Joshua Watson, a cheesemonger, Joseph Watson was a gifted student and articled to a firm of well-known solicitors. By 1830 he was a practicing attorney. He was a reformer in politics and was known to speak before large crowds in Newcastle’s Town Moor about the Reform Bill. He also held strong views on civil and religious liberty and supported the abolition of slavery in America and the West Indies. He was known to welcome to his table at Bensham Grove, fugitive slaves including William Wells Brown and Frederick Douglas. He married Sarah Spence in 1835 and after living in Claremont Place in Bensham for some time the couple made their home at Bensham Grove on the death of his father in 1853. As well as his interest in politics, he was a poet and writer of children’s stories. He also had a great interest in Native Americans.</note>
             </person>
             
@@ -751,7 +792,7 @@
                <birth>1792</birth>
                <death>1836</death>
                <sex>Male</sex>
-               <faith>Quaker</faith>
+               <faith ref="#quaker">Quaker</faith>
                <note>Wiffen was a prolific poet and translator. He hailed from an ironmongers family in Woburn, Bedfordshire. With James Baldwin Brown and the Rev. Thomas Raffles, he published a book entitled 'Poems by Three Friends' in 1812. In 1821, John Russell, the (progressive) 6th Duke of Bedford, appointed him the Chief Librarian at Woburn Abbey. He set about writing a history of the Hosue of Russell, translating the Italian poet Tasso, and writing well-regarded poems such as 'On Planting a Slip from Milton’s Mulberry Tree, in the Grounds of Woburn Abbey, Presented by Dr. Thackeray, of Cambridge'. <!-- CHECK? Wiffen had began work on a history of the Russell family.  The research on this, which took him to Normandy for four months, took eight years in total, and the resultant book was the most detailed family history he could compile.  It was published in 1833, as “The Historical Memoirs of the House of Russell”. The Senate House Library, at the University of London, holds 25 pages of manuscript notes of the book, but it breaks off at about 1230AD. A number of engravings are inserted, including seven taken from the large paper edition of the book. -->
              </note>
             </person>
@@ -765,7 +806,7 @@
                <birth>1805</birth>
                <death>1841</death><!-- could be 1844, per the Rylands, but other sources suggest it's 1841 -->
                <sex>Female</sex>
-               <faith>Unitarian</faith>
+               <faith ref="#unitarian">Unitarian</faith>
                <note>Sarah Joanna Williams (1805-1841) was the daughter of Mansfield-based Unitarian minister Rev. John Williams (1768–1835), the biographer of Rev. Thomas Belsham. She contributed various poems to the Liverpool Sacred Offering. In the vol. for 1834 is the poem, "Quiet from God! it cometh not to still The vast and high aspirings of the soul," from which the hymn, “Quiet from God! how blessed 'tis to keep," Rest in God, is adapted in Martineau’s Hymns of Praise and Prayer, also in J. P. Hopp’s Collection.
                   </note>
             </person>
@@ -777,6 +818,7 @@
                </name>
                <birth>1797</birth>
                <death>1853</death>
+               <sex>Male</sex>
                <note>James Riddall Wood was a lawyer and a naval officer, and in due course he joined the East Indian merchant service, in which he attained to the rank of chief officer. He was born in 1798 Mansfield, Nottinghamshire, UK, and died 7 April 1853 Cotton Lands, Verulam, Victoria County, Natal, South Africa. He first married on 27 Dec 1826 to Hannah Healey Weaver (1805–1836) in the Anglican parish church of St. Peter, Mansfield. Hannah was the daughter of the Rev. Robert Weaver. He remarried on 30 May 1836, in Liverpool, to Mary Haygarth (1817–1885). Wood and his family emigrated from England under the auspices of J. C. Byrne Settler Scheme aboard the KING WILLIAM which sailed from London/Plymouth on 20 October 1849 and arrived at Port Natal (Durban), South Africa, on 22 January 1850. He was also a poet whose Angel Visits, and Other Poems was published in London in 1865.</note>
             </person>
             
@@ -788,7 +830,7 @@
                <birth>1769</birth>
                <death>1842</death>
                <sex>Male</sex>
-               <faith>Anglican</faith>
+               <faith ref="#anglican">Anglican</faith>
                <note>Francis Wrangham was classical scholar, writer, and archdeacon</note>
             </person>
          </listPerson>

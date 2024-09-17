@@ -33,4 +33,3 @@ plot(bow_scaled$x,
 
 write.csv(bow_sentences_v, "~/Desktop/GitHub/bow-in-the-cloud-edition/edition/text-analysis/bow-sentences.csv")
 write.csv(bow_sentiments_v, "~/Desktop/GitHub/bow-in-the-cloud-edition/edition/text-analysis/bow-sentiments.csv")
-
