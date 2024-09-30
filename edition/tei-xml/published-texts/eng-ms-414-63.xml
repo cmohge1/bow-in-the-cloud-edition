@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter from J.W.H. Pritchard with Emendations</title>
+        <author>J.W.H. Pritchard</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Private Collection</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Letter from J.W.H. Pritchard to Mary Anne Rawson (English MS 414/63).
+Letter dated December 26th, 1833, from J.W.H. Pritchard, Attercliffe, containing suggested emendations to a poem.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="letter">
+        <opener>
+          <salute>My dear Madam</salute>
+        </opener>
+
+        <p>The best emendations that I can think of you will perceive by comparing the passages below with Miss W.'s M. S. S. I should certainly begin at the fourth Stanza, &amp; head the piece thus:</p>
+
+        <lg>
+          <head>Voice from the Land of Bondage</head>
+        </lg>
+
+        <p>X&nbsp; X&nbsp; X&nbsp; X&nbsp; X&nbsp; X&nbsp; X</p>
+
+        <lg>
+          <l>A sound arose &amp;c. &ndash;&ndash;&ndash; &ndash;&ndash;&ndash;</l>
+        </lg>
+
+        <p>The fifth line I would write thus, (– a real improvement –):</p>
+
+        <lg>
+          <l>"And thus it – spake – answered." &ndash;&ndash;&ndash;&ndash;&ndash;&ndash;</l>
+        </lg>
+
+        <p>(leaving out "to a nations quest" which I fancy is downright nonsense)</p>
+
+        <p>The remaining line thus (the mark under the words denote those altered, &amp; of course are not [intended?] for [?]):</p>
+
+        <lg>
+          <l>Think ye <hi rend="italic">that</hi> Slavery, which can conform</l>
+          <l>Man to the image of a brute, doth <hi rend="italic">bring</hi></l>
+          <l>'Neath its dominion but the outward form</l>
+          <l>In limb &amp; sinew only hath he been</l>
+          <l>The <hi rend="italic">broken</hi>, bruised reed w<sup><hi rend="underline">h</hi></sup> ye have seen?</l>
+        </lg>
+
+        <p>Stanza 5. line 3.</p>
+
+        <lg>
+          <l>I have throbbed, &ndash;&ndash; have toiled &amp; struggled to behold,</l>
+        </lg>
+
+        <p>I would omit the next stanza beginning "Tis something glorious &amp;c" &amp; supply its place, &amp; connection thus:</p>
+
+        <p>X&nbsp; X&nbsp; X&nbsp; X&nbsp; X&nbsp; X&nbsp; X</p>
+
+        <p><del>May such a voice,</del></p>
+
+        <lg>
+          <l>O that a thrilling voice like this might come</l>
+          <l>From Eastern Isles, &amp; reach us in our home!</l>
+        </lg>
+
+        <p>(where, by the bye, we shall be comfortably seated to listen to it).</p>
+
+        <p>Some of the verses are certainly in Miss W.'s best style and not at all contemptible, but I think that the Emendations I have suggested would be of real advantage to the piece, &amp; in adopting them or others that you may think of I feel sure that you will be consulting the Lady's reputation as a Poet.</p>
+
+        <closer>
+          <p>I remain, Dear Madam,</p>
+          <signed><hi rend="underline">J.W.H. Pritchard</hi></signed>
+          <dateline>Attercliffe. Dec. 26th 1833.</dateline>
+        </closer>
+
+        <p>On looking over the first three stanzas I do not see how they can be altered so as to render them tolerable either in verse or prose.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
