@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from J. W. H. Pritchard to Mary Anne Rawson (English MS 414/64)
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <opener>
+            <dateline>Attercliffe April 11th 1834.</dateline>
+            <salute>My Dear Madam</salute>
+         </opener>
+         <p>
+            Gratified and honoured
+            as I must necessarily feel by the
+            task you have assigned me I cannot 
+            reject that you have left me so little 
+            to do. As, however, you are pleased to
+            say that the more the corrections
+            that are made the better you will
+            be pleased, I will venture to suggest
+            one or two alterations, which after
+            all I am not satisfied will be 
+            improvements.
+            In the sentence beginning "acknow
+            ledgments are also due &amp;c" the words 
+            "oppressed" &amp; "expressed" happen to be
+            so situated</p>
+      </body>
+  </text>
+</TEI>
