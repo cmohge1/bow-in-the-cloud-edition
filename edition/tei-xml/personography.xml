@@ -192,6 +192,17 @@
                <note>The Rev. Richard Cecil was a Congregationalist minister. He was born in London on 13 Jan. 1799. At the age of fourteen he was converted, and at sixteen entered Rotherham College. He began his ministerial work at Whitehaven, and afterwards removed to Harpenden, near St. Alban's. In 1824 he became pastor of St. James Street Chapel, Nottingham. After remaining there five years, he spent nine years at Turvey as preacher, and as tutor for the London Missionary Society. He was pastor of Chipping Ongar (Essex) from about 1838 to 1847. While at Ongar he directed a small training school for intending missionaries. Among his students, in 1838-9, was David Livingstone (1813-1873), the missionary and explorer. He then returned to Turvey, and died there 30 Jan. 1863.</note>
             </person>
             
+            <person xml:id="clarkson_t">
+               <name ref="http://viaf.org/viaf/76414258">
+                  <surname>Clarkson</surname>
+                  <forename>Thomas</forename>
+               </name>
+                  <birth>1760</birth>
+                  <death>1846</death>
+                  <faith ref="#anglican">Anglican</faith>
+                  <note>Thomas Clarkson (28 March 1760 – 26 September 1846) was an English abolitionist, and a leading campaigner against the slave trade in the British Empire. He helped found the Society for Effecting the Abolition of the Slave Trade (also known as the Society for the Abolition of the Slave Trade) and helped achieve passage of the Slave Trade Act 1807, which ended British trade in slaves (source: Wikipedia).</note>
+            </person>
+            
             <person xml:id="conder_e">
                <name>
                   <surname>Conder</surname>
@@ -490,6 +501,16 @@
                <faith ref="#baptist">Baptist</faith>
                <sex>Male</sex>
                <note>William Knibb was a Baptist minister and missionary in Jamaica.</note>
+            </person>
+            
+            <person xml:id="macaulay_tb">
+               <name ref="http://viaf.org/viaf/56618365">
+               <surname>Macaulay</surname>
+               <forename>Thomas Babington</forename>
+               </name>
+            <birth>1800</birth>    
+            <death>1859</death>
+           <note>Thomas Babington Macaulay, 1st Baron Macaulay, PC, FRS, FRSE (25 October 1800 – 28 December 1859) was a British historian, poet, and Whig politician, who served as the Secretary at War between 1839 and 1841, and as the Paymaster General between 1846 and 1848. He also played a substantial role in determining India's education policy.</note>
             </person>
             
             <person xml:id="marsh_w">
