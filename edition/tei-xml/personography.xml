@@ -374,9 +374,11 @@
                <birth>1795</birth>
                <death>1872</death>
                <sex>Male</sex>
-               <note>Richard Hill (1795-1872) was a Jamaican lawyer, zoologist, politician, and poet, as well as leader of the free people of colour, which campaigned for equal rights in the early nineteenth century.</note>
+               <note>Richard Hill (1795-1872) was a Jamaican lawyer, zoologist, politician, and poet, as
+                  well as leader of the free people of colour, which campaigned for equal rights in
+                  the early nineteenth century. He was also close to Thomas Pringle and wrote several letters to him about conditions in Haiti (see also this <ref target="https://github.com/cmohge1/bow-in-the-cloud-edition/blob/master/sources/%E2%80%98Probable%20Prospects%E2%80%99_%20Richard%20Hill%20and%20Black%20Activism%20in%20The%20Archive%20of%20the%20Anti-Slavery%20Society%20_%20Archives%20and%20Manuscripts%20at%20the%20Bodleian%20Library.pdf">blog</ref> on Hill's letters to Pringle).</note>
             </person>
-            <!-- needs more investigation -->
+           
             <person xml:id="hill_th">
                <name ref="https://www.wikidata.org/wiki/Q15990044">
                   <surname>Hill</surname>
