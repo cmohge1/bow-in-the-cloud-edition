@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Notes for the Preface (English MS 415/199a (1))
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>The Editor of this little volume <del rend="strikethrough">does not</del> <add place="above">is not</add><lb/> <del>come before the public</del> <add>placed</add> in the awkward<lb/> <metamark rend="caret">^</metamark><add>predicament</add> of many original writers, who feel it necessary to make an apology for (appearing before the public) or (for adding to the number of books already before the public). She has no apology to offer – nay – so far from feeling one needful and pleading for indulgence, she is enabled to take far higher ground – she feels that she has conferred a favour on the public especially the junior part of it, and she can unhesitating[ly] say, that she considers [these] a most valu- able &amp; rare collection of original papers. . .</p>
+      </body>
+  </text>
+</TEI>
