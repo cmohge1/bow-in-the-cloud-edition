@@ -1,9 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Notes for the Preface (English MS 415/199a (1))
@@ -16,14 +12,250 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-  </teiHeader>
-  <text>
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+         <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+            <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/cmohge1/bow-in-the-cloud-edition/master/edition/tei-xml/manuscripts/eng-ms-415-199a1.xml?place_annotation_20250213142559602",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-13T14:25:59.602Z",
+	"dcterms:modified": "2025-02-13T14:25:59.602Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/cmohge1",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Christopher Ohge"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/cmohge1/bow-in-the-cloud-edition/master/edition/tei-xml/manuscripts/eng-ms-415-199a1.xml?place_annotation_20250213142559602#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/cmohge1/bow-in-the-cloud-edition/master/edition/tei-xml/manuscripts/eng-ms-415-199a1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/cmohge1/bow-in-the-cloud-edition/master/edition/tei-xml/manuscripts/eng-ms-415-199a1.xml?place_annotation_20250213142559602#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[4]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q42448",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+         </rdf:Description>
+         
+         <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+            <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/cmohge1/bow-in-the-cloud-edition/master/edition/tei-xml/manuscripts/eng-ms-415-199a1.xml?date_annotation_20250213142617438",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-13T14:26:17.438Z",
+	"dcterms:modified": "2025-02-13T14:26:17.438Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/cmohge1",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Christopher Ohge"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/cmohge1/bow-in-the-cloud-edition/master/edition/tei-xml/manuscripts/eng-ms-415-199a1.xml?date_annotation_20250213142617438#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/cmohge1/bow-in-the-cloud-edition/master/edition/tei-xml/manuscripts/eng-ms-415-199a1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/cmohge1/bow-in-the-cloud-edition/master/edition/tei-xml/manuscripts/eng-ms-415-199a1.xml?date_annotation_20250213142617438#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p[5]/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1833-03"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+         </rdf:Description>
+         
+         <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+            <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/cmohge1/bow-in-the-cloud-edition/master/edition/tei-xml/manuscripts/eng-ms-415-199a1.xml?person_annotation_20250213142745572",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-02-13T14:27:45.572Z",
+	"dcterms:modified": "2025-02-13T14:27:45.572Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/cmohge1",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Christopher Ohge"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/cmohge1/bow-in-the-cloud-edition/master/edition/tei-xml/manuscripts/eng-ms-415-199a1.xml?person_annotation_20250213142745572#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/cmohge1/bow-in-the-cloud-edition/master/edition/tei-xml/manuscripts/eng-ms-415-199a1.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/cmohge1/bow-in-the-cloud-edition/master/edition/tei-xml/manuscripts/eng-ms-415-199a1.xml?person_annotation_20250213142745572#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q6778945",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+         </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader>
+   <text>
       <body>
-         <p>The Editor of this little volume <del rend="strikethrough">does not</del> <add place="above">is not</add><lb/> <del>come before the public</del> <add>placed</add> in the awkward<lb/> <metamark rend="caret">^</metamark><add>predicament</add> of many original writers, who feel it<lb/> necessary to make an apology for (appearing<lb/> before the public) or (for adding to the number<lb/> of books already before the public). She has<lb/> no apology to offer – nay – so far from<lb/> feeling one needful <del>she thinks that she</del><lb/> and pleading for indulgence, she is enabled<lb/> to take far higher ground – she feels that<lb/> she has conferred a favour on the public<lb/> especially the junior part of it, and she<lb/> can unhesitating[ly] <del>offe[r]</del> <add>say</add>, that she con-<lb/>siders these a <hi rend="underlined">most valuable</hi> <add>&amp; rare</add> collection<lb/> of original papers, and <add>that</add> it will be the<lb/> fault of the reader if he does not <lb/> rise from the perusal with .</p>
+         <p>The <persName key="Mary Anne Rawson" ref="http://www.wikidata.org/entity/Q6778945" role="edt" type="real">Editor</persName> of this little volume <del rend="strikethrough">does not</del> <add place="above">is not</add><lb/> <del>come before the public</del> <add>placed</add> in the awkward<lb/> <metamark rend="caret">^</metamark><add>predicament</add> of many original writers, who feel it<lb/> necessary to make an apology for (appearing<lb/> before the public) or (for adding to the number<lb/> of books already before the public). She has<lb/> no apology to offer – nay – so far from<lb/> feeling one needful <del>she thinks that she</del><lb/> and pleading for indulgence, she is enabled<lb/> to take far higher ground – she feels that<lb/> she has conferred a favour on the public<lb/> especially the junior part of it, and she<lb/> can unhesitating[ly] <del>offe[r]</del> <add>say</add>, that she con-<lb/>siders these a <hi rend="underlined">most valuable</hi> <add>&amp; rare</add> collection<lb/> of original papers, and <add>that</add> it will be the<lb/> fault of the reader if he does not <lb/> rise from the perusal with .</p>
          <p>For many years she has felt deeply inte<lb/>rested for the oppressed Negro, &amp; has felt that<lb/> to continue (see other sheet) --</p>
          <p>Should any profits arise from the sale<lb/> of this little work they will be entirely<lb/> devoted to the relief of the Slave in such a way as</p>
-         <p>Wincobank Hall.</p>  
-         <p>March - 1833.</p>
+         <p><placeName key="Sheffield" ref="http://www.wikidata.org/entity/Q42448">Wincobank Hall.</placeName></p>  
+         <p><date when="1833-03">March - 1833</date>.</p>
       </body>
-  </text>
+   </text>
 </TEI>
