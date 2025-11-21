@@ -5,7 +5,6 @@
          <titleStmt>
             <title>Eng MS 414-2</title>
             <author ref="#BartonB">Bernard Barton</author>
-            <editor>AI Assistant</editor>
          </titleStmt>
          <publicationStmt>
             <publisher>Digital Collections, University of Manchester Library</publisher>
@@ -101,7 +100,6 @@
                <signed><abbr>B. B.</abbr></signed>
             </closer>
          </div>
-         <pb facs="#f001"/>
       </body>
    </text>
 </TEI>

@@ -119,40 +119,7 @@
 					"2"
 				]
 			},
-			"annotations": [
-				{
-					"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/iiif/canvas/f001/annotationPage/1",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/iiif/canvas/f001/annotationPage/1/annotation/0",
-							"type": "Annotation",
-							"motivation": "supplementing",
-							"body": {
-								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/tei/text-1/f001.xml",
-								"format": "text/xml",
-								"type": "TextPartial",
-								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
-							},
-							"target": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/iiif/canvas/f001"
-						},
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/iiif/canvas/f001/annotationPage/1/annotation/1",
-							"type": "Annotation",
-							"motivation": "supplementing",
-							"body": {
-								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/html/text-1/f001.html",
-								"format": "text/html",
-								"type": "TextPartial",
-								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
-							},
-							"target": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/iiif/canvas/f001"
-						}
-					]
-				}
-			]
+			"annotations": []
 		},
 		{
 			"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/iiif/canvas/f002",
