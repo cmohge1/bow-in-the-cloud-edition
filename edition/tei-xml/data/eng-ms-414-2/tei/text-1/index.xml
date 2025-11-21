@@ -1,56 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS-ENGLISH-00414-00002_diplo">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Diplomatic Transcription of Letter from Bernard Barton to Mary Anne Rawson</title>
-            <author ref="#BartonB">Bernard Barton</author>
-            <editor>AI Assistant</editor>
-         </titleStmt>
-         <publicationStmt>
-            <publisher>Digital Collections, University of Manchester Library</publisher>
-            <idno type="manuscript">MS-ENGLISH-00414-00002</idno>
-            <date when="2025-11-21"/>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>University of Manchester Library, UK</repository>
-                  <idno>MS-ENGLISH-00414-00002</idno>
-               </msIdentifier>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#BartonB">Bernard Barton</persName>
-               <date when="1826-04-05">4/5 <expan>
-                  <abbr>Mo</abbr>
-                  <ex>Month</ex>
-               </expan> 1826</date>
-               <placeName ref="#Woodbridge">Woodbridge</placeName>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#RawsonMA">Mary Anne Rawson</persName>
-            </correspAction>
-         </correspDesc>
-         <textClass>
-            <keywords>
-               <term>Diplomatic Transcription</term>
-               <term>Anti-Slavery</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-   </teiHeader>
-   <facsimile sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002">
-      <surface xml:id="f000" ulx="0" uly="0" lrx="6000" lry="6500" sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002/canvas/1" ><label>1</label><graphic mimeType="application/json" url="https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002-000-00001.jp2"/></surface>
-      <surface xml:id="f001" ulx="0" uly="0" lrx="5982" lry="6500" sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002/canvas/2" ><label>2</label><graphic mimeType="application/json" url="https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002-000-00002.jp2"/></surface>
-      <surface xml:id="f002" ulx="0" uly="0" lrx="5982" lry="6500" sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002/canvas/3" ><label>3</label><graphic mimeType="application/json" url="https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002-000-00003.jp2"/></surface>
-      <surface xml:id="f003" ulx="0" uly="0" lrx="6500" lry="5879" sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002/canvas/4" ><label>4</label><graphic mimeType="application/json" url="https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002-000-00004.jp2"/></surface>
-      
-   </facsimile>
-   <text xml:id="text-1">
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="text-1">
       <pb facs="#f000"/>
       <body>
          <div type="letter">
@@ -104,4 +52,3 @@
          <pb facs="#f001"/>
       </body>
    </text>
-</TEI>

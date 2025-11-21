@@ -56,7 +56,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/tei/transcription/f000.xml",
+								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/tei/text-1/f000.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -69,7 +69,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/html/transcription/f000.html",
+								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/html/text-1/f000.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -130,7 +130,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/tei/transcription/f001.xml",
+								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/tei/text-1/f001.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -143,7 +143,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/html/transcription/f001.html",
+								"id": "https://cu-mkp.github.io/bic-editioncrafter-data//eng-ms-414-2/html/text-1/f001.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
