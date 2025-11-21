@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS-ENGLISH-00414-00002_diplo">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Diplomatic Transcription of Letter from Bernard Barton to Mary Anne Rawson</title>
+            <title>Eng MS 414-2</title>
             <author ref="#BartonB">Bernard Barton</author>
             <editor>AI Assistant</editor>
          </titleStmt>
