@@ -50,7 +50,7 @@
       <surface xml:id="f003" ulx="0" uly="0" lrx="6500" lry="5879" sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002/canvas/4" ><label>4</label><graphic mimeType="application/json" url="https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002-000-00004.jp2"/></surface>
       
    </facsimile>
-   <text xml:id="transcription">
+   <text xml:id="text-1">
       <pb facs="#f000"/>
       <body>
          <div type="letter">
