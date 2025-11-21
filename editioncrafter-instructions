@@ -1,7 +1,7 @@
 
-editioncrafter process -i eng-ms-415-199a-1.xml -o ../data -u  https://cu-mkp.github.io/bic-editioncrafter-data/
+editioncrafter process -i eng-ms-414-2.xml -o ../data -u  https://cu-mkp.github.io/bic-editioncrafter-data/
 
-https://cu-mkp.github.io/bic-editioncrafter-data/eng-415-145a/iiif/manifest.json
+https://cu-mkp.github.io/bic-editioncrafter-data/eng-414-2/iiif/manifest.json
 
 <div id="ec">&nbsp;
 </div>
