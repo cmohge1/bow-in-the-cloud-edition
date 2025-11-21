@@ -1,0 +1,10 @@
+
+editioncrafter process -i eng-ms-415-199a-1.xml -o ../data -u  https://cu-mkp.github.io/bic-editioncrafter-data/
+
+https://cu-mkp.github.io/bic-editioncrafter-data/eng-415-145a/iiif/manifest.json
+
+<div id="ec">&nbsp;
+</div>
+<script type="text/javascript" src="https://www.unpkg.com/@cu-mkp/editioncrafter-umd" >
+  <br />  <br />  <br />  <br />  <br />  <br />  <br /></script>
+<script type="text/javascript"> var ec = EditionCrafter.viewer({id: 'ec', documentName: 'eng-415-145a', iiifManifest: 'https://cu-mkp.github.io/bic-editioncrafter-data/eng-415-145a/iiif/manifest.json', transcriptionTypes: {'eng-415-145a': 'Transcription'}});</script>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+          <fileDesc>
+              <titleStmt>
+                  <title>
+                      <!-- Your Title Here -->
+                  </title>
+              </titleStmt>
+              <publicationStmt>
+                  <p></p>
+              </publicationStmt>
+              <sourceDesc>
+                  <p></p>
+              </sourceDesc>
+          </fileDesc>
+      </teiHeader>
+
+      <facsimile sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002">
+                    <surface xml:id="f000" ulx="0" uly="0" lrx="6000" lry="6500" sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002/canvas/1" ><label>1</label><graphic mimeType="application/json" url="https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002-000-00001.jp2"/></surface>
+          <surface xml:id="f001" ulx="0" uly="0" lrx="5982" lry="6500" sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002/canvas/2" ><label>2</label><graphic mimeType="application/json" url="https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002-000-00002.jp2"/></surface>
+          <surface xml:id="f002" ulx="0" uly="0" lrx="5982" lry="6500" sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002/canvas/3" ><label>3</label><graphic mimeType="application/json" url="https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002-000-00003.jp2"/></surface>
+          <surface xml:id="f003" ulx="0" uly="0" lrx="6500" lry="5879" sameAs="https://www.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002/canvas/4" ><label>4</label><graphic mimeType="application/json" url="https://image.digitalcollections.manchester.ac.uk/iiif/MS-ENGLISH-00414-00002-000-00004.jp2"/></surface>
+
+      </facsimile>
+
+      <text xml:id="text">
+
+          <body>
+            <div>
+              <p>Modify xml:id as desired and replace this with your text.</p>
+            </div>
+          </body>
+
+      </text>
+  </TEI>
