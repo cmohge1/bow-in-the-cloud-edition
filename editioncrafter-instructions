@@ -1,6 +1,11 @@
 
+navigate tei-xml/manuscripts
+
 editioncrafter process -i eng-ms-414-2.xml -o ../data -u  https://cu-mkp.github.io/bic-editioncrafter-data/
 
+Copy data content into the bic-editioncrafter-data data folder
+
+Copy URL of iiif manifest in ec:
 https://cu-mkp.github.io/bic-editioncrafter-data/eng-414-2/iiif/manifest.json
 
 <div id="ec">&nbsp;
