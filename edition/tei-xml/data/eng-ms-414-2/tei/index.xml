@@ -56,10 +56,8 @@
             <opener>
                <dateline rend="inline">
                   <placeName>Woodbridge</placeName> 
-                  <date when="1826-04-05">4/5 <expan>
-                     <abbr>Mo</abbr>
-                     <ex>Month</ex>
-                  </expan> 1826</date>
+                  <date when="1826-04-05">4/5th
+                  1826</date>
                </dateline>
                <lb/>
                <salute>Esteemed Friend</salute>
@@ -71,29 +69,29 @@
                whether its accomplishment may be so far advanced<lb/>
                as to render the annex'd too late for insertion.<lb/>
                If in time, and worth using, they are heartily<lb/>
-               at thy Service. Sorry only, if it could have lent<lb/>
-               one somewhat worthier of the acceptance, but if<lb/>
-               they serve to show that I wish, well to<lb/>
-               the effort, the object they have in view<lb/>
-               and end is answered.
+               at thy Service. I only wish I could have sent<lb/>
+               thee somewhat worthier of thy acceptance, but if<lb/>
+               these serve to show that I wish well to<lb/>
+               thy efforts, &amp; the object they have in view<lb/>
+               one end is answered.
             </p>
             <p>
-               In the spirit of the<lb/>
-               annexed trifle I have endeavor'd briefly,<lb/>
+               In the first of the<lb/>
+               annexed trifles I have endeavor'd briefly<lb/>
                to express some of those better feelings which<lb/>
-               I cannot but think the common character of true Christians &amp; Saints<lb/>
-               of whatever name or profession in the unfortunate Slaves, Mother, in reference to<lb/>
-               her equally unfortunate Child. But as all believe in Slaves<lb/>
-               now, would they were more frequent &amp; in which Humanity,<lb/>
-               the latter of Humanities be the consolation of the oppressed<lb/>
-               &amp; are forced to Suffer injury &amp; Death Being, I have en-<lb/>
-               deavour'd in the second short trifle to embody some of<lb/>
-               those humble feelings of a Negro Mother still. I did without<lb/>
+               I cannot but think the common dictates of Nature must<lb/>
+               excite in the unfortunate Slave Mother, in reference to<lb/>
+               her equally miserable Child. But as I believe instances<lb/>
+               occur, would they were more frequent, in which through<lb/>
+               the labours of Missionaries &amp;c the Consolations of the Gospel<lb/>
+               are opened to those injured &amp; devoted Beings, I have en-<lb/>
+               deavour'd in the second short article to embody some of<lb/>
+               the thoughts &amp; feelings of a Converted Negro –– still, I hope, without<lb/>
                compromise of the principle. Surely the sentiment contained<lb/>
-               in the concluding Verse must occur to such as one. For in<lb/>
-               my own apprehension as is the Company of Humanity, Sympathy<lb/>
-               &amp; the Glory of the Endeavour, the Welfare &amp; the Lot which<lb/>
-               he is the highest Victim, implies a thraldom yet not more<lb/> dreadful ––
+               in the concluding Verse must occur to such an one –– for in<lb/>
+               my view deplorable as is the Bondage of the unhappy Negro<lb/>
+               the Slavery of the Enslaver, the hopeless yoke of which<lb/>
+               he is the bigoted Victim, implies a thraldom yet not more<lb/> dreadful ––
             </p>
             <closer>
                <salute>Thine respectfully</salute><lb/>
@@ -102,32 +100,91 @@
          </div>
          <pb facs="#f001"/>
          <div type="poem">
-            <lg>
+            <head>A Negro Mother's Cradle Song.</head>
+            <lg n="1">
                <l>Sleep, my child! and might the prayer</l> 
-            <l>Of thy mother's dark despair</l>
-            <l>Be accepted for thy sake,-</l>
+            <l>Of thy Mother's dark despair</l>
+            <l>Be accepted for thy sake,––</l>
             <l>'Twere that thou no more shouldst wake,</l>
-            <l>Though a mother's love be mine,</l> 
-            <l>And a daughter's fondness thine,</l> 
-            <l>Yet, for thee, a parent's breath</l> 
+            </lg>
+            <lg n="2">
+            <l>Though a Mother's Love be mine,</l> 
+            <l>And a Daughter's fondness thine,</l> 
+            <l>Yet for thee A Parent's breath</l> 
             <l>Craves the boon of early death.</l>
-            <l>Worse to live a helpless slave,</l> 
+            </lg>
+            <lg n="3">
+            <l>Worse to live a helpless Slave,</l> 
             <l>Than to fill an early grave;</l>
             <l>Better far the silent tomb,</l>
-            <l>Than the captive's hopeless doom.</l>
-            <l>White man's cruelty and lust</l> 
+            <l>Than the Captive's hopeless doom.</l>
+            </lg>
+            <lg n="4">
+            <l>White Man's cruelty and lust</l> 
             <l>Cannot harm the lifeless dust;</l> 
-            <l>Powerless the oppressor's rod,</l> 
-            <l>Brandished o'er a senseless clod.</l>
+            <l>Powerless the Oppressor's rod</l> 
+            <l>Brandish'd o'er a senseless clod.</l>
+            </lg>
+            <lg n="5">
             <l>Ruthless lash, and galling chain,</l> 
-            <l>Ceaseless tasks-performed with pain,</l> 
+            <l>Ceaseless tasks -– perform'd with pain,</l> 
             <l>Nights of sorrow, days of toil--</l>
             <l>These have made my life their spoil.</l>
-            <l>Such, with life, must be thy lot;</l> 
-            <l>Dying-thou shalt know them not;- </l>
-            <l>O, be thine, all fetters breaking,</l>
+            </lg>
+            <lg n="6">
+            <l>Such, with Life, must be thy Lot;</l> 
+            <l>Dying –– thou shalt know them not; ––</l>
+            <l>O be thine, all fetters breaking,</l>
             <l>Sleep that knows on earth no waking!</l>
             </lg>
+         </div>
+         <pb facs="#f002"/>
+         <div>
+            <head>A Christian Negro's thanks, and Prayer.</head>
+            <lg n="1">
+               <l>O Father of the human race!</l>
+               <l>The white, the black, the bond, the free;––</l>
+               <l>Thanks for thy Gift of heavenly Grace,</l>
+               <l>Vouchsaf'd, through Jesus Christ, to me.</l>
+            </lg>
+            
+            <lg n="2">
+               <l>This, 'mid Oppression's every wrong,</l>
+               <l>Has borne my sinking spirit up;</l>
+               <l>Made sorrow joyful, -- weakness strong,</l>
+               <l>And sweetened Slavery's bitter cup.</l>
+            </lg>
+            
+            <lg n="3">
+               <l>Hath not A Saviour's dying hour</l>
+               <l>Made e'en the yoke of thraldom light?</l>
+               <l>Hath not Thy Holy Spirit's power</l>
+               <l>Made bondage freedom; -- darkness bright?</l>
+            </lg>
+            
+            <lg n="4">
+               <l>Thanks, then, O Father! for the gift,</l>
+               <l>Which through Thy Gospel Thou hast given;</l>
+               <l>Which thus from bonds and earth can lift</l>
+               <l>The Soul to liberty and Heaven.</l>
+            </lg>
+            
+            <lg n="5">
+               <l>But not the less I mourn <hi rend="smallcaps">their</hi> shame,</l>
+               <l>Who, mindless of Thy gracious Will,</l>
+               <l>Call on A Father's -- Saviour's Name,</l>
+               <l>Yet keep their Brethren Bondsmen still!</l>
+            </lg>
+            
+            <lg n="6">
+               <l>Forgive them, Lord! for Jesus' sake;</l>
+               <l>And since <hi rend="smallcaps">The Slave</hi> Thou hast <hi rend="italic">unbound</hi>,--</l>
+               <l>The <hi rend="italic">chains</hi> which bind <hi rend="smallcaps">The Oppressor</hi> -- <hi rend="italic">break</hi>,</l>
+               <l>And be Thy Love's last triumph crowned!</l>
+            </lg>
+            
+               <signed>B. B.</signed>
+            
          </div>
       </body>
    </text>
